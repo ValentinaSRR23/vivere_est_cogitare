@@ -1,6 +1,8 @@
 git config --global user.email "valentinaserrao23@gmail.com"
-git config --global user.name "valentina"
+git config --global user.name "Valentina"
 
-git add. 
+
+git add . 
 git commit -m "publish"
 git push
+pause
