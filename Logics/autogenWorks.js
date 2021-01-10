@@ -9,15 +9,15 @@ var DocuVale = [
         },
         {
             "type": "end_preview",
-            "value": "La costruzione degli acquedotti fu una delle imprese più grandi e più impegnative  della civiltà romana, \"la più alta manifestazione della grandezza di Roma\",  come scrisse [...]"
+            "value": "La costruzione degli acquedotti fu una delle imprese più grandi e impegnative  della civiltà romana, \"la più alta manifestazione della grandezza di Roma\",  come scrisse [...]"
         },
         {
             "type": "text",
-            "value": "<br> La costruzione degli acquedotti fu una delle imprese più grandi e più impegnative  della civiltà romana, \"la più alta manifestazione della grandezza di Roma\",  come scrisse nel 97 d.C. Frontino in qualità di \"curatore degli acquedotti\"  (<em>\"curator aquarum\"</em>), nel suo trattato <em>\"De aquae ductu urbis Romae\"</em>,  ovvero \"Gli acquedotti della città di Roma\". <br> <br> Per secoli il Tevere, le sorgenti e i pozzi furono in grado di soddisfare il fabbisogno  della città finché lo sviluppo urbanistico e la crescita demografica resero necessario  ricorrere ad altre fonti: fu allora che, grazie all'abilità dei suoi costruttori,  si realizzarono gli acquedotti. Da quel momento in poi, ovvero dal 312 a.C.,  affluì a Roma una quantità enorme di acqua potabile, come nessun'altra città del mondo  antico, ma forse di ogni epoca, ebbe mai e che valse alla città il titolo  di <em>\"regina aquarum\"</em>, ossia <strong><em>\"regina delle acque\"</em></strong>. <br> <br>"
+            "value": "<br> La costruzione degli acquedotti fu una delle imprese più grandi e impegnative  della civiltà romana, \"la più alta manifestazione della grandezza di Roma\",  come scrisse nel 97 d.C. Frontino in qualità di \"curatore degli acquedotti\"  (<em>\"curator aquarum\"</em>), nel suo trattato <em>\"De aquae ductu urbis Romae\"</em>,  ovvero \"Gli acquedotti della città di Roma\". <br> <br> Per secoli il Tevere, le sorgenti e i pozzi furono in grado di soddisfare il fabbisogno  della città finché lo sviluppo urbanistico e la crescita demografica resero necessario  ricorrere ad altre fonti: fu allora che, grazie all'abilità dei suoi costruttori,  si realizzarono gli acquedotti. Da quel momento in poi, ovvero dal 312 a.C.,  affluì a Roma una quantità enorme di acqua potabile, che nessun'altra città del mondo  antico ebbe mai, e che valse alla città il titolo  di <em>\"regina aquarum\"</em>, ossia <strong><em>\"regina delle acque\"</em></strong>. <br> <br>"
         },
         {
             "type": "text",
-            "value": "<br><br> Per maggiori informazioni, ho realizzato insieme ad una mia collega un video illustrativo,  ricco di dettagli e spiegazioni, che sarà in grado di trasportarvi direttamente  nell'Antica Roma. <br> Buona visione. <br>"
+            "value": "<br><br> Per maggiori informazioni, ho realizzato insieme ad una mia collega un video illustrativo,  ricco di dettagli e spiegazioni, che sarà in grado di trasportarvi direttamente  nell'antica Roma. <br> Buona visione. <br>"
         },
         {
             "type": "link_ref",
@@ -29,11 +29,11 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "“È questa la terza opera degli antichi che ho innanzi a me e di cui osservo  la stessa impronta, sempre grandiosa: l'arte architettonica degli antichi è veramente  una seconda natura, che opera conforme agli usi e agli scopi civili.  È così che sorge l'anfiteatro, il tempio, <strong>l'acquedotto</strong>.  E soltanto adesso sento con quanta ragione ho sempre trovato detestabili le costruzioni  fatte a capriccio […]. Cose tutte nate morte, poiché ciò che veramente non ha in sé  una ragione di esistere non ha vita e non può essere grande, né diventare grande.” <br> —  Johann Wolfgang von Goethe drammaturgo, poeta, saggista, scrittore, pittore,  teologo, filosofo, umanista, scienziato, critico d'arte. (1749 - 1832)"
+            "value": "“È questa la terza opera degli antichi che ho innanzi a me e di cui osservo  la stessa impronta, sempre grandiosa: l'arte architettonica degli antichi è veramente  una seconda natura, che opera conforme agli usi e agli scopi civili.  È così che sorge l'anfiteatro, il tempio, <strong>l'acquedotto</strong>.  E soltanto adesso sento con quanta ragione ho sempre trovato detestabili le costruzioni  fatte a capriccio […]. Cose tutte nate morte, poiché ciò che veramente non ha in sé  una ragione di esistere non ha vita e non può essere grande, né diventare grande.” <br><br> —  Johann Wolfgang von Goethe drammaturgo, poeta, saggista, scrittore, pittore,  teologo, filosofo, umanista, scienziato, critico d'arte. (1749 - 1832)"
         }
     ],
     "type": "Gregorio",
     "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "5c0e773f-4785-4916-b179-2ec49e55a135"
+    "id": "6eee3234-fc8e-4f29-bff0-049e71ce7d7a"
 }];
