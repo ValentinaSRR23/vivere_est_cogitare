@@ -246,5 +246,7 @@ body{
   font-size: 0.6em;
 }
 .article_content_link{
-  
+  font-size: 1.6em;
+  top: 0.5em;
+  position: relative;
 }

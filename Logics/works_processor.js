@@ -78,13 +78,16 @@ function buildLink(val) {
 
   let spl = val.split(" ");
   let spl_no_link = [];
-  for(let i = 1; i < spl.length; i++){
+  for(let i = 2; i < spl.length; i++){
     spl_no_link.push(spl[i]);
   }
+
+  let link_ref = spl[0];
+  let link_near_label = spl[1];
   let text = spl_no_link.join(" ");
 
 
-  let link = "<a href=\""+spl[0]+"\" target=\"_blank\" class=\"article_content_link\">"+text+"</a>";
+  let link = "<div>"+link_near_label+"<a href=\""+link_ref+"\" target=\"_blank\" class=\"article_content_link\">"+text+"</a></div>";
   return link;
 }
 

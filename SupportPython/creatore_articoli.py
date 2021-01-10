@@ -93,7 +93,7 @@ def processElement(element):
             isContent = True
             data = ""
             setting = "text"
-        elif(row == "Link:"):
+        elif(row == "Collegamento::"):
             result = aggregate(result,setting, data, isContent)
             isContent = True
             data = ""
