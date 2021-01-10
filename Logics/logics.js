@@ -27,9 +27,32 @@ function getNode(type, data, classLabel){
 }
 
 function boot() {
-
   showPage(0);
+  handleResize();
 }
+
+
+
+function handleResize() {
+
+  document.body.style.fontSize = "";
+
+  let width = window.innerWidth;
+  if(width < 650) {
+    document.body.style.fontSize = "0.7rem";
+    return;
+  }
+  if(width < 800) {
+    document.body.style.fontSize = "0.8rem";
+    return;
+  }
+  if(width < 1000) {
+    document.body.style.fontSize = "0.9rem";
+    return;
+  }
+  document.body.style.fontSize = "1rem";
+}
+
 
 function showPage(page_index) {
     if(page_index == 0){
@@ -141,7 +164,7 @@ function showPage_1(name){
   wrap.appendChild(button);
 
   let img_wrap = getNode("div", null, "image_wrapper");
-  let img_1 = getNode("img", "./Home/home_page_1.png", "img_homepage");
+  let img_1 = getNode("img", "./Home/home_page_1.png", "img_homepage_right img_homepage");
   let img_2 = getNode("img", "./Home/home_page_2.png", "img_homepage");
   img_wrap.appendChild(img_1);
   img_wrap.appendChild(img_2);
@@ -155,9 +178,10 @@ function showPage_1(name){
   let info_2 = getNode("div", null, "inline_homepage_info_wrap_element");
   let info_3 = getNode("div", null, "inline_homepage_info_wrap_element");
 
+
+  inline_info_wrap.appendChild(info_3);
   inline_info_wrap.appendChild(info_1);
   inline_info_wrap.appendChild(info_2);
-  inline_info_wrap.appendChild(info_3);
 
 
   info_1.appendChild(getNode("div",'Su di me', "home_page_info_title"));
@@ -229,6 +253,7 @@ function getToolbar(){
 
   let label_2 = getNode("div", "Menu","toolbar_nav_label");
   label_2.setAttribute("onclick", "toggleMenu()");
+  label_2.id = "nav_button";
 
   navbar.appendChild(label_1);
   wrap.appendChild(label_2);
