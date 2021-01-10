@@ -105,7 +105,7 @@ function createIndex(target_list) {
       row.appendChild(d2);
 
       let index_row_title = getNode("div", index_element["title"], "index_row_title");
-      let index_row_preview = getNode("div", cropPreview(index_element["content"]), "index_row_preview");
+      let index_row_preview = getNode("div", cropPreview(index_element["content"]) + "[...]", "index_row_preview");
       let see_more_link = getNode("div", "Continua a leggere...", "index_row_link");
       see_more_link.setAttribute("onclick", "showIndexElementByTitle('"+index_element["title"]+"');");
 
@@ -124,7 +124,7 @@ function createIndex(target_list) {
 }
 
 function cropPreview(content) {
-  return content.split("<div style=\"display:none;\">END_PREVIEW</div>")[0] + "<div>...</div>";
+  return content.split("<div style=\"display:none;\">END_PREVIEW</div>")[0];
 }
 
 function showIndexElementByTitle(title) {
@@ -270,7 +270,7 @@ function showPage_3(name){
   base.appendChild(toolbar);
 
   if(ValeProgetti.Blogs.length == 1){
-    base.appendChild(getNode("div", "É presente <strong>1</strong> articolo.", "article_count"));
+    base.appendChild(getNode("div", "È presente <strong>1</strong> articolo.", "article_count"));
   }else{
     base.appendChild(getNode("div", "Sono presenti <strong>" + ValeProgetti.Blogs.length.toString() + "</strong> articoli.", "article_count"));
   }
@@ -288,7 +288,7 @@ function showPage_4(name){
   base.appendChild(toolbar);
 
   if(ValeProgetti.Gregorios.length == 1){
-    base.appendChild(getNode("div", "É presente <strong>1</strong> articolo.", "article_count"));
+    base.appendChild(getNode("div", "È presente <strong>1</strong> articolo.", "article_count"));
   }else{
     base.appendChild(getNode("div", "Sono presenti <strong>" + ValeProgetti.Gregorios.length.toString() + "</strong> articoli.", "article_count"));
   }

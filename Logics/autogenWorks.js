@@ -209,15 +209,11 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "La costruzione degli acquedotti fu una delle imprese più grandi e più impegnative  della civiltà romana, \"la più alta manifestazione della grandezza di Roma\""
+            "value": "La costruzione degli acquedotti fu una delle imprese più grandi e più impegnative  della civiltà romana, \"la più alta manifestazione della grandezza di Roma\", come scrisse nel 97 d.C. Frontino in qualità di \"curatore degli acquedotti\"  (<em>\"curator aquarum\"</em>), nel suo trattato <em>\"De aquae ductu urbis Romae\"</em>,  ovvero \"Gli acquedotti della città di Roma\"."
         },
         {
             "type": "end_preview",
             "value": ""
-        },
-        {
-            "type": "text",
-            "value": ", come scrisse nel 97 d.C. Frontino in qualità di \"curatore degli acquedotti\"  (<em>\"curator aquarum\"</em>), nel suo trattato <em>\"De aquae ductu urbis Romae\"</em>,  ovvero \"Gli acquedotti della città di Roma\"."
         },
         {
             "type": "text",
