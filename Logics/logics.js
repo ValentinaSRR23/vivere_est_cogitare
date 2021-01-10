@@ -165,6 +165,16 @@ function searchWorkByTitle(title){
 }
 
 
+function getPageHeaderInfo(nome){
+
+  let wrap = getNode("div",null, null);
+  wrap.appendChild(getToolbar());
+  wrap.appendChild(getNode("img", "./Home/toolbar.png" ,"toolbar_sphere_image"));
+  wrap.appendChild(getNode("div", "- "+nome+" -", "page_title_label_separator"));
+
+  return wrap;
+}
+
 function getPageHeader(nome){
 
   let wrap = getNode("div",null, null);
@@ -256,8 +266,55 @@ function showPage_1(name){
 function showPage_2(name){
 
   let base = getCleanNavigationPanel();
-  let toolbar = getPageHeader(name);
+  let toolbar = getPageHeaderInfo(name);
   base.appendChild(toolbar);
+
+  let wrap = getNode("div", null, "page_wrap");
+
+  wrap.appendChild(getNode("div",'Mi presento', "home_page_title"));
+
+  wrap.appendChild(getNode("div",'Ciao a tutti!', "home_page_text"));
+  wrap.appendChild(getNode("div",'Sono Valentina, laureanda in mediazione linguistica all’Università SSML Gregorio VII di Roma.', "home_page_text"));
+
+  wrap.appendChild(getNode("br",null,null));
+
+  wrap.appendChild(getNode("div",'Ho un debole per le lingue straniere fin da quando ho memoria, una passione che inconsciamente mi è stata trasmessa da mia madre e dai suoi viaggi di lavoro all’estero, che puntualmente finivano per includere tutta la mia famiglia. Quei momenti di condivisione familiare li porto nel cuore e ne custodisco gelosamente il ricordo. Per me viaggiare ha un ruolo rilevante anche da un punto di vista personale perché è sempre stato in grado di appagare la mia incessante curiosità nei confronti dell’ambiente esterno.', "home_page_text"));
+
+  wrap.appendChild(getNode("div",'Col tempo sono cresciuta e in me è cresciuto il desiderio di comprendere l’essenza di ciò che fino ad allora avevo solo osservato con gli occhi: la cultura, i costumi e le tradizioni dei luoghi che visitavo.', "home_page_text"));
+
+  wrap.appendChild(getNode("div",'Ecco come è iniziato il mio viaggio con le lingue straniere.', "home_page_text"));
+  wrap.appendChild(getNode("br",null,null));
+  wrap.appendChild(getNode("br",null,null));
+
+  wrap.appendChild(getNode("div",'Oggi, oltre alla mia lingua madre, posso affermare di avere una buona conoscenza della lingua inglese, spagnola e tedesca. Inoltre, sebbene sia ancora alle prime armi con l’arabo, mi piacerebbe in futuro poterlo aggiungere alla mia lista.', "home_page_text"));
+  wrap.appendChild(getNode("br",null,null));
+  wrap.appendChild(getNode("br",null,null));
+  wrap.appendChild(getNode("br",null,null));
+
+  wrap.appendChild(getNode("div",'Come nasce questo blog?', "home_page_text"));
+  wrap.appendChild(getNode("div",
+  "Questo blog si propone come angolo di condivisione affinché possa essere fonte di riflessioni tramite quelle che spero possano rivelarsi letture piacevoli e stimolanti. "+
+  "Solitamente tengo molto alle opinioni degli altri, soprattutto quando non combaciano con le mie, perché sono convinta che rappresentino un’insostituibile fonte di ispirazione, che permette di donare una visione più ampia e aperta al cambiamento. "+
+  "Per questo motivo ho aggiunto una sezione dedicata ai vostri commenti. "+
+  "Il mio blog, dunque, nasce con l’intento di offrire un’opportunità di confronto e di approfondimento sui temi che tratterò."
+  , "home_page_text"));
+
+  wrap.appendChild(getNode("br",null,null));
+
+  wrap.appendChild(getNode("div",
+  'Come probabilmente avrete notato ispezionando il “Menu”, ho inserito la categoria "Indice Progetti SSML GREGORIO VII" dedicata agli articoli che saranno oggetto di valutazione per il corso universitario che sto seguendo di "Italian Art and Creative Culture". Mi farebbe piacere se qualche volta deste un’occhiata anche lì, dove periodicamente vi aggiornerò con delle curiosità particoli.'
+    , "home_page_text"));
+
+  wrap.appendChild(getNode("br",null,null));
+
+  wrap.appendChild(getNode("div",
+  'Buona lettura.'
+    , "home_page_text"));
+
+
+
+
+  base.appendChild(wrap);
 
   base.appendChild(pageCloser());
 

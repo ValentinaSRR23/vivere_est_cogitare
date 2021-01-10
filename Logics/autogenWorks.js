@@ -29,39 +29,19 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "“È questa la terza opera degli antichi che ho innanzi a me e di cui osservo  la stessa impronta, sempre grandiosa: l'arte architettonica degli antichi è veramente  una seconda natura, che opera conforme agli usi e agli scopi civili.  È così che sorge l'anfiteatro, il tempio, <strong>l'acquedotto</strong>.  E soltanto adesso sento con quanta ragione ho sempre trovato detestabili le costruzioni  fatte a capriccio […]. Cose tutte nate morte, poiché ciò che veramente non ha in sé  una ragione di esistere non ha vita e non può essere grande, né diventare grande.” <br><br> —  Johann Wolfgang von Goethe drammaturgo, poeta, saggista, scrittore, pittore,  teologo, filosofo, umanista, scienziato, critico d'arte. (1749 - 1832)"
+            "value": "“È questa la terza opera degli antichi che ho innanzi a me e di cui osservo  la stessa impronta, sempre grandiosa: l'arte architettonica degli antichi è veramente  una seconda natura, che opera conforme agli usi e agli scopi civili.  È così che sorge l'anfiteatro, il tempio, <strong>l'acquedotto</strong>.  E soltanto adesso sento con quanta ragione ho sempre trovato detestabili le costruzioni  fatte a capriccio […]. Cose tutte nate morte, poiché ciò che veramente non ha in sé  una ragione di esistere non ha vita e non può essere grande, né diventare grande.” <br><br>"
+        },
+        {
+            "type": "link_ref",
+            "value": "https://it.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe — Johann Wolfgang von Goethe"
+        },
+        {
+            "type": "text",
+            "value": "drammaturgo, poeta, saggista, scrittore, pittore,  teologo, filosofo, umanista, scienziato, critico d'arte. (1749 - 1832)"
         }
     ],
     "type": "Gregorio",
     "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "881a7bd2-dcb5-4316-9b64-1349bf831269"
-},
-{
-    "content": [
-        {
-            "type": "text",
-            "value": "Ciao a tutti! Sono Valentina, laureanda in mediazione linguistica all’Università  SSML Gregorio VII di Roma.<br>"
-        },
-        {
-            "type": "end_preview",
-            "value": "Ho un debole per le lingue straniere fin da quando ho memoria,  una passione che inconsciamente mi è stata trasmessa da  [...]"
-        },
-        {
-            "type": "text",
-            "value": "Ho un debole per le lingue straniere fin da quando ho memoria,  una passione che inconsciamente mi è stata trasmessa da mia madre  e dai suoi viaggi di lavoro all’estero, che puntualmente finivano  per includere tutta la mia famiglia. Quei momenti di condivisione  familiare li porto nel cuore e ne custodisco gelosamente il ricordo.  Per me viaggiare ha un ruolo rilevante anche da un punto di vista personale  perché è sempre stato in grado di appagare la mia incessante curiosità  nei confronti dell’ambiente esterno. <br> Col tempo sono cresciuta e in me è cresciuto il desiderio di comprendere l’essenza  di ciò che fino ad allora avevo solo osservato con gli occhi: la cultura,  i costumi e le tradizioni dei luoghi che visitavo. <br> Ecco, come è iniziato il mio viaggio con le lingue straniere. <br><br>"
-        },
-        {
-            "type": "text",
-            "value": "Oggi, oltre alla mia lingua madre, posso affermare di avere una buona conoscenza  della lingua inglese, spagnola e tedesca. Inoltre, sebbene sia ancora alle prime armi  con l’arabo, mi piacerebbe in futuro poterlo aggiungere alla mia lista. <br> <br> <br>"
-        },
-        {
-            "type": "text",
-            "value": "Come nasce questo blog? <br> Questo blog nasce per <br> Come probabilmente avrete notato ispezionando il “Menu”, ho inserito la categoria  \"Indice Progetti SSML GREGORIO VII\" dedicata agli articoli che saranno oggetto  di valutazione per il corso universitario che sto seguendo di  <em>\"Italian Art and Creative Culture\"</em>."
-        }
-    ],
-    "type": "Info",
-    "title": "Mi presento",
-    "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "ded48ef0-61b2-4fac-a042-c0711d34e1ef"
+    "id": "b744088b-caa8-486d-bc95-a147fd1e17cd"
 }];
