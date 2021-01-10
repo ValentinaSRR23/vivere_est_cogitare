@@ -137,7 +137,7 @@ def main():
 
     javascript += "];\n"
 
-    writefile("./Logics/autogenWorks.js", js)
+    writefile("./Logics/autogenWorks.js", javascript)
 
     print("autogenWorks created!")
 
