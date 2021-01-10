@@ -3,7 +3,7 @@ Category:
 Gregorio
 
 Title:
-Gli acquedotti, arterie del cuore pulsante dell'antica Roma.
+Gli acquedotti, arterie del cuore pulsante dell'antica Roma
 
 MainImage:
 ./Acquedotti/Storytelling/A1.png
