@@ -77,15 +77,15 @@ function processContent(content) {
 function buildLink(val) {
 
   let spl = val.split(" ");
-  let text = "";
+  let spl_no_link = [];
   for(let i = 1; i < spl.length; i++){
-    text += spl[i];
+    spl_no_link.push(spl[i]);
   }
+  let text = spl_no_link.join(" ");
 
-  let link = getNode("a", text, "article_content_link");
-  link.src = spl[0];
-  link.target = "_blank";
 
+  let link = "<a src=\""+spl[0]+"\" target=\"_blank\">"+text+"</a>";
+  return link;
 }
 
 function buildImageSliderHtml(list_imgs) {
