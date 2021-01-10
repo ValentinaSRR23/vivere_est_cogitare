@@ -14,12 +14,16 @@ con cui i Romani hanno stupito il mondo.<br>
 
 Text:
 La costruzione degli acquedotti fu una delle imprese più grandi e più impegnative 
-della civiltà romana, "la più alta manifestazione della grandezza di Roma", come scrisse nel 97 d.C. Frontino in qualità di "curatore degli acquedotti" 
-(<em>"curator aquarum"</em>), nel suo trattato <em>"De aquae ductu urbis Romae"</em>, 
-ovvero "Gli acquedotti della città di Roma". 
+della civiltà romana, "la più alta manifestazione della grandezza di Roma", 
+come scrisse 
 
 EndPreview:
  
+Text:
+nel 97 d.C. Frontino in qualità di "curatore degli acquedotti" 
+(<em>"curator aquarum"</em>), nel suo trattato <em>"De aquae ductu urbis Romae"</em>, 
+ovvero "Gli acquedotti della città di Roma". 
+
 
 Text:
 Per secoli il Tevere, le sorgenti e i pozzi furono in grado di soddisfare il fabbisogno 
