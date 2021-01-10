@@ -10,7 +10,7 @@ def openfile(name):
 
 def writefile(name, content):
     f = open(name, "w")
-    f.write(content)
+    f.write(content.encode('utf8'))
     f.close()
     return f
 
