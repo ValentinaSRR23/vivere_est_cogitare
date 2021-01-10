@@ -25,7 +25,11 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Per maggiori informazioni, ho realizzato insieme ad una mia collega un video illustrativo,  ricco di dettagli e spiegazioni, che sarà in grado di trasportarvi direttamente  nell'Antica Roma. <br> Buona visione. <br> <a src=\"https://www.youtube.com/watch?v=KlDXETuqZhc\">  Link: Gli acquedotti, arterie del cuore pulsante dell'antica Roma  </a>"
+            "value": "Per maggiori informazioni, ho realizzato insieme ad una mia collega un video illustrativo,  ricco di dettagli e spiegazioni, che sarà in grado di trasportarvi direttamente  nell'Antica Roma. <br> Buona visione. <br>"
+        },
+        {
+            "type": "link_ref",
+            "value": "https://www.youtube.com/watch?v=KlDXETuqZhc Gli acquedotti, arterie del cuore pulsante dell'antica Roma"
         },
         {
             "type": "video",
@@ -39,5 +43,5 @@ var DocuVale = [
     "type": "Gregorio",
     "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma.",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "daa758ec-4aa4-443d-8719-a81cdd1088ff"
+    "id": "a55c1d28-9d0c-429d-bb70-5ce4be8bd5be"
 }];

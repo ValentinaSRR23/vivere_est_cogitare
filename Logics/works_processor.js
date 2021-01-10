@@ -60,6 +60,9 @@ function processContent(content) {
     if(type == "video"){
       html += "<iframe class=\"video_iframe\" src=\""+val+"\"></iframe>";
     }
+    if(type == "link_ref"){
+      html += buildLink(val);
+    }
     if(type == "image_slide"){
       html += buildImageSliderHtml(val);
     }
@@ -68,6 +71,20 @@ function processContent(content) {
   html += "</div>";
 
   return html;
+
+}
+
+function buildLink(val) {
+
+  let spl = val.split(" ");
+  let text = "";
+  for(let i = 1; i < spl.length; i++){
+    text += spl[i];
+  }
+
+  let link = getNode("a", text, "article_content_link");
+  link.src = spl[0];
+  link.target = "_blank";
 
 }
 

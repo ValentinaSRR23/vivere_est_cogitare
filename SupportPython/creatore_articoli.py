@@ -93,6 +93,11 @@ def processElement(element):
             isContent = True
             data = ""
             setting = "text"
+        elif(row == "Link:"):
+            result = aggregate(result,setting, data, isContent)
+            isContent = True
+            data = ""
+            setting = "link_ref"
         elif(row == "Video:"):
             result = aggregate(result,setting, data, isContent)
             isContent = True
