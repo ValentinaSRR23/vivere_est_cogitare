@@ -124,7 +124,7 @@ def workOnFile(filePath):
     t = openfile(filePath)
     elements = t.split("END_ARTICLE")
     return injectJsons(elements)
-}
+
 
 def main():
 
