@@ -1,0 +1,22 @@
+
+Category:
+Gregorio
+
+Title:
+Un lavoro con gregorio
+
+MainImage:
+./Acquedotti/Storytelling/A1.png
+
+Text:
+Riga di testo ma che bello che bello che
+sono felice da morire quanto sono contento
+
+Text:
+Altro testo molto carino
+
+Video:
+http://youtube.com/video_super_carino
+
+Text:
+Testo conclusivo
