@@ -34,7 +34,7 @@ def aggregate(result,setting, data, isContent):
 
 
     if(not isContent):
-        result[setting] = {"type": setting, "value": data}
+        result[setting] = data
     else:
         result["content"].append({"type": setting, "value": data})
 

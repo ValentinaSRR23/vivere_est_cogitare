@@ -31,18 +31,9 @@ var DocuVale = [
             "value": "Testo conclusivo"
         }
     ],
-    "preview_image": {
-        "type": "preview_image",
-        "value": "./Acquedotti/Storytelling/A1.png"
-    },
-    "title": {
-        "type": "title",
-        "value": "Titolo del mio lavoro"
-    },
-    "type": {
-        "type": "type",
-        "value": "Blog"
-    }
+    "preview_image": "./Acquedotti/Storytelling/A1.png",
+    "title": "Titolo del mio lavoro",
+    "type": "Blog"
 },
 {
     "content": [
@@ -72,16 +63,7 @@ var DocuVale = [
             "value": "Testo conclusivo"
         }
     ],
-    "preview_image": {
-        "type": "preview_image",
-        "value": "./Acquedotti/Storytelling/A1.png"
-    },
-    "title": {
-        "type": "title",
-        "value": "Titolo del mio lavoro"
-    },
-    "type": {
-        "type": "type",
-        "value": "Gregorio"
-    }
+    "preview_image": "./Acquedotti/Storytelling/A1.png",
+    "title": "Titolo del mio lavoro",
+    "type": "Gregorio"
 }];
