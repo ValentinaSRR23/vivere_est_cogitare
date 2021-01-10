@@ -10,7 +10,7 @@ MainImage:
 
 Text:
 Insieme alle strade, gli acquedotti sono state le grandi opere d'ingegneria 
-con cui i Romani hanno stupito il mondo.<br> <br>
+con cui i romani hanno stupito il mondo.<br> 
 
 EndPreview:
 La costruzione degli acquedotti fu una delle imprese più grandi e più impegnative 

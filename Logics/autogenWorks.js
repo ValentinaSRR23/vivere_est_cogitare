@@ -5,7 +5,7 @@ var DocuVale = [
     "content": [
         {
             "type": "text",
-            "value": "Insieme alle strade, gli acquedotti sono state le grandi opere d'ingegneria  con cui i Romani hanno stupito il mondo.<br> <br>"
+            "value": "Insieme alle strade, gli acquedotti sono state le grandi opere d'ingegneria  con cui i romani hanno stupito il mondo.<br>"
         },
         {
             "type": "end_preview",
@@ -35,5 +35,5 @@ var DocuVale = [
     "type": "Gregorio",
     "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "f039ee79-f182-47db-84ee-7f477d9022c9"
+    "id": "5c0e773f-4785-4916-b179-2ec49e55a135"
 }];
