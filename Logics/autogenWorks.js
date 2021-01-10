@@ -9,7 +9,7 @@ var DocuVale = [
         },
         {
             "type": "end_preview",
-            "value": "La costruzione degli acquedotti fu una delle imprese più grandi e più impegnative  della civiltà romana, \"la più alta manifestazione della grandezza di Roma\",  come scrisse[...]"
+            "value": "La costruzione degli acquedotti fu una delle imprese più grandi e più impegnative  della civiltà romana, \"la più alta manifestazione della grandezza di Roma\",  come scrisse [...]"
         },
         {
             "type": "text",
@@ -39,5 +39,5 @@ var DocuVale = [
     "type": "Gregorio",
     "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma.",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "b4554f40-abee-4bab-bbfb-666bc91dd644"
+    "id": "5848c52e-2200-4f52-a080-b3fa20511954"
 }];
