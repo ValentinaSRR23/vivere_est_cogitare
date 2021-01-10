@@ -39,7 +39,7 @@ var DocuVale = [
     "type": "Gregorio",
     "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma.",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "1ae93258-77e7-4da8-a2a8-e21950172328"
+    "id": "ee43556e-dff4-4f8c-953d-2d7f6843939c"
 },
 {
     "content": [
@@ -80,7 +80,7 @@ var DocuVale = [
     "type": "Blog",
     "title": "Titolo del mio lavoro",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "c4b7a3b2-3052-4dc6-a00a-13ba7d8fcf7e"
+    "id": "4caebbd6-b500-4e65-baf4-293c4286e225"
 },
 {
     "content": [
@@ -121,7 +121,7 @@ var DocuVale = [
     "type": "Blog",
     "title": "Titolo del mio lavoro",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "88aaae65-84cd-4264-8ab1-5787fba31e4f"
+    "id": "e1318939-5c1d-46ae-99fc-9b26783f7838"
 },
 {
     "content": [
@@ -162,7 +162,7 @@ var DocuVale = [
     "type": "Blog",
     "title": "Titolo del mio lavoro",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "d5ac77a6-accf-4ccf-8d75-5515860122c2"
+    "id": "82007903-8355-44cd-855b-cab7a08a32c0"
 },
 {
     "content": [
@@ -203,7 +203,7 @@ var DocuVale = [
     "type": "Blog",
     "title": "Titolo del mio lavoro",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "86836238-5127-487b-bac3-dc8df7198508"
+    "id": "2ea15bce-fb69-4911-9fa1-e149fc2ea5ca"
 },
 {
     "content": [
@@ -244,5 +244,45 @@ var DocuVale = [
     "type": "Blog",
     "title": "Titolo del mio lavoro",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "d522ff35-dcc9-4b0e-8ec3-a998fe191153"
+    "id": "2304c14f-3697-4d0c-9329-f0e76c113048"
+},
+{
+    "content": [
+        {
+            "type": "text",
+            "value": "Insieme alle strade, gli acquedotti sono state le grandi opere d'ingegneria  con cui i Romani hanno stupito il mondo.<br>"
+        },
+        {
+            "type": "text",
+            "value": "La costruzione degli acquedotti fu una delle imprese più grandi e più impegnative  della civiltà romana, \"la più alta manifestazione della grandezza di Roma\",  come scrisse"
+        },
+        {
+            "type": "end_preview",
+            "value": ""
+        },
+        {
+            "type": "text",
+            "value": "nel 97 d.C. Frontino in qualità di \"curatore degli acquedotti\"  (<em>\"curator aquarum\"</em>), nel suo trattato <em>\"De aquae ductu urbis Romae\"</em>,  ovvero \"Gli acquedotti della città di Roma\"."
+        },
+        {
+            "type": "text",
+            "value": "Per secoli il Tevere, le sorgenti e i pozzi furono in grado di soddisfare il fabbisogno  della città finché lo sviluppo urbanistico e la crescita demografica resero necessario  ricorrere ad altre fonti: fu allora che, grazie all'abilità dei suoi costruttori,  si realizzarono gli acquedotti. Da quel momento in poi, ovvero dal 312 a.C.,  affluì a Roma una quantità enorme di acqua potabile, come nessun'altra città del mondo  antico, ma forse di ogni epoca, ebbe mai e che valse alla città il titolo  di <em>\"regina aquarum\"</em>, ossia <strong>\"regina delle acque\"</strong>. <br> <br>"
+        },
+        {
+            "type": "text",
+            "value": "Per maggiori informazioni, ho realizzato insieme ad una mia collega un video illustrativo,  ricco di dettagli e spiegazioni, che sarà in grado di trasportarvi direttamente  nell'Antica Roma. <br> Buona visione. <br> Link: https://www.youtube.com/watch?v=KlDXETuqZhc&t=94s Link: Gli acquedotti, arterie del cuore pulsante dell'antica Roma"
+        },
+        {
+            "type": "video",
+            "value": "https://www.youtube.com/embed/KlDXETuqZhc"
+        },
+        {
+            "type": "text",
+            "value": "“È questa la terza opera degli antichi che ho innanzi a me e di cui osservo  la stessa impronta, sempre grandiosa: l'arte architettonica degli antichi è veramente  una seconda natura, che opera conforme agli usi e agli scopi civili.  È così che sorge l'anfiteatro, il tempio, <strong>l'acquedotto</strong>.  E soltanto adesso sento con quanta ragione ho sempre trovato detestabili le costruzioni  fatte a capriccio […]. Cose tutte nate morte, poiché ciò che veramente non ha in sé  una ragione di esistere non ha vita e non può essere grande, né diventare grande.” <br> —  Johann Wolfgang von Goethe drammaturgo, poeta, saggista, scrittore, pittore,  teologo, filosofo, umanista, scienziato, critico d'arte. (1749 - 1832)"
+        }
+    ],
+    "type": "Gregorio",
+    "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma.",
+    "preview_image": "./Acquedotti/Storytelling/A1.png",
+    "id": "2de0d05a-5363-4fbe-9159-78eefb013ad5"
 }];
