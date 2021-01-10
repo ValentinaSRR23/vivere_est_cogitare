@@ -84,7 +84,7 @@ function buildLink(val) {
   let text = spl_no_link.join(" ");
 
 
-  let link = "<a href=\""+spl[0]+"\" target=\"_blank\">"+text+"</a>";
+  let link = "<a href=\""+spl[0]+"\" target=\"_blank\" class=\"article_content_link\">"+text+"</a>";
   return link;
 }
 
