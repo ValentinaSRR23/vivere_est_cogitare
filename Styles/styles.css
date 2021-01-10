@@ -230,6 +230,8 @@ body{
 }
 .video_iframe{
   margin: 3em;
+  width: 30em;
+  height: 20em;
 }
 .article_toolbar_sphere_image{
   width: 100%;
