@@ -1,6 +1,11 @@
 import io
 import json
 import os
+import uuid
+
+
+def getId():
+    return str(uuid.uuid4())
 
 def openfile(name):
 
@@ -102,6 +107,8 @@ def processElement(element):
             data += row + " "
 
     result = aggregate(result,setting, data, isContent)
+
+    result["id"] = getId()
 
     return result
 

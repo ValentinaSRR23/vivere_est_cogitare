@@ -107,7 +107,7 @@ function createIndex(target_list) {
       let index_row_title = getNode("div", index_element["title"], "index_row_title");
       let index_row_preview = getNode("div", cropPreview(index_element["content"]) + "[...]", "index_row_preview");
       let see_more_link = getNode("div", "Continua a leggere...", "index_row_link");
-      see_more_link.setAttribute("onclick", "showIndexElementByTitle('"+index_element["title"]+"');");
+      see_more_link.setAttribute("onclick", "showIndexElementByTitle('"+index_element["id"]+"');");
 
       d1.appendChild(index_row_image);
 
@@ -151,12 +151,12 @@ function searchWorkByTitle(title){
   let Blogs = ValeProgetti.Blogs;
   let GregorioWorks = ValeProgetti.Gregorios;
   for(let i = 0; i < Blogs.length; i++){
-    if(Blogs[i]["title"] == title){
+    if(Blogs[i]["id"] == title){
       return Blogs[i];
     }
   }
   for(let i = 0; i < GregorioWorks.length; i++){
-    if(GregorioWorks[i]["title"] == title){
+    if(GregorioWorks[i]["id"] == title){
       return GregorioWorks[i];
     }
   }

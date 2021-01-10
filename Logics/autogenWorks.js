@@ -5,206 +5,6 @@ var DocuVale = [
     "content": [
         {
             "type": "text",
-            "value": "Riga di testo ma che bello che bello che sono felice da morire quanto sono contento"
-        },
-        {
-            "type": "text",
-            "value": "Altro testo molto carino"
-        },
-        {
-            "type": "end_preview",
-            "value": ""
-        },
-        {
-            "type": "text",
-            "value": "Questo testo non sarà nella preview"
-        },
-        {
-            "type": "video",
-            "value": "http://youtube.com/video_super_carino"
-        },
-        {
-            "type": "image_slide",
-            "value": [
-                "./Acquedotti/Storytelling/A1.png",
-                "./Acquedotti/Storytelling/A2.png",
-                "./Acquedotti/Storytelling/A3.png",
-                "./Acquedotti/Storytelling/A4.png"
-            ]
-        },
-        {
-            "type": "text",
-            "value": "Testo conclusivo"
-        }
-    ],
-    "type": "Blog",
-    "title": "Titolo del mio lavoro",
-    "preview_image": "./Acquedotti/Storytelling/A1.png"
-},
-{
-    "content": [
-        {
-            "type": "text",
-            "value": "Riga di testo ma che bello che bello che sono felice da morire quanto sono contento"
-        },
-        {
-            "type": "text",
-            "value": "Altro testo molto carino"
-        },
-        {
-            "type": "end_preview",
-            "value": ""
-        },
-        {
-            "type": "text",
-            "value": "Questo testo non sarà nella preview"
-        },
-        {
-            "type": "video",
-            "value": "http://youtube.com/video_super_carino"
-        },
-        {
-            "type": "image_slide",
-            "value": [
-                "./Acquedotti/Storytelling/A1.png",
-                "./Acquedotti/Storytelling/A2.png",
-                "./Acquedotti/Storytelling/A3.png",
-                "./Acquedotti/Storytelling/A4.png"
-            ]
-        },
-        {
-            "type": "text",
-            "value": "Testo conclusivo"
-        }
-    ],
-    "type": "Blog",
-    "title": "Titolo del mio lavoro",
-    "preview_image": "./Acquedotti/Storytelling/A1.png"
-},
-{
-    "content": [
-        {
-            "type": "text",
-            "value": "Riga di testo ma che bello che bello che sono felice da morire quanto sono contento"
-        },
-        {
-            "type": "text",
-            "value": "Altro testo molto carino"
-        },
-        {
-            "type": "end_preview",
-            "value": ""
-        },
-        {
-            "type": "text",
-            "value": "Questo testo non sarà nella preview"
-        },
-        {
-            "type": "video",
-            "value": "http://youtube.com/video_super_carino"
-        },
-        {
-            "type": "image_slide",
-            "value": [
-                "./Acquedotti/Storytelling/A1.png",
-                "./Acquedotti/Storytelling/A2.png",
-                "./Acquedotti/Storytelling/A3.png",
-                "./Acquedotti/Storytelling/A4.png"
-            ]
-        },
-        {
-            "type": "text",
-            "value": "Testo conclusivo"
-        }
-    ],
-    "type": "Blog",
-    "title": "Titolo del mio lavoro",
-    "preview_image": "./Acquedotti/Storytelling/A1.png"
-},
-{
-    "content": [
-        {
-            "type": "text",
-            "value": "Riga di testo ma che bello che bello che sono felice da morire quanto sono contento"
-        },
-        {
-            "type": "text",
-            "value": "Altro testo molto carino"
-        },
-        {
-            "type": "end_preview",
-            "value": ""
-        },
-        {
-            "type": "text",
-            "value": "Questo testo non sarà nella preview"
-        },
-        {
-            "type": "video",
-            "value": "http://youtube.com/video_super_carino"
-        },
-        {
-            "type": "image_slide",
-            "value": [
-                "./Acquedotti/Storytelling/A1.png",
-                "./Acquedotti/Storytelling/A2.png",
-                "./Acquedotti/Storytelling/A3.png",
-                "./Acquedotti/Storytelling/A4.png"
-            ]
-        },
-        {
-            "type": "text",
-            "value": "Testo conclusivo"
-        }
-    ],
-    "type": "Blog",
-    "title": "Titolo del mio lavoro",
-    "preview_image": "./Acquedotti/Storytelling/A1.png"
-},
-{
-    "content": [
-        {
-            "type": "text",
-            "value": "Riga di testo ma che bello che bello che sono felice da morire quanto sono contento"
-        },
-        {
-            "type": "text",
-            "value": "Altro testo molto carino"
-        },
-        {
-            "type": "end_preview",
-            "value": ""
-        },
-        {
-            "type": "text",
-            "value": "Questo testo non sarà nella preview"
-        },
-        {
-            "type": "video",
-            "value": "http://youtube.com/video_super_carino"
-        },
-        {
-            "type": "image_slide",
-            "value": [
-                "./Acquedotti/Storytelling/A1.png",
-                "./Acquedotti/Storytelling/A2.png",
-                "./Acquedotti/Storytelling/A3.png",
-                "./Acquedotti/Storytelling/A4.png"
-            ]
-        },
-        {
-            "type": "text",
-            "value": "Testo conclusivo"
-        }
-    ],
-    "type": "Blog",
-    "title": "Titolo del mio lavoro",
-    "preview_image": "./Acquedotti/Storytelling/A1.png"
-},
-{
-    "content": [
-        {
-            "type": "text",
             "value": "Insieme alle strade, gli acquedotti sono state le grandi opere d'ingegneria  con cui i Romani hanno stupito il mondo.<br>"
         },
         {
@@ -238,5 +38,211 @@ var DocuVale = [
     ],
     "type": "Gregorio",
     "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma.",
-    "preview_image": "./Acquedotti/Storytelling/A1.png"
+    "preview_image": "./Acquedotti/Storytelling/A1.png",
+    "id": "bc7428fa-e09f-4063-b829-5563740da2da"
+},
+{
+    "content": [
+        {
+            "type": "text",
+            "value": "Riga di testo ma che bello che bello che sono felice da morire quanto sono contento"
+        },
+        {
+            "type": "text",
+            "value": "Altro testo molto carino"
+        },
+        {
+            "type": "end_preview",
+            "value": ""
+        },
+        {
+            "type": "text",
+            "value": "Questo testo non sarà nella preview"
+        },
+        {
+            "type": "video",
+            "value": "http://youtube.com/video_super_carino"
+        },
+        {
+            "type": "image_slide",
+            "value": [
+                "./Acquedotti/Storytelling/A1.png",
+                "./Acquedotti/Storytelling/A2.png",
+                "./Acquedotti/Storytelling/A3.png",
+                "./Acquedotti/Storytelling/A4.png"
+            ]
+        },
+        {
+            "type": "text",
+            "value": "Testo conclusivo"
+        }
+    ],
+    "type": "Blog",
+    "title": "Titolo del mio lavoro",
+    "preview_image": "./Acquedotti/Storytelling/A1.png",
+    "id": "b7b87194-b0cb-40bf-a4bb-478bb92aec65"
+},
+{
+    "content": [
+        {
+            "type": "text",
+            "value": "Riga di testo ma che bello che bello che sono felice da morire quanto sono contento"
+        },
+        {
+            "type": "text",
+            "value": "Altro testo molto carino"
+        },
+        {
+            "type": "end_preview",
+            "value": ""
+        },
+        {
+            "type": "text",
+            "value": "Questo testo non sarà nella preview"
+        },
+        {
+            "type": "video",
+            "value": "http://youtube.com/video_super_carino"
+        },
+        {
+            "type": "image_slide",
+            "value": [
+                "./Acquedotti/Storytelling/A1.png",
+                "./Acquedotti/Storytelling/A2.png",
+                "./Acquedotti/Storytelling/A3.png",
+                "./Acquedotti/Storytelling/A4.png"
+            ]
+        },
+        {
+            "type": "text",
+            "value": "Testo conclusivo"
+        }
+    ],
+    "type": "Blog",
+    "title": "Titolo del mio lavoro",
+    "preview_image": "./Acquedotti/Storytelling/A1.png",
+    "id": "574dd69d-866b-4756-b90c-b9515e2ea887"
+},
+{
+    "content": [
+        {
+            "type": "text",
+            "value": "Riga di testo ma che bello che bello che sono felice da morire quanto sono contento"
+        },
+        {
+            "type": "text",
+            "value": "Altro testo molto carino"
+        },
+        {
+            "type": "end_preview",
+            "value": ""
+        },
+        {
+            "type": "text",
+            "value": "Questo testo non sarà nella preview"
+        },
+        {
+            "type": "video",
+            "value": "http://youtube.com/video_super_carino"
+        },
+        {
+            "type": "image_slide",
+            "value": [
+                "./Acquedotti/Storytelling/A1.png",
+                "./Acquedotti/Storytelling/A2.png",
+                "./Acquedotti/Storytelling/A3.png",
+                "./Acquedotti/Storytelling/A4.png"
+            ]
+        },
+        {
+            "type": "text",
+            "value": "Testo conclusivo"
+        }
+    ],
+    "type": "Blog",
+    "title": "Titolo del mio lavoro",
+    "preview_image": "./Acquedotti/Storytelling/A1.png",
+    "id": "6f556ddc-45ef-4ad3-bc58-e07a0e96f552"
+},
+{
+    "content": [
+        {
+            "type": "text",
+            "value": "Riga di testo ma che bello che bello che sono felice da morire quanto sono contento"
+        },
+        {
+            "type": "text",
+            "value": "Altro testo molto carino"
+        },
+        {
+            "type": "end_preview",
+            "value": ""
+        },
+        {
+            "type": "text",
+            "value": "Questo testo non sarà nella preview"
+        },
+        {
+            "type": "video",
+            "value": "http://youtube.com/video_super_carino"
+        },
+        {
+            "type": "image_slide",
+            "value": [
+                "./Acquedotti/Storytelling/A1.png",
+                "./Acquedotti/Storytelling/A2.png",
+                "./Acquedotti/Storytelling/A3.png",
+                "./Acquedotti/Storytelling/A4.png"
+            ]
+        },
+        {
+            "type": "text",
+            "value": "Testo conclusivo"
+        }
+    ],
+    "type": "Blog",
+    "title": "Titolo del mio lavoro",
+    "preview_image": "./Acquedotti/Storytelling/A1.png",
+    "id": "e4285a27-b1bd-4d17-86c0-71812df61413"
+},
+{
+    "content": [
+        {
+            "type": "text",
+            "value": "Riga di testo ma che bello che bello che sono felice da morire quanto sono contento"
+        },
+        {
+            "type": "text",
+            "value": "Altro testo molto carino"
+        },
+        {
+            "type": "end_preview",
+            "value": ""
+        },
+        {
+            "type": "text",
+            "value": "Questo testo non sarà nella preview"
+        },
+        {
+            "type": "video",
+            "value": "http://youtube.com/video_super_carino"
+        },
+        {
+            "type": "image_slide",
+            "value": [
+                "./Acquedotti/Storytelling/A1.png",
+                "./Acquedotti/Storytelling/A2.png",
+                "./Acquedotti/Storytelling/A3.png",
+                "./Acquedotti/Storytelling/A4.png"
+            ]
+        },
+        {
+            "type": "text",
+            "value": "Testo conclusivo"
+        }
+    ],
+    "type": "Blog",
+    "title": "Titolo del mio lavoro",
+    "preview_image": "./Acquedotti/Storytelling/A1.png",
+    "id": "dd9ce9c0-01c0-4a3b-93f1-b05ac14ff49d"
 }];
