@@ -14,6 +14,14 @@ var DocuVale = [
             "value": "Altro testo molto carino"
         },
         {
+            "type": "end_preview",
+            "value": ""
+        },
+        {
+            "type": "text",
+            "value": "Questo testo non sar\u00c3\u00a0 nella preview"
+        },
+        {
             "type": "video",
             "value": "http://youtube.com/video_super_carino"
         },

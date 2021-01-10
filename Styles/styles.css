@@ -229,7 +229,7 @@ body{
   font-size: 1.6em;
 }
 .video_iframe{
-  margin-top: 3em;
+  margin: 3em;
 }
 .article_toolbar_sphere_image{
   width: 100%;
@@ -241,4 +241,7 @@ body{
   margin-left: 5vw;
   font-size: 1.5em;
   color: #2d6d7b;
+}
+.index_row_preview{
+  font-size: 0.6em;
 }

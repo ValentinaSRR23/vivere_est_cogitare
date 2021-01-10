@@ -15,6 +15,12 @@ sono felice da morire quanto sono contento
 Text:
 Altro testo molto carino
 
+EndPreview:
+
+Text:
+Questo testo non sarà nella preview
+
+
 Video:
 http://youtube.com/video_super_carino
 

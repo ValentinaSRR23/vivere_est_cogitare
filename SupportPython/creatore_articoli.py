@@ -77,6 +77,11 @@ def processElement(element):
             isContent = False
             data = ""
             setting = "preview_image"
+        elif(row == "EndPreview:"):
+            result = aggregate(result,setting, data, isContent)
+            isContent = True
+            data = ""
+            setting = "end_preview"
         elif(row == "Text:"):
             result = aggregate(result,setting, data, isContent)
             isContent = True
