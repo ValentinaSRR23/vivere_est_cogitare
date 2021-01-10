@@ -3,7 +3,7 @@ import json
 
 def openfile(name):
 
-    f = io.open(name, "r", encoding="utt-8")
+    f = io.open(name, "r", encoding="utf-8")
     t = f.read()
     f.close()
     return t

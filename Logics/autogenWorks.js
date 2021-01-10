@@ -19,7 +19,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Questo testo non sar\u00c3\u00a0 nella preview"
+            "value": "Questo testo non sar\u00e0 nella preview"
         },
         {
             "type": "video",
