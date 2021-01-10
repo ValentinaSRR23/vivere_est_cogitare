@@ -8,16 +8,12 @@ var DocuVale = [
             "value": "Insieme alle strade, gli acquedotti sono state le grandi opere d'ingegneria  con cui i Romani hanno stupito il mondo.<br>"
         },
         {
-            "type": "text",
-            "value": "La costruzione degli acquedotti fu una delle imprese più grandi e più impegnative  della civiltà romana, \"la più alta manifestazione della grandezza di Roma\",  come scrisse"
-        },
-        {
             "type": "end_preview",
-            "value": ""
+            "value": "La costruzione degli acquedotti fu una delle imprese più grandi e più impegnative  della civiltà romana, \"la più alta manifestazione della grandezza di Roma\",  come scrisse[...]"
         },
         {
             "type": "text",
-            "value": "nel 97 d.C. Frontino in qualità di \"curatore degli acquedotti\"  (<em>\"curator aquarum\"</em>), nel suo trattato <em>\"De aquae ductu urbis Romae\"</em>,  ovvero \"Gli acquedotti della città di Roma\"."
+            "value": "La costruzione degli acquedotti fu una delle imprese più grandi e più impegnative  della civiltà romana, \"la più alta manifestazione della grandezza di Roma\",  come scrisse nel 97 d.C. Frontino in qualità di \"curatore degli acquedotti\"  (<em>\"curator aquarum\"</em>), nel suo trattato <em>\"De aquae ductu urbis Romae\"</em>,  ovvero \"Gli acquedotti della città di Roma\"."
         },
         {
             "type": "text",
@@ -43,5 +39,5 @@ var DocuVale = [
     "type": "Gregorio",
     "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma.",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "44f852ef-7a2d-4710-848f-e3268ae17d3e"
+    "id": "e4686976-506d-414e-835a-a6e76ac1b3e8"
 }];

@@ -105,7 +105,7 @@ function createIndex(target_list) {
       row.appendChild(d2);
 
       let index_row_title = getNode("div", index_element["title"], "index_row_title");
-      let index_row_preview = getNode("div", cropPreview(index_element["content"]) + "[...]", "index_row_preview");
+      let index_row_preview = getNode("div", cropPreview(index_element["content"]), "index_row_preview");
       let see_more_link = getNode("div", "Continua a leggere...", "index_row_link");
       see_more_link.setAttribute("onclick", "showIndexElementByTitle('"+index_element["id"]+"');");
 
