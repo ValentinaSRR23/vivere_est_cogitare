@@ -1,15 +1,15 @@
-
+import io
 import json
 
 def openfile(name):
 
-    f = open(name, "r")
+    f = io.open(name, "r", encoding="utt-8")
     t = f.read()
     f.close()
     return t
 
 def writefile(name, content):
-    f = open(name, "w", encoding="utf-8")
+    f = io.open(name, "w", encoding="utf-8")
     f.write(content)
     f.close()
     return f
