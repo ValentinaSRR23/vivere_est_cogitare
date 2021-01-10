@@ -34,14 +34,10 @@ var DocuVale = [
         {
             "type": "link_ref",
             "value": "https://it.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe — Johann Wolfgang von Goethe"
-        },
-        {
-            "type": "text",
-            "value": "<br> drammaturgo, poeta, saggista, scrittore, pittore,  teologo, filosofo, umanista, scienziato, critico d'arte. (1749 - 1832)"
         }
     ],
     "type": "Gregorio",
     "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "53c070f5-7fd1-4ff9-ad3b-db6d78921e0c"
+    "id": "01894adf-ea2e-4c3f-88d1-ea64d14b7633"
 }];
