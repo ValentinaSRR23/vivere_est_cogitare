@@ -83,11 +83,11 @@ function buildLink(val) {
   }
 
   let link_ref = spl[0];
-  let link_near_label = spl[1];
+  let link_near_label = spl[1] + " ";
   let text = spl_no_link.join(" ");
 
 
-  let link = "<div>"+link_near_label+"<a href=\""+link_ref+"\" target=\"_blank\" class=\"article_content_link\">"+text+"</a></div>";
+  let link = "<div class=\"article_content_link_label\">"+link_near_label+"<a href=\""+link_ref+"\" target=\"_blank\">"+text+"</a></div>";
   return link;
 }
 

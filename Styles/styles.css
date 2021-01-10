@@ -245,8 +245,8 @@ body{
 .index_row_preview{
   font-size: 0.6em;
 }
-.article_content_link{
-  font-size: 1.6em;
-  top: 0.5em;
-  position: relative;
+.article_content_link_label{
+  margin-top: 1em;
+  font-size: 1.4em;
+  float: left;
 }
