@@ -1,5 +1,5 @@
 
-var Pages = ["Home", "Info", "Blog", "Progetti SSML Gregorio VII"];
+var Pages = ["Home", "Info", "Articoli", "Progetti SSML Gregorio VII"];
 
 function getNodeAndSetClick(type, data, classLabel, callback) {
     let el = getNode(type,data,classLabel);
