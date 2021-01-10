@@ -135,7 +135,7 @@ def main():
         print("Processing: ", f)
         javascript += workOnFile("./ArticoliVale/" + f) + ",\n"
 
-    javascript = javascript[:2]
+    javascript = javascript[:-2]
     javascript += "];\n"
 
     writefile("./Logics/autogenWorks.js", javascript)
