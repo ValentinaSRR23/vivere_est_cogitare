@@ -65,5 +65,5 @@ Johann Wolfgang von Goethe
 
 
 Text:
-drammaturgo, poeta, saggista, scrittore, pittore, 
+<br> drammaturgo, poeta, saggista, scrittore, pittore, 
 teologo, filosofo, umanista, scienziato, critico d'arte. (1749 - 1832)

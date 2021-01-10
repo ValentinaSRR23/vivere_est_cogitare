@@ -37,11 +37,11 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "drammaturgo, poeta, saggista, scrittore, pittore,  teologo, filosofo, umanista, scienziato, critico d'arte. (1749 - 1832)"
+            "value": "<br> drammaturgo, poeta, saggista, scrittore, pittore,  teologo, filosofo, umanista, scienziato, critico d'arte. (1749 - 1832)"
         }
     ],
     "type": "Gregorio",
     "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "b744088b-caa8-486d-bc95-a147fd1e17cd"
+    "id": "53c070f5-7fd1-4ff9-ad3b-db6d78921e0c"
 }];
