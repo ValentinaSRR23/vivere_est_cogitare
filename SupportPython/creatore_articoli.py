@@ -116,7 +116,7 @@ def injectJsons(elements):
         el = processElement(element)
 
         if(el != None):
-            javascript += json.dumps(el, indent=4, sort_keys=True) + ",\n"
+            javascript += json.dumps(el, indent=4, ensure_ascii=False) + ",\n"
 
     javascript = javascript[:-2]
 

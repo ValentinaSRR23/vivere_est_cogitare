@@ -19,7 +19,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Questo testo non sar\u00e0 nella preview"
+            "value": "Questo testo non sarà nella preview"
         },
         {
             "type": "video",
@@ -39,9 +39,9 @@ var DocuVale = [
             "value": "Testo conclusivo"
         }
     ],
-    "preview_image": "./Acquedotti/Storytelling/A1.png",
+    "type": "Blog",
     "title": "Titolo del mio lavoro",
-    "type": "Blog"
+    "preview_image": "./Acquedotti/Storytelling/A1.png"
 },
 {
     "content": [
@@ -71,7 +71,7 @@ var DocuVale = [
             "value": "Testo conclusivo"
         }
     ],
-    "preview_image": "./Acquedotti/Storytelling/A1.png",
+    "type": "Gregorio",
     "title": "Titolo del mio lavoro",
-    "type": "Gregorio"
+    "preview_image": "./Acquedotti/Storytelling/A1.png"
 }];
