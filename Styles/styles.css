@@ -23,7 +23,6 @@ body{
   min-height: 25em;
   object-fit: cover;
 }
-
 .toolbar_label{
   display: inline-block;
   font-size: 2.7em;
@@ -140,6 +139,7 @@ body{
 }
 .home_page_info_box_fake{
   padding: 5em;
+  font-size: 1.2em;
   background: rgba(0,0,0,0.2);
   border: 1px solid rgba(0,0,0,0.4);
 }
@@ -185,7 +185,8 @@ body{
   background: #faf0db;
 }
 .index{
-  padding: 2em;
+  padding: 1em;
+  padding-top: 0;
   font-size: 1.3em;
   background: rgba(255,255,255,0.3);
   border: 1px solid rgba(0,0,0,0.2);
@@ -194,11 +195,50 @@ body{
 .index_row{
   border-bottom: 1px solid rgba(0,0,0,0.2);
   padding: 0.5em;
+}
+
+
+.index_preview_image{
+  height: 10em;
+  display: inline-block;
+  margin-right: 1rem;
+}
+.index_row_wrap{
+  display: inline-block;
+  padding: 1em;
+}
+.index_row_link{
+  font-size: 1em;
+  padding-top: 0.5em;
+  color: #2d6d7b;
+  font-family: sans-serif;
   cursor: pointer;
 }
-.index_row:hover{
-  background: rgba(0,0,0,0.2);
+.index_row_title{
+  font-weight: bold;
+  font-size: 1.1em;
 }
-.index_row:active{
-  background: rgba(0,0,0,0.4);
+.article_page_wrap{
+  background: #faf0db;
+  padding: 0 13vw;
+  padding-top: 2em;
+  text-align: center;
+}
+.article_text{
+  text-align: justify !important;
+  font-size: 1.6em;
+}
+.video_iframe{
+  margin-top: 3em;
+}
+.article_toolbar_sphere_image{
+  width: 100%;
+  height: 30vh;
+  min-height: 25em;
+}
+.article_count{
+  margin: 2em;
+  margin-left: 5vw;
+  font-size: 1.5em;
+  color: #2d6d7b;
 }

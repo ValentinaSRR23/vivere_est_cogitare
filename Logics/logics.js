@@ -1,5 +1,5 @@
 
-var Pages = ["Home", "Info", "Articoli", "Progetti SSML Gregorio VII"];
+var Pages = ["Home", "Info", "Indice Articoli", "Indice Progetti SSML Gregorio VII"];
 
 function getNodeAndSetClick(type, data, classLabel, callback) {
     let el = getNode(type,data,classLabel);
@@ -28,6 +28,7 @@ function getNode(type, data, classLabel){
 
 function boot() {
   showPage(0);
+  initAllWorks();
   handleResize();
 }
 
@@ -55,18 +56,32 @@ function handleResize() {
 
 
 function showPage(page_index) {
+    // home
     if(page_index == 0){
         showPage_1(Pages[0]);
     }
+    // info
     if(page_index == 1){
       showPage_2(Pages[1]);
     }
+    // articoli indice
     if(page_index == 2){
       showPage_3(Pages[2]);
     }
+    // gregorio indice
     if(page_index == 3){
       showPage_4(Pages[3]);
     }
+    // articolo view
+    if(page_index == 4){
+      showPage_article();
+    }
+    // leace a comment
+    if(page_index == 5){
+      showPage_5();
+    }
+
+    setTimeout(() =>{document.body.scrollTop = 0;},300);
 }
 
 function createIndex(target_list) {
@@ -79,16 +94,28 @@ function createIndex(target_list) {
 
       let element = getNode("div", null, "index_row");
 
-      let index_row_image = getNode("img", index_element["image_src"], "index_row_image");
-      let index_row_title = getNode("div", index_element["title"], "index_row_title");
-      let index_row_preview = getNode("div", "", "index_row_preview");
-      let see_more_link = getNode("div", "Continua a leggere...", "index_row_link");
-      see_more_link.setAttribute("onlcick", "showIndexElementByTitle('"+index_element["title"]+"');");
+      let index_row_image = getNode("img", index_element["preview_image"], "index_preview_image");
 
-      element.appendChild(index_row_image);
-      element.appendChild(index_row_title);
-      element.appendChild(index_row_preview);
-      element.appendChild(see_more_link);
+      let wrap = getNode("table",null, "index_row_wrap");
+      let row = getNode("tr",null,null);
+      let d1 = getNode("td",null,null);
+      let d2 = getNode("td",null,null);
+      wrap.appendChild(row);
+      row.appendChild(d1);
+      row.appendChild(d2);
+
+      let index_row_title = getNode("div", index_element["title"], "index_row_title");
+      let index_row_preview = getNode("div", cropPreview(index_element["content"]), "index_row_preview");
+      let see_more_link = getNode("div", "Continua a leggere...", "index_row_link");
+      see_more_link.setAttribute("onclick", "showIndexElementByTitle('"+index_element["title"]+"');");
+
+      d1.appendChild(index_row_image);
+
+      d2.appendChild(index_row_title);
+      d2.appendChild(index_row_preview);
+      d2.appendChild(see_more_link);
+
+      element.appendChild(wrap);
 
       index_wrap.appendChild(element);
     }
@@ -96,33 +123,45 @@ function createIndex(target_list) {
     return index_wrap;
 }
 
+function cropPreview(content) {
+  return content.split("<div style=\"display:none;\">END_PREVIEW</div>")[0] + "<div>...</div>";
+}
+
 function showIndexElementByTitle(title) {
   let doc = searchWorkByTitle(title);
-
   if(doc != null){
-    let iframe = document.createElement("iframe");
-    iframe.src = doc;
-    document.body.appendChild(iframe);
+    showPage_article(doc);
   }
 }
 
-function searchWorkByTitle(title){
-  let doc = null;
-  let Blogs = ValeProgetti.Blogs;
-  let GregorioWorks = ValeProgetti.Gregorio;
+function showPage_article(article) {
 
+  let base = getCleanNavigationPanel();
+  let toolbar = getPageHeaderArticle(article);
+  base.appendChild(toolbar);
+
+  base.appendChild(getNode("div", article["content"], "article_page_wrap"));
+
+  base.appendChild(pageCloser());
+
+}
+
+
+function searchWorkByTitle(title){
+  let Blogs = ValeProgetti.Blogs;
+  let GregorioWorks = ValeProgetti.Gregorios;
   for(let i = 0; i < Blogs.length; i++){
     if(Blogs[i]["title"] == title){
-      doc = Blogs[i]["content"];
+      return Blogs[i];
     }
   }
   for(let i = 0; i < GregorioWorks.length; i++){
     if(GregorioWorks[i]["title"] == title){
-      doc = GregorioWorks[i]["content"];
+      return GregorioWorks[i];
     }
   }
 
-  return doc;
+  return null;
 }
 
 
@@ -132,6 +171,16 @@ function getPageHeader(nome){
   wrap.appendChild(getToolbar());
   wrap.appendChild(getNode("img", "./Home/toolbar.png" ,"toolbar_sphere_image"));
   wrap.appendChild(getNode("div", "- "+nome+" -", "page_title_label_separator"));
+
+  return wrap;
+}
+
+function getPageHeaderArticle(article){
+
+  let wrap = getNode("div",null, null);
+  wrap.appendChild(getToolbar());
+  wrap.appendChild(getNode("img", article["preview_image"] ,"article_toolbar_sphere_image"));
+  wrap.appendChild(getNode("div", "- "+article["title"]+" -", "page_title_label_separator"));
 
   return wrap;
 }
@@ -190,7 +239,7 @@ function showPage_1(name){
 
   info_2.appendChild(getNode("div",'Spazio per voi', "home_page_info_title"));
   info_2.appendChild(getNode("div", "Dubbi, cursiosità o suggerimenti sono ben accetti. <br>Chiunque voglia condividere la sua opinione può cliccare sul link qui sotto:", "home_page_info_text"));
-  info_2.appendChild(getNodeAndSetClick("div", "Lascia un commento", "home_page_info_link", "showPage(3)"));
+  info_2.appendChild(getNodeAndSetClick("div", "Lascia un commento", "home_page_info_link", "showPage(5)"));
 
 
   info_3.appendChild(getNode("div",'Altri articoli', "home_page_info_title"));
@@ -220,6 +269,12 @@ function showPage_3(name){
   let toolbar = getPageHeader(name);
   base.appendChild(toolbar);
 
+  if(ValeProgetti.Blogs.length == 1){
+    base.appendChild(getNode("div", "É presente <strong>1</strong> articolo.", "article_count"));
+  }else{
+    base.appendChild(getNode("div", "Sono presenti <strong>" + ValeProgetti.Blogs.length.toString() + "</strong> articoli.", "article_count"));
+  }
+
   base.appendChild(createIndex(ValeProgetti.Blogs));
 
   base.appendChild(pageCloser());
@@ -232,7 +287,22 @@ function showPage_4(name){
   let toolbar = getPageHeader(name);
   base.appendChild(toolbar);
 
-  base.appendChild(createIndex(ValeProgetti.Gregorio));
+  if(ValeProgetti.Gregorios.length == 1){
+    base.appendChild(getNode("div", "É presente <strong>1</strong> articolo.", "article_count"));
+  }else{
+    base.appendChild(getNode("div", "Sono presenti <strong>" + ValeProgetti.Gregorios.length.toString() + "</strong> articoli.", "article_count"));
+  }
+
+  base.appendChild(createIndex(ValeProgetti.Gregorios));
+
+  base.appendChild(pageCloser());
+}
+
+function showPage_5() {
+  let base = getCleanNavigationPanel();
+  let toolbar = getPageHeader("Lascia un commento");
+  base.appendChild(toolbar);
+
 
   base.appendChild(pageCloser());
 }

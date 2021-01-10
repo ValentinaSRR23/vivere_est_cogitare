@@ -1,0 +1,62 @@
+
+Category:
+Blog
+
+Title:
+Titolo del mio lavoro
+
+MainImage:
+./Acquedotti/Storytelling/A1.png
+
+Text:
+Riga di testo ma che bello che bello che
+sono felice da morire quanto sono contento
+
+Text:
+Altro testo molto carino
+
+Video:
+http://youtube.com/video_super_carino
+
+SlideShow:
+./Acquedotti/Storytelling/A1.png
+./Acquedotti/Storytelling/A2.png
+./Acquedotti/Storytelling/A3.png
+./Acquedotti/Storytelling/A4.png
+
+Text:
+Testo conclusivo
+
+END_ARTICLE
+
+
+
+Category:
+Gregorio
+
+Title:
+Titolo del mio lavoro
+
+MainImage:
+./Acquedotti/Storytelling/A1.png
+
+Text:
+Riga di testo ma che bello che bello che
+sono felice da morire quanto sono contento
+
+Text:
+Altro testo molto carino
+
+Video:
+http://youtube.com/video_super_carino
+
+SlideShow:
+./Acquedotti/Storytelling/A1.png
+./Acquedotti/Storytelling/A2.png
+./Acquedotti/Storytelling/A3.png
+./Acquedotti/Storytelling/A4.png
+
+Text:
+Testo conclusivo
+
+END_ARTICLE
