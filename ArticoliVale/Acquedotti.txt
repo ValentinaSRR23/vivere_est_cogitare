@@ -19,14 +19,12 @@ come scrisse [...]
 
 
 Text:
-La costruzione degli acquedotti fu una delle imprese più grandi e più impegnative 
+<br> La costruzione degli acquedotti fu una delle imprese più grandi e più impegnative 
 della civiltà romana, "la più alta manifestazione della grandezza di Roma", 
 come scrisse nel 97 d.C. Frontino in qualità di "curatore degli acquedotti" 
 (<em>"curator aquarum"</em>), nel suo trattato <em>"De aquae ductu urbis Romae"</em>, 
-ovvero "Gli acquedotti della città di Roma". 
+ovvero "Gli acquedotti della città di Roma". <br> <br>
 
-
-Text:
 Per secoli il Tevere, le sorgenti e i pozzi furono in grado di soddisfare il fabbisogno 
 della città finché lo sviluppo urbanistico e la crescita demografica resero necessario 
 ricorrere ad altre fonti: fu allora che, grazie all'abilità dei suoi costruttori, 
@@ -36,7 +34,7 @@ antico, ma forse di ogni epoca, ebbe mai e che valse alla città il titolo
 di <em>"regina aquarum"</em>, ossia <strong><em>"regina delle acque"</em></strong>. <br> <br>
 
 Text:
-Per maggiori informazioni, ho realizzato insieme ad una mia collega un video illustrativo, 
+<br><br> Per maggiori informazioni, ho realizzato insieme ad una mia collega un video illustrativo, 
 ricco di dettagli e spiegazioni, che sarà in grado di trasportarvi direttamente 
 nell'Antica Roma. <br>
 Buona visione. <br>

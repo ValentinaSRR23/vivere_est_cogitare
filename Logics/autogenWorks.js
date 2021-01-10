@@ -13,15 +13,11 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "La costruzione degli acquedotti fu una delle imprese più grandi e più impegnative  della civiltà romana, \"la più alta manifestazione della grandezza di Roma\",  come scrisse nel 97 d.C. Frontino in qualità di \"curatore degli acquedotti\"  (<em>\"curator aquarum\"</em>), nel suo trattato <em>\"De aquae ductu urbis Romae\"</em>,  ovvero \"Gli acquedotti della città di Roma\"."
+            "value": "<br> La costruzione degli acquedotti fu una delle imprese più grandi e più impegnative  della civiltà romana, \"la più alta manifestazione della grandezza di Roma\",  come scrisse nel 97 d.C. Frontino in qualità di \"curatore degli acquedotti\"  (<em>\"curator aquarum\"</em>), nel suo trattato <em>\"De aquae ductu urbis Romae\"</em>,  ovvero \"Gli acquedotti della città di Roma\". <br> <br> Per secoli il Tevere, le sorgenti e i pozzi furono in grado di soddisfare il fabbisogno  della città finché lo sviluppo urbanistico e la crescita demografica resero necessario  ricorrere ad altre fonti: fu allora che, grazie all'abilità dei suoi costruttori,  si realizzarono gli acquedotti. Da quel momento in poi, ovvero dal 312 a.C.,  affluì a Roma una quantità enorme di acqua potabile, come nessun'altra città del mondo  antico, ma forse di ogni epoca, ebbe mai e che valse alla città il titolo  di <em>\"regina aquarum\"</em>, ossia <strong><em>\"regina delle acque\"</em></strong>. <br> <br>"
         },
         {
             "type": "text",
-            "value": "Per secoli il Tevere, le sorgenti e i pozzi furono in grado di soddisfare il fabbisogno  della città finché lo sviluppo urbanistico e la crescita demografica resero necessario  ricorrere ad altre fonti: fu allora che, grazie all'abilità dei suoi costruttori,  si realizzarono gli acquedotti. Da quel momento in poi, ovvero dal 312 a.C.,  affluì a Roma una quantità enorme di acqua potabile, come nessun'altra città del mondo  antico, ma forse di ogni epoca, ebbe mai e che valse alla città il titolo  di <em>\"regina aquarum\"</em>, ossia <strong><em>\"regina delle acque\"</em></strong>. <br> <br>"
-        },
-        {
-            "type": "text",
-            "value": "Per maggiori informazioni, ho realizzato insieme ad una mia collega un video illustrativo,  ricco di dettagli e spiegazioni, che sarà in grado di trasportarvi direttamente  nell'Antica Roma. <br> Buona visione. <br>"
+            "value": "<br><br> Per maggiori informazioni, ho realizzato insieme ad una mia collega un video illustrativo,  ricco di dettagli e spiegazioni, che sarà in grado di trasportarvi direttamente  nell'Antica Roma. <br> Buona visione. <br>"
         },
         {
             "type": "link_ref",
@@ -39,5 +35,5 @@ var DocuVale = [
     "type": "Gregorio",
     "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "c418a878-59a4-4347-bc8e-821c4a68fcde"
+    "id": "f039ee79-f182-47db-84ee-7f477d9022c9"
 }];
