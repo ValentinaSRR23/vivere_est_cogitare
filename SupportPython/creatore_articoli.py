@@ -133,8 +133,9 @@ def main():
 
     for f in os.listdir("./ArticoliVale"):
         print("Processing: ", f)
-        javascript += workOnFile("./ArticoliVale/" + f)
+        javascript += workOnFile("./ArticoliVale/" + f) + ",\n"
 
+    javascript = javascript[:2]
     javascript += "];\n"
 
     writefile("./Logics/autogenWorks.js", javascript)
