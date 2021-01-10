@@ -39,7 +39,7 @@ var DocuVale = [
     "type": "Gregorio",
     "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma.",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "bc7428fa-e09f-4063-b829-5563740da2da"
+    "id": "1ae93258-77e7-4da8-a2a8-e21950172328"
 },
 {
     "content": [
@@ -80,7 +80,7 @@ var DocuVale = [
     "type": "Blog",
     "title": "Titolo del mio lavoro",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "b7b87194-b0cb-40bf-a4bb-478bb92aec65"
+    "id": "c4b7a3b2-3052-4dc6-a00a-13ba7d8fcf7e"
 },
 {
     "content": [
@@ -121,7 +121,7 @@ var DocuVale = [
     "type": "Blog",
     "title": "Titolo del mio lavoro",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "574dd69d-866b-4756-b90c-b9515e2ea887"
+    "id": "88aaae65-84cd-4264-8ab1-5787fba31e4f"
 },
 {
     "content": [
@@ -162,7 +162,7 @@ var DocuVale = [
     "type": "Blog",
     "title": "Titolo del mio lavoro",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "6f556ddc-45ef-4ad3-bc58-e07a0e96f552"
+    "id": "d5ac77a6-accf-4ccf-8d75-5515860122c2"
 },
 {
     "content": [
@@ -203,7 +203,7 @@ var DocuVale = [
     "type": "Blog",
     "title": "Titolo del mio lavoro",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "e4285a27-b1bd-4d17-86c0-71812df61413"
+    "id": "86836238-5127-487b-bac3-dc8df7198508"
 },
 {
     "content": [
@@ -244,5 +244,5 @@ var DocuVale = [
     "type": "Blog",
     "title": "Titolo del mio lavoro",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "dd9ce9c0-01c0-4a3b-93f1-b05ac14ff49d"
+    "id": "d522ff35-dcc9-4b0e-8ec3-a998fe191153"
 }];
