@@ -124,7 +124,7 @@ function createIndex(target_list) {
 }
 
 function cropPreview(content) {
-  return content.split("<div style=\"display:none;\">END_PREVIEW</div>")[0];
+  return content.split("<div style=\"display:none;\">END_PREVIEW</div>")[0].replace("article_text_preview_change","article_text");
 }
 
 function showIndexElementByTitle(title) {

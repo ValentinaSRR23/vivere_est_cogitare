@@ -252,3 +252,6 @@ body{
   font-size: 1.4em;
   float: left;
 }
+.article_text_preview_change{
+  display: none;
+}

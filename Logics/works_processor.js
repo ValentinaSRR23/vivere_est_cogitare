@@ -52,7 +52,7 @@ function processContent(content) {
     let val = el["value"];
 
     if(type == "end_preview"){
-      html += "<div style=\"display:none;\">END_PREVIEW</div>";
+      html += "<div class=\"article_text_preview_change\">" + val + "</div><div style=\"display:none;\">END_PREVIEW</div>";
     }
     if(type == "text"){
       html += "<div class=\"article_text\">" + val + "</div>";
