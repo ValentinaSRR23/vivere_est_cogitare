@@ -34,11 +34,9 @@ def aggregate(result,setting, data, isContent):
 
 
     if(not isContent):
-        result[setting] = data
+        result[setting] = {"type": setting, "value": data}
     else:
-        element = {}
-        element[setting] = data
-        result["content"].append(element)
+        result["content"].append({"type": setting, "value": data})
 
     return result
 
