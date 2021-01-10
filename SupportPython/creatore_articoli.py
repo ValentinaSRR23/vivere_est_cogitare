@@ -9,8 +9,8 @@ def openfile(name):
     return t
 
 def writefile(name, content):
-    f = open(name, "w")
-    f.write(content.encode('utf8'))
+    f = open(name, "w", encoding="utf-8")
+    f.write(content)
     f.close()
     return f
 
