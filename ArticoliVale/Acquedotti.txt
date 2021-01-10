@@ -10,7 +10,7 @@ MainImage:
 
 Text:
 Insieme alle strade, gli acquedotti sono state le grandi opere d'ingegneria 
-con cui i Romani hanno stupito il mondo.<br>
+con cui i Romani hanno stupito il mondo.<br> <br>
 
 EndPreview:
 La costruzione degli acquedotti fu una delle imprese più grandi e più impegnative 
@@ -33,7 +33,7 @@ ricorrere ad altre fonti: fu allora che, grazie all'abilità dei suoi costruttor
 si realizzarono gli acquedotti. Da quel momento in poi, ovvero dal 312 a.C., 
 affluì a Roma una quantità enorme di acqua potabile, come nessun'altra città del mondo 
 antico, ma forse di ogni epoca, ebbe mai e che valse alla città il titolo 
-di <em>"regina aquarum"</em>, ossia <strong>"regina delle acque"</strong>. <br> <br>
+di <em>"regina aquarum"</em>, ossia <strong><em>"regina delle acque"</em></strong>. <br> <br>
 
 Text:
 Per maggiori informazioni, ho realizzato insieme ad una mia collega un video illustrativo, 

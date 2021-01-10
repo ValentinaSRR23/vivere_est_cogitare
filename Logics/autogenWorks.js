@@ -5,7 +5,7 @@ var DocuVale = [
     "content": [
         {
             "type": "text",
-            "value": "Insieme alle strade, gli acquedotti sono state le grandi opere d'ingegneria  con cui i Romani hanno stupito il mondo.<br>"
+            "value": "Insieme alle strade, gli acquedotti sono state le grandi opere d'ingegneria  con cui i Romani hanno stupito il mondo.<br> <br>"
         },
         {
             "type": "end_preview",
@@ -17,7 +17,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Per secoli il Tevere, le sorgenti e i pozzi furono in grado di soddisfare il fabbisogno  della città finché lo sviluppo urbanistico e la crescita demografica resero necessario  ricorrere ad altre fonti: fu allora che, grazie all'abilità dei suoi costruttori,  si realizzarono gli acquedotti. Da quel momento in poi, ovvero dal 312 a.C.,  affluì a Roma una quantità enorme di acqua potabile, come nessun'altra città del mondo  antico, ma forse di ogni epoca, ebbe mai e che valse alla città il titolo  di <em>\"regina aquarum\"</em>, ossia <strong>\"regina delle acque\"</strong>. <br> <br>"
+            "value": "Per secoli il Tevere, le sorgenti e i pozzi furono in grado di soddisfare il fabbisogno  della città finché lo sviluppo urbanistico e la crescita demografica resero necessario  ricorrere ad altre fonti: fu allora che, grazie all'abilità dei suoi costruttori,  si realizzarono gli acquedotti. Da quel momento in poi, ovvero dal 312 a.C.,  affluì a Roma una quantità enorme di acqua potabile, come nessun'altra città del mondo  antico, ma forse di ogni epoca, ebbe mai e che valse alla città il titolo  di <em>\"regina aquarum\"</em>, ossia <strong><em>\"regina delle acque\"</em></strong>. <br> <br>"
         },
         {
             "type": "text",
@@ -39,5 +39,5 @@ var DocuVale = [
     "type": "Gregorio",
     "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "1d738ac2-d0fe-4262-ae71-df84c396a2bf"
+    "id": "c418a878-59a4-4347-bc8e-821c4a68fcde"
 }];
