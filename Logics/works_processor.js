@@ -58,7 +58,7 @@ function processContent(content) {
       html += "<div class=\"article_text\">" + val + "</div>";
     }
     if(type == "video"){
-      html += "<iframe class=\"video_iframe\" src=\""+val+"\"></iframe>";
+      html += "<br><iframe class=\"video_iframe\" src=\""+val+"\"></iframe>";
     }
     if(type == "link_ref"){
       html += buildLink(val);
