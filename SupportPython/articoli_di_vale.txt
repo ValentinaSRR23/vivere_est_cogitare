@@ -41,7 +41,7 @@ Category:
 Gregorio
 
 Title:
-Titolo del mio lavoro
+Titolo del mio lavoro 2
 
 MainImage:
 ./Acquedotti/Storytelling/A1.png

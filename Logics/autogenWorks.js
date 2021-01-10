@@ -72,6 +72,6 @@ var DocuVale = [
         }
     ],
     "type": "Gregorio",
-    "title": "Titolo del mio lavoro",
+    "title": "Titolo del mio lavoro 2",
     "preview_image": "./Acquedotti/Storytelling/A1.png"
 }];
