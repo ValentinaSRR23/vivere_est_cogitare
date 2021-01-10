@@ -133,7 +133,7 @@ def main():
 
     for f in os.listdir("./ArticoliVale"):
         print("Processing: ", f)
-        javascript += workOnFile(f)
+        javascript += workOnFile("./ArticoliVale/" + f)
 
     javascript += "];\n"
 
