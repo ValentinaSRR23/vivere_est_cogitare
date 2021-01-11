@@ -1,6 +1,27 @@
 
 var Pages = ["Home", "Info", "Indice Articoli", "Indice Progetti SSML Gregorio VII"];
 
+var DynamiClasses = [
+  "home_page_button",
+  "toolbar_label",
+  "toolbar_nav_label",
+  "nav_main_menu",
+  "nav_main_menu_button",
+  "home_page_info_title",
+  "home_page_info_text",
+  "home_page_info_link",
+  "page_title_label_separator",
+  "article_count",
+  "article_content_link_label",
+  "sign_input_text",
+  "sign_input_area"
+];
+
+
+function isNullOrUndefined(value) {
+  return value === undefined || value == null;
+}
+
 function getNodeAndSetClick(type, data, classLabel, callback) {
     let el = getNode(type,data,classLabel);
     el.setAttribute("onclick",callback);
@@ -26,13 +47,15 @@ function getNode(type, data, classLabel){
   return el;
 }
 
-function boot() {
+async function boot() {
 
   // must be first thing
   initAllWorks();
 
   window.addEventListener('hashchange', pageNavigate, false);
   pageNavigate();
+
+  commentGetAll();
 }
 
 
@@ -90,19 +113,7 @@ function toggleDynamiClass(element_list, baseclass, isToggle){
 
 function resizeComplexElements(width){
 
-  let dynamicClasses = [
-    "home_page_button",
-    "toolbar_label",
-    "toolbar_nav_label",
-    "nav_main_menu",
-    "nav_main_menu_button",
-    "home_page_info_title",
-    "home_page_info_text",
-    "home_page_info_link",
-    "page_title_label_separator",
-    "article_count",
-    "article_content_link_label"
-  ];
+  let dynamicClasses = DynamiClasses;
 
   let dynamics = [];
   for(let i = 0; i < dynamicClasses.length; i++){
@@ -430,13 +441,148 @@ function showGregorioIndexPage(){
   base.appendChild(pageCloser());
 }
 
-function showCommentsPage() {
+function showCommentsListPage() {
+
   let base = getCleanNavigationPanel();
-  let toolbar = getPageHeader("Lascia un commento");
+  let toolbar = getPageHeader("Comunità");
   base.appendChild(toolbar);
 
+  let wrap = getNode("div", null, "page_wrap");
+
+  wrap.appendChild(getNode("div",'Commenti di tutti gli utenti', "home_page_title"));
+
+  wrap.appendChild(getNode("div", "Seguono commenti sono stati inseriti da visitatori del sito in modo anonimo. I commenti con contenuti inadatti saranno rimossi appena individuati.", "home_page_text"));
+
+  wrap.appendChild(getCommentsFromAllUsers());
+
+  base.appendChild(wrap);
 
   base.appendChild(pageCloser());
+}
+
+function getCommentsFromAllUsers() {
+
+  let comments = JSON.parse(localStorage.getItem("comments"));
+
+  if(comments == null){
+    return getNode("div",null,"comments_main_wrap");
+  }
+
+  let main = getNode("div",null,"comments_main_wrap");
+
+  for(let i = 0; i < comments.length; i++){
+
+    let wrap = getNode("div",null, "comment_wrap");
+    let sign = getNode("div","Inviato da: " + comments[i]["sign"], "comment_sign");
+    let text = getNode("div",comments[i]["text"], "comment_text");
+
+    wrap.appendChild(sign);
+    wrap.appendChild(text);
+
+    main.appendChild(wrap);
+  }
+
+  return main;
+}
+
+function showCommentsPage() {
+  let base = getCleanNavigationPanel();
+  let toolbar = getPageHeader("Condivisione");
+  base.appendChild(toolbar);
+
+  let wrap = getNode("div", null, "page_wrap");
+
+  wrap.appendChild(getNode("div",'Lascia un commento', "home_page_title"));
+
+  wrap.appendChild(getNode("div", "In questa sezione potete lasciare un commento che rimarrà visibile sul sito. Non occorre essere registrati.", "home_page_text"));
+  wrap.appendChild(getNode("div", "I commenti non ritenuti idonei a questa sezione saranno eliminati.", "home_page_text"));
+
+  wrap.appendChild(getAcceptCommentNode());
+
+  base.appendChild(wrap);
+
+  base.appendChild(pageCloser());
+}
+
+function getAcceptCommentNode() {
+
+  let w = getNode("div", null, null);
+  w.style.marginTop = "2em";
+
+  let firma_label = getNode("div", "Firma", "sign_input_label");
+  let firma_input = getNode("input", null, "sign_input_text");
+  firma_input.id = "comment_sign";
+  firma_input.placeholder = "La tua firma";
+  firma_input.setAttribute("maxlength", "50");
+
+  let commento_label = getNode("div", "Il tuo commento", "sign_input_label");
+  let commento_input = getNode("textarea", null, "sign_input_area");
+  commento_input.id = "comment_text";
+  commento_input.setAttribute("maxlength", "400");
+  commento_input.placeholder = "Il tuo commento";
+
+  let comment_error = getNode("div",null, "comment_error");
+  comment_error.id = "comment_error";
+
+  let button = getNode("div", "Commenta".toUpperCase(), "home_page_button");
+  button.setAttribute("onclick","postComment()");
+
+
+  w.appendChild(firma_label);
+  w.appendChild(firma_input);
+  w.appendChild(commento_label);
+  w.appendChild(commento_input);
+  w.appendChild(comment_error);
+  w.appendChild(button);
+
+  return w;
+}
+
+function tellCommentError(error_msg) {
+  let error = document.getElementById("comment_error");
+  error.innerHTML = error_msg;
+  error.style.display = "block";
+}
+
+async function postComment() {
+
+  let sign = document.getElementById("comment_sign").value;
+  let text = document.getElementById("comment_text").value;
+
+  let error = document.getElementById("comment_error");
+  error.style.display = "none";
+
+  if(sign.length < 5){
+    tellCommentError("Errore: devi inserire la tua firma, e deve essere almeno di 5 caratteri.");
+    return;
+  }
+  if(text.length < 30){
+    tellCommentError("Errore: devi inserire il tuo commento, e deve essere almeno di 30 caratteri.");
+    return;
+  }
+
+  let comments = JSON.parse(localStorage.getItem("comments"));
+  comments.push({"sign": sign, "text": text});
+  localStorage.setItem("comments", JSON.stringify(comments));
+
+  toggleApiSpinner(true);
+  await commentSendToDB();
+  toggleApiSpinner(false);
+  setNavigation("comments_list");
+}
+
+function toggleApiSpinner(toggle) {
+  if(toggle){
+    let inkdrop = getNode("div",null,"spinner_ink_drop");
+    inkdrop.id = "spinner_ink_drop";
+    let spinner = getNode("div",null,"spinner");
+    inkdrop.appendChild(spinner);
+    document.body.appendChild(inkdrop);
+
+  }else{
+    let inkdrop = document.getElementById("spinner_ink_drop");
+    document.body.removeChild(inkdrop);
+  }
 }
 
 function pageCloser() {
@@ -585,6 +731,14 @@ function pageNavigate() {
     if(page_no_args == "empty_page"){
       found = true;
       showEmptyPage();
+    }
+    if(page_no_args == "comments"){
+      found = true;
+      showCommentsPage();
+    }
+    if(page_no_args == "comments_list"){
+      found = true;
+      showCommentsListPage();
     }
     if (page_no_args.substr(0,"article".length) == "article") {
         found = true;

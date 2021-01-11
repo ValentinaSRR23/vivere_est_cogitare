@@ -452,3 +452,87 @@ background: rgba(0,0,0,0.5);
   margin: 2em 0;
   background: #2d6d7b;
 }
+.sign_input_label{
+  margin: 0.5em 0.2em;
+  color:#2d6d7b;
+  font-size: 1.2em;
+}
+.sign_input_area{
+  min-width: 50em;
+  min-height: 10em;
+  resize: none;
+}
+.sign_input_area_small_screen{
+  width: 100%;
+  min-height: 20em;
+  resize: none;
+}
+.sign_input_text{
+  min-width: 30em;
+}
+.sign_input_text_small_screen{
+  font-size: 3em;
+  width: 100%
+}
+.comment_error{
+  color: #ad2929;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 1em 0;
+}
+.spinner_ink_drop{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0,0,0,0.6);
+}
+.spinner{
+  animation: spin 0.5s linear infinite;
+  border: 1em solid transparent;
+  border-bottom: 1em solid blue;
+  margin: 0 auto;
+  width: 7em;
+  height: 7em;
+  border-radius: 50%;
+  margin-top: 15em;
+}
+
+@keyframes spin {
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+@-moz-keyframes spin {
+	from {
+		-moz-transform: rotate(0deg);
+	}
+	to {
+		-moz-transform: rotate(360deg);
+	}
+}
+
+.comments_main_wrap{
+  padding: 5em 0;
+}
+.comment_wrap{
+  background: rgba(0,0,0,0.2);
+  border: 1px solid rgba(0,0,0,0.5);
+  margin: 0.5em 0;
+  padding: 1em;
+  font-size: 1.2em;
+}
+.comment_sign{
+    font-weight: bold;
+}
+.comment_text{
+  background: rgba(255,255,255,0.5);
+  border: 1px solid rgba(0,0,0,0.3);
+  padding: 1em;
+  margin-top: 1em;
+}
