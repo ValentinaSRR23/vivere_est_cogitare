@@ -451,7 +451,7 @@ async function showCommentsListPage() {
 
   wrap.appendChild(getNode("div",'Commenti di tutti gli utenti', "home_page_title"));
 
-  wrap.appendChild(getNode("div", "Seguono commenti sono stati inseriti da visitatori del sito in modo anonimo. I commenti con contenuti inadatti saranno rimossi appena individuati.", "home_page_text"));
+  wrap.appendChild(getNode("div", "Seguono commenti che sono stati inseriti dai vari visitatori del sito. I commenti con contenuti inadatti saranno rimossi appena individuati.", "home_page_text"));
 
   wrap.appendChild(getCommentsFromAllUsers());
 
