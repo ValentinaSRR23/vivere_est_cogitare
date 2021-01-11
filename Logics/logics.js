@@ -1,5 +1,5 @@
 
-var Pages = ["Home", "Info", "Indice Articoli", "Indice Progetti SSML Gregorio VII"];
+var Pages = ["Home", "Info", "Indice Articoli", "Indice Progetti SSML Gregorio VII", "Comunità"];
 
 var DynamiClasses = [
   "home_page_button",
@@ -650,6 +650,10 @@ function toggleMenu() {
         {
             "label": Pages[3],
             "onclick": "setNavigation('index_gregorio')"
+        },
+        {
+            "label": Pages[4],
+            "onclick": "setNavigation('comments_list')"
         }
       ];
 
