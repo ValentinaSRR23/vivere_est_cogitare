@@ -1,11 +1,9 @@
 import io
 import json
 import os
-import uuid
 
 
-def getId():
-    return str(uuid.uuid4())
+
 
 def openfile(name):
 
@@ -47,7 +45,7 @@ def aggregate(result,setting, data, isContent):
     return result
 
 
-def processElement(element):
+def processElement(element, fname):
 
     rows = element.split("\n")
 
@@ -113,17 +111,17 @@ def processElement(element):
 
     result = aggregate(result,setting, data, isContent)
 
-    result["id"] = getId()
+    result["id"] = fname
 
     return result
 
 
-def injectJsons(elements):
+def injectJsons(elements, fname):
 
     javascript = ""
     for element in elements:
 
-        el = processElement(element)
+        el = processElement(element, fname)
 
         if(el != None):
             javascript += json.dumps(el, indent=4, ensure_ascii=False) + ",\n"
@@ -132,10 +130,10 @@ def injectJsons(elements):
 
     return javascript
 
-def workOnFile(filePath):
+def workOnFile(filePath, fname):
     t = openfile(filePath)
     elements = t.split("END_ARTICLE")
-    return injectJsons(elements)
+    return injectJsons(elements, fname)
 
 
 def main():
@@ -145,7 +143,7 @@ def main():
 
     for f in os.listdir("./ArticoliVale"):
         print("Processing: ", f)
-        javascript += workOnFile("./ArticoliVale/" + f) + ",\n"
+        javascript += workOnFile("./ArticoliVale/" + f, f.split(".")[0]) + ",\n"
 
     javascript = javascript[:-2]
     javascript += "];\n"

@@ -102,7 +102,7 @@ function buildImageSliderHtml(list_imgs) {
 
   let slide_show_rand_id = uuidv4();
 
-  let wrap = "<div id=\""+slide_show_rand_id+"\" class=\"slide_show_wrap\"><div class=\"slide_show_wrap_images\">INNER_IMAGES</div><div class=\"slide_show_buttons_wrapper\">INNER_BUTTONS</div></div>";
+  let wrap = "<div id=\""+slide_show_rand_id+"\" class=\"slide_show_wrap\"><div class=\"slide_show_wrap_images\" name=\"slide_shower\"><div class=\"left_slide_button\" onclick=\"slideshowMoveLeft('"+slide_show_rand_id+"');\">‹</div>INNER_IMAGES<div class=\"right_slide_button\" onclick=\"slideshowMoveRight('"+slide_show_rand_id+"');\">›</div></div><div class=\"slide_show_buttons_wrapper\">INNER_BUTTONS</div></div>";
 
   let slides = "";
   let buttons = "";
@@ -121,8 +121,71 @@ function buildImageSliderHtml(list_imgs) {
 
   wrap = wrap.replace("INNER_IMAGES", slides).replace("INNER_BUTTONS",buttons);
 
+  setTimeout(initSlideShowerEventListeners,400);
+
   return wrap;
 }
+
+function initSlideShowerEventListeners() {
+  let sliders = document.getElementsByName("slide_shower");
+  for(let i = 0; i < sliders.length; i++){
+    sliders[i].addEventListener('mouseenter', showSlidersArrows);
+    sliders[i].addEventListener('mouseleave', hideSlidersArrows);
+  }
+}
+
+function showSlidersArrows(){
+  let src = event.srcElement;
+  let targ = src.children;
+  for(let i = 0; i < targ.length; i++){
+      if(targ[i].nodeName == "DIV"){
+        targ[i].style.display = "inline-block";
+      }
+  }
+}
+
+function hideSlidersArrows(){
+  let src = event.srcElement;
+  let targ = src.children;
+  for(let i = 0; i < targ.length; i++){
+      if(targ[i].nodeName == "DIV"){
+        targ[i].style.display = "none";
+      }
+  }
+}
+
+function getSliderSelectedIndexAndMazSize(id) {
+  let slider = document.getElementById(id);
+  let slider_images_and_divs_wrap = slider.children[0];
+  let slider_images_and_divs = slider_images_and_divs_wrap.children;
+  let index = -1;
+  for(let i = 0; i < slider_images_and_divs.length; i++){
+      if(slider_images_and_divs[i].className == "image_slide_show"){
+        index = i;
+      }
+  }
+  return [index-1, slider_images_and_divs.length-2];
+}
+
+function slideshowMoveLeft(id) {
+  let index_and_max = getSliderSelectedIndexAndMazSize(id);
+  let index = index_and_max[0];
+  if(index>0){
+    index--;
+    slideShowChange(index.toString() + "___" + id);
+  }
+}
+
+function slideshowMoveRight(id) {
+  let index_and_max = getSliderSelectedIndexAndMazSize(id);
+  let index = index_and_max[0];
+  let max = index_and_max[1];
+  if(index<max-1){
+    index++;
+    slideShowChange(index.toString() + "___" + id);
+  }
+}
+
 
 function slideShowChange(index___id) {
 
@@ -132,16 +195,23 @@ function slideShowChange(index___id) {
 
   let slider = document.getElementById(id);
 
-  let slider_images = slider.children[0];
-  let slider_buttons = slider.children[1];
+  let slider_images_and_divs_wrap = slider.children[0];
+  let slider_buttons_wrap = slider.children[1];
 
-  let images = slider_images.children;
+  let slider_images_and_divs = slider_images_and_divs_wrap.children;
+  let buttons = slider_buttons_wrap.children;
+  let images = [];
+  for(let i = 0; i < slider_images_and_divs.length; i++){
+      if(slider_images_and_divs[i].nodeName == "IMG"){
+        images.push(slider_images_and_divs[i]);
+      }
+  }
+
   for(let i = 0; i < images.length; i++){
     images[i].className = "image_slide_show_hidden";
   }
   images[index].className = "image_slide_show";
 
-  let buttons = slider_buttons.children;
   for(let i = 0; i < buttons.length; i++){
     buttons[i].className = "slide_show_button";
   }
