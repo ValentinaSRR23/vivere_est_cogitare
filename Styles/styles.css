@@ -281,9 +281,10 @@ body{
   font-size: 1.6em;
 }
 .video_iframe{
-  margin: 4em;
-  width: 30em;
-  height: 20em;
+  margin: 5em auto;
+  display: block;
+  width: 45em;
+  height: 25em;
 }
 .article_toolbar_sphere_image{
   width: 100%;
@@ -306,8 +307,13 @@ body{
   font-size: 0.6em;
 }
 .article_content_link_label{
-  margin-top: 1em;
+  margin: 1em 0;
   font-size: 1.4em;
+  float: left;
+}
+.article_content_link_label_small_screen{
+  margin: 1em 0;
+  font-size: 2.4em;
   float: left;
 }
 .article_text_preview_change{
@@ -397,7 +403,8 @@ background: rgba(0,0,0,0.5);
 
 }
 .slide_show_wrap_images{
-    margin: 0 3em;
+  width: fit-content;
+  margin: auto;
 }
 .slide_side_buttons_wrapper{
   position: relative;
@@ -440,5 +447,8 @@ background: rgba(0,0,0,0.5);
   background: rgba(255,255,255,0.6);
 }
 .article_separator{
-  
+  width: 100%;
+  height: 2px;
+  margin: 2em 0;
+  background: #2d6d7b;
 }

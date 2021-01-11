@@ -90,7 +90,20 @@ function toggleDynamiClass(element_list, baseclass, isToggle){
 
 function resizeComplexElements(width){
 
-  let dynamicClasses = ["home_page_button","toolbar_label","toolbar_nav_label","nav_main_menu","nav_main_menu_button", "home_page_info_title","home_page_info_text", "home_page_info_link", "page_title_label_separator","article_count"];
+  let dynamicClasses = [
+    "home_page_button",
+    "toolbar_label",
+    "toolbar_nav_label",
+    "nav_main_menu",
+    "nav_main_menu_button",
+    "home_page_info_title",
+    "home_page_info_text",
+    "home_page_info_link",
+    "page_title_label_separator",
+    "article_count",
+    "article_content_link_label"
+  ];
+
   let dynamics = [];
   for(let i = 0; i < dynamicClasses.length; i++){
     let dclass = dynamicClasses[i];
