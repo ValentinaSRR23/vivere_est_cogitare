@@ -541,5 +541,7 @@ function pageNavigate() {
       showUnknownPage();
     }
 
+    initSlideShowerEventListeners();
+
     handleResize();
 }

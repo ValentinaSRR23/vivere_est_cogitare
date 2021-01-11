@@ -121,8 +121,6 @@ function buildImageSliderHtml(list_imgs) {
 
   wrap = wrap.replace("INNER_IMAGES", slides).replace("INNER_BUTTONS",buttons);
 
-  setTimeout(initSlideShowerEventListeners,400);
-
   return wrap;
 }
 
