@@ -18,6 +18,11 @@ marco ndiro ndiro [...]
 Text:
 marco ndiro ndiro ndello! <br>
 
+Separator:
+
+Text:
+Questo testo appare separato! Miracolo!
+
 
 SlideShow:
 ./Acquedotti/Storytelling/A1.png

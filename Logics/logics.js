@@ -41,60 +41,69 @@ function handleResize() {
 
   document.body.style.fontSize = "";
 
-  let width = window.innerWidth;
-
-  resizeNavButton(width);
-
+  let width = window.outerWidth;
 
   if(width < 650) {
     document.body.style.fontSize = "0.7rem";
-    return;
   }
-  if(width < 800) {
+  else if(width < 800) {
     document.body.style.fontSize = "0.8rem";
-    return;
   }
-  if(width < 1000) {
+  else if(width < 1000) {
     document.body.style.fontSize = "0.9rem";
-    return;
   }
-  document.body.style.fontSize = "1rem";
+  else{
+    document.body.style.fontSize = "1rem";
+  }
+
+  resizeComplexElements(width);
+
 }
 
-function resizeNavButton(width){
-
-  let navbutton = document.getElementsByClassName("toolbar_nav_label");
-  let menu = document.getElementsByClassName("nav_main_menu");
-  let button = document.getElementsByClassName("nav_main_menu_button");
-
-  if(navbutton.length == 0){
-    navbutton = document.getElementsByClassName("toolbar_nav_label_small_screen");
-    menu = document.getElementsByClassName("nav_main_menu_small_screen");
-    button = document.getElementsByClassName("nav_main_menu_button_small_screen");
+function getDynamicElements(className) {
+  let elements = document.getElementsByClassName(className);
+  if(elements.length == 0){
+    elements = document.getElementsByClassName(className + "_small_screen");
   }
 
-  if(width > 700){
-    for(let i = 0; i < navbutton.length; i++){
-      navbutton[i].className = "toolbar_nav_label";
-    }
-    for(let i = 0; i < menu.length; i++){
-      menu[i].className = "nav_main_menu";
-    }
-    for(let i = 0; i < button.length; i++){
-      button[i].className = "nav_main_menu_button";
+  let list = [];
+  for(let i = 0; i < elements.length;i++){
+    list.push(elements[i]);
+  }
+
+  return list;
+}
+
+function toggleDynamiClass(element_list, baseclass, isToggle){
+  for(let i = 0; i < element_list.length; i++){
+    let element = element_list[i];
+
+    if(isToggle){
+      element.className = baseclass;
+    }else{
+      element.className = baseclass + "_small_screen";
     }
 
-  }else{
-    for(let i = 0; i < navbutton.length; i++){
-      navbutton[i].className = "toolbar_nav_label_small_screen";
-    }
-    for(let i = 0; i < menu.length; i++){
-      menu[i].className = "nav_main_menu_small_screen";
-    }
-    for(let i = 0; i < button.length; i++){
-      button[i].className = "nav_main_menu_button_small_screen";
-    }
   }
+}
+
+
+function resizeComplexElements(width){
+
+  let dynamicClasses = ["home_page_button","toolbar_label","toolbar_nav_label","nav_main_menu","nav_main_menu_button", "home_page_info_title","home_page_info_text", "home_page_info_link", "page_title_label_separator","article_count"];
+  let dynamics = [];
+  for(let i = 0; i < dynamicClasses.length; i++){
+    let dclass = dynamicClasses[i];
+    dynamics.push([getDynamicElements(dclass),dclass]);
+  }
+
+  let toggle = width > 700;
+  for(let i = 0; i < dynamics.length; i++){
+    let current = dynamics[i];
+    toggleDynamiClass(current[0], current[1], toggle);
+  }
+
+
 }
 
 
@@ -153,8 +162,12 @@ function showArticlePage(article_url) {
   }
   else{
     base.appendChild(getPageHeaderArticle(article));
-    base.appendChild(getNode("div", article["title"],"home_page_title"));
-    base.appendChild(getNode("div", article["content"], "article_page_wrap"));
+
+    let wrap = getNode("div", null, "page_wrap");
+    wrap.appendChild(getNode("div", article["title"],"home_page_title"));
+    wrap.appendChild(getNode("div", article["content"], "article_page_wrap"));
+
+    base.appendChild(wrap);
 
   }
 
@@ -260,11 +273,11 @@ function showHomePage(){
 
   info_1.appendChild(getNode("div",'Su di me', "home_page_info_title"));
   info_1.appendChild(getNode("div", "Ciao a tutti! <br>Sono Valentina, laureanda in mediazione linguistica all'Università SSML Gregorio VII di Roma...", "home_page_info_text"));
-  info_1.appendChild(getNodeAndSetClick("div", "Maggiori informazioni su di me", "home_page_info_link", "avigation('info')"));
+  info_1.appendChild(getNodeAndSetClick("div", "Maggiori informazioni su di me", "home_page_info_link", "setNavigation('info')"));
 
   info_2.appendChild(getNode("div",'Spazio per voi', "home_page_info_title"));
   info_2.appendChild(getNode("div", "Dubbi, cursiosità o suggerimenti sono ben accetti. <br>Chiunque voglia condividere la sua opinione può cliccare sul link qui sotto:", "home_page_info_text"));
-  info_2.appendChild(getNodeAndSetClick("div", "Lascia un commento", "home_page_info_link", "avigation('comments')"));
+  info_2.appendChild(getNodeAndSetClick("div", "Lascia un commento", "home_page_info_link", "setNavigation('comments')"));
 
 
   info_3.appendChild(getNode("div",'Altri articoli', "home_page_info_title"));
@@ -420,7 +433,7 @@ function toggleMenu() {
 
   if(menu == null)
   {
-      let width = window.innerWidth;
+      let width = window.outerWidth;
 
       let menu_class = "";
       let buttons_class = "";
@@ -543,4 +556,6 @@ function pageNavigate() {
     initSlideShowerEventListeners();
 
     handleResize();
+
+    document.body.scrollTop = 0;
 }

@@ -65,6 +65,9 @@ function processContent(content) {
     if(type == "link_ref"){
       html += buildLink(val);
     }
+    if(type == "separator"){
+      html += "<div class=\"article_separator\"></div>";
+    }
     if(type == "image_slide"){
       html += buildImageSliderHtml(val);
     }

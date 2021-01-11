@@ -91,6 +91,11 @@ def processElement(element, fname):
             isContent = True
             data = ""
             setting = "text"
+        elif(row == "Separator:"):
+            result = aggregate(result,setting, data, isContent)
+            isContent = True
+            data = ""
+            setting = "separator"
         elif(row == "Collegamento:"):
             result = aggregate(result,setting, data, isContent)
             isContent = True

@@ -71,6 +71,14 @@ var DocuVale = [
             "value": "marco ndiro ndiro ndello! <br>"
         },
         {
+            "type": "separator",
+            "value": ""
+        },
+        {
+            "type": "text",
+            "value": "Questo testo appare separato! Miracolo!"
+        },
+        {
             "type": "image_slide",
             "value": [
                 "./Acquedotti/Storytelling/A1.png",
