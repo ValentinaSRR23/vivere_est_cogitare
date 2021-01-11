@@ -261,6 +261,7 @@ function showHomePage(){
 
 
   let button = getNode("div", "scopri di più".toUpperCase(), "home_page_button");
+  button.setAttribute("onclick","findOutMore()");
   wrap.appendChild(button);
 
   let img_wrap = getNode("div", null, "image_wrapper");
@@ -298,6 +299,31 @@ function showHomePage(){
 
 
   wrap.appendChild(inline_info_wrap);
+
+  base.appendChild(wrap);
+
+  base.appendChild(pageCloser());
+}
+
+function findOutMore() {
+  if(ValeProgetti.Blogs.length == 0){
+    setNavigation("empty_page");
+  }else{
+    setNavigation("article_" + ValeProgetti.Blogs[0]["id"]);
+  }
+}
+
+function showEmptyPage() {
+  let base = getCleanNavigationPanel();
+  let toolbar = getPageHeaderInfo("Pagina in arrivo");
+  base.appendChild(toolbar);
+
+  let wrap = getNode("div", null, "page_wrap");
+
+  wrap.appendChild(getNode("div",'Articolo in costruzione', "home_page_title"));
+
+  wrap.appendChild(getNode("div","In questa pagina apparirà il primo articolo dell'indice dei Blog appena sarà disponibile.", "home_page_text"));
+
 
   base.appendChild(wrap);
 
@@ -556,10 +582,16 @@ function pageNavigate() {
         found = true;
         showGregorioIndexPage();
     }
+    if(page_no_args == "empty_page"){
+      found = true;
+      showEmptyPage();
+    }
     if (page_no_args.substr(0,"article".length) == "article") {
         found = true;
         showArticlePage(page_no_args);
     }
+
+
 
 
     if(!found){
