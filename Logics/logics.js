@@ -39,6 +39,10 @@ function handleResize() {
   document.body.style.fontSize = "";
 
   let width = window.innerWidth;
+
+  resizeNavButton(width);
+
+
   if(width < 650) {
     document.body.style.fontSize = "0.7rem";
     return;
@@ -52,6 +56,42 @@ function handleResize() {
     return;
   }
   document.body.style.fontSize = "1rem";
+}
+
+function resizeNavButton(width){
+
+  let navbutton = document.getElementsByClassName("toolbar_nav_label");
+  let menu = document.getElementsByClassName("nav_main_menu");
+  let button = document.getElementsByClassName("nav_main_menu_button");
+
+  if(navbutton.length == 0){
+    navbutton = document.getElementsByClassName("toolbar_nav_label_small_screen");
+    menu = document.getElementsByClassName("nav_main_menu_small_screen");
+    button = document.getElementsByClassName("nav_main_menu_button_small_screen");
+  }
+
+  if(width > 700){
+    for(let i = 0; i < navbutton.length; i++){
+      navbutton[i].className = "toolbar_nav_label";
+    }
+    for(let i = 0; i < menu.length; i++){
+      menu[i].className = "nav_main_menu";
+    }
+    for(let i = 0; i < button.length; i++){
+      button[i].className = "nav_main_menu_button";
+    }
+
+  }else{
+    for(let i = 0; i < navbutton.length; i++){
+      navbutton[i].className = "toolbar_nav_label_small_screen";
+    }
+    for(let i = 0; i < menu.length; i++){
+      menu[i].className = "nav_main_menu_small_screen";
+    }
+    for(let i = 0; i < button.length; i++){
+      button[i].className = "nav_main_menu_button_small_screen";
+    }
+  }
 }
 
 
@@ -397,7 +437,20 @@ function toggleMenu() {
 
   if(menu == null)
   {
-      menu = getNode("div", null, "nav_main_menu");
+      let width = window.innerWidth;
+
+      let menu_class = "";
+      let buttons_class = "";
+
+      if(width > 700){
+        menu_class = "nav_main_menu";
+        buttons_class = "nav_main_menu_button";
+      }else{
+        menu_class = "nav_main_menu_small_screen";
+        buttons_class = "nav_main_menu_button_small_screen";
+      }
+
+      menu = getNode("div", null, menu_class);
       menu.id = "nav_main_menu";
 
       let voices = [
@@ -421,7 +474,7 @@ function toggleMenu() {
 
       for(let i = 0; i < voices.length; i++){
         let el = voices[i];
-        let button = getNode("div", el["label"] , "nav_main_menu_button");
+        let button = getNode("div", el["label"] , buttons_class);
         button.setAttribute("onclick",  el["onclick"]);
         menu.appendChild(button);
       }

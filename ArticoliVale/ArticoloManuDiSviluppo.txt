@@ -1,0 +1,30 @@
+
+Category:
+Gregorio
+
+Title:
+Titolo
+
+MainImage:
+./Acquedotti/Storytelling/A1.png
+
+Text:
+Ma che bel castello.<br> 
+
+EndPreview:
+marco ndiro ndiro [...] 
+
+
+Text:
+marco ndiro ndiro ndello! <br>
+
+
+SlideShow:
+./Acquedotti/Storytelling/A1.png
+./Acquedotti/Storytelling/A2.png
+./Acquedotti/Storytelling/A3.png
+./Acquedotti/Storytelling/A4.png
+
+
+
+

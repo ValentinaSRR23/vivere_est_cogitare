@@ -39,5 +39,34 @@ var DocuVale = [
     "type": "Gregorio",
     "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "a6b8cc1c-12d9-48c5-8012-62ba6420568a"
+    "id": "bd4f559a-721e-4386-97e6-adb8a050feb0"
+},
+{
+    "content": [
+        {
+            "type": "text",
+            "value": "Ma che bel castello.<br>"
+        },
+        {
+            "type": "end_preview",
+            "value": "marco ndiro ndiro [...]"
+        },
+        {
+            "type": "text",
+            "value": "marco ndiro ndiro ndello! <br>"
+        },
+        {
+            "type": "image_slide",
+            "value": [
+                "./Acquedotti/Storytelling/A1.png",
+                "./Acquedotti/Storytelling/A2.png",
+                "./Acquedotti/Storytelling/A3.png",
+                "./Acquedotti/Storytelling/A4.png"
+            ]
+        }
+    ],
+    "type": "Gregorio",
+    "title": "Titolo",
+    "preview_image": "./Acquedotti/Storytelling/A1.png",
+    "id": "b9d6e03c-10c2-4f8b-b067-61929c91a05d"
 }];

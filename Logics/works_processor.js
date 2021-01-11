@@ -87,11 +87,11 @@ function buildLink(val) {
   let text = spl_no_link.join(" ");
 
 
-  let link = "<div class=\"article_content_link_label\">"+link_near_label+"<a href=\""+link_ref+"\" target=\"_blank\">"+text+"</a></div>";
+  let link = "<div class=\"article_content_link_label\">"+link_near_label+"<a style=\"color: #2d6d7b;\" href=\""+link_ref+"\" target=\"_blank\">"+text+"</a></div>";
   return link;
 }
 
 function buildImageSliderHtml(list_imgs) {
-
+  console.log(list_imgs);
   return "";
 }
