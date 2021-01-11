@@ -486,12 +486,12 @@ background: rgba(0,0,0,0.5);
   left: 0;
   width: 100vw;
   height: 100vh;
-  background: rgba(0,0,0,0.6);
+  background: rgba(0,0,0,0.3);
 }
 .spinner{
   animation: spin 0.5s linear infinite;
   border: 1em solid transparent;
-  border-bottom: 1em solid blue;
+  border-bottom: 1em solid #2d6d7b;
   margin: 0 auto;
   width: 7em;
   height: 7em;

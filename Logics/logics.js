@@ -54,8 +54,6 @@ async function boot() {
 
   window.addEventListener('hashchange', pageNavigate, false);
   pageNavigate();
-
-  commentGetAll();
 }
 
 
@@ -441,7 +439,9 @@ function showGregorioIndexPage(){
   base.appendChild(pageCloser());
 }
 
-function showCommentsListPage() {
+async function showCommentsListPage() {
+
+  await commentGetAll();
 
   let base = getCleanNavigationPanel();
   let toolbar = getPageHeader("Comunità");
@@ -572,7 +572,10 @@ async function postComment() {
 }
 
 function toggleApiSpinner(toggle) {
+
   if(toggle){
+    document.body.style.overflow = "hidden";
+
     let inkdrop = getNode("div",null,"spinner_ink_drop");
     inkdrop.id = "spinner_ink_drop";
     let spinner = getNode("div",null,"spinner");
@@ -580,6 +583,8 @@ function toggleApiSpinner(toggle) {
     document.body.appendChild(inkdrop);
 
   }else{
+    document.body.style.overflow = "";
+
     let inkdrop = document.getElementById("spinner_ink_drop");
     document.body.removeChild(inkdrop);
   }

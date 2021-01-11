@@ -40,7 +40,7 @@ async function commentsGet(){
    console.log("Tryng get comments");
     try{
       let res = await db.collection(COLLECTION).find({user_id: client.auth.user.id},{_id:0}).asArray();
-      localStorage.setItem("comments", JSON.stringify(res));
+      localStorage.setItem("comments", JSON.stringify(res[0]["comments"]));
       console.log("Done");
     }
     catch(e){
@@ -49,12 +49,6 @@ async function commentsGet(){
 }
 
 async function commentGetAll(){
-
-  if(localStorage.getItem("comments") != null)
-  {
-    console.log("Comments already loaded");
-    return;
-  }
 
   if(!LOGGED_IN){
     await login(USER_NAME, USER_PASSWORD);
