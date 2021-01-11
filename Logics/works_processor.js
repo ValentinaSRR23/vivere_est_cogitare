@@ -91,7 +91,60 @@ function buildLink(val) {
   return link;
 }
 
+function uuidv4() {
+  return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+    var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
+    return v.toString(16);
+  });
+}
+
 function buildImageSliderHtml(list_imgs) {
-  console.log(list_imgs);
-  return "";
+
+  let slide_show_rand_id = uuidv4();
+
+  let wrap = "<div id=\""+slide_show_rand_id+"\" class=\"slide_show_wrap\"><div class=\"slide_show_wrap_images\">INNER_IMAGES</div><div class=\"slide_show_buttons_wrapper\">INNER_BUTTONS</div></div>";
+
+  let slides = "";
+  let buttons = "";
+  for(let i = 0; i < list_imgs.length; i++){
+
+    let class_for_img = "image_slide_show";
+    let class_for_button = "slide_show_button_selected";
+    if(i > 0){
+      class_for_img = "image_slide_show_hidden";
+      class_for_button = "slide_show_button";
+    }
+
+    slides += "<img class=\""+class_for_img+"\" src=\""+list_imgs[i]+"\" class=\"slide_show_img\">\n";
+    buttons += "<div class=\""+class_for_button+"\" onclick=slideShowChange('"+i.toString() + "___" +slide_show_rand_id+"');></div>";
+  }
+
+  wrap = wrap.replace("INNER_IMAGES", slides).replace("INNER_BUTTONS",buttons);
+
+  return wrap;
+}
+
+function slideShowChange(index___id) {
+
+  let spl = index___id.split("___");
+  let index = spl[0];
+  let id = spl[1];
+
+  let slider = document.getElementById(id);
+
+  let slider_images = slider.children[0];
+  let slider_buttons = slider.children[1];
+
+  let images = slider_images.children;
+  for(let i = 0; i < images.length; i++){
+    images[i].className = "image_slide_show_hidden";
+  }
+  images[index].className = "image_slide_show";
+
+  let buttons = slider_buttons.children;
+  for(let i = 0; i < buttons.length; i++){
+    buttons[i].className = "slide_show_button";
+  }
+  buttons[index].className = "slide_show_button_selected";
+
 }

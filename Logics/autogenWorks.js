@@ -39,7 +39,7 @@ var DocuVale = [
     "type": "Gregorio",
     "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "bd4f559a-721e-4386-97e6-adb8a050feb0"
+    "id": "839984e3-1953-4945-9042-da7efd95b67e"
 },
 {
     "content": [
@@ -68,5 +68,5 @@ var DocuVale = [
     "type": "Gregorio",
     "title": "Titolo",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "b9d6e03c-10c2-4f8b-b067-61929c91a05d"
+    "id": "0afcf177-07c6-4547-bc56-13147982cde7"
 }];

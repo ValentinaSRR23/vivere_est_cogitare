@@ -27,9 +27,12 @@ function getNode(type, data, classLabel){
 }
 
 function boot() {
-  showPage(0);
+
+  // must be first thing
   initAllWorks();
-  handleResize();
+
+  window.addEventListener('hashchange', pageNavigate, false);
+  pageNavigate();
 }
 
 
@@ -95,35 +98,6 @@ function resizeNavButton(width){
 }
 
 
-function showPage(page_index) {
-    // home
-    if(page_index == 0){
-        showPage_1(Pages[0]);
-    }
-    // info
-    if(page_index == 1){
-      showPage_2(Pages[1]);
-    }
-    // articoli indice
-    if(page_index == 2){
-      showPage_3(Pages[2]);
-    }
-    // gregorio indice
-    if(page_index == 3){
-      showPage_4(Pages[3]);
-    }
-    // articolo view
-    if(page_index == 4){
-      showPage_article();
-    }
-    // leace a comment
-    if(page_index == 5){
-      showPage_5();
-    }
-
-    setTimeout(() =>{document.body.scrollTop = 0;},300);
-}
-
 function createIndex(target_list) {
 
   let index_wrap = getNode("div",null, "index");
@@ -147,7 +121,7 @@ function createIndex(target_list) {
       let index_row_title = getNode("div", index_element["title"], "index_row_title");
       let index_row_preview = getNode("div", cropPreview(index_element["content"]), "index_row_preview");
       let see_more_link = getNode("div", "Continua a leggere...", "index_row_link");
-      see_more_link.setAttribute("onclick", "showIndexElementByTitle('"+index_element["id"]+"');");
+      see_more_link.setAttribute("onclick", "setNavigation('article_"+index_element["id"]+"');");
 
       d1.appendChild(index_row_image);
 
@@ -167,27 +141,27 @@ function cropPreview(content) {
   return content.split("<div style=\"display:none;\">END_PREVIEW</div>")[0].replace("article_text_preview_change","article_text");
 }
 
-function showIndexElementByTitle(title) {
-  let doc = searchWorkByTitle(title);
-  if(doc != null){
-    showPage_article(doc);
-  }
-}
 
-function showPage_article(article) {
+function showArticlePage(article_url) {
 
+  let article = searchWorkById(article_url.split("article_")[1]);
   let base = getCleanNavigationPanel();
-  let toolbar = getPageHeaderArticle(article);
-  base.appendChild(toolbar);
 
-  base.appendChild(getNode("div", article["content"], "article_page_wrap"));
+  if(article == null){
+    base.appendChild(getPageHeaderArticle("Articolo non trovato"));
+    base.appendChild(getNode("div", "Non è stato selezionato alcun articolo", "article_page_wrap"));
+  }
+  else{
+    base.appendChild(getPageHeaderArticle(article));
+    base.appendChild(getNode("div", article["content"], "article_page_wrap"));
+
+  }
 
   base.appendChild(pageCloser());
-
 }
 
 
-function searchWorkByTitle(title){
+function searchWorkById(title){
   let Blogs = ValeProgetti.Blogs;
   let GregorioWorks = ValeProgetti.Gregorios;
   for(let i = 0; i < Blogs.length; i++){
@@ -242,10 +216,10 @@ function getCleanNavigationPanel(){
   return document.body;
 }
 
-function showPage_1(name){
+function showHomePage(){
 
   let base = getCleanNavigationPanel();
-  let toolbar = getPageHeader(name);
+  let toolbar = getPageHeader("Home");
   base.appendChild(toolbar);
 
   let wrap = getNode("div", null, "page_wrap");
@@ -285,11 +259,11 @@ function showPage_1(name){
 
   info_1.appendChild(getNode("div",'Su di me', "home_page_info_title"));
   info_1.appendChild(getNode("div", "Ciao a tutti! <br>Sono Valentina, laureanda in mediazione linguistica all'Università SSML Gregorio VII di Roma...", "home_page_info_text"));
-  info_1.appendChild(getNodeAndSetClick("div", "Maggiori informazioni su di me", "home_page_info_link", "showPage(1)"));
+  info_1.appendChild(getNodeAndSetClick("div", "Maggiori informazioni su di me", "home_page_info_link", "avigation('info')"));
 
   info_2.appendChild(getNode("div",'Spazio per voi', "home_page_info_title"));
   info_2.appendChild(getNode("div", "Dubbi, cursiosità o suggerimenti sono ben accetti. <br>Chiunque voglia condividere la sua opinione può cliccare sul link qui sotto:", "home_page_info_text"));
-  info_2.appendChild(getNodeAndSetClick("div", "Lascia un commento", "home_page_info_link", "showPage(5)"));
+  info_2.appendChild(getNodeAndSetClick("div", "Lascia un commento", "home_page_info_link", "avigation('comments')"));
 
 
   info_3.appendChild(getNode("div",'Altri articoli', "home_page_info_title"));
@@ -303,10 +277,10 @@ function showPage_1(name){
   base.appendChild(pageCloser());
 }
 
-function showPage_2(name){
+function showInfoPage(){
 
   let base = getCleanNavigationPanel();
-  let toolbar = getPageHeaderInfo(name);
+  let toolbar = getPageHeaderInfo("Info");
   base.appendChild(toolbar);
 
   let wrap = getNode("div", null, "page_wrap");
@@ -360,10 +334,20 @@ function showPage_2(name){
 
 }
 
-function showPage_3(name){
+function showUnknownPage() {
+  let base = getCleanNavigationPanel();
+  let toolbar = getPageHeader("Pagina sconosciuta");
+  base.appendChild(toolbar);
+
+  base.appendChild(getNode("div", "Siamo spiacenti, ma la pagina richiesta non esiste.", "article_count"));
+
+  base.appendChild(pageCloser());
+}
+
+function showBlogIndexPage(){
 
   let base = getCleanNavigationPanel();
-  let toolbar = getPageHeader(name);
+  let toolbar = getPageHeader("Indice Articoli");
   base.appendChild(toolbar);
 
   if(ValeProgetti.Blogs.length == 1){
@@ -378,10 +362,10 @@ function showPage_3(name){
 
 }
 
-function showPage_4(name){
+function showGregorioIndexPage(){
 
   let base = getCleanNavigationPanel();
-  let toolbar = getPageHeader(name);
+  let toolbar = getPageHeader("Indice Progetti SSML Gregorio VII");
   base.appendChild(toolbar);
 
   if(ValeProgetti.Gregorios.length == 1){
@@ -395,7 +379,7 @@ function showPage_4(name){
   base.appendChild(pageCloser());
 }
 
-function showPage_5() {
+function showCommentsPage() {
   let base = getCleanNavigationPanel();
   let toolbar = getPageHeader("Lascia un commento");
   base.appendChild(toolbar);
@@ -456,19 +440,19 @@ function toggleMenu() {
       let voices = [
         {
             "label": Pages[0],
-            "onclick": "showPage(0)"
+            "onclick": "setNavigation('home')"
         },
         {
             "label": Pages[1],
-            "onclick": "showPage(1)"
+            "onclick": "setNavigation('info')"
         },
         {
             "label": Pages[2],
-            "onclick": "showPage(2)"
+            "onclick": "setNavigation('index_blog')"
         },
         {
             "label": Pages[3],
-            "onclick": "showPage(3)"
+            "onclick": "setNavigation('index_gregorio')"
         }
       ];
 
@@ -488,4 +472,74 @@ function toggleMenu() {
       }
       menu.parentNode.removeChild(menu);
   }
+}
+
+function getUrlSection(segment) {
+
+    if (segment != 0 && segment != 1) {
+        return;
+    }
+
+    let default_page = "home";
+    let curr_url = decodeURI(window.location.href);
+
+
+    // has page defined
+    if (curr_url.split("#").length > 1) {
+        return curr_url.split("#")[segment];
+    } else {
+        window.location.href = encodeURI(window.location.href + "#" + default_page);
+        return default_page;
+    }
+}
+
+
+function setNavigation(pagerequest) {
+
+    if (pagerequest != getUrlSection(1)) {
+        let new_url = encodeURI(getUrlSection(0) + "#" + pagerequest);
+        history.pushState(null, null, new_url);
+
+        pageNavigate();
+    }
+
+    return ''; // chrome requires return value
+}
+
+
+function pageNavigate() {
+
+    let page = getUrlSection(1);
+
+    let page_no_args = page.split("?")[0];
+
+    let found = false;
+
+    if (page_no_args == "home") {
+        found = true;
+        showHomePage();
+    }
+    if (page_no_args == "info") {
+        found = true;
+        showInfoPage();
+    }
+    if (page_no_args == "index_blog") {
+        found = true;
+        showBlogIndexPage();
+    }
+    if (page_no_args == "index_gregorio") {
+        found = true;
+        showGregorioIndexPage();
+    }
+    if (page_no_args.substr(0,"article".length) == "article") {
+        found = true;
+        showArticlePage(page_no_args);
+    }
+
+
+    if(!found){
+      showUnknownPage();
+    }
+
+    handleResize();
 }

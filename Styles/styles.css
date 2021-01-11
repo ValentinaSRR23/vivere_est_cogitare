@@ -293,3 +293,49 @@ background: rgba(0,0,0,0.3);
 .toolbar_nav_label_small_screen:active{
 background: rgba(0,0,0,0.5);
 }
+.image_slide_show{
+  height: 20em;
+  border: 0.1em solid;
+  box-shadow: #0000005c 0.5em 0.5em 0.5em;
+}
+.image_slide_show_hidden{
+  display: none;
+}
+.slide_show_wrap{
+  padding:3em;
+}
+.slide_show_button_selected{
+  width: 1em;
+  height: 1em;
+  background: rgba(255, 193, 7, 0.4);
+  border: 2px solid;
+  display: inline-block;
+  margin: 1em 0.3em;
+  margin-top: 2em;
+  border-radius: 50%;
+  user-select: none;
+}
+.slide_show_button{
+  width: 1em;
+  height: 1em;
+  background: rgba(0,0,0,0.2);
+  border: 2px solid;
+  display: inline-block;
+  margin: 1em 0.3em;
+  margin-top: 2em;
+  border-radius: 50%;
+  cursor: pointer;
+  user-select: none;
+}
+.slide_show_button:hover{
+  background: rgba(0,0,0,0.4);
+}
+.slide_show_button:active{
+  background: rgba(0,0,0,0.6);
+}
+.slide_show_buttons_wrapper{
+
+}
+.slide_show_wrap_images{
+
+}
