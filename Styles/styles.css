@@ -339,7 +339,7 @@ background: rgba(0,0,0,0.5);
 
 }
 .slide_show_wrap_images{
-
+    margin: 0 3em;
 }
 .slide_side_buttons_wrapper{
   position: relative;

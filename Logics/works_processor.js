@@ -29,9 +29,11 @@ function initAllWorks(){
     }
 
     if(type == "Blog"){
+      processed["main_title"] = "Articoli";
       ValeProgetti["Blogs"].push(processed);
     }
     if(type == "Gregorio"){
+      processed["main_title"] = "Progetti SSML Gregorio VII";
       ValeProgetti["Gregorios"].push(processed);
     }
   }

@@ -153,6 +153,7 @@ function showArticlePage(article_url) {
   }
   else{
     base.appendChild(getPageHeaderArticle(article));
+    base.appendChild(getNode("div", article["title"],"home_page_title"));
     base.appendChild(getNode("div", article["content"], "article_page_wrap"));
 
   }
@@ -204,7 +205,7 @@ function getPageHeaderArticle(article){
   let wrap = getNode("div",null, null);
   wrap.appendChild(getToolbar());
   wrap.appendChild(getNode("img", article["preview_image"] ,"article_toolbar_sphere_image"));
-  wrap.appendChild(getNode("div", article["title"], "page_title_label_separator"));
+  wrap.appendChild(getNode("div", "- " + article["main_title"] + " -", "page_title_label_separator"));
 
   return wrap;
 }
@@ -324,8 +325,6 @@ function showInfoPage(){
   wrap.appendChild(getNode("div",
   'Buona lettura.'
     , "home_page_text"));
-
-
 
 
   base.appendChild(wrap);
