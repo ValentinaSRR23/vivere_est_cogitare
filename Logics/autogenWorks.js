@@ -16,6 +16,21 @@ var DocuVale = [
             "value": "<br> La costruzione degli acquedotti fu una delle imprese più grandi e impegnative  della civiltà romana, \"la più alta manifestazione della grandezza di Roma\",  come scrisse nel 97 d.C. Frontino in qualità di \"curatore degli acquedotti\"  (<em>\"curator aquarum\"</em>), nel suo trattato <em>\"De aquae ductu urbis Romae\"</em>,  ovvero \"Gli acquedotti della città di Roma\". <br> <br> Per secoli il Tevere, le sorgenti e i pozzi furono in grado di soddisfare il fabbisogno  della città finché lo sviluppo urbanistico e la crescita demografica resero necessario  ricorrere ad altre fonti: fu allora che, grazie all'abilità dei suoi costruttori,  si realizzarono gli acquedotti. Da quel momento in poi, ovvero dal 312 a.C.,  affluì a Roma una quantità enorme di acqua potabile, che nessun'altra città del mondo  antico ebbe mai, e che valse alla città il titolo  di <em>\"regina aquarum\"</em>, ossia <strong><em>\"regina delle acque\"</em></strong>. <br> <br>"
         },
         {
+            "type": "image_slide",
+            "value": [
+                "./Acquedotti/Storytelling/A1.png",
+                "./Acquedotti/Storytelling/A2.png",
+                "./Acquedotti/Storytelling/A3.png",
+                "./Acquedotti/Storytelling/A4.png",
+                "./Acquedotti/Storytelling/A5.png",
+                "./Acquedotti/Storytelling/A6.png",
+                "./Acquedotti/Storytelling/A7.png",
+                "./Acquedotti/Storytelling/A8.png",
+                "./Acquedotti/Storytelling/A9.png",
+                "./Acquedotti/Storytelling/A10.png"
+            ]
+        },
+        {
             "type": "text",
             "value": "<br><br> Per maggiori informazioni, ho realizzato insieme ad una mia collega un video illustrativo,  ricco di dettagli e spiegazioni, che sarà in grado di trasportarvi direttamente  nell'antica Roma. <br> Buona visione. <br>"
         },
@@ -39,7 +54,7 @@ var DocuVale = [
     "type": "Gregorio",
     "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "839984e3-1953-4945-9042-da7efd95b67e"
+    "id": "9bea1fc4-1b14-4915-83e6-2a18be3efff4"
 },
 {
     "content": [
@@ -68,5 +83,5 @@ var DocuVale = [
     "type": "Gregorio",
     "title": "Titolo",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
-    "id": "0afcf177-07c6-4547-bc56-13147982cde7"
+    "id": "8363db86-e1d0-4740-aa10-7c9c1c118a13"
 }];

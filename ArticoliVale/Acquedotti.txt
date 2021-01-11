@@ -33,6 +33,18 @@ affluì a Roma una quantità enorme di acqua potabile, che nessun'altra città d
 antico ebbe mai, e che valse alla città il titolo 
 di <em>"regina aquarum"</em>, ossia <strong><em>"regina delle acque"</em></strong>. <br> <br>
 
+SlideShow:
+./Acquedotti/Storytelling/A1.png
+./Acquedotti/Storytelling/A2.png
+./Acquedotti/Storytelling/A3.png
+./Acquedotti/Storytelling/A4.png
+./Acquedotti/Storytelling/A5.png
+./Acquedotti/Storytelling/A6.png
+./Acquedotti/Storytelling/A7.png
+./Acquedotti/Storytelling/A8.png
+./Acquedotti/Storytelling/A9.png
+./Acquedotti/Storytelling/A10.png
+
 Text:
 <br><br> Per maggiori informazioni, ho realizzato insieme ad una mia collega un video illustrativo, 
 ricco di dettagli e spiegazioni, che sarà in grado di trasportarvi direttamente 
@@ -62,5 +74,7 @@ Collegamento:
 https://it.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
 —
 Johann Wolfgang von Goethe 
+
+
 
 
