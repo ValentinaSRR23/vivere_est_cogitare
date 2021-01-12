@@ -441,7 +441,9 @@ function showGregorioIndexPage(){
 
 async function showCommentsListPage() {
 
+  toggleApiSpinner(true);
   await commentGetAll();
+  toggleApiSpinner(false);
 
   let base = getCleanNavigationPanel();
   let toolbar = getPageHeader("Comunità");
@@ -451,7 +453,9 @@ async function showCommentsListPage() {
 
   wrap.appendChild(getNode("div",'Commenti di tutti gli utenti', "home_page_title"));
 
-  wrap.appendChild(getNode("div", "Seguono commenti che sono stati inseriti dai vari visitatori del sito. I commenti con contenuti inadatti saranno rimossi appena individuati.", "home_page_text"));
+  wrap.appendChild(getNode("br",null,null));
+  wrap.appendChild(getNode("div", "Dubbi, cursiosità o suggerimenti sono ben accetti. Chiunque voglia condividere la sua opinione può andare al <div class=\"home_page_info_link_inline\" onclick=\"setNavigation('comments')\">form per i commenti</div>.", "home_page_text"));
+  wrap.appendChild(getNode("div", "Il tuo commento sarà subito reso visibile assieme agli altri commenti del sito. I commenti con contenuti inadatti saranno rimossi appena individuati.", "home_page_text"));
 
   wrap.appendChild(getCommentsFromAllUsers());
 
@@ -494,10 +498,11 @@ function showCommentsPage() {
 
   wrap.appendChild(getNode("div",'Lascia un commento', "home_page_title"));
 
-  wrap.appendChild(getNode("div", "In questa sezione potete lasciare un commento che rimarrà visibile sul sito. Non occorre essere registrati.", "home_page_text"));
-  wrap.appendChild(getNode("div", "I commenti non ritenuti idonei a questa sezione saranno eliminati.", "home_page_text"));
+  wrap.appendChild(getNode("div", "In questa sezione potete lasciare un commento che rimarrà visibile sul sito. Non occorre essere registrati. I commenti da noi ritenuti non idonei saranno eliminati appena individuati.", "home_page_text"));
 
   wrap.appendChild(getAcceptCommentNode());
+  wrap.appendChild(getNode("br",null,null));
+  wrap.appendChild(getNode("div", "Una volta aggiunto il commento, sarai reindirizzato alla pagina della Comunità.", "home_page_text"));
 
   base.appendChild(wrap);
 
@@ -750,11 +755,9 @@ function pageNavigate() {
       showCommentsListPage();
     }
     if (page_no_args.substr(0,"article".length) == "article") {
-        found = true;
-        showArticlePage(page_no_args);
+      found = true;
+      showArticlePage(page_no_args);
     }
-
-
 
 
     if(!found){

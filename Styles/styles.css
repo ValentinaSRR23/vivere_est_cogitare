@@ -22,6 +22,7 @@ body{
   height: 30vh;
   min-height: 25em;
   object-fit: cover;
+  box-shadow: rgba(0, 0, 0,0.5) 0em 0.4em 1em;
 }
 .toolbar_label{
   display: inline-block;
@@ -165,6 +166,14 @@ body{
   text-align: justify;
   font-size: 2em;
 }
+.home_page_info_link_inline{
+  font-size: 0.8em;
+  display: inline;
+  padding-top: 0.5em;
+  color: #2d6d7b;
+  font-family: sans-serif;
+  cursor: pointer;
+}
 .home_page_info_link{
   font-size: 1.2em;
   padding-top: 0.5em;
@@ -290,6 +299,7 @@ body{
   width: 100%;
   height: 30vh;
   min-height: 25em;
+  box-shadow: rgba(0, 0, 0,0.5) 0em 0.4em 1em;
 }
 .article_count{
   margin: 2em;
@@ -526,6 +536,7 @@ background: rgba(0,0,0,0.5);
   margin: 0.5em 0;
   padding: 1em;
   font-size: 1.2em;
+  box-shadow: #00000029 0.2em 0.2em 0.2em;
 }
 .comment_sign{
     font-weight: bold;
