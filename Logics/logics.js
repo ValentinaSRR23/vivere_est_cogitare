@@ -54,8 +54,21 @@ async function boot() {
 
   window.addEventListener('hashchange', pageNavigate, false);
   pageNavigate();
+
+  await visitorsGetAll();
+
+  sendVisitorIfNewVisit();
 }
 
+function sendVisitorIfNewVisit() {
+  if(localStorage.getItem("did_visit") == null){
+    localStorage.setItem("did_visit", "true");
+    let amount = JSON.parse(localStorage.getItem("visitors"));
+    amount = amount + 1;
+    localStorage.setItem("visitors", JSON.stringify(amount));
+    visitorsSendToDB();
+  }
+}
 
 
 function handleResize() {
@@ -596,9 +609,26 @@ function toggleApiSpinner(toggle) {
 }
 
 function pageCloser() {
+
+  let v = JSON.parse(localStorage.getItem("visitors"));
+  if(v == null){
+    setTimeout(lateVisitorsUpdate,1000);
+    v = 0;
+  }
+
   let cl = document.createElement("div");
-  cl.innerHTML = "<br><br><br><br><br><br><br><br><br><br>";
+  cl.innerHTML = "<div id=\"visitors_counter\"class=\"number_of_visitors\">Visitatori del sito: "+v.toString()+"</div><br><br><br><br><br><br><br><br><br><br>";
   return cl;
+}
+
+function lateVisitorsUpdate() {
+  let v = JSON.parse(localStorage.getItem("visitors"));
+  if(v == null){
+    setTimeout(lateVisitorsUpdate,1000);
+    return;
+  }
+  let l = document.getElementById("visitors_counter");
+  l.innerHTML = "Visitatori del sito: "+v.toString();
 }
 
 function getToolbar(){

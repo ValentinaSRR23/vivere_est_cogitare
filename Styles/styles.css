@@ -547,3 +547,9 @@ background: rgba(0,0,0,0.5);
   padding: 1em;
   margin-top: 1em;
 }
+.number_of_visitors{
+  color: #2d6d7b;
+  text-align: center;
+  font-size: 1.2em;
+  margin-top: 3em;
+}

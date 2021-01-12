@@ -12,6 +12,14 @@ var LOGGED_IN = false;
 const client = stitch.Stitch.initializeDefaultAppClient(APP_NAME);
 const db = client.getServiceClient(stitch.RemoteMongoClient.factory, 'mongodb-atlas').db(DB_NAME);
 
+
+function initAsVariableIfAbsent(value, replace) {
+  if(value == null || value == undefined || value == "undefined"){
+    return replace;
+  }
+  return value;
+}
+
 async function login(email, password){
   console.log("Trying anon login");
   try{
@@ -23,11 +31,33 @@ async function login(email, password){
   }
 }
 
+async function visitorsAmountGet() {
+  try{
+    let res = await db.collection(COLLECTION).find({user_id: client.auth.user.id},{_id:0}).asArray();
+    localStorage.setItem("visitors", JSON.stringify(initAsVariableIfAbsent(res[0]["visitors"], 0)));
+    console.log("Done");
+  }
+  catch(e){
+    console.error("db.visitorsAmountGet", e);
+  }
+}
+
+async function visitorsAmountSet(arguments){
+    console.log("Tryng adding visitors");
+    try{
+      await db.collection(COLLECTION).updateOne({user_id: client.auth.user.id},{$set:{user_id: client.auth.user.id,visitors: arguments}},{upsert:true});
+      console.log("Done");
+    }
+    catch(e){
+      console.error("db.visitorsAmountSet", e);
+    }
+}
+
 
 async function commentsAdd(arguments){
     console.log("Tryng adding comment");
     try{
-      await db.collection(COLLECTION).updateOne({user_id: client.auth.user.id},{$set:{user_id: client.auth.user.id, comments: arguments}},{upsert:true});
+      await db.collection(COLLECTION).updateOne({user_id: client.auth.user.id},{$set:{user_id: client.auth.user.id,comments: arguments}},{upsert:true});
       console.log("Done");
     }
     catch(e){
@@ -40,12 +70,19 @@ async function commentsGet(){
    console.log("Tryng get comments");
     try{
       let res = await db.collection(COLLECTION).find({user_id: client.auth.user.id},{_id:0}).asArray();
-      localStorage.setItem("comments", JSON.stringify(res[0]["comments"]));
+      localStorage.setItem("comments", JSON.stringify(initAsVariableIfAbsent(res[0]["comments"], [])));
       console.log("Done");
     }
     catch(e){
       console.error("db.commentsGet", e);
     }
+}
+
+async function visitorsGetAll() {
+  if(!LOGGED_IN){
+    await login(USER_NAME, USER_PASSWORD);
+  }
+  await visitorsAmountGet();
 }
 
 async function commentGetAll(){
@@ -55,6 +92,14 @@ async function commentGetAll(){
   }
   await commentsGet();
 }
+
+async function visitorsSendToDB(){
+  if(!LOGGED_IN){
+    await login(USER_NAME, USER_PASSWORD);
+  }
+  await visitorsAmountSet(JSON.parse(localStorage.getItem("visitors")));
+}
+
 
 async function commentSendToDB(){
   if(!LOGGED_IN){
