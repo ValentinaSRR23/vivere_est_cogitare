@@ -3,8 +3,8 @@ Category:
 Gregorio
 
 Title:
-Tutte le strade portano a Roma:
-somiglianze tra Washington D.C. e la città eterna
+<div style="color:#2d6d7b;">Tutte le strade portano a Roma:
+somiglianze tra Washington D.C. e la città eterna</div>
 
 MainImage:
 ./Rome and Wahington D.C/WDC.png
@@ -165,7 +165,7 @@ tanto da ispirare la costruzione di Washington,
 una città che oggi svolge un ruolo rilevante in tutto il mondo."
 
 Text:
-English version:
+<div style="color:#2d6d7b;">English version</div>:
 "As Romans, we are proud that our city, the cradle of ancient civilization,
 was honored for its greatness and historical significance to the extent that
 it inspired the construction of a city like Washington,

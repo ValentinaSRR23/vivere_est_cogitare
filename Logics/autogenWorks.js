@@ -204,7 +204,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "English version:\n\"As Romans, we are proud that our city, the cradle of ancient civilization,\nwas honored for its greatness and historical significance to the extent that\nit inspired the construction of a city like Washington,\nwhich today plays a relevant role in the world.\""
+            "value": "<div style=\"color:#2d6d7b;\">English version</div>:\n\"As Romans, we are proud that our city, the cradle of ancient civilization,\nwas honored for its greatness and historical significance to the extent that\nit inspired the construction of a city like Washington,\nwhich today plays a relevant role in the world.\""
         },
         {
             "type": "link_ref",
@@ -216,7 +216,7 @@ var DocuVale = [
         }
     ],
     "type": "Gregorio",
-    "title": "Tutte le strade portano a Roma:\nsomiglianze tra Washington D.C. e la città eterna",
+    "title": "<div style=\"color:#2d6d7b;\">Tutte le strade portano a Roma:\nsomiglianze tra Washington D.C. e la città eterna</div>",
     "preview_image": "./Rome and Wahington D.C/WDC.png",
     "id": "RomeAndWashington"
 }];
