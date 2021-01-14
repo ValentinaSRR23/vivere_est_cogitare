@@ -92,4 +92,84 @@ var DocuVale = [
     "title": "Titolo",
     "preview_image": "./Acquedotti/Storytelling/A1.png",
     "id": "ArticoloManuDiSviluppo"
+},
+{
+    "content": [
+        {
+            "type": "text",
+            "value": "Vi siete mai chiesti cosa potrebbero avere in comune due città  come <strong>Roma</strong> e <strong>Washington D.C.</strong>?  Forse molti di voi non ci hanno nemmeno mai pensato...  In questo caso, questo articolo fa al caso vostro:  sebbene queste capitali siano divise da un intero oceano,  entrambe condividono molto più di quanto pensiate.<br><br>"
+        },
+        {
+            "type": "end_preview",
+            "value": "[...]"
+        },
+        {
+            "type": "text",
+            "value": "È stato proprio il <strong>Presidente degli Stati Uniti d’America Trump</strong>,  che durante il suo discorso tenutosi nello Studio Ovale in presenza  del <strong>Presidente della Repubblica Italiana</strong>, <strong>Sergio Mattarella</strong>,  ha evidenziato il legame particolare tra le due città."
+        },
+        {
+            "type": "link_ref",
+            "value": "https://www.google.it/amp/s/www.linkiesta.it/2019/10/italia-usa-trump-geroge-washington-traduttrice-federalist-papers-colum/amp/ Link: Discorso di Trump"
+        },
+        {
+            "type": "text",
+            "value": "<br> Infatti, i Padri Fondatori della Repubblica Americana furono fortemente  ispirati dalla Roma antica repubblicana, tanto da progettare una città come Washington,  costruita alla fine del XVII secolo, nel 1791, con l’intenzione di creare una  <em><strong>“New Rome”</strong></em>, ossia una <em><strong>“Nuova Roma”</strong></em>."
+        },
+        {
+            "type": "text",
+            "value": "Oltre alle varie similitudini che si possono notare negli ornamenti dei palazzi,  realizzati secondo lo stile neoclassico nel XIX e XX secolo, risaltano particolarmente  le analogie con gli edifici monumentali presenti nelle due città."
+        },
+        {
+            "type": "text",
+            "value": "Innanzitutto, basti pensare che Washington D.C. fu costruita ispirandosi ai 7 colli di Roma:  <strong>Capitol Hill, Meridian Hill, Floral Hill, Forest Hills, Hillbrook, Hillcrest, Know Hill</strong>."
+        },
+        {
+            "type": "text",
+            "value": "Dunque, scopriamo insieme quali sono le altre somiglianze tra queste due città. Text Partiamo dal primo monumento, <strong>“United States Capitol”</strong> o <strong>“Capitol Building”</strong>  (tradotto in italiano come <strong>“Campidoglio degli Stati Uniti”</strong>), ovvero la sede del  parlamento e del governo degli Stati Uniti. Già solo il nome, non vi ricorda qualcosa?"
+        },
+        {
+            "type": "text",
+            "value": "Immagino di sì, si può notare infatti un ovvio riferimento al nome del  <strong>Campidoglio</strong>, sede di rappresentanza del comune di Roma."
+        },
+        {
+            "type": "text",
+            "value": "Inoltre, la struttura della cupola riprende indubbiamente l’aspetto di quella realizzata  da <strong>Michelangelo</strong> per la <strong>Basilica di San Pietro in Vaticano</strong>. ImageDuo: ./ArticoliVale/Rome and Wahington D.C/w1.png Campidoglio degli Stati Uniti ./ArticoliVale/Rome and Wahington D.C/w2.png San Pietro"
+        },
+        {
+            "type": "text",
+            "value": "È interessante sapere anche che al suo interno si trova un affresco,  <strong>“The Apotheosis of Washington”</strong>  (<strong>L’Apoteosi di George Washington</strong>)  realizzato nel 1865 da Costantino Brumidi nel, un artista romano  che ottenne la fama di Michelangelo americano. ImageMono: ./ArticoliVale/Rome and Wahington D.C/w3.png L’Apoteosi di George Washington ImageMono: ./ArticoliVale/Rome and Wahington D.C/w4.png Dettaglio dell'affresco"
+        },
+        {
+            "type": "text",
+            "value": "Vicino al Capitol Building vi è poi un obelisco, il <strong>Washington Monument</strong>  (<strong>Monumento a Washington</strong>), eretto per commemorare  <strong>George Washington</strong>, uno dei padri fondatori e  <strong>primo presidente degli Stati Uniti</strong>. <br> Eppure, non notate anche qui una certa analogia con quello presente a  <strong>Piazza San Pietro?</strong>   ImageMono: ./ArticoliVale/Rome and Wahington D.C/w5.png Sulla sinistra l'Obelisco Vaticano, sulla destra Monumento a Washington"
+        },
+        {
+            "type": "text",
+            "value": "Un altro modello di riferimento per gli americani fu sicuramente il <strong>Pantheon</strong>,  a cui si ispirò <strong>Thomas Jefferson</strong>, uno dei padri fondatori nonché  <strong>terzo presidente degli Stati Uniti d’America</strong> e protagonista  della stesura della <em>Dichiarazione di Indipendenza</em>. <br> Tra i diversi edifici e monumenti che commissionò, i più conosciuti sono  <strong>il Jefferson Memorial</strong> e <strong>la National Gallery</strong>. ImageTrio: ./ArticoliVale/Rome and Wahington D.C/w6.png Pantheon ./ArticoliVale/Rome and Wahington D.C/w7.png Jefferson Memorial ./ArticoliVale/Rome and Wahington D.C/w8.png National Gallery"
+        },
+        {
+            "type": "text",
+            "value": "Vi sono poi molte altre somiglianze come la <strong>Corte Suprema degli Stati Uniti</strong>,  costruita nel 1935, che ricalca il <strong>Tempio di Adriano</strong> in Piazza di Pietra a Roma. ImageMono: ./ArticoliVale/Rome and Wahington D.C/w9.png Corte Suprema degli Stati Uniti ./ArticoliVale/Rome and Wahington D.C/w10.png Tempio di Adriano"
+        },
+        {
+            "type": "text",
+            "value": "La <strong>Union Station di Washington</strong>, la stazione centrale ferroviaria,  riprende lo stile delle <strong>Terme di Diocleziano</strong>. ImageDuo: ./ArticoliVale/Rome and Wahington D.C/w11.png La Union Station  ./ArticoliVale/Rome and Wahington D.C/w12.png Terme di Diocleziano"
+        },
+        {
+            "type": "text",
+            "value": "Vi è inoltre un legame con il periodo fascista:  Il <strong>Madison Memorial Building</strong> sembra essere la copia del  <strong>Salone delle Fontane</strong> all’EUR.  ImageDuo: ./ArticoliVale/Rome and Wahington D.C/w13.png Il Madison Memorial ./ArticoliVale/Rome and Wahington D.C/w14.png Il Salone delle Fontane"
+        },
+        {
+            "type": "text",
+            "value": "Ed infine, veramente pochi sono a conoscenza del <strong>Tiber Creek</strong>,  un affluente del fiume <strong>Potomac</strong> che attualmente scorre sotto  le vie di Washington. Originariamente prendeva il nome di <em>Goose Creek</em>,  ma successivamente venne ribattezzato Tiber Creek per rendere omaggio al  <strong>Tevere</strong>, il fiume di Roma. Spero che sia stato interessante per voi scoprire quante affinità siano presenti  in queste due meravigliose città. Ora vi lascio alla visione del video realizzato  da me e una mia collega su questo argomento in lingua inglese."
+        },
+        {
+            "type": "link_ref",
+            "value": "Link: All roads lead to Rome: Similarities between Washington D.C. and the eternal city"
+        }
+    ],
+    "type": "Gregorio",
+    "title": "Tutte le strade portano a Roma:  Somiglianze tra Washington D.C. e la città eterna",
+    "preview_image": "./Rome and Wahington D.C/WDC.png",
+    "id": "RomeAndWashington"
 }];
