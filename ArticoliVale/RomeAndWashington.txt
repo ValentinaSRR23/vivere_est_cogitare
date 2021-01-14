@@ -4,7 +4,7 @@ Gregorio
 
 Title:
 Tutte le strade portano a Roma: 
-Somiglianze tra Washington D.C. e la città eterna
+somiglianze tra Washington D.C. e la città eterna
 
 MainImage:
 ./Rome and Wahington D.C/WDC.png
