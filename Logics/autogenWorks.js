@@ -128,7 +128,15 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Ed infine, veramente pochi sono a conoscenza del <strong>Tiber Creek</strong>,  un affluente del fiume <strong>Potomac</strong> che attualmente scorre sotto  le vie di Washington. Originariamente prendeva il nome di <em>Goose Creek</em>,  ma successivamente venne ribattezzato Tiber Creek per rendere omaggio al  <strong>Tevere</strong>, il fiume di Roma. Spero che sia stato interessante per voi scoprire quante affinità siano presenti  in queste due meravigliose città. Ora vi lascio alla visione del video realizzato  da me e una mia collega su questo argomento in lingua inglese."
+            "value": "Ed infine, veramente pochi sono a conoscenza del <strong>Tiber Creek</strong>,  un affluente del fiume <strong>Potomac</strong> che attualmente scorre sotto  le vie di Washington. Originariamente prendeva il nome di <em>Goose Creek</em>,  ma successivamente venne ribattezzato Tiber Creek per rendere omaggio al  <strong>Tevere</strong>, il fiume di Roma. <br><br> Spero che sia stato interessante per voi scoprire quante affinità siano presenti  in queste due meravigliose città. <br><br> Ora vi lascio alla visione di un video a tema,  che ho realizzato in lingua inglese in collaborazione con una mia collega. <br> Buona visione."
+        },
+        {
+            "type": "text",
+            "value": "\"Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,  sia stata onorata per la sua magnificenza e per il suo impatto storico,  tanto da ispirare la costruzione di Washington,  una città che oggi svolge un ruolo rilevante in tutto il mondo.\""
+        },
+        {
+            "type": "text",
+            "value": "English version: \"As Romans, we are proud that our city, the cradle of ancient civilization,  was honored for its greatness and historical significance to the extent that  it inspired the construction of a city like Washington,  which today plays a relevant role in the world.\""
         },
         {
             "type": "link_ref",
