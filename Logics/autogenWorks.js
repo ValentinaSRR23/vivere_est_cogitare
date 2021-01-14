@@ -141,6 +141,6 @@ var DocuVale = [
     ],
     "type": "Gregorio",
     "title": "Tutte le strade portano a Roma:  Somiglianze tra Washington D.C. e la città eterna",
-    "preview_image": "./Rome and Wahington D.C/WDC.png",
+    "preview_image": "./Rome and Wahington D.C/Sfondo.png",
     "id": "RomeAndWashington"
 }];
