@@ -207,6 +207,15 @@ function showArticlePage(article_url) {
   }
 
   base.appendChild(pageCloser());
+
+  let comment_node = document.getElementById("article_comment_section");
+
+  comment_node.appendChild(getNode("div", null, "article_separator"));
+  comment_node.appendChild(getNode("div", "Lascia un commento:", "home_page_text"));
+  comment_node.appendChild(getAcceptCommentNode());
+  comment_node.appendChild(getNode("br",null,null));
+  comment_node.appendChild(getNode("div", "Una volta aggiunto il commento, sarai reindirizzato alla pagina della Comunità.", "home_page_text"));
+
 }
 
 
@@ -308,7 +317,7 @@ function showHomePage(){
 
 
   info_1.appendChild(getNode("div",'Su di me', "home_page_info_title"));
-  info_1.appendChild(getNode("div", "Ciao a tutti! <br>Sono Valentina, laureanda in mediazione linguistica all'Università SSML Gregorio VII di Roma...", "home_page_info_text"));
+  info_1.appendChild(getNode("div", "Ciao a tutti! <br>Mi chiamo Valentina, ho ventun'anni e sono laureanda in Mediazione Linguistica e Comunicazione Interculturale presso l'Università SSML Gregorio VII di Roma...", "home_page_info_text"));
   info_1.appendChild(getNodeAndSetClick("div", "Maggiori informazioni su di me", "home_page_info_link", "setNavigation('info')"));
 
   info_2.appendChild(getNode("div",'Spazio per voi', "home_page_info_title"));
@@ -316,9 +325,10 @@ function showHomePage(){
   info_2.appendChild(getNodeAndSetClick("div", "Lascia un commento", "home_page_info_link", "setNavigation('comments')"));
 
 
+  /*
   info_3.appendChild(getNode("div",'Altri articoli', "home_page_info_title"));
   info_3.appendChild(getNode("div", "Siamo spiacenti, non è stato trovato alcun articolo.", "home_page_info_box_fake"));
-
+  */
 
   wrap.appendChild(inline_info_wrap);
 
@@ -617,7 +627,7 @@ function pageCloser() {
   }
 
   let cl = document.createElement("div");
-  cl.innerHTML = "<br><br><br><br><div id=\"visitors_counter\"class=\"number_of_visitors\">Visitatori del sito: "+v.toString()+"</div><br><br><br><br><br><br><br><br><br><br>";
+  cl.innerHTML = "<div class=\"article_comment_section_wrap\" id=\"article_comment_section\"></div><br><br><br><div id=\"visitors_counter\"class=\"number_of_visitors\">Visitatori del sito: "+v.toString()+"</div><br>";
   return cl;
 }
 

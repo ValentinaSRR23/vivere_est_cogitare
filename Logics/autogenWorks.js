@@ -5,15 +5,15 @@ var DocuVale = [
     "content": [
         {
             "type": "text",
-            "value": "Insieme alle strade, gli acquedotti sono state le grandi opere d'ingegneria  con cui i romani hanno stupito il mondo.<br>"
+            "value": "Insieme alle strade, gli acquedotti sono state le grandi opere d'ingegneria \ncon cui i romani hanno stupito il mondo.<br>"
         },
         {
             "type": "end_preview",
-            "value": "La costruzione degli acquedotti fu una delle imprese più grandi e impegnative  della civiltà romana, \"la più alta manifestazione della grandezza di Roma\",  come scrisse [...]"
+            "value": "La costruzione degli acquedotti fu una delle imprese più grandi e impegnative \ndella civiltà romana, \"la più alta manifestazione della grandezza di Roma\", \ncome scrisse [...]"
         },
         {
             "type": "text",
-            "value": "<br> La costruzione degli acquedotti fu una delle imprese più grandi e impegnative  della civiltà romana, \"la più alta manifestazione della grandezza di Roma\",  come scrisse nel 97 d.C. Frontino in qualità di \"curatore degli acquedotti\"  (<em>\"curator aquarum\"</em>), nel suo trattato <em>\"De aquae ductu urbis Romae\"</em>,  ovvero \"Gli acquedotti della città di Roma\". <br> <br> Per secoli il Tevere, le sorgenti e i pozzi furono in grado di soddisfare il fabbisogno  della città finché lo sviluppo urbanistico e la crescita demografica resero necessario  ricorrere ad altre fonti: fu allora che, grazie all'abilità dei suoi costruttori,  si realizzarono gli acquedotti. Da quel momento in poi, ovvero dal 312 a.C.,  affluì a Roma una quantità enorme di acqua potabile, che nessun'altra città del mondo  antico ebbe mai, e che valse alla città il titolo  di <em>\"regina aquarum\"</em>, ossia <strong><em>\"regina delle acque\"</em></strong>. <br> <br>"
+            "value": "<br> La costruzione degli acquedotti fu una delle imprese più grandi e impegnative \ndella civiltà romana, \"la più alta manifestazione della grandezza di Roma\", \ncome scrisse nel 97 d.C. Frontino in qualità di \"curatore degli acquedotti\" \n(<em>\"curator aquarum\"</em>), nel suo trattato <em>\"De aquae ductu urbis Romae\"</em>, \novvero \"Gli acquedotti della città di Roma\". <br> <br>\nPer secoli il Tevere, le sorgenti e i pozzi furono in grado di soddisfare il fabbisogno \ndella città finché lo sviluppo urbanistico e la crescita demografica resero necessario \nricorrere ad altre fonti: fu allora che, grazie all'abilità dei suoi costruttori, \nsi realizzarono gli acquedotti. Da quel momento in poi, ovvero dal 312 a.C., \naffluì a Roma una quantità enorme di acqua potabile, che nessun'altra città del mondo \nantico ebbe mai, e che valse alla città il titolo \ndi <em>\"regina aquarum\"</em>, ossia <strong><em>\"regina delle acque\"</em></strong>. <br> <br>"
         },
         {
             "type": "image_slide",
@@ -32,11 +32,11 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<br><br> Per maggiori informazioni, ho realizzato insieme ad una mia collega un video illustrativo,  ricco di dettagli e spiegazioni, che sarà in grado di trasportarvi direttamente  nell'antica Roma. <br> Buona visione. <br>"
+            "value": "<br><br> Per maggiori informazioni, ho realizzato insieme ad una mia collega un video illustrativo, \nricco di dettagli e spiegazioni, che sarà in grado di trasportarvi direttamente \nnell'antica Roma. <br>\nBuona visione. <br>"
         },
         {
             "type": "link_ref",
-            "value": "https://www.youtube.com/watch?v=KlDXETuqZhc Link: Gli acquedotti, arterie del cuore pulsante dell'antica Roma"
+            "value": "https://www.youtube.com/watch?v=KlDXETuqZhc\nLink:\nGli acquedotti, arterie del cuore pulsante dell'antica Roma"
         },
         {
             "type": "video",
@@ -48,11 +48,11 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "“È questa la terza opera degli antichi che ho innanzi a me e di cui osservo  la stessa impronta, sempre grandiosa: l'arte architettonica degli antichi è veramente  una seconda natura, che opera conforme agli usi e agli scopi civili.  È così che sorge l'anfiteatro, il tempio, <strong>l'acquedotto</strong>.  E soltanto adesso sento con quanta ragione ho sempre trovato detestabili le costruzioni  fatte a capriccio […]. Cose tutte nate morte, poiché ciò che veramente non ha in sé  una ragione di esistere non ha vita e non può essere grande, né diventare grande.” <br>"
+            "value": "“È questa la terza opera degli antichi che ho innanzi a me e di cui osservo \nla stessa impronta, sempre grandiosa: l'arte architettonica degli antichi è veramente \nuna seconda natura, che opera conforme agli usi e agli scopi civili. \nÈ così che sorge l'anfiteatro, il tempio, <strong>l'acquedotto</strong>. \nE soltanto adesso sento con quanta ragione ho sempre trovato detestabili le costruzioni \nfatte a capriccio […]. Cose tutte nate morte, poiché ciò che veramente non ha in sé \nuna ragione di esistere non ha vita e non può essere grande, né diventare grande.” <br>"
         },
         {
             "type": "link_ref",
-            "value": "https://it.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe — Johann Wolfgang von Goethe"
+            "value": "https://it.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe\n—\nJohann Wolfgang von Goethe"
         }
     ],
     "type": "Gregorio",
@@ -64,7 +64,7 @@ var DocuVale = [
     "content": [
         {
             "type": "text",
-            "value": "Vi siete mai chiesti cosa potrebbero avere in comune due città  come <strong>Roma</strong> e <strong>Washington D.C.</strong>?  Forse molti di voi non ci hanno nemmeno mai pensato...  In questo caso, questo articolo fa al caso vostro:  sebbene queste capitali siano divise da un intero oceano,  entrambe condividono molto più di quanto pensiate.<br><br>"
+            "value": "Vi siete mai chiesti cosa potrebbero avere in comune due città\ncome <strong>Roma</strong> e <strong>Washington D.C.</strong>?\nForse molti di voi non ci hanno nemmeno mai pensato...\nIn questo caso, questo articolo fa al caso vostro:\nsebbene queste capitali siano divise da un intero oceano,\nentrambe condividono molto più di quanto pensiate.<br><br>"
         },
         {
             "type": "end_preview",
@@ -72,75 +72,143 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "È stato proprio il <strong>Presidente degli Stati Uniti d’America Trump</strong>,  che durante il suo discorso tenutosi nello Studio Ovale in presenza  del <strong>Presidente della Repubblica Italiana</strong>, <strong>Sergio Mattarella</strong>,  ha evidenziato il legame particolare tra le due città."
+            "value": "È stato proprio il <strong>Presidente degli Stati Uniti d’America Trump</strong>,\nche durante il suo discorso tenutosi nello Studio Ovale in presenza\ndel <strong>Presidente della Repubblica Italiana</strong>, <strong>Sergio Mattarella</strong>,\nha evidenziato il legame particolare tra le due città."
         },
         {
             "type": "link_ref",
-            "value": "https://www.google.it/amp/s/www.linkiesta.it/2019/10/italia-usa-trump-geroge-washington-traduttrice-federalist-papers-colum/amp/ Link: Discorso di Trump"
+            "value": "https://www.google.it/amp/s/www.linkiesta.it/2019/10/italia-usa-trump-geroge-washington-traduttrice-federalist-papers-colum/amp/\nLink:\nDiscorso di Trump"
         },
         {
             "type": "text",
-            "value": "<br> Infatti, i Padri Fondatori della Repubblica Americana furono fortemente  ispirati dalla Roma antica repubblicana, tanto da progettare una città come Washington,  costruita alla fine del XVII secolo, nel 1791, con l’intenzione di creare una  <em><strong>“New Rome”</strong></em>, ossia una <em><strong>“Nuova Roma”</strong></em>."
+            "value": "<br> Infatti, i Padri Fondatori della Repubblica Americana furono fortemente\nispirati dalla Roma antica repubblicana, tanto da progettare una città come Washington,\n costruita alla fine del XVII secolo, nel 1791, con l’intenzione di creare una\n<em><strong>“New Rome”</strong></em>, ossia una <em><strong>“Nuova Roma”</strong></em>."
         },
         {
             "type": "text",
-            "value": "Oltre alle varie similitudini che si possono notare negli ornamenti dei palazzi,  realizzati secondo lo stile neoclassico nel XIX e XX secolo, risaltano particolarmente  le analogie con gli edifici monumentali presenti nelle due città."
+            "value": "Oltre alle varie similitudini che si possono notare negli ornamenti dei palazzi,\nrealizzati secondo lo stile neoclassico nel XIX e XX secolo, risaltano particolarmente\nle analogie con gli edifici monumentali presenti nelle due città."
         },
         {
             "type": "text",
-            "value": "Innanzitutto, basti pensare che Washington D.C. fu costruita ispirandosi ai 7 colli di Roma:  <strong>Capitol Hill, Meridian Hill, Floral Hill, Forest Hills, Hillbrook, Hillcrest, Know Hill</strong>."
+            "value": "Innanzitutto, basti pensare che Washington D.C. fu costruita ispirandosi ai 7 colli di Roma:\n <strong>Capitol Hill, Meridian Hill, Floral Hill, Forest Hills, Hillbrook, Hillcrest, Know Hill</strong>."
         },
         {
             "type": "text",
-            "value": "Dunque, scopriamo insieme quali sono le altre somiglianze tra queste due città. Text Partiamo dal primo monumento, <strong>“United States Capitol”</strong> o <strong>“Capitol Building”</strong>  (tradotto in italiano come <strong>“Campidoglio degli Stati Uniti”</strong>), ovvero la sede del  parlamento e del governo degli Stati Uniti. Già solo il nome, non vi ricorda qualcosa?"
+            "value": "Dunque, scopriamo insieme quali sono le altre somiglianze tra queste due città.\nText\nPartiamo dal primo monumento, <strong>“United States Capitol”</strong> o <strong>“Capitol Building”</strong>\n(tradotto in italiano come <strong>“Campidoglio degli Stati Uniti”</strong>), ovvero la sede del\nparlamento e del governo degli Stati Uniti. Già solo il nome, non vi ricorda qualcosa?"
         },
         {
             "type": "text",
-            "value": "Immagino di sì, si può notare infatti un ovvio riferimento al nome del  <strong>Campidoglio</strong>, sede di rappresentanza del comune di Roma."
+            "value": "Immagino di sì, si può notare infatti un ovvio riferimento al nome del\n<strong>Campidoglio</strong>, sede di rappresentanza del comune di Roma."
         },
         {
             "type": "text",
-            "value": "Inoltre, la struttura della cupola riprende indubbiamente l’aspetto di quella realizzata  da <strong>Michelangelo</strong> per la <strong>Basilica di San Pietro in Vaticano</strong>. ImageDuo: ./ArticoliVale/Rome and Wahington D.C/w1.png Campidoglio degli Stati Uniti ./ArticoliVale/Rome and Wahington D.C/w2.png San Pietro"
+            "value": "Inoltre, la struttura della cupola riprende indubbiamente l’aspetto di quella realizzata\nda <strong>Michelangelo</strong> per la <strong>Basilica di San Pietro in Vaticano</strong>."
+        },
+        {
+            "type": "image_inline",
+            "value": [
+                "./ArticoliVale/Rome and Wahington D.C/w1.png",
+                "Campidoglio degli Stati Uniti",
+                "./ArticoliVale/Rome and Wahington D.C/w2.png",
+                "San Pietro"
+            ]
         },
         {
             "type": "text",
-            "value": "È interessante sapere anche che al suo interno si trova un affresco,  <strong>“The Apotheosis of Washington”</strong>  (<strong>L’Apoteosi di George Washington</strong>)  realizzato nel 1865 da Costantino Brumidi nel, un artista romano  che ottenne la fama di Michelangelo americano. ImageMono: ./ArticoliVale/Rome and Wahington D.C/w3.png L’Apoteosi di George Washington ImageMono: ./ArticoliVale/Rome and Wahington D.C/w4.png Dettaglio dell'affresco"
+            "value": "È interessante sapere anche che al suo interno si trova un affresco,\n<strong>“The Apotheosis of Washington”</strong>\n(<strong>L’Apoteosi di George Washington</strong>)\nrealizzato nel 1865 da Costantino Brumidi nel, un artista romano\nche ottenne la fama di Michelangelo americano."
+        },
+        {
+            "type": "image_inline",
+            "value": [
+                "./ArticoliVale/Rome and Wahington D.C/w3.png",
+                "L’Apoteosi di George Washington"
+            ]
+        },
+        {
+            "type": "image_inline",
+            "value": [
+                "./ArticoliVale/Rome and Wahington D.C/w4.png",
+                "Dettaglio dell'affresco"
+            ]
         },
         {
             "type": "text",
-            "value": "Vicino al Capitol Building vi è poi un obelisco, il <strong>Washington Monument</strong>  (<strong>Monumento a Washington</strong>), eretto per commemorare  <strong>George Washington</strong>, uno dei padri fondatori e  <strong>primo presidente degli Stati Uniti</strong>. <br> Eppure, non notate anche qui una certa analogia con quello presente a  <strong>Piazza San Pietro?</strong>   ImageMono: ./ArticoliVale/Rome and Wahington D.C/w5.png Sulla sinistra l'Obelisco Vaticano, sulla destra Monumento a Washington"
+            "value": "Vicino al Capitol Building vi è poi un obelisco, il <strong>Washington Monument</strong>\n(<strong>Monumento a Washington</strong>), eretto per commemorare\n<strong>George Washington</strong>, uno dei padri fondatori e\n<strong>primo presidente degli Stati Uniti</strong>. <br>\nEppure, non notate anche qui una certa analogia con quello presente a\n<strong>Piazza San Pietro?</strong>"
+        },
+        {
+            "type": "image_inline",
+            "value": [
+                "./ArticoliVale/Rome and Wahington D.C/w5.png",
+                "Sulla sinistra l'Obelisco Vaticano, sulla destra Monumento a Washington"
+            ]
         },
         {
             "type": "text",
-            "value": "Un altro modello di riferimento per gli americani fu sicuramente il <strong>Pantheon</strong>,  a cui si ispirò <strong>Thomas Jefferson</strong>, uno dei padri fondatori nonché  <strong>terzo presidente degli Stati Uniti d’America</strong> e protagonista  della stesura della <em>Dichiarazione di Indipendenza</em>. <br> Tra i diversi edifici e monumenti che commissionò, i più conosciuti sono  <strong>il Jefferson Memorial</strong> e <strong>la National Gallery</strong>. ImageTrio: ./ArticoliVale/Rome and Wahington D.C/w6.png Pantheon ./ArticoliVale/Rome and Wahington D.C/w7.png Jefferson Memorial ./ArticoliVale/Rome and Wahington D.C/w8.png National Gallery"
+            "value": "Un altro modello di riferimento per gli americani fu sicuramente il <strong>Pantheon</strong>,\na cui si ispirò <strong>Thomas Jefferson</strong>, uno dei padri fondatori nonché\n<strong>terzo presidente degli Stati Uniti d’America</strong> e protagonista\ndella stesura della <em>Dichiarazione di Indipendenza</em>. <br>\nTra i diversi edifici e monumenti che commissionò, i più conosciuti sono\n<strong>il Jefferson Memorial</strong> e <strong>la National Gallery</strong>."
+        },
+        {
+            "type": "image_inline",
+            "value": [
+                "./ArticoliVale/Rome and Wahington D.C/w6.png",
+                "Pantheon",
+                "./ArticoliVale/Rome and Wahington D.C/w7.png",
+                "Jefferson Memorial",
+                "./ArticoliVale/Rome and Wahington D.C/w8.png",
+                "National Gallery"
+            ]
         },
         {
             "type": "text",
-            "value": "Vi sono poi molte altre somiglianze come la <strong>Corte Suprema degli Stati Uniti</strong>,  costruita nel 1935, che ricalca il <strong>Tempio di Adriano</strong> in Piazza di Pietra a Roma. ImageMono: ./ArticoliVale/Rome and Wahington D.C/w9.png Corte Suprema degli Stati Uniti ./ArticoliVale/Rome and Wahington D.C/w10.png Tempio di Adriano"
+            "value": "Vi sono poi molte altre somiglianze come la <strong>Corte Suprema degli Stati Uniti</strong>,\n costruita nel 1935, che ricalca il <strong>Tempio di Adriano</strong> in Piazza di Pietra a Roma."
+        },
+        {
+            "type": "image_inline",
+            "value": [
+                "./ArticoliVale/Rome and Wahington D.C/w9.png",
+                "Corte Suprema degli Stati Uniti",
+                "./ArticoliVale/Rome and Wahington D.C/w10.png",
+                "Tempio di Adriano"
+            ]
         },
         {
             "type": "text",
-            "value": "La <strong>Union Station di Washington</strong>, la stazione centrale ferroviaria,  riprende lo stile delle <strong>Terme di Diocleziano</strong>. ImageDuo: ./ArticoliVale/Rome and Wahington D.C/w11.png La Union Station  ./ArticoliVale/Rome and Wahington D.C/w12.png Terme di Diocleziano"
+            "value": "La <strong>Union Station di Washington</strong>, la stazione centrale ferroviaria,\nriprende lo stile delle <strong>Terme di Diocleziano</strong>."
+        },
+        {
+            "type": "image_inline",
+            "value": [
+                "./ArticoliVale/Rome and Wahington D.C/w11.png",
+                "La Union Station",
+                "./ArticoliVale/Rome and Wahington D.C/w12.png",
+                "Terme di Diocleziano"
+            ]
         },
         {
             "type": "text",
-            "value": "Vi è inoltre un legame con il periodo fascista:  Il <strong>Madison Memorial Building</strong> sembra essere la copia del  <strong>Salone delle Fontane</strong> all’EUR.  ImageDuo: ./ArticoliVale/Rome and Wahington D.C/w13.png Il Madison Memorial ./ArticoliVale/Rome and Wahington D.C/w14.png Il Salone delle Fontane"
+            "value": "Vi è inoltre un legame con il periodo fascista:\nIl <strong>Madison Memorial Building</strong> sembra essere la copia del\n<strong>Salone delle Fontane</strong> all’EUR."
+        },
+        {
+            "type": "image_inline",
+            "value": [
+                "./ArticoliVale/Rome and Wahington D.C/w13.png",
+                "Il Madison Memorial",
+                "./ArticoliVale/Rome and Wahington D.C/w14.png",
+                "Il Salone delle Fontane"
+            ]
         },
         {
             "type": "text",
-            "value": "Ed infine, veramente pochi sono a conoscenza del <strong>Tiber Creek</strong>,  un affluente del fiume <strong>Potomac</strong> che attualmente scorre sotto  le vie di Washington. Originariamente prendeva il nome di <em>Goose Creek</em>,  ma successivamente venne ribattezzato Tiber Creek per rendere omaggio al  <strong>Tevere</strong>, il fiume di Roma. <br><br> Spero che sia stato interessante per voi scoprire quante affinità siano presenti  in queste due meravigliose città. <br><br> Ora vi lascio alla visione di un video a tema,  che ho realizzato in lingua inglese in collaborazione con una mia collega. <br> Buona visione."
+            "value": "Ed infine, veramente pochi sono a conoscenza del <strong>Tiber Creek</strong>,\nun affluente del fiume <strong>Potomac</strong> che attualmente scorre sotto\nle vie di Washington. Originariamente prendeva il nome di <em>Goose Creek</em>,\nma successivamente venne ribattezzato Tiber Creek per rendere omaggio al\n<strong>Tevere</strong>, il fiume di Roma. <br><br>\nSpero che sia stato interessante per voi scoprire quante affinità siano presenti\nin queste due meravigliose città. <br><br>\nOra vi lascio alla visione di un video a tema,\nche ho realizzato in lingua inglese in collaborazione con una mia collega. <br>\nBuona visione."
         },
         {
             "type": "text",
-            "value": "\"Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,  sia stata onorata per la sua magnificenza e per il suo impatto storico,  tanto da ispirare la costruzione di Washington,  una città che oggi svolge un ruolo rilevante in tutto il mondo.\""
+            "value": "\"Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,\nsia stata onorata per la sua magnificenza e per il suo impatto storico,\ntanto da ispirare la costruzione di Washington,\nuna città che oggi svolge un ruolo rilevante in tutto il mondo.\""
         },
         {
             "type": "text",
-            "value": "English version: \"As Romans, we are proud that our city, the cradle of ancient civilization,  was honored for its greatness and historical significance to the extent that  it inspired the construction of a city like Washington,  which today plays a relevant role in the world.\""
+            "value": "English version:\n\"As Romans, we are proud that our city, the cradle of ancient civilization,\nwas honored for its greatness and historical significance to the extent that\nit inspired the construction of a city like Washington,\nwhich today plays a relevant role in the world.\""
         },
         {
             "type": "link_ref",
-            "value": "Link: All roads lead to Rome: Similarities between Washington D.C. and the eternal city"
+            "value": "Link:\nAll roads lead to Rome: Similarities between Washington D.C. and the eternal city"
         },
         {
             "type": "video",
@@ -148,7 +216,7 @@ var DocuVale = [
         }
     ],
     "type": "Gregorio",
-    "title": "Tutte le strade portano a Roma:  somiglianze tra Washington D.C. e la città eterna",
+    "title": "Tutte le strade portano a Roma:\nsomiglianze tra Washington D.C. e la città eterna",
     "preview_image": "./Rome and Wahington D.C/WDC.png",
     "id": "RomeAndWashington"
 }];

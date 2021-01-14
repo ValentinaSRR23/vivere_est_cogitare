@@ -62,6 +62,9 @@ function processContent(content) {
     if(type == "video"){
       html += "<iframe class=\"video_iframe\" src=\""+val+"\"></iframe>";
     }
+    if(type == "image_inline"){
+      html += buildImageSet(val);
+    }
     if(type == "link_ref"){
       html += buildLink(val);
     }
@@ -79,9 +82,36 @@ function processContent(content) {
 
 }
 
+function buildImageSet(val) {
+
+  let ratio;
+  let style = "";
+  let res = "";
+  let adjust = "";
+
+  if(val.length <= 4){
+    ratio = 60/(val.length/2);
+    style = "height:"+ratio.toString()+"em;";
+
+    for(let i = 0; i < val.length; i += 2){
+      res += "<div class=\"image_inline_wrap\"><img style=\""+style+";\" class=\"image_inline_pic\" src=\""+val[i]+"\"><div class=\"image_inline_label\">"+val[i+1]+"</div></div>";
+    }
+  }
+  else{
+    ratio = 60/(val.length/2);
+    style = "width:"+ratio.toString()+"em;";
+
+    for(let i = 0; i < val.length; i += 2){
+      res += "<div class=\"image_inline_wrap\"><img style=\""+style+";\" class=\"image_inline_pic\" src=\""+val[i]+"\"><div class=\"image_inline_label\">"+val[i+1]+"</div></div>";
+    }
+  }
+
+  return res;
+}
+
 function buildLink(val) {
 
-  let spl = val.split(" ");
+  let spl = val.split("\n");
   let spl_no_link = [];
   for(let i = 2; i < spl.length; i++){
     spl_no_link.push(spl[i]);

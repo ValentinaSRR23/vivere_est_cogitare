@@ -27,9 +27,9 @@ def aggregate(result,setting, data, isContent):
 
     isList = False
 
-    if(setting == "image_slide"):
+    if(setting == "image_slide" or setting == "image_inline"):
         isList = True
-        data = data.split(" ")
+        data = data.split("\n")
         while '' in data:
             data.remove('')
 
@@ -106,13 +106,18 @@ def processElement(element, fname):
             isContent = True
             data = ""
             setting = "video"
+        elif(row == "ImageInline:"):
+            result = aggregate(result,setting, data, isContent)
+            isContent = True
+            data = ""
+            setting = "image_inline"
         elif(row == "SlideShow:"):
             result = aggregate(result,setting, data, isContent)
             isContent = True
             data = ""
             setting = "image_slide"
         else:
-            data += row + " "
+            data += row + "\n"
 
     result = aggregate(result,setting, data, isContent)
 
