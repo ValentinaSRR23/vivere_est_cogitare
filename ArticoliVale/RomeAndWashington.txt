@@ -165,7 +165,7 @@ tanto da ispirare la costruzione di Washington,
 una città che oggi svolge un ruolo rilevante in tutto il mondo."
 
 Text:
-<div style="color:#2d6d7b;">English version</div>:
+<div style="color:#2d6d7b;">English version:</div>
 "As Romans, we are proud that our city, the cradle of ancient civilization,
 was honored for its greatness and historical significance to the extent that
 it inspired the construction of a city like Washington,
