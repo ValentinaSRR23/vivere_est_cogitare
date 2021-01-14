@@ -1,4 +1,4 @@
-
+2
 var Pages = ["Home", "Info", "Indice Articoli", "Indice Progetti SSML Gregorio VII", "Comunità"];
 
 var DynamiClasses = [
@@ -617,7 +617,7 @@ function pageCloser() {
   }
 
   let cl = document.createElement("div");
-  cl.innerHTML = "<div id=\"visitors_counter\"class=\"number_of_visitors\">Visitatori del sito: "+v.toString()+"</div><br><br><br><br><br><br><br><br><br><br>";
+  cl.innerHTML = "<br><br><br><br><div id=\"visitors_counter\"class=\"number_of_visitors\">Visitatori del sito: "+v.toString()+"</div><br><br><br><br><br><br><br><br><br><br>";
   return cl;
 }
 
