@@ -279,7 +279,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<br><br>"
+            "value": "<br>"
         },
         {
             "type": "image_inline",

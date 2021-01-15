@@ -106,7 +106,7 @@ E voi cosa ne <em>pensate</em>? <br>
 Se vi fa piacere lasciatemi un commento, sarò lieta di <em>ascoltare</em> cosa avete da dire.
 
 Text:
-<br><br>
+<br>
 
 ImageInline:
 ./Foto/Vivere est cogitare/1.png
