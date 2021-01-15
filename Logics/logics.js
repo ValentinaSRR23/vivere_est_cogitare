@@ -244,7 +244,7 @@ function getPageHeaderInfo(nome){
 
   let wrap = getNode("div",null, null);
   wrap.appendChild(getToolbar());
-  wrap.appendChild(getNode("img", "./Home/toolbar.png" ,"toolbar_sphere_image"));
+  wrap.appendChild(getNode("img", "./Foto/Home/toolbar.png" ,"toolbar_sphere_image"));
   wrap.appendChild(getNode("div", "- "+nome+" -", "page_title_label_separator"));
 
   return wrap;
@@ -254,7 +254,7 @@ function getPageHeader(nome){
 
   let wrap = getNode("div",null, null);
   wrap.appendChild(getToolbar());
-  wrap.appendChild(getNode("img", "./Home/toolbar.png" ,"toolbar_sphere_image"));
+  wrap.appendChild(getNode("img", "./Foto/Home/toolbar.png" ,"toolbar_sphere_image"));
   wrap.appendChild(getNode("div", "- "+nome+" -", "page_title_label_separator"));
 
   return wrap;
@@ -309,8 +309,8 @@ function showHomePage(){
   wrap.appendChild(button);
 
   let img_wrap = getNode("div", null, "image_wrapper");
-  let img_1 = getNode("img", "./Home/home_page_1.png", "img_homepage_right img_homepage");
-  let img_2 = getNode("img", "./Home/home_page_2.png", "img_homepage");
+  let img_1 = getNode("img", "./Foto/Home/home_page_1.png", "img_homepage_right img_homepage");
+  let img_2 = getNode("img", "./Foto/Home/home_page_2.png", "img_homepage");
   img_wrap.appendChild(img_1);
   img_wrap.appendChild(img_2);
   wrap.appendChild(img_wrap);
@@ -330,7 +330,7 @@ function showHomePage(){
 
 
   info_1.appendChild(getNode("div",'Su di me', "home_page_info_title"));
-  info_1.appendChild(getNode("div", "Ciao a tutti! <br>Mi chiamo Valentina, ho ventun'anni e sono laureanda in Mediazione Linguistica e Comunicazione Interculturale presso l'Università SSML Gregorio VII di Roma...", "home_page_info_text"));
+  info_1.appendChild(getNode("div", "Ciao a tutti! <br>Mi chiamo Valentina, ho ventun anni e sono laureanda in Mediazione Linguistica e Comunicazione Interculturale presso l'Università SSML Gregorio VII di Roma...", "home_page_info_text"));
   info_1.appendChild(getNodeAndSetClick("div", "Maggiori informazioni su di me", "home_page_info_link", "setNavigation('info')"));
 
   info_2.appendChild(getNode("div",'Spazio per voi', "home_page_info_title"));
@@ -386,7 +386,7 @@ function showInfoPage(){
   wrap.appendChild(getNode("div",'Mi presento', "home_page_title"));
 
   wrap.appendChild(getNode("div",'Ciao a tutti!', "home_page_text"));
-  wrap.appendChild(getNode("div",'Sono Valentina, laureanda in mediazione linguistica all’Università SSML Gregorio VII di Roma.', "home_page_text"));
+  wrap.appendChild(getNode("div","<br>Mi chiamo Valentina, ho ventun anni e sono laureanda in Mediazione Linguistica e Comunicazione Interculturale all’ <a target=\"_blank\" href=\"https://www.gregoriosettimo.eu/\"; >Università SSML Gregorio VII di Roma</a>.", "home_page_text"));
 
   wrap.appendChild(getNode("br",null,null));
 
@@ -403,12 +403,12 @@ function showInfoPage(){
   wrap.appendChild(getNode("br",null,null));
   wrap.appendChild(getNode("br",null,null));
 
-  wrap.appendChild(getNode("div",'Come nasce questo blog?', "home_page_text"));
+  wrap.appendChild(getNode("div", '<strong>Come nasce questo blog?</strong>', "home_page_text"));
   wrap.appendChild(getNode("div",
   "Questo blog si propone come angolo di condivisione affinché possa essere fonte di riflessioni tramite quelle che spero possano rivelarsi letture piacevoli e stimolanti. "+
   "Solitamente tengo molto alle opinioni degli altri, soprattutto quando non combaciano con le mie, perché sono convinta che rappresentino un’insostituibile fonte di ispirazione, che permette di donare una visione più ampia e aperta al cambiamento. "+
   "Per questo motivo ho aggiunto una sezione dedicata ai vostri commenti. "+
-  "Il mio blog, dunque, nasce con l’intento di offrire un’opportunità di confronto e di approfondimento sui temi che tratterò."
+  "<br>Il mio blog, dunque, nasce con l’intento di offrire un’opportunità di confronto e di approfondimento sui temi che tratterò."
   , "home_page_text"));
 
   wrap.appendChild(getNode("br",null,null));
@@ -420,7 +420,7 @@ function showInfoPage(){
   wrap.appendChild(getNode("br",null,null));
 
   wrap.appendChild(getNode("div",
-  'Buona lettura.'
+  '<br>Buona lettura.'
     , "home_page_text"));
 
 
@@ -461,7 +461,7 @@ function showBlogIndexPage(){
 function showGregorioIndexPage(){
 
   let base = getCleanNavigationPanel();
-  let toolbar = getPageHeaderWithPic("Indice Progetti SSML Gregorio VII", "./Assets/Logo.png");
+  let toolbar = getPageHeaderWithPic("Indice Progetti SSML Gregorio VII", "./Foto/Indice progetti Gregorio VII/Logo.png");
   base.appendChild(toolbar);
 
   if(ValeProgetti.Gregorios.length == 1){
