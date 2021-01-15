@@ -36,7 +36,7 @@ Text:
 <br> Infatti, i Padri Fondatori della Repubblica Americana furono fortemente
 ispirati dalla Roma antica repubblicana, tanto da progettare una città come Washington,
  costruita alla fine del XVII secolo, nel 1791, con l’intenzione di creare una
-<em><strong>“New Rome”</strong></em>, ossia una <em><strong>“Nuova Roma”</strong></em>.
+<em><strong>“New Rome”</strong></em>, ossia una <em>“Nuova Roma”</em>.
 
 Text:
 Oltre alle varie similitudini che si possono notare negli ornamenti dei palazzi,
@@ -52,7 +52,7 @@ Dunque, scopriamo insieme quali sono le altre somiglianze tra queste due città.
 
 Text
 Partiamo dal primo monumento, <strong>“United States Capitol”</strong> o <strong>“Capitol Building”</strong>
-(tradotto in italiano come <strong>“Campidoglio degli Stati Uniti”</strong>), ovvero la sede del
+(tradotto in italiano come <em>“Campidoglio degli Stati Uniti”</em>), ovvero la sede del
 parlamento e del governo degli Stati Uniti. Già solo il nome, non vi ricorda qualcosa?
 
 Text:
@@ -72,7 +72,7 @@ San Pietro
 Text:
 È interessante sapere anche che al suo interno si trova un affresco,
 <strong>“The Apotheosis of Washington”</strong>
-(<strong>L’Apoteosi di George Washington</strong>)
+(<em>L’Apoteosi di George Washington</em>)
 realizzato nel 1865 da Costantino Brumidi nel, un artista romano
 che ottenne la fama di Michelangelo americano.
 
@@ -94,15 +94,15 @@ Eppure, non notate anche qui una certa analogia con quello presente a
 
 ImageInline:
 ./Rome and Wahington D.C/w5.png
-Sulla sinistra l'Obelisco Vaticano, sulla destra Monumento a Washington
+Sulla sinistra l'Obelisco Vaticano, sulla destra il Monumento a Washington
 
 Text:
 Un altro modello di riferimento per gli americani fu sicuramente il <strong>Pantheon</strong>,
 a cui si ispirò <strong>Thomas Jefferson</strong>, uno dei padri fondatori nonché
-<strong>terzo presidente degli Stati Uniti d’America</strong> e protagonista
+terzo presidente degli Stati Uniti d’America e protagonista
 della stesura della <em>Dichiarazione di Indipendenza</em>. <br>
-Tra i diversi edifici e monumenti che commissionò, i più conosciuti sono
-<strong>il Jefferson Memorial</strong> e <strong>la National Gallery</strong>.
+Tra i diversi edifici e monumenti che commissionò, i più conosciuti sono il
+<strong>Jefferson Memorial</strong> e la <strong> National Gallery</strong>.
 
 ImageInline:
 ./Rome and Wahington D.C/w6.png
@@ -154,12 +154,12 @@ ma successivamente venne ribattezzato Tiber Creek per rendere omaggio al
 Spero che sia stato interessante per voi scoprire quante affinità siano presenti
 in queste due meravigliose città. <br><br>
 
-Ora vi lascio alla visione di un video a tema,
-che ho realizzato in lingua inglese in collaborazione con una mia collega. <br>
+In caso vi facccia piacere, sotto vi lascio anche il link del video illustrativo 
+che ho realizzato assieme ad una mia collega in lingua inglese. <br>
 Buona visione.
 
 Text:
-"Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,
+<br>"Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,
 sia stata onorata per la sua magnificenza e per il suo impatto storico,
 tanto da ispirare la costruzione di Washington,
 una città che oggi svolge un ruolo rilevante in tutto il mondo."
@@ -172,8 +172,9 @@ it inspired the construction of a city like Washington,
 which today plays a relevant role in the world."
 
 Collegamento:
-Link:
+https://youtu.be/V4GWS5QaOsY
+Link: 
 All roads lead to Rome: Similarities between Washington D.C. and the eternal city
 
 Video:
-http
+https://youtu.be/V4GWS5QaOsY

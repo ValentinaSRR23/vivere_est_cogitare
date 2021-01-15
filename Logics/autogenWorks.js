@@ -84,7 +84,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<br> Infatti, i Padri Fondatori della Repubblica Americana furono fortemente\nispirati dalla Roma antica repubblicana, tanto da progettare una città come Washington,\n costruita alla fine del XVII secolo, nel 1791, con l’intenzione di creare una\n<em><strong>“New Rome”</strong></em>, ossia una <em><strong>“Nuova Roma”</strong></em>."
+            "value": "<br> Infatti, i Padri Fondatori della Repubblica Americana furono fortemente\nispirati dalla Roma antica repubblicana, tanto da progettare una città come Washington,\n costruita alla fine del XVII secolo, nel 1791, con l’intenzione di creare una\n<em><strong>“New Rome”</strong></em>, ossia una <em>“Nuova Roma”</em>."
         },
         {
             "type": "text",
@@ -96,7 +96,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Dunque, scopriamo insieme quali sono le altre somiglianze tra queste due città.\nText\nPartiamo dal primo monumento, <strong>“United States Capitol”</strong> o <strong>“Capitol Building”</strong>\n(tradotto in italiano come <strong>“Campidoglio degli Stati Uniti”</strong>), ovvero la sede del\nparlamento e del governo degli Stati Uniti. Già solo il nome, non vi ricorda qualcosa?"
+            "value": "Dunque, scopriamo insieme quali sono le altre somiglianze tra queste due città.\nText\nPartiamo dal primo monumento, <strong>“United States Capitol”</strong> o <strong>“Capitol Building”</strong>\n(tradotto in italiano come <em>“Campidoglio degli Stati Uniti”</em>), ovvero la sede del\nparlamento e del governo degli Stati Uniti. Già solo il nome, non vi ricorda qualcosa?"
         },
         {
             "type": "text",
@@ -117,7 +117,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "È interessante sapere anche che al suo interno si trova un affresco,\n<strong>“The Apotheosis of Washington”</strong>\n(<strong>L’Apoteosi di George Washington</strong>)\nrealizzato nel 1865 da Costantino Brumidi nel, un artista romano\nche ottenne la fama di Michelangelo americano."
+            "value": "È interessante sapere anche che al suo interno si trova un affresco,\n<strong>“The Apotheosis of Washington”</strong>\n(<em>L’Apoteosi di George Washington</em>)\nrealizzato nel 1865 da Costantino Brumidi nel, un artista romano\nche ottenne la fama di Michelangelo americano."
         },
         {
             "type": "image_inline",
@@ -141,12 +141,12 @@ var DocuVale = [
             "type": "image_inline",
             "value": [
                 "./Rome and Wahington D.C/w5.png",
-                "Sulla sinistra l'Obelisco Vaticano, sulla destra Monumento a Washington"
+                "Sulla sinistra l'Obelisco Vaticano, sulla destra il Monumento a Washington"
             ]
         },
         {
             "type": "text",
-            "value": "Un altro modello di riferimento per gli americani fu sicuramente il <strong>Pantheon</strong>,\na cui si ispirò <strong>Thomas Jefferson</strong>, uno dei padri fondatori nonché\n<strong>terzo presidente degli Stati Uniti d’America</strong> e protagonista\ndella stesura della <em>Dichiarazione di Indipendenza</em>. <br>\nTra i diversi edifici e monumenti che commissionò, i più conosciuti sono\n<strong>il Jefferson Memorial</strong> e <strong>la National Gallery</strong>."
+            "value": "Un altro modello di riferimento per gli americani fu sicuramente il <strong>Pantheon</strong>,\na cui si ispirò <strong>Thomas Jefferson</strong>, uno dei padri fondatori nonché\nterzo presidente degli Stati Uniti d’America e protagonista\ndella stesura della <em>Dichiarazione di Indipendenza</em>. <br>\nTra i diversi edifici e monumenti che commissionò, i più conosciuti sono il\n<strong>Jefferson Memorial</strong> e la <strong> National Gallery</strong>."
         },
         {
             "type": "image_inline",
@@ -200,11 +200,11 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Ed infine, veramente pochi sono a conoscenza del <strong>Tiber Creek</strong>,\nun affluente del fiume <strong>Potomac</strong> che attualmente scorre sotto\nle vie di Washington. Originariamente prendeva il nome di <em>Goose Creek</em>,\nma successivamente venne ribattezzato Tiber Creek per rendere omaggio al\n<strong>Tevere</strong>, il fiume di Roma. <br><br>\nSpero che sia stato interessante per voi scoprire quante affinità siano presenti\nin queste due meravigliose città. <br><br>\nOra vi lascio alla visione di un video a tema,\nche ho realizzato in lingua inglese in collaborazione con una mia collega. <br>\nBuona visione."
+            "value": "Ed infine, veramente pochi sono a conoscenza del <strong>Tiber Creek</strong>,\nun affluente del fiume <strong>Potomac</strong> che attualmente scorre sotto\nle vie di Washington. Originariamente prendeva il nome di <em>Goose Creek</em>,\nma successivamente venne ribattezzato Tiber Creek per rendere omaggio al\n<strong>Tevere</strong>, il fiume di Roma. <br><br>\nSpero che sia stato interessante per voi scoprire quante affinità siano presenti\nin queste due meravigliose città. <br><br>\nIn caso vi facccia piacere, sotto vi lascio anche il link del video illustrativo \nche ho realizzato assieme ad una mia collega in lingua inglese. <br>\nBuona visione."
         },
         {
             "type": "text",
-            "value": "\"Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,\nsia stata onorata per la sua magnificenza e per il suo impatto storico,\ntanto da ispirare la costruzione di Washington,\nuna città che oggi svolge un ruolo rilevante in tutto il mondo.\""
+            "value": "<br>\"Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,\nsia stata onorata per la sua magnificenza e per il suo impatto storico,\ntanto da ispirare la costruzione di Washington,\nuna città che oggi svolge un ruolo rilevante in tutto il mondo.\""
         },
         {
             "type": "text",
@@ -212,11 +212,11 @@ var DocuVale = [
         },
         {
             "type": "link_ref",
-            "value": "Link:\nAll roads lead to Rome: Similarities between Washington D.C. and the eternal city"
+            "value": "https://youtu.be/V4GWS5QaOsY\nLink: \nAll roads lead to Rome: Similarities between Washington D.C. and the eternal city"
         },
         {
             "type": "video",
-            "value": "http"
+            "value": "https://youtu.be/V4GWS5QaOsY"
         }
     ],
     "type": "Gregorio",
