@@ -220,7 +220,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<br>\"Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,\nsia stata onorata per la sua magnificenza e per il suo impatto storico,\ntanto da ispirare la costruzione di Washington,\nuna città che oggi svolge un ruolo rilevante in tutto il mondo.\""
+            "value": "<br>\"Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,\nsia stata onorata per la sua magnificenza e per il suo impatto storico,\nal punto tale da ispirare la costruzione di Washington,\nuna città che oggi ha un ruolo rilevante in tutto il mondo.\""
         },
         {
             "type": "text",

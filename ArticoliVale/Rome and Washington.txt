@@ -172,8 +172,8 @@ https://youtu.be/V4GWS5QaOsY
 Text:
 <br>"Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,
 sia stata onorata per la sua magnificenza e per il suo impatto storico,
-tanto da ispirare la costruzione di Washington,
-una città che oggi svolge un ruolo rilevante in tutto il mondo."
+al punto tale da ispirare la costruzione di Washington,
+una città che oggi ha un ruolo rilevante in tutto il mondo."
 
 Text:
 <div style="color:#2d6d7b;">English version:</div>
