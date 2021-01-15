@@ -224,7 +224,7 @@ var DocuVale = [
         },
         {
             "type": "video",
-            "value": "https://youtu.be/V4GWS5QaOsY"
+            "value": "https://www.youtube.com/embed/V4GWS5QaOsY"
         }
     ],
     "type": "Gregorio",
