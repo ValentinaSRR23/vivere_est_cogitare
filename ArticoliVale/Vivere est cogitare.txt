@@ -13,9 +13,8 @@ Text:
 
 Text:
 <br>La locuzione latina di Cicerone <strong><em>“Vivere est cogitare”</em></strong>, 
-tradotta letteralmente, significa <em>“Vivere è pensare”</em>. <br>
-Eppure, sebbene la frase sembrerebbe facile da comprendere, sono fortemente convinta che,
- per apprendere a pieno il suo significato intrinseco, tre parole non siano sufficienti. 
+tradotta letteralmente, significa <em>“Vivere è pensare”</em>. Eppure, sebbene la frase sembrerebbe facile da comprendere, sono fortemente convinta che, 
+per apprendere a pieno il suo significato intrinseco, tre parole non siano sufficienti. 
 
 Text:
 Provate adesso a seguirmi con questo ragionamento: <strong>l’essenza dell’uomo, 

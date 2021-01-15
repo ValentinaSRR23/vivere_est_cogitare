@@ -235,7 +235,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<br>La locuzione latina di Cicerone <strong><em>“Vivere est cogitare”</em></strong>, \ntradotta letteralmente, significa <em>“Vivere è pensare”</em>. <br>\nEppure, sebbene la frase sembrerebbe facile da comprendere, sono fortemente convinta che,\n per apprendere a pieno il suo significato intrinseco, tre parole non siano sufficienti."
+            "value": "<br>La locuzione latina di Cicerone <strong><em>“Vivere est cogitare”</em></strong>, \ntradotta letteralmente, significa <em>“Vivere è pensare”</em>. Eppure, sebbene la frase sembrerebbe facile da comprendere, sono fortemente convinta che, \nper apprendere a pieno il suo significato intrinseco, tre parole non siano sufficienti."
         },
         {
             "type": "text",
