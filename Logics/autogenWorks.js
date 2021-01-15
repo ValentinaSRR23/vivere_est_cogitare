@@ -68,7 +68,7 @@ var DocuVale = [
     "content": [
         {
             "type": "text",
-            "value": "Vi siete mai chiesti cosa potrebbero avere in comune due città\ncome <strong>Roma</strong> e <strong>Washington D.C.</strong>?\nForse molti di voi non ci hanno nemmeno mai pensato...\nIn questo caso, questo articolo fa al caso vostro:\nsebbene queste capitali siano divise da un intero oceano,\nentrambe condividono molto più di quanto pensiate.<br><br>"
+            "value": "Vi siete mai chiesti cosa potrebbero avere in comune due città\ncome <strong>Roma</strong> e <strong>Washington D.C.</strong>? <br>\nForse molti di voi non ci hanno nemmeno mai pensato...\nIn tal caso, questo articolo fa al caso vostro:\ninfatti, sebbene queste capitali siano divise da un intero oceano,\nentrambe condividono molto più di quanto pensiate.<br><br>"
         },
         {
             "type": "end_preview",
@@ -76,7 +76,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "È stato proprio il <strong>Presidente degli Stati Uniti d’America Trump</strong>,\nche durante il suo discorso tenutosi nello Studio Ovale in presenza\ndel <strong>Presidente della Repubblica Italiana</strong>, <strong>Sergio Mattarella</strong>,\nha evidenziato il legame particolare tra le due città."
+            "value": "È stato proprio il <strong>Presidente degli Stati Uniti d’America Trump</strong>,\nche, durante il suo discorso tenutosi nello Studio Ovale in presenza\ndel <strong>Presidente della Repubblica Italiana</strong>, <strong>Sergio Mattarella</strong>,\nha evidenziato il legame particolare tra le due città."
         },
         {
             "type": "link_ref",
@@ -84,7 +84,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<br> Infatti, i Padri Fondatori della Repubblica Americana furono fortemente\nispirati dalla Roma antica repubblicana, tanto da progettare una città come Washington,\n costruita alla fine del XVII secolo, nel 1791, con l’intenzione di creare una\n<em><strong>“New Rome”</strong></em>, ossia una <em>“Nuova Roma”</em>."
+            "value": "<br> In effetti, i Padri Fondatori della Repubblica Americana furono fortemente\nispirati dalla Roma antica repubblicana, tanto da progettare una città come Washington,\n costruita alla fine del XVII secolo, nel 1791, con l’intenzione di creare una\n<em><strong>“New Rome”</strong></em>, ossia una <em>“Nuova Roma”</em>."
         },
         {
             "type": "text",
@@ -92,15 +92,11 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Innanzitutto, basti pensare che Washington D.C. fu costruita ispirandosi ai 7 colli di Roma:\n <strong>Capitol Hill, Meridian Hill, Floral Hill, Forest Hills, Hillbrook, Hillcrest, Know Hill</strong>."
+            "value": "Innanzitutto, basti pensare che Washington D.C. fu costruita ispirandosi ai 7 colli di Roma:\n <em>Capitol Hill, Meridian Hill, Floral Hill, Forest Hills, Hillbrook, Hillcrest, Know Hill</em>."
         },
         {
             "type": "text",
-            "value": "Dunque, scopriamo insieme quali sono le altre somiglianze tra queste due città.\nText\nPartiamo dal primo monumento, <strong>“United States Capitol”</strong> o <strong>“Capitol Building”</strong>\n(tradotto in italiano come <em>“Campidoglio degli Stati Uniti”</em>), ovvero la sede del\nparlamento e del governo degli Stati Uniti. Già solo il nome, non vi ricorda qualcosa?"
-        },
-        {
-            "type": "text",
-            "value": "Immagino di sì, si può notare infatti un ovvio riferimento al nome del\n<strong>Campidoglio</strong>, sede di rappresentanza del comune di Roma."
+            "value": "Dunque, scopriamo insieme quali sono le altre somiglianze tra queste due città.\nText\nPartiamo dal primo monumento, <strong>“United States Capitol”</strong> o <strong>“Capitol Building”</strong>\n(tradotto in italiano come <em>“Campidoglio degli Stati Uniti”</em>), ovvero la sede del\nparlamento e del governo degli Stati Uniti. Già solo il nome, non vi ricorda qualcosa? \nImmagino di sì: un ovvio riferimento al nome del\n<strong>Campidoglio</strong>, sede di rappresentanza del comune di Roma."
         },
         {
             "type": "text",
@@ -117,7 +113,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "È interessante sapere anche che al suo interno si trova un affresco,\n<strong>“The Apotheosis of Washington”</strong>\n(<em>L’Apoteosi di George Washington</em>)\nrealizzato nel 1865 da Costantino Brumidi nel, un artista romano\nche ottenne la fama di Michelangelo americano."
+            "value": "È interessante sapere anche che al suo interno si trova un affresco,\n<strong>“The Apotheosis of Washington”</strong>\n(<em>L’Apoteosi di George Washington</em>)\nrealizzato nel 1865 da Costantino Brumidi, un artista romano\nche ottenne la fama di Michelangelo americano."
         },
         {
             "type": "image_inline",
@@ -135,7 +131,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Vicino al Capitol Building vi è poi un obelisco, il <strong>Washington Monument</strong>\n(<strong>Monumento a Washington</strong>), eretto per commemorare\n<strong>George Washington</strong>, uno dei padri fondatori e\n<strong>primo presidente degli Stati Uniti</strong>. <br>\nEppure, non notate anche qui una certa analogia con quello presente a\n<strong>Piazza San Pietro?</strong>"
+            "value": "Vicino al Capitol Building vi è poi un obelisco, il <strong>Washington Monument</strong>\n(<em>Monumento a Washington</em>), eretto per commemorare\n<strong>George Washington</strong>, uno dei padri fondatori e\nprimo presidente degli Stati Uniti. <br>\nEppure, non notate anche qui una certa analogia con quello presente a\n<strong>Piazza San Pietro?</strong>"
         },
         {
             "type": "image_inline",
@@ -200,15 +196,19 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Ed infine, veramente pochi sono a conoscenza del <strong>Tiber Creek</strong>,\nun affluente del fiume <strong>Potomac</strong> che attualmente scorre sotto\nle vie di Washington. Originariamente prendeva il nome di <em>Goose Creek</em>,\nma successivamente venne ribattezzato Tiber Creek per rendere omaggio al\n<strong>Tevere</strong>, il fiume di Roma. <br><br>\nSpero che sia stato interessante per voi scoprire quante affinità siano presenti\nin queste due meravigliose città. <br><br>\nIn caso vi facccia piacere, sotto vi lascio anche il link del video illustrativo \nche ho realizzato assieme ad una mia collega in lingua inglese. <br>\nBuona visione."
+            "value": "<br><br> <strong>Piccola curiosità:</strong>"
         },
         {
             "type": "text",
-            "value": "<br>\"Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,\nsia stata onorata per la sua magnificenza e per il suo impatto storico,\ntanto da ispirare la costruzione di Washington,\nuna città che oggi svolge un ruolo rilevante in tutto il mondo.\""
+            "value": "<br><br>Veramente pochi sono a conoscenza del <strong>Tiber Creek</strong>,\nun affluente del fiume <strong>Potomac</strong> che attualmente scorre sotto\nle vie di Washington. Originariamente prendeva il nome di <em>Goose Creek</em>,\nma successivamente venne ribattezzato Tiber Creek per rendere omaggio al\n<strong>Tevere</strong>, il fiume di Roma. <br><br>"
+        },
+        {
+            "type": "separator",
+            "value": ""
         },
         {
             "type": "text",
-            "value": "<div style=\"color:#2d6d7b;\">English version:</div>\n\"As Romans, we are proud that our city, the cradle of ancient civilization,\nwas honored for its greatness and historical significance to the extent that\nit inspired the construction of a city like Washington,\nwhich today plays a relevant role in the world.\""
+            "value": "<br><br>Spero che sia stato interessante per voi scoprire quante affinità siano presenti\nin queste due meravigliose città. <br><br>\nIn caso vi faccia piacere, sotto vi lascio anche il link del video illustrativo \nche ho realizzato assieme ad una mia collega in lingua inglese. <br>\nBuona visione."
         },
         {
             "type": "link_ref",
@@ -217,6 +217,14 @@ var DocuVale = [
         {
             "type": "video",
             "value": "https://youtu.be/V4GWS5QaOsY"
+        },
+        {
+            "type": "text",
+            "value": "<br>\"Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,\nsia stata onorata per la sua magnificenza e per il suo impatto storico,\ntanto da ispirare la costruzione di Washington,\nuna città che oggi svolge un ruolo rilevante in tutto il mondo.\""
+        },
+        {
+            "type": "text",
+            "value": "<div style=\"color:#2d6d7b;\">English version:</div>\n\"As Romans, we are proud that our city, the cradle of ancient civilization,\nwas honored for its greatness and historical significance to the extent that\nit inspired the construction of a city like Washington,\nwhich today plays a relevant role in the world.\""
         }
     ],
     "type": "Gregorio",

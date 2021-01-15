@@ -11,10 +11,10 @@ MainImage:
 
 Text:
 Vi siete mai chiesti cosa potrebbero avere in comune due città
-come <strong>Roma</strong> e <strong>Washington D.C.</strong>?
+come <strong>Roma</strong> e <strong>Washington D.C.</strong>? <br>
 Forse molti di voi non ci hanno nemmeno mai pensato...
-In questo caso, questo articolo fa al caso vostro:
-sebbene queste capitali siano divise da un intero oceano,
+In tal caso, questo articolo fa al caso vostro:
+infatti, sebbene queste capitali siano divise da un intero oceano,
 entrambe condividono molto più di quanto pensiate.<br><br>
 
 EndPreview:
@@ -23,7 +23,7 @@ EndPreview:
 
 Text:
 È stato proprio il <strong>Presidente degli Stati Uniti d’America Trump</strong>,
-che durante il suo discorso tenutosi nello Studio Ovale in presenza
+che, durante il suo discorso tenutosi nello Studio Ovale in presenza
 del <strong>Presidente della Repubblica Italiana</strong>, <strong>Sergio Mattarella</strong>,
 ha evidenziato il legame particolare tra le due città.
 
@@ -33,7 +33,7 @@ Link:
 Discorso di Trump
 
 Text:
-<br> Infatti, i Padri Fondatori della Repubblica Americana furono fortemente
+<br> In effetti, i Padri Fondatori della Repubblica Americana furono fortemente
 ispirati dalla Roma antica repubblicana, tanto da progettare una città come Washington,
  costruita alla fine del XVII secolo, nel 1791, con l’intenzione di creare una
 <em><strong>“New Rome”</strong></em>, ossia una <em>“Nuova Roma”</em>.
@@ -45,7 +45,7 @@ le analogie con gli edifici monumentali presenti nelle due città.
 
 Text:
 Innanzitutto, basti pensare che Washington D.C. fu costruita ispirandosi ai 7 colli di Roma:
- <strong>Capitol Hill, Meridian Hill, Floral Hill, Forest Hills, Hillbrook, Hillcrest, Know Hill</strong>.
+ <em>Capitol Hill, Meridian Hill, Floral Hill, Forest Hills, Hillbrook, Hillcrest, Know Hill</em>.
 
 Text:
 Dunque, scopriamo insieme quali sono le altre somiglianze tra queste due città.
@@ -53,10 +53,8 @@ Dunque, scopriamo insieme quali sono le altre somiglianze tra queste due città.
 Text
 Partiamo dal primo monumento, <strong>“United States Capitol”</strong> o <strong>“Capitol Building”</strong>
 (tradotto in italiano come <em>“Campidoglio degli Stati Uniti”</em>), ovvero la sede del
-parlamento e del governo degli Stati Uniti. Già solo il nome, non vi ricorda qualcosa?
-
-Text:
-Immagino di sì, si può notare infatti un ovvio riferimento al nome del
+parlamento e del governo degli Stati Uniti. Già solo il nome, non vi ricorda qualcosa? 
+Immagino di sì: un ovvio riferimento al nome del
 <strong>Campidoglio</strong>, sede di rappresentanza del comune di Roma.
 
 Text:
@@ -73,7 +71,7 @@ Text:
 È interessante sapere anche che al suo interno si trova un affresco,
 <strong>“The Apotheosis of Washington”</strong>
 (<em>L’Apoteosi di George Washington</em>)
-realizzato nel 1865 da Costantino Brumidi nel, un artista romano
+realizzato nel 1865 da Costantino Brumidi, un artista romano
 che ottenne la fama di Michelangelo americano.
 
 ImageInline:
@@ -86,9 +84,9 @@ Dettaglio dell'affresco
 
 Text:
 Vicino al Capitol Building vi è poi un obelisco, il <strong>Washington Monument</strong>
-(<strong>Monumento a Washington</strong>), eretto per commemorare
+(<em>Monumento a Washington</em>), eretto per commemorare
 <strong>George Washington</strong>, uno dei padri fondatori e
-<strong>primo presidente degli Stati Uniti</strong>. <br>
+primo presidente degli Stati Uniti. <br>
 Eppure, non notate anche qui una certa analogia con quello presente a
 <strong>Piazza San Pietro?</strong>
 
@@ -144,19 +142,32 @@ Il Madison Memorial
 Il Salone delle Fontane
 
 Text:
-Ed infine, veramente pochi sono a conoscenza del <strong>Tiber Creek</strong>,
+<br><br> <strong>Piccola curiosità:</strong>
+
+Text:
+<br><br>Veramente pochi sono a conoscenza del <strong>Tiber Creek</strong>,
 un affluente del fiume <strong>Potomac</strong> che attualmente scorre sotto
 le vie di Washington. Originariamente prendeva il nome di <em>Goose Creek</em>,
 ma successivamente venne ribattezzato Tiber Creek per rendere omaggio al
 <strong>Tevere</strong>, il fiume di Roma. <br><br>
 
+Separator:
 
-Spero che sia stato interessante per voi scoprire quante affinità siano presenti
+Text:
+<br><br>Spero che sia stato interessante per voi scoprire quante affinità siano presenti
 in queste due meravigliose città. <br><br>
 
-In caso vi facccia piacere, sotto vi lascio anche il link del video illustrativo 
+In caso vi faccia piacere, sotto vi lascio anche il link del video illustrativo 
 che ho realizzato assieme ad una mia collega in lingua inglese. <br>
 Buona visione.
+
+Collegamento:
+https://youtu.be/V4GWS5QaOsY
+Link: 
+All roads lead to Rome: Similarities between Washington D.C. and the eternal city
+
+Video:
+https://youtu.be/V4GWS5QaOsY
 
 Text:
 <br>"Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,
@@ -170,11 +181,3 @@ Text:
 was honored for its greatness and historical significance to the extent that
 it inspired the construction of a city like Washington,
 which today plays a relevant role in the world."
-
-Collegamento:
-https://youtu.be/V4GWS5QaOsY
-Link: 
-All roads lead to Rome: Similarities between Washington D.C. and the eternal city
-
-Video:
-https://youtu.be/V4GWS5QaOsY
