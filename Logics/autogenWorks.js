@@ -228,7 +228,7 @@ var DocuVale = [
         }
     ],
     "type": "Gregorio",
-    "title": "<div style=\"color:#2d6d7b;\">Tutte le strade portano a Roma:\nsomiglianze tra Washington D.C. e la città eterna</div>",
+    "title": "Tutte le strade portano a Roma:\nsomiglianze tra Washington D.C. e la città eterna",
     "preview_image": "./Rome and Wahington D.C/WDC.png",
     "id": "Rome and Washington"
 },

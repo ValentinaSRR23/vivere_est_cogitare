@@ -3,8 +3,8 @@ Category:
 Gregorio
 
 Title:
-<div style="color:#2d6d7b;">Tutte le strade portano a Roma:
-somiglianze tra Washington D.C. e la città eterna</div>
+Tutte le strade portano a Roma:
+somiglianze tra Washington D.C. e la città eterna
 
 MainImage:
 ./Rome and Wahington D.C/WDC.png
