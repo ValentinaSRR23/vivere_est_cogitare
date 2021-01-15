@@ -239,6 +239,10 @@ var DocuVale = [
             "value": "Provate adesso a seguirmi con questo ragionamento: <strong>l’essenza dell’uomo, \nla sua peculiarità rispetto a tutti gli esseri viventi, è proprio la capacità di riflessione, \nl’attitudine a porsi delle questioni e provare a risolverle, il desiderio di migliorare \ne trovare delle idee per farlo.</strong>"
         },
         {
+            "type": "end_preview",
+            "value": ""
+        },
+        {
             "type": "text",
             "value": "Gli uomini riflettono sulle proprie azioni, progettano, si chiedono se un qualcosa sia vero, \nsi interrogano sui propri sentimenti, cercano di capire le proprie decisioni e d’interpretare \nle azioni degli altri. Studiano, provano ad apprendere gli errori del passato, \ntentano di migliorarsi. <br>\nGli uomini sono esseri razionali, e in quanto tali sono capaci di pensare. <br><br>\nEducare alla conoscenza del pensiero è un passo fondamentale verso la conoscenza di sé \ne del mondo che ci circonda, ma bisogna essere guidati, incoraggiati, orientati, \nmessi nella condizione di attendere a una condizione di grazia che si attiva con lo studio, \nl’osservazione, l’educazione e il silenzio. <br>"
         },
