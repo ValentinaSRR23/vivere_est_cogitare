@@ -278,6 +278,10 @@ var DocuVale = [
             "value": "E voi cosa ne <em>pensate</em>? <br>\nSe vi fa piacere lasciatemi un commento, sarò lieta di <em>ascoltare</em> cosa avete da dire."
         },
         {
+            "type": "text",
+            "value": "<br><br>"
+        },
+        {
             "type": "image_inline",
             "value": [
                 "./Foto/Vivere est cogitare/1.png",

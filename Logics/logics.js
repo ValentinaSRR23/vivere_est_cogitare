@@ -301,7 +301,9 @@ function showHomePage(){
     'Qui troverete vari articoli e spunti di riflessione personali sul concetto e sul valore del pensiero umano; per tale motivo, ho scelto accuratamente come locuzione riassuntiva del blog la frase latina <strong>“Vivere est cogitare”</strong>. <br><br>'+
     'Pronunciata da Cicerone (106 a.C - 43 a.C) e ribadita da Cartesio (1596 - 1650) con il suo più noto detto <strong>“Cogito ergo sum”</strong>, viene tradotta letteralmente come <strong>“Vivere è pensare”</strong>. <br><br>'+
     'Dietro queste tre parole, infatti, si cela un concetto affascinante, probabilmente sottovalutato, che mi piacerebbe condividere con voi. <br><br>'+
-    'Ma andiamo a scoprirne il significato insieme...', "home_page_text"));
+    'Credo, infatti, nel potere della condivisione: accogliere e rispettare le opinioni degli altri, seppur non approvandole; ascoltare il prossimo come vorremmo che noi fossimo ascoltati. '+ 
+    'Tutto ciò con il fine di costruirsi uno spettro più ampio di pensiero e soprattutto di svilupparlo in modo indipendente e più libero possibile. <br><br>'+
+    'Andiamo, dunque, ad approfondire questo tema insieme...', "home_page_text"));
 
 
   let button = getNode("div", "scopri di più".toUpperCase(), "home_page_button");
@@ -314,6 +316,14 @@ function showHomePage(){
   img_wrap.appendChild(img_1);
   img_wrap.appendChild(img_2);
   wrap.appendChild(img_wrap);
+
+  wrap.appendChild(getNode("br",null,null));
+  wrap.appendChild(getNode("br",null,null));
+  wrap.appendChild(getNode("br",null,null));
+
+let border=getNode("div",null,"article_separator");
+border.style.marginBottom="-2em";
+    wrap.appendChild(border);
 
   //let separator = getNode("div",null, "separator_homepage");
   //wrap.appendChild(separator);
@@ -403,7 +413,9 @@ function showInfoPage(){
   wrap.appendChild(getNode("br",null,null));
   wrap.appendChild(getNode("br",null,null));
 
-  wrap.appendChild(getNode("div", '<strong>Come nasce questo blog?</strong>', "home_page_text"));
+  wrap.appendChild(getNode("div",null,"article_separator"));
+
+  wrap.appendChild(getNode("div", '<br> <strong>Come nasce questo blog?</strong>', "home_page_text"));
   wrap.appendChild(getNode("div",
   "Questo blog si propone come angolo di condivisione affinché possa essere fonte di riflessioni tramite quelle che spero possano rivelarsi letture piacevoli e stimolanti. "+
   "Solitamente tengo molto alle opinioni degli altri, soprattutto quando non combaciano con le mie, perché sono convinta che rappresentino un’insostituibile fonte di ispirazione, che permette di donare una visione più ampia e aperta al cambiamento. "+
