@@ -239,7 +239,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Provate adesso a seguirmi con questo ragionamento: <strong>l’essenza dell’uomo, \nla sua peculiarità rispetto a tutti gli esseri viventi, è proprio la capacità di riflessione, \nl’attitudine a porsi delle questioni e provare a risolverle, il desiderio di migliorare \ne trovare delle idee per farlo.</strong>"
+            "value": "<br>Provate adesso a seguirmi con questo ragionamento: <strong>l’essenza dell’uomo, \nla sua peculiarità rispetto a tutti gli esseri viventi, è proprio la capacità di riflessione, \nl’attitudine a porsi delle questioni e provare a risolverle, il desiderio di migliorare \ne trovare delle idee per farlo.</strong>"
         },
         {
             "type": "end_preview",

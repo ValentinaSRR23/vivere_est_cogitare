@@ -17,7 +17,7 @@ tradotta letteralmente, significa <em>“Vivere è pensare”</em>. Eppure, sebb
 per apprendere a pieno il suo significato intrinseco, tre parole non siano sufficienti. 
 
 Text:
-Provate adesso a seguirmi con questo ragionamento: <strong>l’essenza dell’uomo, 
+<br>Provate adesso a seguirmi con questo ragionamento: <strong>l’essenza dell’uomo, 
 la sua peculiarità rispetto a tutti gli esseri viventi, è proprio la capacità di riflessione, 
 l’attitudine a porsi delle questioni e provare a risolverle, il desiderio di migliorare 
 e trovare delle idee per farlo.</strong> 
