@@ -200,7 +200,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<br>Veramente pochi sono a conoscenza del <strong>Tiber Creek</strong>,\nun affluente del fiume <strong>Potomac</strong> che attualmente scorre sotto\nle vie di Washington. Originariamente prendeva il nome di <em>Goose Creek</em>,\nma successivamente venne ribattezzato Tiber Creek per rendere omaggio al\n<strong>Tevere</strong>, il fiume di Roma. <br><br>"
+            "value": "<br>Veramente pochi sono a conoscenza del <strong>Tiber Creek</strong>,\nun affluente del fiume <strong>Potomac</strong> che attualmente scorre sotto\nle vie di Washington. Originariamente prendeva il nome di <em>Goose Creek</em>,\nma successivamente venne ribattezzato Tiber Creek per rendere omaggio al\n<strong>Tevere</strong>, il fiume di Roma. <br>"
         },
         {
             "type": "text",
