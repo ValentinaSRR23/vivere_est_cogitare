@@ -68,7 +68,7 @@ var DocuVale = [
     "content": [
         {
             "type": "text",
-            "value": "Vi siete mai chiesti cosa potrebbero avere in comune due città\ncome <strong>Roma</strong> e <strong>Washington D.C.</strong>? <br>\nForse molti di voi non ci hanno nemmeno mai pensato...\nIn tal caso, questo articolo fa al caso vostro:\ninfatti, sebbene queste capitali siano divise da un intero oceano,\nentrambe condividono molto più di quanto pensiate.<br><br>"
+            "value": "Vi siete mai chiesti cosa potrebbero avere in comune due città\ncome Roma e Washington D.C.? <br>\nForse molti di voi non ci hanno nemmeno mai pensato...\nIn tal caso, questo articolo fa al caso vostro:\ninfatti, sebbene queste capitali siano divise da un intero oceano,\nentrambe condividono molto più di quanto pensiate.<br><br>"
         },
         {
             "type": "end_preview",

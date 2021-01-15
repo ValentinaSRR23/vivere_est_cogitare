@@ -11,7 +11,7 @@ MainImage:
 
 Text:
 Vi siete mai chiesti cosa potrebbero avere in comune due città
-come <strong>Roma</strong> e <strong>Washington D.C.</strong>? <br>
+come Roma e Washington D.C.? <br>
 Forse molti di voi non ci hanno nemmeno mai pensato...
 In tal caso, questo articolo fa al caso vostro:
 infatti, sebbene queste capitali siano divise da un intero oceano,
