@@ -163,17 +163,17 @@ Buona visione. <br><br>
 Separator:
 
 Text:
-<br>"Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,
+<br>“Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,
 sia stata onorata per la sua magnificenza e per il suo impatto storico,
 al punto tale da ispirare la costruzione di Washington,
-una città che oggi svolge un ruolo rilevante in tutto il mondo."
+una città che oggi svolge un ruolo rilevante in tutto il mondo.”
 
 Text:
 <div style="color:#2d6d7b;">English version:</div>
-"As Romans, we are proud that our city, the cradle of ancient civilization,
+“As Romans, we are proud that our city, the cradle of ancient civilization,
 was honored for its greatness and historical significance to the extent that
 it inspired the construction of a city like Washington,
-which today plays a relevant role in the world."
+which today plays a relevant role in the world.”
 
 Collegamento:
 https://youtu.be/V4GWS5QaOsY

@@ -212,11 +212,11 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<br>\"Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,\nsia stata onorata per la sua magnificenza e per il suo impatto storico,\nal punto tale da ispirare la costruzione di Washington,\nuna città che oggi svolge un ruolo rilevante in tutto il mondo.\""
+            "value": "<br>“Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,\nsia stata onorata per la sua magnificenza e per il suo impatto storico,\nal punto tale da ispirare la costruzione di Washington,\nuna città che oggi svolge un ruolo rilevante in tutto il mondo.”"
         },
         {
             "type": "text",
-            "value": "<div style=\"color:#2d6d7b;\">English version:</div>\n\"As Romans, we are proud that our city, the cradle of ancient civilization,\nwas honored for its greatness and historical significance to the extent that\nit inspired the construction of a city like Washington,\nwhich today plays a relevant role in the world.\""
+            "value": "<div style=\"color:#2d6d7b;\">English version:</div>\n“As Romans, we are proud that our city, the cradle of ancient civilization,\nwas honored for its greatness and historical significance to the extent that\nit inspired the construction of a city like Washington,\nwhich today plays a relevant role in the world.”"
         },
         {
             "type": "link_ref",
