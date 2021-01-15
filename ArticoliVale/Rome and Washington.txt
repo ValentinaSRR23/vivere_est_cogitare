@@ -7,7 +7,7 @@ Tutte le strade portano a Roma:
 somiglianze tra Washington D.C. e la città eterna
 
 MainImage:
-./Rome and Wahington D.C/WDC.png
+./Foto/Rome and Wahington D.C/WDC.png
 
 Text:
 Vi siete mai chiesti cosa potrebbero avere in comune due città
@@ -62,9 +62,9 @@ Inoltre, la struttura della cupola riprende indubbiamente l’aspetto di quella 
 da <strong>Michelangelo</strong> per la <strong>Basilica di San Pietro in Vaticano</strong>.
 
 ImageInline:
-./Rome and Wahington D.C/w1.png
+./Foto/Rome and Wahington D.C/w1.png
 Campidoglio degli Stati Uniti
-./Rome and Wahington D.C/w2.png
+./Foto/Rome and Wahington D.C/w2.png
 San Pietro
 
 Text:
@@ -75,9 +75,9 @@ realizzato nel 1865 da Costantino Brumidi, un artista romano
 che ottenne la fama di Michelangelo americano.
 
 ImageInline:
-./Rome and Wahington D.C/w3.png
+./Foto/Rome and Wahington D.C/w3.png
 L’Apoteosi di George Washington
-./Rome and Wahington D.C/w4.png
+./Foto/Rome and Wahington D.C/w4.png
 Dettaglio dell'affresco
 
 Text:
@@ -89,7 +89,7 @@ Eppure, non notate anche qui una certa analogia con quello presente a
 <strong>Piazza San Pietro?</strong>
 
 ImageInline:
-./Rome and Wahington D.C/w5.png
+./Foto/Rome and Wahington D.C/w5.png
 Sulla sinistra l'Obelisco Vaticano, sulla destra il Monumento a Washington
 
 Text:
@@ -101,11 +101,11 @@ Tra i diversi edifici e monumenti che commissionò, i più conosciuti sono il
 <strong>Jefferson Memorial</strong> e la <strong> National Gallery</strong>.
 
 ImageInline:
-./Rome and Wahington D.C/w6.png
+./Foto/Rome and Wahington D.C/w6.png
 Pantheon
-./Rome and Wahington D.C/w7.png
+./Foto/Rome and Wahington D.C/w7.png
 Jefferson Memorial
-./Rome and Wahington D.C/w8.png
+./Foto/Rome and Wahington D.C/w8.png
 National Gallery
 
 Text:
@@ -113,9 +113,9 @@ Vi sono poi molte altre somiglianze come la <strong>Corte Suprema degli Stati Un
  costruita nel 1935, che ricalca il <strong>Tempio di Adriano</strong> in Piazza di Pietra a Roma.
 
 ImageInline:
-./Rome and Wahington D.C/w9.png
+./Foto/Rome and Wahington D.C/w9.png
 Corte Suprema degli Stati Uniti
-./Rome and Wahington D.C/w10.png
+./Foto/Rome and Wahington D.C/w10.png
 Tempio di Adriano
 
 Text:
@@ -123,9 +123,9 @@ La <strong>Union Station di Washington</strong>, la stazione centrale ferroviari
 riprende lo stile delle <strong>Terme di Diocleziano</strong>.
 
 ImageInline:
-./Rome and Wahington D.C/w11.png
+./Foto/Rome and Wahington D.C/w11.png
 La Union Station
-./Rome and Wahington D.C/w12.png
+./Foto/Rome and Wahington D.C/w12.png
 Terme di Diocleziano
 
 Text:
@@ -134,9 +134,9 @@ Il <strong>Madison Memorial Building</strong> sembra essere la copia del
 <strong>Salone delle Fontane</strong> all’EUR.
 
 ImageInline:
-./Rome and Wahington D.C/w13.png
+./Foto/Rome and Wahington D.C/w13.png
 Il Madison Memorial
-./Rome and Wahington D.C/w14.png
+./Foto/Rome and Wahington D.C/w14.png
 Il Salone delle Fontane
 
 Text:

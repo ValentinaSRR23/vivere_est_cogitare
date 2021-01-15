@@ -22,16 +22,16 @@ var DocuVale = [
         {
             "type": "image_slide",
             "value": [
-                "./Acquedotti/Storytelling/A1.png",
-                "./Acquedotti/Storytelling/A2.png",
-                "./Acquedotti/Storytelling/A3.png",
-                "./Acquedotti/Storytelling/A4.png",
-                "./Acquedotti/Storytelling/A5.png",
-                "./Acquedotti/Storytelling/A6.png",
-                "./Acquedotti/Storytelling/A7.png",
-                "./Acquedotti/Storytelling/A8.png",
-                "./Acquedotti/Storytelling/A9.png",
-                "./Acquedotti/Storytelling/A10.png"
+                "./Foto/Acquedotti/A1.png",
+                "./Foto/Acquedotti/A2.png",
+                "./Foto/Acquedotti/A3.png",
+                "./Foto/Acquedotti/A4.png",
+                "./Foto/Acquedotti/A5.png",
+                "./Foto/Acquedotti/A6.png",
+                "./Foto/Acquedotti/A7.png",
+                "./Foto/Acquedotti/A8.png",
+                "./Foto/Acquedotti/A9.png",
+                "./Foto/Acquedotti/A10.png"
             ]
         },
         {
@@ -61,7 +61,7 @@ var DocuVale = [
     ],
     "type": "Gregorio",
     "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma",
-    "preview_image": "./Acquedotti/Storytelling/A10.png",
+    "preview_image": "./Foto/Acquedotti/A10.png",
     "id": "Acquedotti"
 },
 {
@@ -105,9 +105,9 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "./Rome and Wahington D.C/w1.png",
+                "./Foto/Rome and Wahington D.C/w1.png",
                 "Campidoglio degli Stati Uniti",
-                "./Rome and Wahington D.C/w2.png",
+                "./Foto/Rome and Wahington D.C/w2.png",
                 "San Pietro"
             ]
         },
@@ -118,9 +118,9 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "./Rome and Wahington D.C/w3.png",
+                "./Foto/Rome and Wahington D.C/w3.png",
                 "L’Apoteosi di George Washington",
-                "./Rome and Wahington D.C/w4.png",
+                "./Foto/Rome and Wahington D.C/w4.png",
                 "Dettaglio dell'affresco"
             ]
         },
@@ -131,7 +131,7 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "./Rome and Wahington D.C/w5.png",
+                "./Foto/Rome and Wahington D.C/w5.png",
                 "Sulla sinistra l'Obelisco Vaticano, sulla destra il Monumento a Washington"
             ]
         },
@@ -142,11 +142,11 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "./Rome and Wahington D.C/w6.png",
+                "./Foto/Rome and Wahington D.C/w6.png",
                 "Pantheon",
-                "./Rome and Wahington D.C/w7.png",
+                "./Foto/Rome and Wahington D.C/w7.png",
                 "Jefferson Memorial",
-                "./Rome and Wahington D.C/w8.png",
+                "./Foto/Rome and Wahington D.C/w8.png",
                 "National Gallery"
             ]
         },
@@ -157,9 +157,9 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "./Rome and Wahington D.C/w9.png",
+                "./Foto/Rome and Wahington D.C/w9.png",
                 "Corte Suprema degli Stati Uniti",
-                "./Rome and Wahington D.C/w10.png",
+                "./Foto/Rome and Wahington D.C/w10.png",
                 "Tempio di Adriano"
             ]
         },
@@ -170,9 +170,9 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "./Rome and Wahington D.C/w11.png",
+                "./Foto/Rome and Wahington D.C/w11.png",
                 "La Union Station",
-                "./Rome and Wahington D.C/w12.png",
+                "./Foto/Rome and Wahington D.C/w12.png",
                 "Terme di Diocleziano"
             ]
         },
@@ -183,9 +183,9 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "./Rome and Wahington D.C/w13.png",
+                "./Foto/Rome and Wahington D.C/w13.png",
                 "Il Madison Memorial",
-                "./Rome and Wahington D.C/w14.png",
+                "./Foto/Rome and Wahington D.C/w14.png",
                 "Il Salone delle Fontane"
             ]
         },
@@ -224,7 +224,7 @@ var DocuVale = [
     ],
     "type": "Gregorio",
     "title": "Tutte le strade portano a Roma:\nsomiglianze tra Washington D.C. e la città eterna",
-    "preview_image": "./Rome and Wahington D.C/WDC.png",
+    "preview_image": "./Foto/Rome and Wahington D.C/WDC.png",
     "id": "Rome and Washington"
 },
 {
@@ -280,17 +280,17 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "./Vivere est cogitare/1.png",
+                "./Foto/Vivere est cogitare/1.png",
                 " ",
-                "./Vivere est cogitare/2.png",
+                "./Foto/Vivere est cogitare/2.png",
                 " ",
-                "./Vivere est cogitare/3.png",
+                "./Foto/Vivere est cogitare/3.png",
                 " "
             ]
         }
     ],
     "type": "Blog",
     "title": "Vivere est cogitare",
-    "preview_image": "./Vivere est cogitare/sfondo.png",
+    "preview_image": "./Foto/Vivere est cogitare/sfondo.png",
     "id": "Vivere est cogitare"
 }];

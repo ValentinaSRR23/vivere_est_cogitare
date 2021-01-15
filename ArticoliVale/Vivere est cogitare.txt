@@ -6,7 +6,7 @@ Title:
 Vivere est cogitare
 
 MainImage:
-./Vivere est cogitare/sfondo.png
+./Foto/Vivere est cogitare/sfondo.png
 
 Text:
 <strong>Quanto è importante pensare?</strong> 
@@ -106,11 +106,11 @@ E voi cosa ne <em>pensate</em>? <br>
 Se vi fa piacere lasciatemi un commento, sarò lieta di <em>ascoltare</em> cosa avete da dire.
 
 ImageInline:
-./Vivere est cogitare/1.png
+./Foto/Vivere est cogitare/1.png
  
-./Vivere est cogitare/2.png
+./Foto/Vivere est cogitare/2.png
  
-./Vivere est cogitare/3.png
+./Foto/Vivere est cogitare/3.png
  
 
 

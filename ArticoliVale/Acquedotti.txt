@@ -6,7 +6,7 @@ Title:
 Gli acquedotti, arterie del cuore pulsante dell'antica Roma
 
 MainImage:
-./Acquedotti/Storytelling/A10.png
+./Foto/Acquedotti/A10.png
 
 Text:
 Insieme alle strade, gli acquedotti sono state le grandi opere d'ingegneria 
@@ -47,16 +47,16 @@ che ci hanno lasciato gli antichi romani, testimonianza unica delle incredibili
 capacità tecniche ed organizzative del popolo romano. <br><br>
 
 SlideShow:
-./Acquedotti/Storytelling/A1.png
-./Acquedotti/Storytelling/A2.png
-./Acquedotti/Storytelling/A3.png
-./Acquedotti/Storytelling/A4.png
-./Acquedotti/Storytelling/A5.png
-./Acquedotti/Storytelling/A6.png
-./Acquedotti/Storytelling/A7.png
-./Acquedotti/Storytelling/A8.png
-./Acquedotti/Storytelling/A9.png
-./Acquedotti/Storytelling/A10.png
+./Foto/Acquedotti/A1.png
+./Foto/Acquedotti/A2.png
+./Foto/Acquedotti/A3.png
+./Foto/Acquedotti/A4.png
+./Foto/Acquedotti/A5.png
+./Foto/Acquedotti/A6.png
+./Foto/Acquedotti/A7.png
+./Foto/Acquedotti/A8.png
+./Foto/Acquedotti/A9.png
+./Foto/Acquedotti/A10.png
 
 Text:
 <br><br> Per maggiori informazioni, ho realizzato insieme ad una mia collega un video illustrativo, 
