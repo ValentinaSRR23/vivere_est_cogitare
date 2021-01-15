@@ -6,7 +6,7 @@ Title:
 Gli acquedotti, arterie del cuore pulsante dell'antica Roma
 
 MainImage:
-./Acquedotti/Storytelling/A1.png
+./Acquedotti/Storytelling/A10.png
 
 Text:
 Insieme alle strade, gli acquedotti sono state le grandi opere d'ingegneria 

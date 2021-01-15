@@ -61,7 +61,7 @@ var DocuVale = [
     ],
     "type": "Gregorio",
     "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma",
-    "preview_image": "./Acquedotti/Storytelling/A1.png",
+    "preview_image": "./Acquedotti/Storytelling/A10.png",
     "id": "Acquedotti"
 },
 {
