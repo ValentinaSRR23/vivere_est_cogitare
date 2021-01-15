@@ -183,7 +183,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Vi è inoltre un legame con il periodo fascista:\nIl <strong>Madison Memorial Building</strong> sembra essere la copia del\n<strong>Salone delle Fontane</strong> all’EUR."
+            "value": "Infine, vi è un legame con il periodo fascista:\nIl <strong>Madison Memorial Building</strong> sembra essere la copia del\n<strong>Salone delle Fontane</strong> all’EUR."
         },
         {
             "type": "image_inline",
