@@ -17,7 +17,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Ottimo esempio al giorno d’oggi ne è <strong>Parco degli Acquedotti di Roma</strong>: \nun’area verde urbana compresa all’interno del VII municipio che si estende \nper circa 240 ettari di terreno, situato nella zona dell’Appio Claudio. \nStiamo parlando di un territorio tipico della campagna romana che prende il nome dalla \n<strong>presenza di 7 degli 11 acquedotti costruiti dai romani</strong> \nvisibili ancora oggi parzialmente nella loro integrità. <br>\nUna meravigliosa cornice naturalistica ed archeologica dove anche oggi possiamo \nammirare con i nostri occhi le rovine di quelle che restano fra le opere più belle \nche ci hanno lasciato gli antichi romani, testimonianza unica delle incredibili \ncapacità tecniche ed organizzative del popolo romano. <br><br>"
+            "value": "<br>Ottimo esempio al giorno d’oggi ne è <strong>Parco degli Acquedotti di Roma</strong>: \nun’area verde urbana compresa all’interno del VII municipio che si estende \nper circa 240 ettari di terreno, situato nella zona dell’Appio Claudio. \nStiamo parlando di un territorio tipico della campagna romana che prende il nome dalla \n<strong>presenza di 7 degli 11 acquedotti costruiti dai romani</strong> \nvisibili ancora oggi parzialmente nella loro integrità. <br>\nUna meravigliosa cornice naturalistica ed archeologica dove anche oggi possiamo \nammirare con i nostri occhi le rovine di quelle che restano fra le opere più belle \nche ci hanno lasciato gli antichi romani, testimonianza unica delle incredibili \ncapacità tecniche ed organizzative del popolo romano. <br><br>"
         },
         {
             "type": "image_slide",
