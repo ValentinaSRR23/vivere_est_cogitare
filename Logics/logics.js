@@ -1,5 +1,7 @@
-2
+
 var Pages = ["Home", "Info", "Indice Articoli", "Indice Progetti SSML Gregorio VII", "Comunità"];
+
+var version = "Versione 0.1";
 
 var DynamiClasses = [
   "home_page_button",
@@ -14,7 +16,8 @@ var DynamiClasses = [
   "article_count",
   "article_content_link_label",
   "sign_input_text",
-  "sign_input_area"
+  "sign_input_area",
+  "number_of_visitors"
 ];
 
 
@@ -257,6 +260,16 @@ function getPageHeader(nome){
   return wrap;
 }
 
+function getPageHeaderWithPic(nome,pic){
+
+  let wrap = getNode("div",null, null);
+  wrap.appendChild(getToolbar());
+  wrap.appendChild(getNode("img", pic ,"toolbar_sphere_image"));
+  wrap.appendChild(getNode("div", "- "+nome+" -", "page_title_label_separator"));
+
+  return wrap;
+}
+
 function getPageHeaderArticle(article){
 
   let wrap = getNode("div",null, null);
@@ -448,7 +461,7 @@ function showBlogIndexPage(){
 function showGregorioIndexPage(){
 
   let base = getCleanNavigationPanel();
-  let toolbar = getPageHeader("Indice Progetti SSML Gregorio VII");
+  let toolbar = getPageHeaderWithPic("Indice Progetti SSML Gregorio VII", "./Assets/Logo.png");
   base.appendChild(toolbar);
 
   if(ValeProgetti.Gregorios.length == 1){
@@ -627,7 +640,7 @@ function pageCloser() {
   }
 
   let cl = document.createElement("div");
-  cl.innerHTML = "<div class=\"article_comment_section_wrap\" id=\"article_comment_section\"></div><br><br><br><div id=\"visitors_counter\"class=\"number_of_visitors\">Visitatori del sito: "+v.toString()+"</div><br>";
+  cl.innerHTML = "<div class=\"article_comment_section_wrap\" id=\"article_comment_section\"></div><br><br><br><div id=\"visitors_counter\"class=\"number_of_visitors\">Visitatori del sito: "+v.toString()+"</div><br><div class=\"version-label\">"+version+"</div>";
   return cl;
 }
 

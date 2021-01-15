@@ -8,6 +8,15 @@ body{
   background: #faf0db;
 }
 
+.version-label{
+  position: fixed;
+  bottom: 1em;
+  right: 1em;
+  font-size: 1.5em;
+  opacity: 0.1;
+  user-select: none;
+}
+
 .navbar{
   position: relative;
   background: linear-gradient(45deg, rgb(129 168 172), rgb(150 211 213));
@@ -560,7 +569,14 @@ background: rgba(0,0,0,0.5);
   text-align: center;
   font-size: 1.2em;
   width: 100%;
-  margin-top: 3em;
+  margin: 1em 0;
+}
+.number_of_visitors_small_screen{
+  color: #2d6d7b;
+  text-align: center;
+  font-size: 1.5em;
+  width: 100%;
+  margin: 3em 0;
 }
 .image_inline_wrap{
   margin: 3em 1em;

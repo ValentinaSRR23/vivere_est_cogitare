@@ -90,7 +90,7 @@ function buildImageSet(val) {
   let adjust = "";
 
   if(val.length <= 4){
-    ratio = 60/(val.length/2);
+    ratio = 40/(val.length/2);
     style = "height:"+ratio.toString()+"em;";
 
     for(let i = 0; i < val.length; i += 2){
