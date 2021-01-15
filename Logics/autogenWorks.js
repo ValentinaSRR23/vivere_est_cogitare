@@ -200,7 +200,11 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<br><br>Veramente pochi sono a conoscenza del <strong>Tiber Creek</strong>,\nun affluente del fiume <strong>Potomac</strong> che attualmente scorre sotto\nle vie di Washington. Originariamente prendeva il nome di <em>Goose Creek</em>,\nma successivamente venne ribattezzato Tiber Creek per rendere omaggio al\n<strong>Tevere</strong>, il fiume di Roma. <br><br>"
+            "value": "<br>Veramente pochi sono a conoscenza del <strong>Tiber Creek</strong>,\nun affluente del fiume <strong>Potomac</strong> che attualmente scorre sotto\nle vie di Washington. Originariamente prendeva il nome di <em>Goose Creek</em>,\nma successivamente venne ribattezzato Tiber Creek per rendere omaggio al\n<strong>Tevere</strong>, il fiume di Roma. <br><br>"
+        },
+        {
+            "type": "text",
+            "value": "<br>Spero che sia stato interessante per voi scoprire quante affinità siano presenti\nin queste due meravigliose città. <br><br>\nIn caso vi faccia piacere, sotto vi lascio anche il link del video illustrativo \nche ho realizzato assieme ad una mia collega in lingua inglese. <br>\nBuona visione. <br><br>"
         },
         {
             "type": "separator",
@@ -208,7 +212,11 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<br><br>Spero che sia stato interessante per voi scoprire quante affinità siano presenti\nin queste due meravigliose città. <br><br>\nIn caso vi faccia piacere, sotto vi lascio anche il link del video illustrativo \nche ho realizzato assieme ad una mia collega in lingua inglese. <br>\nBuona visione."
+            "value": "<br>\"Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,\nsia stata onorata per la sua magnificenza e per il suo impatto storico,\nal punto tale da ispirare la costruzione di Washington,\nuna città che oggi svolge un ruolo rilevante in tutto il mondo.\""
+        },
+        {
+            "type": "text",
+            "value": "<div style=\"color:#2d6d7b;\">English version:</div>\n\"As Romans, we are proud that our city, the cradle of ancient civilization,\nwas honored for its greatness and historical significance to the extent that\nit inspired the construction of a city like Washington,\nwhich today plays a relevant role in the world.\""
         },
         {
             "type": "link_ref",
@@ -217,14 +225,6 @@ var DocuVale = [
         {
             "type": "video",
             "value": "https://youtu.be/V4GWS5QaOsY"
-        },
-        {
-            "type": "text",
-            "value": "<br>\"Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,\nsia stata onorata per la sua magnificenza e per il suo impatto storico,\nal punto tale da ispirare la costruzione di Washington,\nuna città che oggi ha un ruolo rilevante in tutto il mondo.\""
-        },
-        {
-            "type": "text",
-            "value": "<div style=\"color:#2d6d7b;\">English version:</div>\n\"As Romans, we are proud that our city, the cradle of ancient civilization,\nwas honored for its greatness and historical significance to the extent that\nit inspired the construction of a city like Washington,\nwhich today plays a relevant role in the world.\""
         }
     ],
     "type": "Gregorio",

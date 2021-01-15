@@ -145,21 +145,34 @@ Text:
 <br><br> <strong>Piccola curiosità:</strong>
 
 Text:
-<br><br>Veramente pochi sono a conoscenza del <strong>Tiber Creek</strong>,
+<br>Veramente pochi sono a conoscenza del <strong>Tiber Creek</strong>,
 un affluente del fiume <strong>Potomac</strong> che attualmente scorre sotto
 le vie di Washington. Originariamente prendeva il nome di <em>Goose Creek</em>,
 ma successivamente venne ribattezzato Tiber Creek per rendere omaggio al
 <strong>Tevere</strong>, il fiume di Roma. <br><br>
 
-Separator:
-
 Text:
-<br><br>Spero che sia stato interessante per voi scoprire quante affinità siano presenti
+<br>Spero che sia stato interessante per voi scoprire quante affinità siano presenti
 in queste due meravigliose città. <br><br>
 
 In caso vi faccia piacere, sotto vi lascio anche il link del video illustrativo 
 che ho realizzato assieme ad una mia collega in lingua inglese. <br>
-Buona visione.
+Buona visione. <br><br>
+
+Separator:
+
+Text:
+<br>"Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,
+sia stata onorata per la sua magnificenza e per il suo impatto storico,
+al punto tale da ispirare la costruzione di Washington,
+una città che oggi svolge un ruolo rilevante in tutto il mondo."
+
+Text:
+<div style="color:#2d6d7b;">English version:</div>
+"As Romans, we are proud that our city, the cradle of ancient civilization,
+was honored for its greatness and historical significance to the extent that
+it inspired the construction of a city like Washington,
+which today plays a relevant role in the world."
 
 Collegamento:
 https://youtu.be/V4GWS5QaOsY
@@ -169,15 +182,3 @@ All Roads Lead to Rome: Similarities between Washington D.C. and the Eternal Cit
 Video:
 https://youtu.be/V4GWS5QaOsY
 
-Text:
-<br>"Da romane, siamo orgogliose di come la nostra città, culla della civiltà antica,
-sia stata onorata per la sua magnificenza e per il suo impatto storico,
-al punto tale da ispirare la costruzione di Washington,
-una città che oggi ha un ruolo rilevante in tutto il mondo."
-
-Text:
-<div style="color:#2d6d7b;">English version:</div>
-"As Romans, we are proud that our city, the cradle of ancient civilization,
-was honored for its greatness and historical significance to the extent that
-it inspired the construction of a city like Washington,
-which today plays a relevant role in the world."
