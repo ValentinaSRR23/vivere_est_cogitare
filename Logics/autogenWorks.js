@@ -109,9 +109,9 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "./ArticoliVale/Rome and Wahington D.C/w1.png",
+                "./Rome and Wahington D.C/w1.png",
                 "Campidoglio degli Stati Uniti",
-                "./ArticoliVale/Rome and Wahington D.C/w2.png",
+                "./Rome and Wahington D.C/w2.png",
                 "San Pietro"
             ]
         },
@@ -122,14 +122,14 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "./ArticoliVale/Rome and Wahington D.C/w3.png",
+                "./Rome and Wahington D.C/w3.png",
                 "L’Apoteosi di George Washington"
             ]
         },
         {
             "type": "image_inline",
             "value": [
-                "./ArticoliVale/Rome and Wahington D.C/w4.png",
+                "./Rome and Wahington D.C/w4.png",
                 "Dettaglio dell'affresco"
             ]
         },
@@ -140,7 +140,7 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "./ArticoliVale/Rome and Wahington D.C/w5.png",
+                "./Rome and Wahington D.C/w5.png",
                 "Sulla sinistra l'Obelisco Vaticano, sulla destra Monumento a Washington"
             ]
         },
@@ -151,11 +151,11 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "./ArticoliVale/Rome and Wahington D.C/w6.png",
+                "./Rome and Wahington D.C/w6.png",
                 "Pantheon",
-                "./ArticoliVale/Rome and Wahington D.C/w7.png",
+                "./Rome and Wahington D.C/w7.png",
                 "Jefferson Memorial",
-                "./ArticoliVale/Rome and Wahington D.C/w8.png",
+                "./Rome and Wahington D.C/w8.png",
                 "National Gallery"
             ]
         },
@@ -166,9 +166,9 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "./ArticoliVale/Rome and Wahington D.C/w9.png",
+                "./Rome and Wahington D.C/w9.png",
                 "Corte Suprema degli Stati Uniti",
-                "./ArticoliVale/Rome and Wahington D.C/w10.png",
+                "./Rome and Wahington D.C/w10.png",
                 "Tempio di Adriano"
             ]
         },
@@ -179,9 +179,9 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "./ArticoliVale/Rome and Wahington D.C/w11.png",
+                "./Rome and Wahington D.C/w11.png",
                 "La Union Station",
-                "./ArticoliVale/Rome and Wahington D.C/w12.png",
+                "./Rome and Wahington D.C/w12.png",
                 "Terme di Diocleziano"
             ]
         },
@@ -192,9 +192,9 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "./ArticoliVale/Rome and Wahington D.C/w13.png",
+                "./Rome and Wahington D.C/w13.png",
                 "Il Madison Memorial",
-                "./ArticoliVale/Rome and Wahington D.C/w14.png",
+                "./Rome and Wahington D.C/w14.png",
                 "Il Salone delle Fontane"
             ]
         },
@@ -273,6 +273,14 @@ var DocuVale = [
         {
             "type": "text",
             "value": "E voi cosa ne <em>pensate</em>? <br>\nSe vi fa piacere lasciatemi un commento, sarò lieta di <em>ascoltare</em> cosa avete da dire."
+        },
+        {
+            "type": "image_inline",
+            "value": [
+                "./Vivere est cogitare/1.png",
+                "./Vivere est cogitare/2.png",
+                "./Vivere est cogitare/3.png"
+            ]
         }
     ],
     "type": "Blog",
