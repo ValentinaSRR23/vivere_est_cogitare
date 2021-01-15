@@ -222,5 +222,61 @@ var DocuVale = [
     "type": "Gregorio",
     "title": "<div style=\"color:#2d6d7b;\">Tutte le strade portano a Roma:\nsomiglianze tra Washington D.C. e la città eterna</div>",
     "preview_image": "./Rome and Wahington D.C/WDC.png",
-    "id": "RomeAndWashington"
+    "id": "Rome and Washington"
+},
+{
+    "content": [
+        {
+            "type": "text",
+            "value": "<strong>Quanto è importante pensare?</strong> <br>"
+        },
+        {
+            "type": "text",
+            "value": "La locuzione latina di Cicerone <strong><em>“Vivere est cogitare”</em></strong>, \ntradotta letteralmente, significa <em>“Vivere è pensare”</em). <br>\nEppure, sebbene la frase sembrerebbe facile da comprendere, sono fortemente convinta che,\n per apprendere a pieno il suo significato intrinseco, tre parole non siano sufficienti."
+        },
+        {
+            "type": "text",
+            "value": "Provate adesso a seguirmi con questo ragionamento: <strong>l’essenza dell’uomo, \nla sua peculiarità rispetto a tutti gli esseri viventi, è proprio la capacità di riflessione, \nl’attitudine a porsi delle questioni e provare a risolverle, il desiderio di migliorare \ne trovare delle idee per farlo.</strong>"
+        },
+        {
+            "type": "text",
+            "value": "Gli uomini riflettono sulle proprie azioni, progettano, si chiedono se un qualcosa sia vero, \nsi interrogano sui propri sentimenti, cercano di capire le proprie decisioni e d’interpretare \nle azioni degli altri. Studiano, provano ad apprendere gli errori del passato, \ntentano di migliorarsi. <br>\nGli uomini sono esseri razionali, e in quanto tali sono capaci di pensare. <br><br>\nEducare alla conoscenza del pensiero è un passo fondamentale verso la conoscenza di sé \ne del mondo che ci circonda, ma bisogna essere guidati, incoraggiati, orientati, \nmessi nella condizione di attendere a una condizione di grazia che si attiva con lo studio, \nl’osservazione, l’educazione e il silenzio. <br>"
+        },
+        {
+            "type": "text",
+            "value": "<strong>Cosa significa davvero pensare?</strong> <br>"
+        },
+        {
+            "type": "text",
+            "value": "Pensare significa dare un senso alle cose che si fanno e a quelle che si dicono, \nimparare a fare e a dire cose che hanno un punto di partenza e uno di arrivo. <br>\nIn una società dove la logica ha lasciato il posto a un’estetica di dubbio valore e \ndove tutto o quasi ruota attorno all’intrigante vivacità degli istinti, \nl’uomo ha perso di vista la capacità di dare senso, di sviluppare idee, \ndi fornire interessi, di guardare oltre le apparenze. <br>\nChi osserva si rende conto che il pensiero non è più speculativo, non insegna a \ndissodare e a investigare i campi del genere umano, si limita a prendere atto, \na estrapolare le risorse e a gettarle in pasto a un mercato sempre più vorace, \nsempre meno attento a considerare l’uomo nella sua dimensione umana.\nPensare in molti casi crea scompiglio, rompe un equilibrio, riapre un dialogo \nche non si preoccupa della sintesi, ma che in molti casi diventa conflitto, \narroccamento, autodifesa. <br>\n<strong>Il pensiero è amato e temuto: amato da chi vuole dare un senso logico alle cose e \ntemuto da chi ne conosce la forza riabilitativa, la capacità investigativa, \nl’energia trainante, la capacità innovativa.</strong> <br>\nIl pensiero è al servizio dell’essere umano, è il motore che dà il via al cammino della storia, \nalla voglia di analisi e di sintesi, è strumento di rinascita e di rilancio. <br>"
+        },
+        {
+            "type": "text",
+            "value": "Imparare a pensare e a far pensare significa attivare un procedimento di ricerca, \naiutare il sistema della conoscenza a sviluppare un ordine più vero, più attuale, \npiù capace di entrare in relazione con il mondo dello spirito e quello della materia, \nsignifica ridare fiato a quella parte di noi stessi che spesso deleghiamo ad altro o ad altri, \nritrovare la bellezza di un percorso, di un’idea, di un sistema, di un progetto che rimette in \ncarica la nostra distrazione. <br>"
+        },
+        {
+            "type": "text",
+            "value": "<strong>Pensare è vivere...</strong> <br>"
+        },
+        {
+            "type": "text",
+            "value": "Imparare a pensare è fondamentale ed è fondamentale che il pensiero di ciascun individuo \npossa incontrare l’attenzione di chi ci sta di fronte, di chi ci osserva, di chi in molti \ncasi diventa arbitro del nostro destino. Spesso il nostro pensiero è stato messo da parte \no cancellato, per dare spazio all’egoismo e all’egocentrismo, per impedirne la visibilità. <br><br>\nÈ contro l’ignoranza e l’arroganza che spesso il pensiero si trova combattere e a lottare, \ncontro quella volontà che vorrebbe imprigionarlo per impedirgli di farsi largo e d’incontrare \nconferme e opportunità. <br>\nÈ dall’ascolto del pensiero dell’altro che si creano le corrispondenze, che la ricerca produce \ni suoi frutti. <br>\nÈ dal riconoscimento che parte un cambiamento destinato a modificare positivamente i ruoli e \nle condizioni della natura umana. <br><br>\nIl pensiero è uno straordinario atto di volontariato e proprio per questo va coltivato, \nprotetto, promosso, accolto e fatto conoscere, in modo tale che non si perda per strada \no che non venga calpestato da chi non lo vuole conoscere. <strong>Pensare è restituire all’anima \nla sua essenza, la sua voglia di essere presente nei processi cognitivi che caratterizzano \nla vita umana.</strong> <br>"
+        },
+        {
+            "type": "text",
+            "value": "<strong>... e vivere è pensare</strong> <br>"
+        },
+        {
+            "type": "text",
+            "value": "Arriviamo al dunque: è nella vita del pensiero che scopriamo la nostra vita, \nè pensando che implementiamo la nostra curiosità, la nostra voglia di misurarci con quel \nmondo che ci ruota attorno e che in molti casi non conosciamo e temiamo come se fosse altro \nda noi. Ed è così che la vita, diviene tale grazie al pensiero e ne rimane condizionata sempre.\n<br><br>"
+        },
+        {
+            "type": "text",
+            "value": "E voi cosa ne <em>pensate</em>? <br>\nSe vi fa piacere lasciatemi un commento, sarò lieta di <em>ascoltare</em> cosa avete da dire."
+        }
+    ],
+    "type": "Blog",
+    "title": "Vivere est cogitare",
+    "preview_image": "./Vivere est cogitare/sfondo.png",
+    "id": "Vivere est cogitare"
 }];
