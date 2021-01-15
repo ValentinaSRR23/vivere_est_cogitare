@@ -119,12 +119,7 @@ var DocuVale = [
             "type": "image_inline",
             "value": [
                 "./Rome and Wahington D.C/w3.png",
-                "L’Apoteosi di George Washington"
-            ]
-        },
-        {
-            "type": "image_inline",
-            "value": [
+                "L’Apoteosi di George Washington",
                 "./Rome and Wahington D.C/w4.png",
                 "Dettaglio dell'affresco"
             ]

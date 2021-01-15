@@ -77,8 +77,6 @@ che ottenne la fama di Michelangelo americano.
 ImageInline:
 ./Rome and Wahington D.C/w3.png
 L’Apoteosi di George Washington
-
-ImageInline:
 ./Rome and Wahington D.C/w4.png
 Dettaglio dell'affresco
 

@@ -101,7 +101,7 @@ body{
 }
 .page_wrap{
   background: #faf0db;
-  padding: 0 13vw;
+  padding: 0 15vw;
 }
 .home_page_button{
   border: 1px solid rgba(0,0,0,0.2);
@@ -577,6 +577,6 @@ background: rgba(0,0,0,0.5);
   padding: 0.5em 0;
 }
 .article_comment_section_wrap{
-  padding: 0 13vw;
+  padding: 0 15vw;
   margin-top: 5em;
 }
