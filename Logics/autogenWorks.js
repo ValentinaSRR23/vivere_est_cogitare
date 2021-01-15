@@ -286,8 +286,11 @@ var DocuVale = [
             "type": "image_inline",
             "value": [
                 "./Vivere est cogitare/1.png",
+                " ",
                 "./Vivere est cogitare/2.png",
-                "./Vivere est cogitare/3.png"
+                " ",
+                "./Vivere est cogitare/3.png",
+                " "
             ]
         }
     ],

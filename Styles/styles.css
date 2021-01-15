@@ -263,6 +263,7 @@ body{
 .index_preview_image{
   height: 10em;
   display: inline-block;
+  object-fit: cover;
   margin-right: 1rem;
   width: 15em;
 }
