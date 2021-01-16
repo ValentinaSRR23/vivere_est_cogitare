@@ -90,6 +90,7 @@ Text:
 
 ImageInline:
 ./Foto/Violenza/1.png
+Il post del “New York Times” 
 
 Text:
 <br>
@@ -177,7 +178,6 @@ SlideShow:
 ./Foto/Violenza/12.png
 ./Foto/Violenza/13.png
 
- 
 ImageInline:
 ./Foto/Violenza/14.png
 Screen dell'articolo

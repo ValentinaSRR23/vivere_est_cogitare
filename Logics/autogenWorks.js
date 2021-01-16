@@ -117,7 +117,8 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "./Foto/Violenza/1.png"
+                "./Foto/Violenza/1.png",
+                "Il post del “New York Times” "
             ]
         },
         {
@@ -182,8 +183,7 @@ var DocuVale = [
                 "./Foto/Violenza/10.png",
                 "./Foto/Violenza/11.png",
                 "./Foto/Violenza/12.png",
-                "./Foto/Violenza/13.png",
-                " "
+                "./Foto/Violenza/13.png"
             ]
         },
         {
