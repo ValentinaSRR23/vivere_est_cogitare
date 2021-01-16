@@ -97,14 +97,14 @@ Text:
 ImageInline:
 ./Foto/Violenza/2.png
 “Divertiti all’inferno Ashley!!!” <br><br>“Perché la stiamo ancora nominando?”
-./Foto/Violenza/4.png
-“È stata letteralmente la sua stupidità ad ucciderla.” <br><br>“Ritratto felice e sorridente di una Vanilla Isis!”
 ./Foto/Violenza/3.png
 “Sono così lieto che se ne sia andata.” <br><br>“*Terrorista uccisa durante l’assalto al Campidoglio Americano. <br>L’ho corretta per voi.”
+./Foto/Violenza/4.png
+“È stata letteralmente la sua stupidità ad ucciderla.” <br><br>“Ritratto felice e sorridente di una Vanilla Isis!”
 
 
 Text:
-<br><br> Questi, invece, sono dei classici esempi di leoni da tastiera, 
+<br><br> Questi, invece, sono dei classici esempi di “leoni da tastiera”, 
 molti dei quali non sanno nemmeno quello che scrivono ma lo fanno lo stesso per divertimento 
 o per seguire la massa. <br><br>
 Si tratta, infatti, di commenti tutti di pessimo gusto; per quale motivo una veterana che 
@@ -119,7 +119,7 @@ Augurare la morte a qualcuno già è ripugnante, ma beffeggiare un morto è anco
 
 Text:
 <em>“Una terrorista”</em> … questo è quello che molti pensano di lei, una per cui non ha affatto 
-senso dispiacersi. Eppure, se mi è permesso, vorrei puntualizzare come questa “terrorista” 
+senso dispiacersi. Eppure, se mi è permesso, vorrei puntualizzare come questa <em>“terrorista”</em> 
 fosse disarmata durante la protesta. <br><br>
 
 Text:
