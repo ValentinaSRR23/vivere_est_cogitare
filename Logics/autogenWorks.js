@@ -153,7 +153,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Infatti, in relazione al commento pungente di <em>Jonny</em>, per chi non lo sapesse \n<em>“Vanilla”</em> è uno degli aggettivi dispregiativi con cui vengono insultate e derise \nle persone pallide nei paesi anglofoni, e in questo caso ci si riferisce indubbiamente\nalla carnagione chiara della donna. <br>\nImageTextOnRight:\n./Foto/Violenza/8.png\n<br>Eppure, nella sua biografia di Twitter Jonny si presenta così: <br><br>\n#brownlivesmatter <br><br>\n#blacklivesmatter <br><br>\nUn sostenitore, dunque, dei Black Lives Matter (letteralmente \"le vite dei neri contano\"), \nun movimento attivista internazionale, originato all'interno della comunità afroamericana, \nimpegnato nella lotta contro il razzismo, perpetuato a livello socio-politico, \nverso le persone nere."
+            "value": "Infatti, in relazione al commento pungente di <em>Jonny</em>, per chi non lo sapesse \n<em>“Vanilla”</em> è uno degli aggettivi dispregiativi con cui vengono insultate e derise \nle persone pallide nei paesi anglofoni, e in questo caso ci si riferisce indubbiamente\nalla carnagione chiara della donna. <br>\nImageTextOnRight:\n./Foto/Violenza/8.png\n<br>Eppure, nella sua biografia di Twitter Jonny si presenta così: <br><br>\n<em>#brownlivesmatter</em> <br><br>\n<em>#blacklivesmatter</em> <br><br>\nUn sostenitore, dunque, dei Black Lives Matter (letteralmente \"le vite dei neri contano\"), \nun movimento attivista internazionale, originato all'interno della comunità afroamericana, \nimpegnato nella lotta contro il razzismo, perpetuato a livello socio-politico, \nverso le persone nere."
         },
         {
             "type": "text",
