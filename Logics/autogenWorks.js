@@ -75,16 +75,12 @@ var DocuVale = [
             "value": "<br>La violenza colpisce a livello fisico e/o a livello psicologico, a volte più forte, \naltre meno. <br>\nCi tengo a specificare quest’ultimo punto perché molti sostengono ancora, \nche quando la violenza colpisce meno allora non è violenza… un po’ come chi pensa che se \nla violenza non viene denunciata allora non esiste."
         },
         {
-            "type": "text",
-            "value": "<br>Ma cosa intendo con colpire più forte e colpire meno forte? <br>"
-        },
-        {
             "type": "end_preview",
-            "value": ""
+            "value": "<br>Ma cosa intendo con colpire più forte e colpire meno forte? [..]"
         },
         {
             "type": "text",
-            "value": "Semplicemente la violenza agisce in diverse forme e ferisce diversamente, \novviamente in base alla vittima e alla sua fragilità. È per questo motivo che non esiste \nuna vera e propria “scaletta” della sua gravità: infatti, la percezione della violenza \nda parte della vittima è puramente soggettiva."
+            "value": "<br>Ma cosa intendo con colpire più forte e colpire meno forte? <br>\nSemplicemente la violenza agisce in diverse forme e ferisce diversamente, \novviamente in base alla vittima e alla sua fragilità. È per questo motivo che non esiste \nuna vera e propria “scaletta” della sua gravità: infatti, la percezione della violenza \nda parte della vittima è puramente soggettiva."
         },
         {
             "type": "text",
@@ -407,12 +403,12 @@ var DocuVale = [
             "value": "<br>La locuzione latina di Cicerone <strong><em>“Vivere est cogitare”</em></strong>, \ntradotta letteralmente, significa <em>“Vivere è pensare”</em>. Eppure, sebbene la frase sembrerebbe facile da comprendere, sono fortemente convinta che, \nper apprendere a pieno il suo significato intrinseco, tre parole non siano sufficienti."
         },
         {
-            "type": "text",
-            "value": "<br>Provate adesso a seguirmi con questo ragionamento: <strong>l’essenza dell’uomo, \nla sua peculiarità rispetto a tutti gli esseri viventi, è proprio la capacità di riflessione, \nl’attitudine a porsi delle questioni e provare a risolverle, il desiderio di migliorare \ne trovare delle idee per farlo.</strong>"
+            "type": "end_preview",
+            "value": "<br>Provate adesso a seguirmi con questo ragionamento: <strong>l’essenza dell’uomo, \nla sua peculiarità rispetto a tutti gli esseri viventi, è proprio la capacità di riflessione, \nl’attitudine a porsi delle questioni e provare a risolverle, il desiderio di migliorare \ne trovare delle idee per farlo.</strong> [...]"
         },
         {
-            "type": "end_preview",
-            "value": ""
+            "type": "text",
+            "value": "<br>Provate adesso a seguirmi con questo ragionamento: <strong>l’essenza dell’uomo, \nla sua peculiarità rispetto a tutti gli esseri viventi, è proprio la capacità di riflessione, \nl’attitudine a porsi delle questioni e provare a risolverle, il desiderio di migliorare \ne trovare delle idee per farlo.</strong>"
         },
         {
             "type": "text",

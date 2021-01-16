@@ -16,13 +16,18 @@ Text:
 tradotta letteralmente, significa <em>“Vivere è pensare”</em>. Eppure, sebbene la frase sembrerebbe facile da comprendere, sono fortemente convinta che, 
 per apprendere a pieno il suo significato intrinseco, tre parole non siano sufficienti. 
 
+EndPreview:
+<br>Provate adesso a seguirmi con questo ragionamento: <strong>l’essenza dell’uomo, 
+la sua peculiarità rispetto a tutti gli esseri viventi, è proprio la capacità di riflessione, 
+l’attitudine a porsi delle questioni e provare a risolverle, il desiderio di migliorare 
+e trovare delle idee per farlo.</strong> [...]
+
 Text:
 <br>Provate adesso a seguirmi con questo ragionamento: <strong>l’essenza dell’uomo, 
 la sua peculiarità rispetto a tutti gli esseri viventi, è proprio la capacità di riflessione, 
 l’attitudine a porsi delle questioni e provare a risolverle, il desiderio di migliorare 
 e trovare delle idee per farlo.</strong> 
 
-EndPreview:
 
 Text:
 Gli uomini riflettono sulle proprie azioni, progettano, si chiedono se un qualcosa sia vero, 
