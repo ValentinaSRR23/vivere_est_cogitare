@@ -220,6 +220,8 @@ Da un lato c’è chi si migliora <strong>sempre</strong> accettando le critiche
 dall’altro c’ è chi critica gli altri non migliorandosi <strong>mai</strong>.
 
 Separator:
+
+Text:
 <em>“L'unica cosa che sanno fare le persone insignificanti è cercare di sminuire gli altri per 
 provare a valorizzare se stessi.”</em>
 

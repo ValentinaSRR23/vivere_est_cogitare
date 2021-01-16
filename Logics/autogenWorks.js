@@ -223,6 +223,10 @@ var DocuVale = [
         },
         {
             "type": "separator",
+            "value": ""
+        },
+        {
+            "type": "text",
             "value": "<em>“L'unica cosa che sanno fare le persone insignificanti è cercare di sminuire gli altri per \nprovare a valorizzare se stessi.”</em>"
         }
     ],
