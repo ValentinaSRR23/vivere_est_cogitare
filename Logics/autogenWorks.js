@@ -117,9 +117,12 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "./Foto/Violenza/1.png",
-                " "
+                "./Foto/Violenza/1.png"
             ]
+        },
+        {
+            "type": "text",
+            "value": "<br>"
         },
         {
             "type": "image_inline",

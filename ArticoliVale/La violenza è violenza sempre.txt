@@ -90,6 +90,9 @@ Text:
 
 ImageInline:
 ./Foto/Violenza/1.png
+
+Text:
+<br>
  
 ImageInline:
 ./Foto/Violenza/2.png
