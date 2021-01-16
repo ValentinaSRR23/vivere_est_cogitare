@@ -225,7 +225,7 @@ var DocuVale = [
         }
     ],
     "type": "Blog",
-    "title": "Lanviolenza è violenza sempre, non esistono eccezioni",
+    "title": "La violenza è violenza sempre, non esistono eccezioni",
     "preview_image": "./Foto/Violenza/sfondo.png",
     "id": "La violenza è violenza sempre"
 },

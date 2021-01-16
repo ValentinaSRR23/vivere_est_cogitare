@@ -3,7 +3,7 @@ Category:
 Blog
 
 Title:
-Lanviolenza è violenza sempre, non esistono eccezioni
+La violenza è violenza sempre, non esistono eccezioni
 
 MainImage:
 ./Foto/Violenza/sfondo.png
