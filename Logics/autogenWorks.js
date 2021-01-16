@@ -128,27 +128,11 @@ var DocuVale = [
             "type": "image_inline",
             "value": [
                 "./Foto/Violenza/2.png",
-                "“Divertiti all’inferno Ashley!!!”  ",
+                "“Divertiti all’inferno Ashley!!!” <br><br>“Perché la stiamo ancora nominando?”",
                 "./Foto/Violenza/3.png",
-                "“Perché la stiamo ancora nominando?”"
-            ]
-        },
-        {
-            "type": "image_inline",
-            "value": [
+                "“Sono così lieto che se ne sia andata.” <br><br>“*Terrorista uccisa durante l’assalto al Campidoglio Americano. <br>L’ho corretta per voi.”",
                 "./Foto/Violenza/4.png",
-                "“Sono così lieto che se ne sia andata.”",
-                "./Foto/Violenza/5.png",
-                "“*Terrorista uccisa durante l’assalto al Campidoglio Americano. <br>L’ho corretta per voi.”"
-            ]
-        },
-        {
-            "type": "image_inline",
-            "value": [
-                "./Foto/Violenza/6.png",
-                "“È stata letteralmente la sua stupidità ad ucciderla.”",
-                "./Foto/Violenza/7.png",
-                "“Ritratto felice e sorridente di una Vanilla Isis!”"
+                "“È stata letteralmente la sua stupidità ad ucciderla.” <br><br>“Ritratto felice e sorridente di una Vanilla Isis!”"
             ]
         },
         {
