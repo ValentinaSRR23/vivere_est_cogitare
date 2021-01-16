@@ -68,6 +68,175 @@ var DocuVale = [
     "content": [
         {
             "type": "text",
+            "value": "Sono del parere che la violenza colpisce indipendentemente dal colore della pelle, \ndal genere, dal credo politico e religioso, dalla lingua o dalle condizioni personali \ne sociali di una persona."
+        },
+        {
+            "type": "text",
+            "value": "<br>La violenza colpisce a livello fisico e/o a livello psicologico, a volte più forte, \naltre meno. <br>\nCi tengo a specificare quest’ultimo punto perché molti sostengono ancora, \nche quando la violenza colpisce meno allora non è violenza… un po’ come chi pensa che se \nla violenza non viene denunciata allora non esiste."
+        },
+        {
+            "type": "text",
+            "value": "<br>Ma cosa intendo con colpire più forte e colpire meno forte? <br>"
+        },
+        {
+            "type": "end_preview",
+            "value": ""
+        },
+        {
+            "type": "text",
+            "value": "Semplicemente la violenza agisce in diverse forme e ferisce diversamente, \novviamente in base alla vittima e alla sua fragilità. È per questo motivo che non esiste \nuna vera e propria “scaletta” della sua gravità: infatti, la percezione della violenza \nda parte della vittima è puramente soggettiva."
+        },
+        {
+            "type": "text",
+            "value": "C’ è un qualcosa però che accomuna ogni tipo di violenza: la cattiveria, a volte inconsapevole, \ndi chi ne fa uso. <br>"
+        },
+        {
+            "type": "text",
+            "value": "Tuttavia, oggi vorrei soffermarmi su un aspetto particolare di questo tema in relazione \na un fatto di cronaca."
+        },
+        {
+            "type": "text",
+            "value": "Il 6 gennaio 2021 durante l'assalto al Campidoglio degli Stati Uniti a Washington \nè stata uccisa una donna.\nVeterana, fervente sostenitrice di Trump, libertarian: così si definiva sul suo profilo \nTwitter <strong>Ashli Babbitt</strong>, la donna disarmata uccisa dalla polizia con un colpo di pistola \nalla gola durante l’occupazione del Congresso. Ashli, insieme ad altri sostenitori di Trump, \nsi era introdotta nel Campidoglio per protestare contro i presunti brogli elettorali legati \nall’elezione del candidato democratico Joe Biden alla presidenza degli Stati Uniti d’America. \n<br>"
+        },
+        {
+            "type": "text",
+            "value": "«Amo il mio uomo, il mio cane e il mio Paese», scriveva, sempre su Twitter, Ashli Babbitt, \nche secondo quanto riportato da Fox5 \n( \nLinkInline:\nhttps://www.foxnews.com/politics/capitol-protests-who-was-ashli-babbitt\nLink"
+        },
+        {
+            "type": "text",
+            "value": "), era una veterana con alle spalle 14 anni di servizio presso la US Airforce, \nle forze aeree americane. Ashley abitava a San Diego e aveva deciso di attraversare tutto \nil Paese – quasi 2700 miglia – per sostenere Donald Trump unendosi a centinaia di migliaia \ndi suoi connazionali. Il suo impegno politico traspariva nettamente dai suoi tweet, \ntutti improntati sul sostegno incondizionato a Trump e al Partito repubblicano e contro il \npensiero unico globalista. \nLinkInline:\nhttps://www.ilprimatonazionale.it/esteri/ashli-babbitt-veterana-air-force-trump-uccisa-washington-video-178908/ \nInfo"
+        },
+        {
+            "type": "text",
+            "value": "Questo è un classico esempio di violenza fisica, tuttavia, ciò su cui vorrei soffermarmi \nora è un altro tipo di violenza che deriva dalla sua uccisione: quella mediatica. <br>"
+        },
+        {
+            "type": "text",
+            "value": "Vi riporto qui sotto un post del “New York Times” su Twitter (\nLinkInline:\nhttps://twitter.com/nytimes/status/1347362424593272835\nLink del post"
+        },
+        {
+            "type": "text",
+            "value": ") e sotto alcuni commenti al riguardo:"
+        },
+        {
+            "type": "image_inline",
+            "value": [
+                "./Foto/Violenza/1.png",
+                " "
+            ]
+        },
+        {
+            "type": "image_inline",
+            "value": [
+                "./Foto/Violenza/2.png",
+                "“Divertiti all’inferno Ashley!!!”  ",
+                "./Foto/Violenza/3.png",
+                "“Perché la stiamo ancora nominando?”"
+            ]
+        },
+        {
+            "type": "image_inline",
+            "value": [
+                "./Foto/Violenza/4.png",
+                "“Sono così lieto che se ne sia andata.”",
+                "./Foto/Violenza/5.png",
+                "“*Terrorista uccisa durante l’assalto al Campidoglio Americano. <br>L’ho corretta per voi.”"
+            ]
+        },
+        {
+            "type": "image_inline",
+            "value": [
+                "./Foto/Violenza/6.png",
+                "“Ritratto felice e sorridente di una Vanilla Isis!”"
+            ]
+        },
+        {
+            "type": "text",
+            "value": "<br><br> Quest'altro, invece, è un classico esempio di leoni da tastiera, \nmolti dei quali non sanno nemmeno quello che scrivono ma lo fanno lo stesso per divertimento \no per seguire la massa. <br>\nSi tratta, infatti, di commenti tutti di pessimo gusto; per quale motivo una veterana che \nha servito il suo paese e che è morta per i suoi ideali dovrebbe “divertirsi all’inferno”? \nSveglia! Stiamo parlando di una donna che è morta, non pretendo che si mettano da parte i \npropri ideali politici, ma che si abbia un briciolo di tatto, un briciolo di umanità! <br>"
+        },
+        {
+            "type": "text",
+            "value": "Tutti questi commenti giustificano la sua uccisione e lo fanno in maniera meschina, \ncome se si meritasse una fine del genere, come se la sua vita non contasse. \nAugurare la morte a qualcuno già è ripugnante, ma beffeggiare un morto è ancora peggio. <br>"
+        },
+        {
+            "type": "text",
+            "value": "<em>“Una terrorista”</em> … questo è quello che molti pensano di lei, una per cui non ha affatto \nsenso dispiacersi. Eppure, se mi è permesso, vorrei puntualizzare come questa “terrorista” \nfosse disarmata durante la protesta. <br>"
+        },
+        {
+            "type": "text",
+            "value": "Ad avermi sbalordito particolarmente, però, è l’ipocrisia di chi si descrive come \nsostenitore dei più deboli disprezzando il razzismo, ma che poi finisce per smentirsi \ncompletamente e per rappresentare esattamente ciò che critica. <br>"
+        },
+        {
+            "type": "text",
+            "value": "Infatti, in relazione all’ultimo commento derisorio, per chi non lo sapesse “Vanilla” è uno degli \naggettivi dispregiativi con cui vengono insultate le persone pallide nei paesi anglofoni, \ne in questo caso ci si riferisce alla carnagione chiara della donna. <br>\nImageTextOnRight:\n./Foto/Violenza/7.png\n<br>A scriverlo è stato Jonny che nella sua biografia di Twitter si presenta così: <br><br>\n#brownlivesmatter <br><br>\n#blacklivesmatter <br><br>\nUn sostenitore, dunque, dei Black Lives Matter (letteralmente \"le vite dei neri contano\"), \nun movimento attivista internazionale, originato all'interno della comunità afroamericana, \nimpegnato nella lotta contro il razzismo, perpetuato a livello socio-politico, \nverso le persone nere."
+        },
+        {
+            "type": "text",
+            "value": "<br><br>"
+        },
+        {
+            "type": "text",
+            "value": "In seguito a ciò, mi chiedo come si possa pretendere di avere rispetto dagli altri \nse si è i primi a non rispettare gli altri? La violenza non può combattersi con altra violenza."
+        },
+        {
+            "type": "text",
+            "value": "<br><br><br>\nInoltre, ci tengo a puntualizzare come nessun giornale ha elargito approfondimenti sull’accaduto, \nnessuna tv ha mandato in onda speciali commoventi sulla vittima, nessun hashtag stucchevole è \nstato diffuso, nemmeno un <em>#ripashli</em> o un <em>#justice4ashli</em>."
+        },
+        {
+            "type": "text",
+            "value": "In merito a ciò, mi sono imbattuta in un articolo su Internet che mi ha dato molto da pensare ( \nLinkInline:\nhttps://www.ilprimatonazionale.it/cronaca/roma-striscioni-ashli-babbitt-polemica-femministe-179585/\nLink dell'articolo"
+        },
+        {
+            "type": "text",
+            "value": ") ma per comodità vi riporto direttamente lo screen qui:"
+        },
+        {
+            "type": "image_slide",
+            "value": [
+                "./Foto/Violenza/8.png",
+                "./Foto/Violenza/9.png",
+                "./Foto/Violenza/10.png",
+                "./Foto/Violenza/11.png",
+                "./Foto/Violenza/12.png",
+                " "
+            ]
+        },
+        {
+            "type": "image_inline",
+            "value": [
+                "./Foto/Violenza/13.png",
+                "Screen dell'articolo"
+            ]
+        },
+        {
+            "type": "image_inline",
+            "value": [
+                "./Foto/Violenza/14.png",
+                "Il post di Saviano a cui si riferisce l’articolo "
+            ]
+        },
+        {
+            "type": "link_ref",
+            "value": "https://www.instagram.com/p/CJvTtT8lYle/?hl=it\nLink:\nIl post di Saviano su Instagram"
+        },
+        {
+            "type": "text",
+            "value": "<br><br><br>Sono del parere che LA VIOLENZA È VIOLENZA SEMPRE. <br><br>\nAFFEMARE O PRETENDERE IL CONTRARIO È PURA IPOCRISIA E ARROGANZA. <br><br>\nLa violenza agisce in diverse forme e non attua distinzioni, colpisce e basta, generando dolore, \npaura e rabbia. <br>\nÈ per questo motivo che non si può combatterla usando la stessa arma, ne deriverebbe un circolo \nvizioso. <br><br>\nL’hashtag che userai per esprimere disprezzo non ti aiuterà a combattere la violenza, \ne tantomeno ci salverà seguire l’opinione di massa, perché è vero che l’unione fa la forza ma \nmolte volte si tratta di una forza effimera ed innocua poiché fondata sull’ignoranza. <br><br>\nCredo fortemente che esistano dei mezzi tramite i quali si possa prevenire un atto di violenza, \ne uso “prevenire” in quanto l’uomo, sebbene si sia elevato dagli altri animali, inevitabilmente \nin sé ha una parte istintiva che compromette la ragione.<br>\nSebbene in parte io mi riferisca al potere dell’educazione, e dell’informazione, \nciò che farebbe davvero la differenza sarebbe un briciolo di umanità. <br>\nTuttavia non pretendo questo da tutti, smentirei la credibilità delle mie parole e anche io \nfinirei per risultare ciò che critico. <br>\nEppure ad un certo punto della nostra vita a tutti viene offerta l’opportunità di potersi \nelevare ma evidentemente non è desiderio di tutti coglierla. <br><br>\nInfine, vorrei concludere con questa frase: \nDa un lato c’è chi si migliora <strong>sempre</strong> accettando le critiche degli altri,\nDall’altro c’ è chi critica gli altri non migliorandosi <strong>mai</strong>."
+        },
+        {
+            "type": "separator",
+            "value": "<em>“L'unica cosa che sanno fare le persone insignificanti è cercare di sminuire gli altri per \nprovare a valorizzare se stessi.”</em>"
+        }
+    ],
+    "type": "Blog",
+    "title": "Lanviolenza è violenza sempre, non esistono eccezioni",
+    "preview_image": "./Foto/Violenza/sfondo.png",
+    "id": "La violenza è violenza sempre"
+},
+{
+    "content": [
+        {
+            "type": "text",
             "value": "Vi siete mai chiesti cosa potrebbero avere in comune due città\ncome Roma e Washington D.C.? <br>\nForse molti di voi non ci hanno nemmeno mai pensato...\nIn tal caso, questo articolo fa al caso vostro:\ninfatti, sebbene queste capitali siano divise da un intero oceano,\nentrambe condividono molto più di quanto pensiate.<br><br>"
         },
         {
