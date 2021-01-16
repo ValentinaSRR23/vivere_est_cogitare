@@ -143,6 +143,8 @@ var DocuVale = [
             "type": "image_inline",
             "value": [
                 "./Foto/Violenza/6.png",
+                "“È stata letteralmente la sua stupidità ad ucciderla.”",
+                "./Foto/Violenza/7.png",
                 "“Ritratto felice e sorridente di una Vanilla Isis!”"
             ]
         },
@@ -164,7 +166,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Infatti, in relazione all’ultimo commento derisorio, per chi non lo sapesse “Vanilla” è uno degli \naggettivi dispregiativi con cui vengono insultate le persone pallide nei paesi anglofoni, \ne in questo caso ci si riferisce alla carnagione chiara della donna. <br>\nImageTextOnRight:\n./Foto/Violenza/7.png\n<br>A scriverlo è stato Jonny che nella sua biografia di Twitter si presenta così: <br><br>\n#brownlivesmatter <br><br>\n#blacklivesmatter <br><br>\nUn sostenitore, dunque, dei Black Lives Matter (letteralmente \"le vite dei neri contano\"), \nun movimento attivista internazionale, originato all'interno della comunità afroamericana, \nimpegnato nella lotta contro il razzismo, perpetuato a livello socio-politico, \nverso le persone nere."
+            "value": "Infatti, in relazione all’ultimo commento derisorio, per chi non lo sapesse “Vanilla” è uno degli \naggettivi dispregiativi con cui vengono insultate le persone pallide nei paesi anglofoni, \ne in questo caso ci si riferisce alla carnagione chiara della donna. <br>\nImageTextOnRight:\n./Foto/Violenza/8.png\n<br>A scriverlo è stato Jonny che nella sua biografia di Twitter si presenta così: <br><br>\n#brownlivesmatter <br><br>\n#blacklivesmatter <br><br>\nUn sostenitore, dunque, dei Black Lives Matter (letteralmente \"le vite dei neri contano\"), \nun movimento attivista internazionale, originato all'interno della comunità afroamericana, \nimpegnato nella lotta contro il razzismo, perpetuato a livello socio-politico, \nverso le persone nere."
         },
         {
             "type": "text",
@@ -189,25 +191,25 @@ var DocuVale = [
         {
             "type": "image_slide",
             "value": [
-                "./Foto/Violenza/8.png",
                 "./Foto/Violenza/9.png",
                 "./Foto/Violenza/10.png",
                 "./Foto/Violenza/11.png",
                 "./Foto/Violenza/12.png",
+                "./Foto/Violenza/13.png",
                 " "
             ]
         },
         {
             "type": "image_inline",
             "value": [
-                "./Foto/Violenza/13.png",
+                "./Foto/Violenza/14.png",
                 "Screen dell'articolo"
             ]
         },
         {
             "type": "image_inline",
             "value": [
-                "./Foto/Violenza/14.png",
+                "./Foto/Violenza/15.png",
                 "Il post di Saviano a cui si riferisce l’articolo "
             ]
         },

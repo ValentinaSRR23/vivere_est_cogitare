@@ -105,6 +105,8 @@ ImageInline:
 
 ImageInline:
 ./Foto/Violenza/6.png
+“È stata letteralmente la sua stupidità ad ucciderla.”
+./Foto/Violenza/7.png
 “Ritratto felice e sorridente di una Vanilla Isis!”
 
 Text:
@@ -137,7 +139,7 @@ aggettivi dispregiativi con cui vengono insultate le persone pallide nei paesi a
 e in questo caso ci si riferisce alla carnagione chiara della donna. <br>
 
 ImageTextOnRight:
-./Foto/Violenza/7.png
+./Foto/Violenza/8.png
 <br>A scriverlo è stato Jonny che nella sua biografia di Twitter si presenta così: <br><br>
 #brownlivesmatter <br><br>
 #blacklivesmatter <br><br>
@@ -174,18 +176,18 @@ Text:
 
 
 SlideShow:
-./Foto/Violenza/8.png
 ./Foto/Violenza/9.png
 ./Foto/Violenza/10.png
 ./Foto/Violenza/11.png
 ./Foto/Violenza/12.png
+./Foto/Violenza/13.png
  
 ImageInline:
-./Foto/Violenza/13.png
+./Foto/Violenza/14.png
 Screen dell'articolo
 
 ImageInline:
-./Foto/Violenza/14.png
+./Foto/Violenza/15.png
 Il post di Saviano a cui si riferisce l’articolo 
 
 Collegamento:
