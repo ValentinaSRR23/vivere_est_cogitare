@@ -108,7 +108,7 @@ ImageInline:
 “Ritratto felice e sorridente di una Vanilla Isis!”
 
 Text:
-<br><br> Quest'altro, invece, è un classico esempio di leoni da tastiera, 
+<br><br> Questi, invece, sono dei classici esempi di leoni da tastiera, 
 molti dei quali non sanno nemmeno quello che scrivono ma lo fanno lo stesso per divertimento 
 o per seguire la massa. <br>
 Si tratta, infatti, di commenti tutti di pessimo gusto; per quale motivo una veterana che 

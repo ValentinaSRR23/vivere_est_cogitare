@@ -148,7 +148,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<br><br> Quest'altro, invece, è un classico esempio di leoni da tastiera, \nmolti dei quali non sanno nemmeno quello che scrivono ma lo fanno lo stesso per divertimento \no per seguire la massa. <br>\nSi tratta, infatti, di commenti tutti di pessimo gusto; per quale motivo una veterana che \nha servito il suo paese e che è morta per i suoi ideali dovrebbe “divertirsi all’inferno”? \nSveglia! Stiamo parlando di una donna che è morta, non pretendo che si mettano da parte i \npropri ideali politici, ma che si abbia un briciolo di tatto, un briciolo di umanità! <br>"
+            "value": "<br><br> Questi, invece, sono dei classici esempi di leoni da tastiera, \nmolti dei quali non sanno nemmeno quello che scrivono ma lo fanno lo stesso per divertimento \no per seguire la massa. <br>\nSi tratta, infatti, di commenti tutti di pessimo gusto; per quale motivo una veterana che \nha servito il suo paese e che è morta per i suoi ideali dovrebbe “divertirsi all’inferno”? \nSveglia! Stiamo parlando di una donna che è morta, non pretendo che si mettano da parte i \npropri ideali politici, ma che si abbia un briciolo di tatto, un briciolo di umanità! <br>"
         },
         {
             "type": "text",
