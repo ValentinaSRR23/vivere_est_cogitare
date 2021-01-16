@@ -130,14 +130,14 @@ var DocuVale = [
                 "./Foto/Violenza/2.png",
                 "“Divertiti all’inferno Ashley!!!” <br><br>“Perché la stiamo ancora nominando?”",
                 "./Foto/Violenza/4.png",
-                "“È stata proprio la sua stupidità ad ucciderla.” <br><br>“Ritratto felice e sorridente di una Vanilla Isis!”",
+                "“È stata letteralmente la sua stupidità ad ucciderla.” <br><br>“Ritratto felice e sorridente di una Vanilla Isis!”",
                 "./Foto/Violenza/3.png",
                 "“Sono così lieto che se ne sia andata.” <br><br>“*Terrorista uccisa durante l’assalto al Campidoglio Americano. <br>L’ho corretta per voi.”"
             ]
         },
         {
             "type": "text",
-            "value": "<br><br> Questi, invece, sono dei classici esempi di leoni da tastiera, \nmolti dei quali non sanno nemmeno quello che scrivono ma lo fanno lo stesso per divertimento \no per seguire la massa. <br>\nSi tratta, infatti, di commenti tutti di pessimo gusto; per quale motivo una veterana che \nha servito il suo paese e che è morta per i suoi ideali dovrebbe “divertirsi all’inferno”? \nSveglia! Stiamo parlando di una donna che è morta, non pretendo che si mettano da parte i \npropri ideali politici, ma che si abbia un briciolo di tatto, un briciolo di umanità! <br>"
+            "value": "<br><br> Questi, invece, sono dei classici esempi di leoni da tastiera, \nmolti dei quali non sanno nemmeno quello che scrivono ma lo fanno lo stesso per divertimento \no per seguire la massa. <br><br>\nSi tratta, infatti, di commenti tutti di pessimo gusto; per quale motivo una veterana che \nha servito il suo paese e che è morta per i suoi ideali dovrebbe “divertirsi all’inferno”? \nSveglia! Stiamo parlando di una donna che è morta, non pretendo che si mettano da parte i \npropri ideali politici, ma che si abbia un briciolo di tatto, un briciolo di umanità! <br><br>"
         },
         {
             "type": "text",
@@ -145,7 +145,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<em>“Una terrorista”</em> … questo è quello che molti pensano di lei, una per cui non ha affatto \nsenso dispiacersi. Eppure, se mi è permesso, vorrei puntualizzare come questa “terrorista” \nfosse disarmata durante la protesta. <br>"
+            "value": "<em>“Una terrorista”</em> … questo è quello che molti pensano di lei, una per cui non ha affatto \nsenso dispiacersi. Eppure, se mi è permesso, vorrei puntualizzare come questa “terrorista” \nfosse disarmata durante la protesta. <br><br>"
         },
         {
             "type": "text",
@@ -153,7 +153,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Infatti, in relazione all’ultimo commento derisorio, per chi non lo sapesse “Vanilla” è uno degli \naggettivi dispregiativi con cui vengono insultate le persone pallide nei paesi anglofoni, \ne in questo caso ci si riferisce alla carnagione chiara della donna. <br>\nImageTextOnRight:\n./Foto/Violenza/8.png\n<br>A scriverlo è stato Jonny che nella sua biografia di Twitter si presenta così: <br><br>\n#brownlivesmatter <br><br>\n#blacklivesmatter <br><br>\nUn sostenitore, dunque, dei Black Lives Matter (letteralmente \"le vite dei neri contano\"), \nun movimento attivista internazionale, originato all'interno della comunità afroamericana, \nimpegnato nella lotta contro il razzismo, perpetuato a livello socio-politico, \nverso le persone nere."
+            "value": "Infatti, in relazione al commento pungente di <em>Jonny</em>, per chi non lo sapesse \n<em>“Vanilla”</em> è uno degli aggettivi dispregiativi con cui vengono insultate e derise \nle persone pallide nei paesi anglofoni, e in questo caso ci si riferisce indubbiamente\nalla carnagione chiara della donna. <br>\nImageTextOnRight:\n./Foto/Violenza/8.png\n<br>Eppure, nella sua biografia di Twitter Jonny si presenta così: <br><br>\n#brownlivesmatter <br><br>\n#blacklivesmatter <br><br>\nUn sostenitore, dunque, dei Black Lives Matter (letteralmente \"le vite dei neri contano\"), \nun movimento attivista internazionale, originato all'interno della comunità afroamericana, \nimpegnato nella lotta contro il razzismo, perpetuato a livello socio-politico, \nverso le persone nere."
         },
         {
             "type": "text",

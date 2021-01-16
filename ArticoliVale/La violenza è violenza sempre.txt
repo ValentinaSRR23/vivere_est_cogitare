@@ -98,7 +98,7 @@ ImageInline:
 ./Foto/Violenza/2.png
 “Divertiti all’inferno Ashley!!!” <br><br>“Perché la stiamo ancora nominando?”
 ./Foto/Violenza/4.png
-“È stata proprio la sua stupidità ad ucciderla.” <br><br>“Ritratto felice e sorridente di una Vanilla Isis!”
+“È stata letteralmente la sua stupidità ad ucciderla.” <br><br>“Ritratto felice e sorridente di una Vanilla Isis!”
 ./Foto/Violenza/3.png
 “Sono così lieto che se ne sia andata.” <br><br>“*Terrorista uccisa durante l’assalto al Campidoglio Americano. <br>L’ho corretta per voi.”
 
@@ -106,11 +106,11 @@ ImageInline:
 Text:
 <br><br> Questi, invece, sono dei classici esempi di leoni da tastiera, 
 molti dei quali non sanno nemmeno quello che scrivono ma lo fanno lo stesso per divertimento 
-o per seguire la massa. <br>
+o per seguire la massa. <br><br>
 Si tratta, infatti, di commenti tutti di pessimo gusto; per quale motivo una veterana che 
 ha servito il suo paese e che è morta per i suoi ideali dovrebbe “divertirsi all’inferno”? 
 Sveglia! Stiamo parlando di una donna che è morta, non pretendo che si mettano da parte i 
-propri ideali politici, ma che si abbia un briciolo di tatto, un briciolo di umanità! <br>
+propri ideali politici, ma che si abbia un briciolo di tatto, un briciolo di umanità! <br><br>
 
 Text:
 Tutti questi commenti giustificano la sua uccisione e lo fanno in maniera meschina, 
@@ -120,7 +120,7 @@ Augurare la morte a qualcuno già è ripugnante, ma beffeggiare un morto è anco
 Text:
 <em>“Una terrorista”</em> … questo è quello che molti pensano di lei, una per cui non ha affatto 
 senso dispiacersi. Eppure, se mi è permesso, vorrei puntualizzare come questa “terrorista” 
-fosse disarmata durante la protesta. <br>
+fosse disarmata durante la protesta. <br><br>
 
 Text:
 Ad avermi sbalordito particolarmente, però, è l’ipocrisia di chi si descrive come 
@@ -128,13 +128,14 @@ sostenitore dei più deboli disprezzando il razzismo, ma che poi finisce per sme
 completamente e per rappresentare esattamente ciò che critica. <br>
 
 Text:
-Infatti, in relazione all’ultimo commento derisorio, per chi non lo sapesse “Vanilla” è uno degli 
-aggettivi dispregiativi con cui vengono insultate le persone pallide nei paesi anglofoni, 
-e in questo caso ci si riferisce alla carnagione chiara della donna. <br>
+Infatti, in relazione al commento pungente di <em>Jonny</em>, per chi non lo sapesse 
+<em>“Vanilla”</em> è uno degli aggettivi dispregiativi con cui vengono insultate e derise 
+le persone pallide nei paesi anglofoni, e in questo caso ci si riferisce indubbiamente
+alla carnagione chiara della donna. <br>
 
 ImageTextOnRight:
 ./Foto/Violenza/8.png
-<br>A scriverlo è stato Jonny che nella sua biografia di Twitter si presenta così: <br><br>
+<br>Eppure, nella sua biografia di Twitter Jonny si presenta così: <br><br>
 #brownlivesmatter <br><br>
 #blacklivesmatter <br><br>
 Un sostenitore, dunque, dei Black Lives Matter (letteralmente "le vite dei neri contano"), 
