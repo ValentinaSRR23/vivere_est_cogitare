@@ -181,6 +181,7 @@ SlideShow:
 ./Foto/Violenza/11.png
 ./Foto/Violenza/12.png
 ./Foto/Violenza/13.png
+
  
 ImageInline:
 ./Foto/Violenza/14.png
