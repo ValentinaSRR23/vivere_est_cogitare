@@ -170,7 +170,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<br><br>"
+            "value": "<br>"
         },
         {
             "type": "text",
@@ -178,7 +178,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<br><br><br>\nInoltre, ci tengo a puntualizzare come nessun giornale ha elargito approfondimenti sull’accaduto, \nnessuna tv ha mandato in onda speciali commoventi sulla vittima, nessun hashtag stucchevole è \nstato diffuso, nemmeno un <em>#ripashli</em> o un <em>#justice4ashli</em>."
+            "value": "<br><br>\nInoltre, ci tengo a puntualizzare come nessun giornale ha elargito approfondimenti sull’accaduto, \nnessuna tv ha mandato in onda speciali commoventi sulla vittima, nessun hashtag stucchevole è \nstato diffuso, nemmeno un <em>#ripashli</em> o un <em>#justice4ashli</em>."
         },
         {
             "type": "text",
