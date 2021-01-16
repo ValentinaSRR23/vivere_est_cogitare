@@ -206,7 +206,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<br><br>"
+            "value": "<br>"
         },
         {
             "type": "text",
