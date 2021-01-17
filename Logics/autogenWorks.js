@@ -100,19 +100,23 @@ var DocuVale = [
         },
         {
             "type": "link_inline",
-            "value": "https://www.foxnews.com/politics/capitol-protests-who-was-ashli-babbitt\nLink"
+            "value": "https://www.foxnews.com/politics/capitol-protests-who-was-ashli-babbitt\nlink articolo"
         },
         {
             "type": "text",
-            "value": "), era una veterana con alle spalle 14 anni di servizio presso la US Airforce, \nle forze aeree americane. Ashley abitava a San Diego e aveva deciso di attraversare tutto \nil Paese – quasi 2700 miglia – per sostenere Donald Trump unendosi a centinaia di migliaia \ndi suoi connazionali. Il suo impegno politico traspariva nettamente dai suoi tweet, \ntutti improntati sul sostegno incondizionato a Trump e al Partito repubblicano e contro il \npensiero unico globalista."
+            "value": "), era una veterana con alle spalle 14 anni di servizio presso la US Airforce, \nle forze aeree americane. Ashley abitava a San Diego e aveva deciso di attraversare tutto \nil Paese – quasi 2700 miglia – per sostenere Donald Trump unendosi a centinaia di migliaia \ndi suoi connazionali. Il suo impegno politico traspariva nettamente dai suoi tweet, \ntutti improntati sul sostegno incondizionato a Trump e al Partito repubblicano e contro il \npensiero unico globalista ("
         },
         {
             "type": "link_inline",
-            "value": "https://www.ilprimatonazionale.it/esteri/ashli-babbitt-veterana-air-force-trump-uccisa-washington-video-178908/ \nInfo"
+            "value": "https://www.ilprimatonazionale.it/esteri/ashli-babbitt-veterana-air-force-trump-uccisa-washington-video-178908/ \nlink fonte"
         },
         {
             "type": "text",
-            "value": "Questo è un classico esempio di violenza fisica, tuttavia, ciò su cui vorrei soffermarmi \nora è un altro tipo di violenza che deriva dalla sua uccisione: quella mediatica. <br>"
+            "value": ")."
+        },
+        {
+            "type": "text",
+            "value": "<br><br>Questo è un classico esempio di violenza fisica, tuttavia, ciò su cui vorrei soffermarmi \nora è un altro tipo di violenza che deriva dalla sua uccisione: quella mediatica. <br>"
         },
         {
             "type": "text",
@@ -120,7 +124,7 @@ var DocuVale = [
         },
         {
             "type": "link_inline",
-            "value": "https://twitter.com/nytimes/status/1347362424593272835\nLink del post"
+            "value": "https://twitter.com/nytimes/status/1347362424593272835\nlink del post"
         },
         {
             "type": "text",
@@ -170,7 +174,7 @@ var DocuVale = [
         },
         {
             "type": "image_text_on_rigth",
-            "value": "./Foto/Violenza/8.png\n<br>Eppure, nella sua biografia di Twitter Jonny si presenta così: <br><br>\n<em>#brownlivesmatter</em> <br><br>\n<em>#blacklivesmatter</em> <br><br>\nUn sostenitore, dunque, dei Black Lives Matter (letteralmente \"le vite dei neri contano\"), \nun movimento attivista internazionale, originato all'interno della comunità afroamericana, \nimpegnato nella lotta contro il razzismo, perpetuato a livello socio-politico, \nverso le persone nere."
+            "value": "./Foto/Violenza/8.png\n<br>Eppure, nella sua biografia di Twitter Jonny si presenta così: <br><br>\n<em>#brownlivesmatter</em> - <em>#blacklivesmatter</em> <br>\nUn sostenitore, dunque, dei Black Lives Matter (letteralmente \"le vite dei neri contano\"), \nun movimento attivista internazionale, originato all'interno della comunità afroamericana, \nimpegnato nella lotta contro il razzismo, perpetuato a livello socio-politico, \nverso le persone nere."
         },
         {
             "type": "text",

@@ -59,7 +59,7 @@ che secondo quanto riportato da Fox5
 
 LinkInline:
 https://www.foxnews.com/politics/capitol-protests-who-was-ashli-babbitt
-Link
+link articolo
 
 Text:
 ), era una veterana con alle spalle 14 anni di servizio presso la US Airforce, 
@@ -67,14 +67,17 @@ le forze aeree americane. Ashley abitava a San Diego e aveva deciso di attravers
 il Paese – quasi 2700 miglia – per sostenere Donald Trump unendosi a centinaia di migliaia 
 di suoi connazionali. Il suo impegno politico traspariva nettamente dai suoi tweet, 
 tutti improntati sul sostegno incondizionato a Trump e al Partito repubblicano e contro il 
-pensiero unico globalista. 
+pensiero unico globalista ( 
 
 LinkInline:
 https://www.ilprimatonazionale.it/esteri/ashli-babbitt-veterana-air-force-trump-uccisa-washington-video-178908/ 
-Info
+link fonte
 
 Text:
-Questo è un classico esempio di violenza fisica, tuttavia, ciò su cui vorrei soffermarmi 
+).
+
+Text:
+<br><br>Questo è un classico esempio di violenza fisica, tuttavia, ciò su cui vorrei soffermarmi 
 ora è un altro tipo di violenza che deriva dalla sua uccisione: quella mediatica. <br>
 
 Text:
@@ -82,7 +85,7 @@ Vi riporto qui sotto un post del “New York Times” su Twitter (
 
 LinkInline:
 https://twitter.com/nytimes/status/1347362424593272835
-Link del post
+link del post
 
 
 Text:
@@ -137,8 +140,7 @@ alla carnagione chiara della donna. <br>
 ImageTextOnRight:
 ./Foto/Violenza/8.png
 <br>Eppure, nella sua biografia di Twitter Jonny si presenta così: <br><br>
-<em>#brownlivesmatter</em> <br><br>
-<em>#blacklivesmatter</em> <br><br>
+<em>#brownlivesmatter</em> - <em>#blacklivesmatter</em> <br>
 Un sostenitore, dunque, dei Black Lives Matter (letteralmente "le vite dei neri contano"), 
 un movimento attivista internazionale, originato all'interno della comunità afroamericana, 
 impegnato nella lotta contro il razzismo, perpetuato a livello socio-politico, 
