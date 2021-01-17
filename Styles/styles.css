@@ -332,6 +332,7 @@ body{
   font-size: 0.6em;
 }
 .article_content_link_label_inline{
+  color: #2d6d7b;
   display: inline;
 }
 .article_content_link_label{
