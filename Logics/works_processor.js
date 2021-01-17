@@ -18,12 +18,14 @@ function initAllWorks(){
     let type = docu["type"];
     let img = docu["preview_image"];
     let title = docu["title"];
+    let date = docu["date"];
     let id = docu["id"];
     let content = processContent(docu["content"]);
 
     let processed = {
       "title": title,
       "id": id,
+      "date": date,
       "preview_image": img,
       "content": content
     }

@@ -276,6 +276,7 @@ function getPageHeaderArticle(article){
   wrap.appendChild(getToolbar());
   wrap.appendChild(getNode("img", article["preview_image"] ,"article_toolbar_sphere_image"));
   wrap.appendChild(getNode("div", "- " + article["main_title"] + " -", "page_title_label_separator"));
+  wrap.appendChild(getNode("div", "Pubblicato il: " + article["date"], "page_date_label_separator"));
 
   return wrap;
 }
@@ -301,7 +302,7 @@ function showHomePage(){
     'Qui troverete vari articoli e spunti di riflessione personali sul concetto e sul valore del pensiero umano; per tale motivo, ho scelto accuratamente come locuzione riassuntiva del blog la frase latina <strong>“Vivere est cogitare”</strong>. <br><br>'+
     'Pronunciata da Cicerone (106 a.C - 43 a.C) e ribadita da Cartesio (1596 - 1650) con il suo più noto detto <strong>“Cogito ergo sum”</strong>, viene tradotta letteralmente come <strong>“Vivere è pensare”</strong>. <br><br>'+
     'Dietro queste tre parole, infatti, si cela un concetto affascinante, probabilmente sottovalutato, che mi piacerebbe condividere con voi. <br><br>'+
-    'Credo, infatti, nel potere della condivisione: accogliere e rispettare le opinioni degli altri, seppur non approvandole; ascoltare il prossimo come vorremmo che noi fossimo ascoltati. '+ 
+    'Credo, infatti, nel potere della condivisione: accogliere e rispettare le opinioni degli altri, seppur non approvandole; ascoltare il prossimo come vorremmo che noi fossimo ascoltati. '+
     'Tutto ciò con il fine di costruirsi uno spettro più ampio di pensiero e soprattutto di svilupparlo in modo indipendente e più libero possibile. <br><br>'+
     'Andiamo, dunque, ad approfondire questo tema insieme...', "home_page_text"));
 

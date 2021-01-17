@@ -76,6 +76,11 @@ def processElement(element, fname):
             isContent = False
             data = ""
             setting = "title"
+        elif(row == "Date:"):
+            result = aggregate(result,setting, data, isContent)
+            isContent = False
+            data = ""
+            setting = "date"
         elif(row == "MainImage:"):
             result = aggregate(result,setting, data, isContent)
             isContent = False
