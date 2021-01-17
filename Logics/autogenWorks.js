@@ -145,7 +145,7 @@ var DocuVale = [
             "type": "image_inline",
             "value": [
                 "./Foto/Violenza/2.png",
-                "         “Divertiti all’inferno Ashley!!!” <br><br>    “Perché la stiamo ancora nominando?”",
+                "“Divertiti all’inferno Ashley!!!” <br><br> “Perché la stiamo ancora nominando?”",
                 "./Foto/Violenza/3.png",
                 "“Sono così lieto che se ne sia andata.” <br><br>“*Terrorista uccisa durante l’assalto al Campidoglio Americano. <br>L’ho corretta per voi.”",
                 "./Foto/Violenza/4.png",
@@ -174,7 +174,7 @@ var DocuVale = [
         },
         {
             "type": "image_text_on_rigth",
-            "value": "./Foto/Violenza/8.png\n<br>Eppure, nella sua biografia di Twitter Jonny si presenta così: <br><br>\n<em>#brownlivesmatter</em> - <em>#blacklivesmatter</em> <br>\nUn sostenitore, dunque, dei Black Lives Matter (letteralmente \"le vite dei neri contano\"), \nun movimento attivista internazionale, originato all'interno della comunità afroamericana, \nimpegnato nella lotta contro il razzismo, perpetuato a livello socio-politico, \nverso le persone nere."
+            "value": "./Foto/Violenza/8.png\n<br>Eppure, nella sua biografia di Twitter Jonny si presenta così: <br>\n<em>#brownlivesmatter</em> <br>\n<em>#blacklivesmatter</em> <br>\nUn sostenitore, dunque, dei Black Lives Matter (letteralmente \"le vite dei neri contano\"), \nun movimento attivista internazionale, originato all'interno della comunità afroamericana, \nimpegnato nella lotta contro il razzismo, perpetuato a livello socio-politico, \nverso le persone nere."
         },
         {
             "type": "text",

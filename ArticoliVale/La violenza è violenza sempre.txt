@@ -100,7 +100,7 @@ Text:
  
 ImageInline:
 ./Foto/Violenza/2.png
-         “Divertiti all’inferno Ashley!!!” <br><br>    “Perché la stiamo ancora nominando?”
+“Divertiti all’inferno Ashley!!!” <br><br> “Perché la stiamo ancora nominando?”
 ./Foto/Violenza/3.png
 “Sono così lieto che se ne sia andata.” <br><br>“*Terrorista uccisa durante l’assalto al Campidoglio Americano. <br>L’ho corretta per voi.”
 ./Foto/Violenza/4.png
@@ -139,8 +139,9 @@ alla carnagione chiara della donna. <br>
 
 ImageTextOnRight:
 ./Foto/Violenza/8.png
-<br>Eppure, nella sua biografia di Twitter Jonny si presenta così: <br><br>
-<em>#brownlivesmatter</em> - <em>#blacklivesmatter</em> <br>
+<br>Eppure, nella sua biografia di Twitter Jonny si presenta così: <br>
+<em>#brownlivesmatter</em> <br>
+<em>#blacklivesmatter</em> <br>
 Un sostenitore, dunque, dei Black Lives Matter (letteralmente "le vite dei neri contano"), 
 un movimento attivista internazionale, originato all'interno della comunità afroamericana, 
 impegnato nella lotta contro il razzismo, perpetuato a livello socio-politico, 
