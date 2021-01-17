@@ -19,6 +19,7 @@ body{
 
 .navbar{
   position: relative;
+  border-bottom: 0.2em solid white;
   background: linear-gradient(45deg, rgb(129 168 172), rgb(150 211 213));
   background-repeat: no-repeat;
   background-size: auto;
@@ -36,6 +37,7 @@ body{
 .toolbar_label{
   display: inline-block;
   font-size: 2.7em;
+  color: white;
   font-style: italic;
   text-shadow: 0.2em 0.2em rgba(0,0,0,0.1);
   font-weight: bold;
@@ -329,6 +331,9 @@ body{
 .index_row_preview{
   font-size: 0.6em;
 }
+.article_content_link_label_inline{
+  display: inline;
+}
 .article_content_link_label{
   margin: 1em 0;
   font-size: 1.4em;
@@ -582,6 +587,7 @@ background: rgba(0,0,0,0.5);
   margin: 3em 1em;
   display: inline-block;
   text-align: center;
+  margin-bottom: 5em;
 }
 .image_inline_pic{
   max-width: 100%;
@@ -592,7 +598,26 @@ background: rgba(0,0,0,0.5);
   font-size: 1.2em;
   padding: 0.5em 0;
 }
+.image_inline_label_long{
+  color: #2d6d7b;
+  font-size: 1em;
+  padding: 0.5em 0;
+  max-width: 20em;
+  position: absolute;
+}
 .article_comment_section_wrap{
   padding: 0 15vw;
   margin-top: 5em;
+}
+.inline_img_and_text_wrap{
+  margin-top: 2em;
+}
+.onright_inline_img{
+  display: inline-block;
+}
+.onright_inline_txt{
+  width: 40%;
+  display: inline-block;
+  font-size: 1.2em;
+  margin: 1em;
 }

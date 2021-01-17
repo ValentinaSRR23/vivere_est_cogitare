@@ -96,11 +96,19 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "«Amo il mio uomo, il mio cane e il mio Paese», scriveva, sempre su Twitter, Ashli Babbitt, \nche secondo quanto riportato da Fox5 \n( \nLinkInline:\nhttps://www.foxnews.com/politics/capitol-protests-who-was-ashli-babbitt\nLink"
+            "value": "«Amo il mio uomo, il mio cane e il mio Paese», scriveva, sempre su Twitter, Ashli Babbitt, \nche secondo quanto riportato da Fox5 \n("
+        },
+        {
+            "type": "link_inline",
+            "value": "https://www.foxnews.com/politics/capitol-protests-who-was-ashli-babbitt\nLink"
         },
         {
             "type": "text",
-            "value": "), era una veterana con alle spalle 14 anni di servizio presso la US Airforce, \nle forze aeree americane. Ashley abitava a San Diego e aveva deciso di attraversare tutto \nil Paese – quasi 2700 miglia – per sostenere Donald Trump unendosi a centinaia di migliaia \ndi suoi connazionali. Il suo impegno politico traspariva nettamente dai suoi tweet, \ntutti improntati sul sostegno incondizionato a Trump e al Partito repubblicano e contro il \npensiero unico globalista. \nLinkInline:\nhttps://www.ilprimatonazionale.it/esteri/ashli-babbitt-veterana-air-force-trump-uccisa-washington-video-178908/ \nInfo"
+            "value": "), era una veterana con alle spalle 14 anni di servizio presso la US Airforce, \nle forze aeree americane. Ashley abitava a San Diego e aveva deciso di attraversare tutto \nil Paese – quasi 2700 miglia – per sostenere Donald Trump unendosi a centinaia di migliaia \ndi suoi connazionali. Il suo impegno politico traspariva nettamente dai suoi tweet, \ntutti improntati sul sostegno incondizionato a Trump e al Partito repubblicano e contro il \npensiero unico globalista."
+        },
+        {
+            "type": "link_inline",
+            "value": "https://www.ilprimatonazionale.it/esteri/ashli-babbitt-veterana-air-force-trump-uccisa-washington-video-178908/ \nInfo"
         },
         {
             "type": "text",
@@ -108,7 +116,11 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Vi riporto qui sotto un post del “New York Times” su Twitter (\nLinkInline:\nhttps://twitter.com/nytimes/status/1347362424593272835\nLink del post"
+            "value": "Vi riporto qui sotto un post del “New York Times” su Twitter ("
+        },
+        {
+            "type": "link_inline",
+            "value": "https://twitter.com/nytimes/status/1347362424593272835\nLink del post"
         },
         {
             "type": "text",
@@ -154,7 +166,11 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Infatti, in relazione al commento pungente di <em>Jonny</em>, per chi non lo sapesse \n<em>“Vanilla”</em> è uno degli aggettivi dispregiativi con cui vengono insultate e derise \nle persone pallide nei paesi anglofoni, e in questo caso ci si riferisce indubbiamente\nalla carnagione chiara della donna. <br>\nImageTextOnRight:\n./Foto/Violenza/8.png\n<br>Eppure, nella sua biografia di Twitter Jonny si presenta così: <br><br>\n<em>#brownlivesmatter</em> <br><br>\n<em>#blacklivesmatter</em> <br><br>\nUn sostenitore, dunque, dei Black Lives Matter (letteralmente \"le vite dei neri contano\"), \nun movimento attivista internazionale, originato all'interno della comunità afroamericana, \nimpegnato nella lotta contro il razzismo, perpetuato a livello socio-politico, \nverso le persone nere."
+            "value": "Infatti, in relazione al commento pungente di <em>Jonny</em>, per chi non lo sapesse \n<em>“Vanilla”</em> è uno degli aggettivi dispregiativi con cui vengono insultate e derise \nle persone pallide nei paesi anglofoni, e in questo caso ci si riferisce indubbiamente\nalla carnagione chiara della donna. <br>"
+        },
+        {
+            "type": "image_text_on_rigth",
+            "value": "./Foto/Violenza/8.png\n<br>Eppure, nella sua biografia di Twitter Jonny si presenta così: <br><br>\n<em>#brownlivesmatter</em> <br><br>\n<em>#blacklivesmatter</em> <br><br>\nUn sostenitore, dunque, dei Black Lives Matter (letteralmente \"le vite dei neri contano\"), \nun movimento attivista internazionale, originato all'interno della comunità afroamericana, \nimpegnato nella lotta contro il razzismo, perpetuato a livello socio-politico, \nverso le persone nere."
         },
         {
             "type": "text",
@@ -170,7 +186,11 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "In merito a ciò, mi sono imbattuta in un articolo su Internet che mi ha dato molto da pensare ( \nLinkInline:\nhttps://www.ilprimatonazionale.it/cronaca/roma-striscioni-ashli-babbitt-polemica-femministe-179585/\nLink dell'articolo"
+            "value": "In merito a ciò, mi sono imbattuta in un articolo su Internet che mi ha dato molto da pensare ("
+        },
+        {
+            "type": "link_inline",
+            "value": "https://www.ilprimatonazionale.it/cronaca/roma-striscioni-ashli-babbitt-polemica-femministe-179585/\nLink dell'articolo"
         },
         {
             "type": "text",

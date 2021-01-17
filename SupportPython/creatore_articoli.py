@@ -111,6 +111,16 @@ def processElement(element, fname):
             isContent = True
             data = ""
             setting = "image_inline"
+        elif(row == "ImageTextOnRight:"):
+            result = aggregate(result,setting, data, isContent)
+            isContent = True
+            data = ""
+            setting = "image_text_on_rigth"
+        elif(row == "LinkInline:"):
+            result = aggregate(result,setting, data, isContent)
+            isContent = True
+            data = ""
+            setting = "link_inline"
         elif(row == "SlideShow:"):
             result = aggregate(result,setting, data, isContent)
             isContent = True
