@@ -145,7 +145,7 @@ var DocuVale = [
             "type": "image_inline",
             "value": [
                 "./Foto/Violenza/2.png",
-                "“Divertiti all’inferno Ashley!!!” <br><br>“Perché la stiamo ancora nominando?”",
+                "         “Divertiti all’inferno Ashley!!!” <br><br>    “Perché la stiamo ancora nominando?”",
                 "./Foto/Violenza/3.png",
                 "“Sono così lieto che se ne sia andata.” <br><br>“*Terrorista uccisa durante l’assalto al Campidoglio Americano. <br>L’ho corretta per voi.”",
                 "./Foto/Violenza/4.png",
