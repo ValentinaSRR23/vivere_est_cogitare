@@ -142,10 +142,10 @@ ImageTextOnRight:
 Eppure, nella sua biografia di Twitter Jonny si presenta così: <br>
 <em>#brownlivesmatter</em> <br>
 <em>#blacklivesmatter</em> <br>
-Un sostenitore, dunque, dei Black Lives Matter (letteralmente "le vite dei neri contano"), 
-un movimento attivista internazionale, originato all'interno della comunità afroamericana, 
-impegnato nella lotta contro il razzismo, perpetuato a livello socio-politico, 
-verso le persone nere. 
+Un sostenitore, dunque, dei <a target="_blank" href="https://it.wikipedia.org/wiki/Black_Lives_Matter">Black Lives Matter</a> 
+(letteralmente "le vite dei neri contano"), 
+un movimento attivista internazionale originato all'interno della comunità afroamericana, 
+impegnato nella lotta contro il razzismo.
 
 Text:
 <br>
