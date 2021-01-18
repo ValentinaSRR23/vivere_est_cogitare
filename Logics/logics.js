@@ -83,6 +83,9 @@ function handleResize() {
   document.body.style.fontSize = "";
 
   let width = window.outerWidth;
+  if(window.innerWidth < width){
+    width = window.innerWidth;
+  }
 
   if(width < 700) {
     document.body.style.fontSize = "0.7rem";

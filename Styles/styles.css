@@ -44,7 +44,7 @@ body{
 }
 .toolbar_label_small_screen{
   display: inline-block;
-  font-size: 5em;
+  font-size: 2em;
   color: white;
   font-style: italic;
   text-shadow: 0.2em 0.2em rgba(0,0,0,0.1);
@@ -386,7 +386,7 @@ body{
   user-select: none;
   min-width: 4em;
   font-style: italic;
-  font-size: 3em;
+  font-size: 1.3em;
   text-align: center;
   box-shadow: #00000029 0.2em 0.2em 0.2em;
 }
