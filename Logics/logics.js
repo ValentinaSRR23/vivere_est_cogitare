@@ -702,6 +702,10 @@ function toggleMenu() {
   if(menu == null)
   {
       let width = window.outerWidth;
+      if(window.innerWidth < width){
+        width = window.innerWidth;
+      }
+
 
       let menu_class = "";
       let buttons_class = "";
