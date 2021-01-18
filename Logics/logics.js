@@ -68,11 +68,15 @@ function sendVisitorIfNewVisit() {
     localStorage.setItem("did_visit", "true");
     let amount = JSON.parse(localStorage.getItem("visitors"));
     amount = amount + 1;
-    localStorage.setItem("visitors", JSON.stringify(amount));
-    visitorsSendToDB();
+    patchVisitors(amount);
   }
 }
 
+
+function patchVisitors(amount) {
+  localStorage.setItem("visitors", JSON.stringify(amount));
+  visitorsSendToDB();
+}
 
 function handleResize() {
 
@@ -80,7 +84,7 @@ function handleResize() {
 
   let width = window.outerWidth;
 
-  if(width < 650) {
+  if(width < 700) {
     document.body.style.fontSize = "0.7rem";
   }
   else if(width < 800) {
