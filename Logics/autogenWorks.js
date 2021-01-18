@@ -59,7 +59,7 @@ var DocuVale = [
             "value": "https://it.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe\n—\nJohann Wolfgang von Goethe"
         }
     ],
-    "date": "18/01/2021",
+    "date": "14/12/2020",
     "type": "Gregorio",
     "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma",
     "preview_image": "./Foto/Acquedotti/A10.png",
@@ -250,7 +250,7 @@ var DocuVale = [
             "value": "<em>“L'unica cosa che sanno fare le persone insignificanti è cercare di sminuire gli altri per\nprovare a valorizzare se stessi.”</em>"
         }
     ],
-    "date": "15/01/2021",
+    "date": "10/01/2021",
     "type": "Blog",
     "title": "La violenza è violenza sempre, non esistono eccezioni",
     "preview_image": "./Foto/Violenza/sfondo.png",
@@ -414,7 +414,7 @@ var DocuVale = [
             "value": "https://www.youtube.com/embed/V4GWS5QaOsY"
         }
     ],
-    "date": "10/01/2021",
+    "date": "14/01/2021",
     "type": "Gregorio",
     "title": "Tutte le strade portano a Roma:\nsomiglianze tra Washington D.C. e la città eterna",
     "preview_image": "./Foto/Rome and Wahington D.C/WDC.png",
@@ -486,7 +486,7 @@ var DocuVale = [
             ]
         }
     ],
-    "date": "06/01/2021",
+    "date": "10/12/2020",
     "type": "Blog",
     "title": "Vivere est cogitare",
     "preview_image": "./Foto/Vivere est cogitare/sfondo.png",
