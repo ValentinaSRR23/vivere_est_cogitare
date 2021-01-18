@@ -175,7 +175,7 @@ var DocuVale = [
         },
         {
             "type": "image_text_on_rigth",
-            "value": "./Foto/Violenza/8.png\nEppure, nella sua biografia di Twitter Jonny si presenta così: <br>\n<em>#brownlivesmatter</em> <br>\n<em>#blacklivesmatter</em> <br>\nUn sostenitore, dunque, dei <a class=\"article_content_link_label_inline\" target=\"_blank\" href=\"https://it.wikipedia.org/wiki/Black_Lives_Matter\">Black Lives Matter</a>\n (letteralmente \"le vite dei neri contano\"),\nun movimento attivista internazionale originato all'interno della comunità afroamericana,\nimpegnato nella lotta contro il razzismo."
+            "value": "./Foto/Violenza/8.png\nEppure, nella sua biografia di Twitter Jonny si presenta così: <br>\n<em>#brownlivesmatter</em> <br>\n<em>#blacklivesmatter</em> <br>\nUn sostenitore, dunque, dei <a class=\"article_content_link_label_inline\" target=\"_blank\" href=\"https://it.wikipedia.org/wiki/Black_Lives_Matter\">Black Lives Matter</a>\n (letteralmente \"le vite dei neri contano\"), un movimento attivista internazionale originato all'interno della comunità afroamericana, \nimpegnato nella lotta contro il razzismo."
         },
         {
             "type": "text",
