@@ -404,7 +404,7 @@ function showInfoPage(){
   wrap.appendChild(getNode("div",'Mi presento', "home_page_title"));
 
   wrap.appendChild(getNode("div",'Ciao a tutti!', "home_page_text"));
-  wrap.appendChild(getNode("div","<br>Mi chiamo Valentina, ho ventun anni e sono laureanda in Mediazione Linguistica e Comunicazione Interculturale all’ <a target=\"_blank\" href=\"https://www.gregoriosettimo.eu/\"; >Università SSML Gregorio VII di Roma</a>.", "home_page_text"));
+  wrap.appendChild(getNode("div","<br>Mi chiamo Valentina, ho ventun anni e sono laureanda in Mediazione Linguistica e Comunicazione Interculturale all’ <a target=\"_blank\" style=\"color:#2d6d7b\"; href=\"https://www.gregoriosettimo.eu/\"; >Università SSML Gregorio VII di Roma</a>.", "home_page_text"));
 
   wrap.appendChild(getNode("br",null,null));
 
