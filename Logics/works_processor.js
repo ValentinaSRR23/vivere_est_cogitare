@@ -40,8 +40,41 @@ function initAllWorks(){
     }
   }
 
+  sortWorks();
+
   initedWorks = true;
 
+}
+
+function sortWorks() {
+
+  if(ValeProgetti["Blogs"].length > 0){
+    ValeProgetti["Blogs"].sort((a, b) => {
+        let d1_s = a["date"].split("/");
+        let d2_s = b["date"].split("/");
+
+        let d1 = new Date(d1_s[2], d1_s[1], d1_s[0]);
+        let d2 = new Date(d2_s[2], d2_s[1], d2_s[0]);
+
+        if (d1 < d2) return -1;
+        if (d1 > d2) return 1;
+        return 0;
+    });
+  }
+
+  if(ValeProgetti["Gregorios"].length > 0){
+    ValeProgetti["Gregorios"].sort((a, b) => {
+      let d1_s = a["date"].split("/");
+      let d2_s = b["date"].split("/");
+
+      let d1 = new Date(d1_s[2], d1_s[1], d1_s[0]);
+      let d2 = new Date(d2_s[2], d2_s[1], d2_s[0]);
+
+      if (d1 < d2) return -1;
+      if (d1 > d2) return 1;
+      return 0;
+    });
+  }
 }
 
 function processContent(content) {
