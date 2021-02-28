@@ -434,7 +434,7 @@ function showInfoPage(){
   wrap.appendChild(getNode("br",null,null));
 
   wrap.appendChild(getNode("div",
-  'Come probabilmente avrete notato ispezionando il “Menu”, ho inserito la categoria “Indice Progetti SSML GREGORIO VII” dedicata agli articoli che saranno oggetto di valutazione per il corso universitario che sto seguendo di “Italian Art and Creative Culture”. Mi farebbe piacere se qualche volta deste un’occhiata anche lì, dove periodicamente vi aggiornerò con delle curiosità particoli.'
+  'Come probabilmente avrete notato ispezionando il “Menu”, ho inserito la categoria “Indice Progetti SSML GREGORIO VII” dedicata agli articoli che saranno oggetto di valutazione per il corso universitario che sto seguendo di “Italian Art and Creative Culture”. Mi farebbe piacere se qualche volta deste un’occhiata anche lì, dove periodicamente vi aggiornerò con delle curiosità particolari.'
     , "home_page_text"));
 
   wrap.appendChild(getNode("br",null,null));
