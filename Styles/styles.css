@@ -281,6 +281,7 @@ body{
   object-fit: cover;
   margin-right: 1rem;
   width: 15em;
+  border: 0.1em solid rgba(0,0,0,0.2);
 }
 .index_row_wrap{
   display: inline-block;
