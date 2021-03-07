@@ -25,11 +25,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<br>br>"
-        },
-        {
-            "type": "text",
-            "value": "In primis, è importante specificare che non si tratta di un problema di scolarizzazione; \ndel resto almeno in Italia il <strong>98,6% della popolazione è alfabetizzato, ma sfiora il \n30% la quota di cittadini tra i 25 e i 65 anni con limitazioni nella comprensione, \nlettura e calcolo</strong>. Ciò pone l’Italia tra i paesi \n<a class=\"article_content_link_label_inline\" target=\"_blank\" href=\"https://www.esteri.it/mae/it/politica_estera/organizzazioni_internazionali/ocse.html\">OCSE</a>, \nindicatore delle lacune del sistema formativo nazionale. Si tratta, dunque, di un problema \nben più complesso che riguarda l’effettiva capacità delle persone di orientarsi nella realtà, \nfacendo un corretto uso delle sue capacità percettive e critiche. Di fatto, se non si inverte \ntale tendenza, questo fenomeno potrebbe prendere il sopravvento e portare la società in \nun baratro senza uscita.\n<br><br>"
+            "value": "<br>In primis, è importante specificare che non si tratta di un problema di scolarizzazione; \ndel resto almeno in Italia il <strong>98,6% della popolazione è alfabetizzato, ma sfiora il \n30% la quota di cittadini tra i 25 e i 65 anni con limitazioni nella comprensione, \nlettura e calcolo</strong>. Ciò pone l’Italia tra i paesi \n<a class=\"article_content_link_label_inline\" target=\"_blank\" href=\"https://www.esteri.it/mae/it/politica_estera/organizzazioni_internazionali/ocse.html\">OCSE</a>, \nindicatore delle lacune del sistema formativo nazionale. Si tratta, dunque, di un problema \nben più complesso che riguarda l’effettiva capacità delle persone di orientarsi nella realtà, \nfacendo un corretto uso delle sue capacità percettive e critiche. Di fatto, se non si inverte \ntale tendenza, questo fenomeno potrebbe prendere il sopravvento e portare la società in \nun baratro senza uscita.\n<br><br>"
         },
         {
             "type": "text",

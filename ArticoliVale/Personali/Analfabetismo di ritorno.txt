@@ -49,11 +49,9 @@ futuro di tutti con il voto.
 Video:
 https://www.youtube.com/embed/Yk2g3njIqwc
 
-Text:
-<br>br>
 
 Text:
-In primis, è importante specificare che non si tratta di un problema di scolarizzazione; 
+<br>In primis, è importante specificare che non si tratta di un problema di scolarizzazione; 
 del resto almeno in Italia il <strong>98,6% della popolazione è alfabetizzato, ma sfiora il 
 30% la quota di cittadini tra i 25 e i 65 anni con limitazioni nella comprensione, 
 lettura e calcolo</strong>. Ciò pone l’Italia tra i paesi 
