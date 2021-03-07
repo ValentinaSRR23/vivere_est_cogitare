@@ -64,7 +64,7 @@ var DocuVale = [
             "value": "Gli analfabeti del futuro non saranno quelli che non sanno leggere o scrivere, ma \nquelli che non sanno imparare, disimparare, e imparare di nuovo.\n<br> - <a class=\"article_content_link_label_inline\" target=\"_blank\" href=\"https://it.wikipedia.org/wiki/Alvin_Toffler\">ALVIN TOFFLER</a>\n<br><br>"
         }
     ],
-    "date": "2/02/21",
+    "date": "02/02/2021",
     "type": "Blog",
     "title": "Analfabetismo di ritorno",
     "preview_image": "Foto/Analfabetismo di ritorno/sfondo.png",
@@ -381,7 +381,7 @@ var DocuVale = [
             "value": "E tu, cosa ne pensi? Spero che questo articolo possa esserti stato d’aiuto come \nspunto di riflessione da cui partire, in tal caso se ti va puoi farmelo sapere nei commenti."
         }
     ],
-    "date": "28/02/21",
+    "date": "28/02/2021",
     "type": "Blog",
     "title": "Sport&Transgender",
     "preview_image": "Foto/Sport&Trans/sfondo.png",
