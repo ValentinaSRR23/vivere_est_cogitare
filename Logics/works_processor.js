@@ -193,7 +193,6 @@ function buildImageSet(val) {
   else{
     ratio = 60/(val.length/2);
     style = "width:"+ratio.toString()+"em;";
-
     for(let i = 0; i < val.length; i += 2){
       let label_class = "image_inline_label";
       if(val[i+1].length > max_label_size){

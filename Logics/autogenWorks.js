@@ -5,65 +5,74 @@ var DocuVale = [
     "content": [
         {
             "type": "text",
-            "value": "Insieme alle strade, gli acquedotti sono state le grandi opere d'ingegneria\ncon cui i romani hanno stupito il mondo.<br>"
+            "value": "Dallo scenario che emerge in Italia, appare chiaro che siamo di fronte \nad un gravissimo problema, capace di portare alla deriva l’evoluzione sociale. \nL'analfabetismo di ritorno è il fenomeno attraverso il quale un individuo perde \nle competenze necessarie per la scrittura e alla lettura che precedentemente aveva \nassimilato nel suo percorso scolastico, a causa di un mancato esercizio. Un analfabeta \ndi ritorno, di conseguenza perde la capacità di utilizzare il linguaggio"
         },
         {
             "type": "end_preview",
-            "value": "La costruzione degli acquedotti fu una delle imprese più grandi e impegnative\ndella civiltà romana, \"la più alta manifestazione della grandezza di Roma\",\ncome scrisse [...]"
+            "value": "Dallo scenario che emerge in Italia, appare chiaro che siamo di fronte \nad un gravissimo problema, capace di portare alla deriva l’evoluzione sociale. \nL'analfabetismo di ritorno è il fenomeno attraverso il quale un individuo perde \nle competenze necessarie per la scrittura e alla lettura che precedentemente aveva \nassimilato nel suo percorso scolastico, a causa di un mancato esercizio. Un analfabeta \ndi ritorno, di conseguenza perde la capacità di utilizzare il linguaggio [...]"
         },
         {
             "type": "text",
-            "value": "<br> La costruzione degli acquedotti fu una delle imprese più grandi e impegnative\ndella civiltà romana, \"la più alta manifestazione della grandezza di Roma\",\ncome scrisse nel 97 d.C. Frontino in qualità di \"curatore degli acquedotti\"\n(<em>\"curator aquarum\"</em>), nel suo trattato <em>\"De aquae ductu urbis Romae\"</em>,\novvero \"Gli acquedotti della città di Roma\". <br> <br>\nPer secoli il Tevere, le sorgenti e i pozzi furono in grado di soddisfare il fabbisogno\ndella città finché lo sviluppo urbanistico e la crescita demografica resero necessario\nricorrere ad altre fonti: fu allora che, grazie all'abilità dei suoi costruttori,\nsi realizzarono gli acquedotti. Da quel momento in poi, ovvero dal 312 a.C.,\naffluì a Roma una quantità enorme di acqua potabile, che nessun'altra città del mondo\nantico ebbe mai, e che valse alla città il titolo\ndi <em>\"regina aquarum\"</em>, ossia <strong><em>\"regina delle acque\"</em></strong>. <br>\nGli acquedotti erano le arterie del cuore pulsante dell'antica Roma e significavano vita."
+            "value": "scritto o parlato per formulare e comprendere messaggi e, in senso più ampio, \ndi comunicare con il prossimo e con il mondo circostante.\n<br><br>"
         },
         {
             "type": "text",
-            "value": "<br>Ottimo esempio al giorno d’oggi ne è <strong>Parco degli Acquedotti di Roma</strong>:\nun’area verde urbana compresa all’interno del VII municipio che si estende\nper circa 240 ettari di terreno, situato nella zona dell’Appio Claudio.\nStiamo parlando di un territorio tipico della campagna romana che prende il nome dalla\n<strong>presenza di 7 degli 11 acquedotti costruiti dai romani</strong>\nvisibili ancora oggi parzialmente nella loro integrità. <br>\nUna meravigliosa cornice naturalistica ed archeologica dove anche oggi possiamo\nammirare con i nostri occhi le rovine di quelle che restano fra le opere più belle\nche ci hanno lasciato gli antichi romani, testimonianza unica delle incredibili\ncapacità tecniche ed organizzative del popolo romano. <br><br>"
-        },
-        {
-            "type": "image_slide",
-            "value": [
-                "./Foto/Acquedotti/A1.png",
-                "./Foto/Acquedotti/A2.png",
-                "./Foto/Acquedotti/A3.png",
-                "./Foto/Acquedotti/A4.png",
-                "./Foto/Acquedotti/A5.png",
-                "./Foto/Acquedotti/A6.png",
-                "./Foto/Acquedotti/A7.png",
-                "./Foto/Acquedotti/A8.png",
-                "./Foto/Acquedotti/A9.png",
-                "./Foto/Acquedotti/A10.png"
-            ]
-        },
-        {
-            "type": "text",
-            "value": "<br><br> Per maggiori informazioni, ho realizzato insieme ad una mia collega un video illustrativo,\nricco di dettagli e spiegazioni, che sarà in grado di trasportarvi direttamente\nnell'antica Roma. <br>\nBuona visione. <br>"
-        },
-        {
-            "type": "link_ref",
-            "value": "https://www.youtube.com/watch?v=KlDXETuqZhc\nLink:\nGli acquedotti, arterie del cuore pulsante dell'antica Roma"
+            "value": "Un adulto che è funzionalmente analfabeta non sarà in grado di eseguire adeguatamente \ni compiti necessari nella vita quotidiana, come compilare una domanda di lavoro, capire \nun contratto, seguire le istruzioni scritte, leggere un articolo di giornale, interpretare \ni segnali stradali, consultare un dizionario, o capire un volantino degli orari degli autobus. \nChi è affetto da questa disfunzione, infatti, oggi può esprimere la sua opinione, diffonderla, \ncondividere notizie false e teorie pseudoscientifiche; ma soprattutto può condizionare il \nfuturo di tutti con il voto.\n<br><br>"
         },
         {
             "type": "video",
-            "value": "https://www.youtube.com/embed/KlDXETuqZhc"
-        },
-        {
-            "type": "separator",
-            "value": ""
+            "value": "https://www.youtube.com/embed/Yk2g3njIqwc"
         },
         {
             "type": "text",
-            "value": "“È questa la terza opera degli antichi che ho innanzi a me e di cui osservo\nla stessa impronta, sempre grandiosa: l'arte architettonica degli antichi è veramente\nuna seconda natura, che opera conforme agli usi e agli scopi civili.\nÈ così che sorge l'anfiteatro, il tempio, <strong>l'acquedotto</strong>.\nE soltanto adesso sento con quanta ragione ho sempre trovato detestabili le costruzioni\nfatte a capriccio […]. Cose tutte nate morte, poiché ciò che veramente non ha in sé\nuna ragione di esistere non ha vita e non può essere grande, né diventare grande.” <br>"
+            "value": "<br>br>"
         },
         {
-            "type": "link_ref",
-            "value": "https://it.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe\n—\nJohann Wolfgang von Goethe"
+            "type": "text",
+            "value": "In primis, è importante specificare che non si tratta di un problema di scolarizzazione; \ndel resto almeno in Italia il <strong>98,6% della popolazione è alfabetizzato, ma sfiora il \n30% la quota di cittadini tra i 25 e i 65 anni con limitazioni nella comprensione, \nlettura e calcolo</strong>. Ciò pone l’Italia tra i paesi \n<a class=\"article_content_link_label_inline\" target=\"_blank\" href=\"https://www.esteri.it/mae/it/politica_estera/organizzazioni_internazionali/ocse.html\">OCSE</a>, \nindicatore delle lacune del sistema formativo nazionale. Si tratta, dunque, di un problema \nben più complesso che riguarda l’effettiva capacità delle persone di orientarsi nella realtà, \nfacendo un corretto uso delle sue capacità percettive e critiche. Di fatto, se non si inverte \ntale tendenza, questo fenomeno potrebbe prendere il sopravvento e portare la società in \nun baratro senza uscita.\n<br><br>"
+        },
+        {
+            "type": "text",
+            "value": "Per definizione l'analfabetismo di ritorno differisce dall'analfabetismo strumentale, \nche è invece determinato dal non avere mai assimilato alcuna competenza di scrittura e \ndi lettura. L’analfabetismo di ritorno, invece, si caratterizza come un aspetto \ndell’analfabetismo funzionale, definito dall'\n<a class=\"article_content_link_label_inline\" target=\"_blank\" href=\"http://www.unesco.it/it/Documenti/Detail/180\">UNESCO</a> \ngià nel 1984 come <em>“la condizione di una persona incapace di comprendere, valutare, usare e farsi coinvolgere \nda testi scritti per intervenire attivamente nella società, per raggiungere i propri \nobiettivi e per sviluppare le proprie conoscenze e potenzialità\"</em>. Di fatto, \nl’analfabetismo di ritorno alimenta e sostiene l’incapacità di utilizzare in modo efficace \nle competenze di base di lettura, scrittura e calcolo.\n<br><br>"
+        },
+        {
+            "type": "text",
+            "value": "Non si tratta perciò di un problema che va affrontato solo nelle scuole, perché può e deve \nessere fermato innanzitutto all’interno delle mura familiari; già nell’adolescenza è \nnecessario che i genitori spingano i figli ad adottare uno spirito critico, verificando \nle loro effettive capacità di comprendere un testo o interpretare gli accadimenti sociali. \nÈ impensabile usare il cervello correttamente se non sappiamo come funziona, e l’analfabetismo \nfunzionale ci impedisce di capirlo.\n<br><br><br>"
+        },
+        {
+            "type": "text",
+            "value": "Volendo identificare i <strong>caratteri distintivi</strong> dell'analfabeta di ritorno, \nsi potrebbero elencare i seguenti: <br><br>\n- <strong>Incapacità di comprensione adeguata</strong> di testi pensati per una persona \ncomune, come articoli di giornale, regolamenti o bollette; <br><br>\n- <strong>Difficoltà nell'esecuzione di calcoli matematici semplici</strong>, come gli sconti \nin un negozio o la tenuta della contabilità casalinga; <br><br>\n- <strong>Difficoltà nell'utilizzo degli strumenti informatici</strong>;<br>\n- <strong>Conoscenza superficiale degli eventi</strong> storici, politici, scientifici, \nsociali ed economici.<br><br>\n- <strong>Incapacità di distinguere le notizie vere da quelle false</strong> e una mancata \nverifica dell’attendibilità delle notizie false, da cui consegue la totale assenza \ndell’elaborazione di un proprio parere. Ne deriva la \n<strong>diffusione della disinformazione</strong> in molteplici campi e nell'era \ndi Internet e dei social network, dove chiunque può pubblicare informazioni che \npossono raggiungere masse di persone, il problema ha assunto dimensioni importanti. <br>\nNel caso di disinformazione legata a temi medico-sanitari (vaccini, omeopatia o terapie \nalternative in genere) le conseguenze sociali possono essere drammatiche, in quanto le \ninformazioni fuorvianti possono mettere a repentaglio la salute o la vita di molte persone, e\n anche dei loro figli minori.<br>\nLa diffusione di notizie false incoraggia <strong>pregiudizi</strong> verso alcune categorie \ndi persone (per etnia, religione, orientamento sessuale, ecc.) può accrescere la diffusione \ndi atteggiamenti discriminatori e emarginanti nei loro confronti, aggravando gli ostacoli \nalla loro integrazione.\n<br><br><br>"
+        },
+        {
+            "type": "text",
+            "value": "Le <strong>cause</strong> sono principalmente di carattere <strong>socio-culturale</strong>, \ntra cui la <strong>mancanza di esercizio mentale</strong> e l’<strong>utilizzo della \ntelevisione e dei social media come unico strumento di informazione</strong>. <br>\nInoltre, i social media, cui uso eccessivo comporta ad un \n<strong>calo dell’attenzione</strong> e ad un <strong>indebolimento delle capacità \ncognitive</strong>, conferiscono agli \n<a class=\"article_content_link_label_inline\" target=\"_blank\" href=\"https://www.glossariomarketing.it/significato/influencer/\">influencer</a> \nil potere di influenzare l’utente fino al punto tale da comportare una limitazione della \nsua personalità.\n<br><br>\nPer non parlare della mancanza di lettura che equivale ad una perdita di senso critico \ne logico. Di fatto, da una vita inattiva consegue sia una regressione culturale che un \n<strong>annichilimento delle proprie capacità di comprensione</strong> e, quindi, \nun annullamento della propria personalità, in quanto comunque noi siamo ciò che pensiamo.  \n<br><br><br>"
+        },
+        {
+            "type": "text",
+            "value": "Da questo fenomeno così diffuso nel nostro Paese deriva dunque un \n<strong>basso livello di istruzione</strong> che colpisce direttamente su 3 livelli: <br>\n- <strong>Livello individuale</strong>: l’analfabeta di ritorno che è contrassegnato da una \nlimitata e superficiale conoscenza dei fenomeni politici, sociali e storici e li generalizza \na causa dell’influenza di episodi strettamente legati alle proprie esperienze personali. \nDa ciò deriva un’esclusione sociale, mancanza di autonomia, precarietà. L’istruzione infatti \nti rende libero e alla pari con gli altri: mentre l’ignoranza è una debolezza, che ti porta \nad essere facilmente condizionabile. <br><br>\n- <strong>Livello sociale</strong>: si può dire in maniera più elaborata che un individuo \naffetto da analfabetismo di ritorno possiede delle difficoltà nel comprendere testi semplici \ne non è capace di sviluppare un proprio pensiero critico. Quest’incapacità ostacola \nl’individuo ad una propria partecipazione attiva nella società, vale a dire da un lato \nl’incapacità di esprimere il proprio diritto alla cittadinanza, e dall’atro la criminalità \n(poiché l’analfabeta di ritorno può diventare preda di associazioni delinquenziali). <br><br>\n- <strong>Livello economico</strong>: infine, l’incapacità di comprendere a fondo nozioni \neconomiche – anche basilari – quindi, i rapporti “costi e benefici” o semplicemente svolgere \ncalcoli leggermente più complessi di quelli elementari, porta inevitabilmente a perdite di \ndenaro, mancati guadagni e scelte economicamente scellerate. E non essere istruiti ti priva \ndell’opportunità di poter competere, di farsi valere o di ambire a posizioni elevate in \nambito lavorativo. \n<br><br><br>"
+        },
+        {
+            "type": "text",
+            "value": "Dunque, risulta chiaro come l'analfabetismo di ritorno rappresenti un problema molto serio \nnella vita di tutti i giorni che può emergere attraverso un <strong>processo di \nretrocessione</strong> se non viene effettuato un costante allenamento mentale. \nEcco perché chiede di essere affrontato in maniera decisa e altrettanto seria. <br>\nLe competenze acquisite devono essere sollecitate continuamente per mezzo della \n<strong>lettura</strong> e dell’<strong>informazione</strong>, permettendo all’individuo \ndi elaborare un pensiero critico. Mantenere o addirittura sviluppare le proprie conoscenze \npermette di contrastare questo fenomeno e le varie attività di apprendimento dovrebbero \nessere sostenute anche in età adulta. <br>\nPerciò, indubbiamente, un maggiore impegno nella lettura, così come una partecipazione \nattiva nelle questioni socio-politiche e un uso parsimonioso di Internet \n(ossia la ridurre il suo utilizzo solo a quando si ritiene veramente necessario) aiutano a \nprevenire e in un certo senso a combattere questo fenomeno.\n<br><br>"
+        },
+        {
+            "type": "text",
+            "value": "Per un chiaro approfondimento di quanto riportato in questo articolo consiglio la visione \ndi <a class=\"article_content_link_label_inline\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=Vdv9Ds3NpMI\">questa intervista</a> \nal linguista italiano Tullio De Mauro.\n<br><br>"
+        },
+        {
+            "type": "separator",
+            "value": "<br>"
+        },
+        {
+            "type": "text",
+            "value": "<em>“Gli analfabeti del futuro non saranno quelli che non sanno leggere o scrivere, ma \nquelli che non sanno imparare, disimparare, e imparare di nuovo.”</em> <br>\n- <a class=\"article_content_link_label_inline\" target=\"_blank\" href=\"https://it.wikipedia.org/wiki/Alvin_Toffler\">ALVIN TOFFLER</a>\n<br><br>"
         }
     ],
-    "date": "14/12/2020",
-    "type": "Gregorio",
-    "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma",
-    "preview_image": "./Foto/Acquedotti/A10.png",
-    "id": "Acquedotti"
+    "date": "2/02/21",
+    "type": "Blog",
+    "title": "Analfabetismo di ritorno",
+    "preview_image": "Foto/Analfabetismo di ritorno/sfondo.png",
+    "id": "Analfabetismo di ritorno"
 },
 {
     "content": [
@@ -260,6 +269,268 @@ var DocuVale = [
     "content": [
         {
             "type": "text",
+            "value": "Fra i numerosi atti emanati dal neo Presidente degli Stati Uniti d’America \n<strong>Joe Biden</strong>, vari riguardano il sostegno della comunità LGBT.In particolare, \noggi mi piacerebbe affrontare una questione che ha a che vedere con l’ordine esecutivo che stabilisce che \nun caso giudiziario sui <strong>diritti dei transgender</strong>"
+        },
+        {
+            "type": "end_preview",
+            "value": "Fra i numerosi atti emanati dal neo Presidente degli Stati Uniti d’America Joe Biden, \nvari riguardano il sostegno della comunità LGBT. In particolare, oggi mi piacerebbe \naffrontare una questione che ha a che vedere con l’ordine esecutivo che stabilisce che \nun caso giudiziario sui <strong>diritti dei transgender</strong> [...]"
+        },
+        {
+            "type": "text",
+            "value": "si applica al <em>Titolo IX</em>, la legge federale che vieta la discriminazione basata \nsul sesso in qualsiasi scuola o altro programma educativo che riceve denaro federale. \nCon questa mossa, ritenuta da alcuni azzardata e tempestiva, Biden chiede a tutte le agenzie \nfederali il rispetto della sentenza con cui la Corte suprema ha esteso la definizione di \n“discriminazione sessuale” a qualsiasi comportamento discriminatorio basato \nsull’orientamento sessuale o sull’identità di genere (per una corretta definizione di \nqueste fattispecie segnalo"
+        },
+        {
+            "type": "link_inline",
+            "value": "https://www.telospiegovideo.it/che-cosa-significa-la-sigla-lgbtqia-telospiego/#:~:text=Nel%20corso%20degli%20anni%20per%C3%B2,di%20genere%20considerati%20%E2%80%9Ctradizionali%E2%80%9D\nquesto approfondimento"
+        },
+        {
+            "type": "text",
+            "value": "), riferendosi esplicitamente ai contesti scolastici e sportivi. <br><br>"
+        },
+        {
+            "type": "text",
+            "value": "Un cambio drastico di rotta rispetto all’amministrazione di <strong>Donald Trump</strong>, \nsotto la quale nel solo ultimo anno 17 stati hanno approvato leggi che regolano \nla partecipazione di atleti transgender a competizioni sportive sulla sola base \ndel sesso registrato alla nascita. Di conseguenza, tra i primi provvedimenti messi in atto \nda Joe Biden rientra anche la revoca del sostegno del governo verso la causa federale \nnel Connecticut che cerca di vietare alle atlete transgender di partecipare agli sport \ndelle scuole superiori femminili. L’anno scorso, infatti, le famiglie di tre ragazze \n<a class=\"article_content_link_label_inline\" target=\"_blank\" \nhref=\"https://it.wiktionary.org/wiki/cisgender\">cisgender</a>, rappresentate \ndall’organizzazione non profit conservatrice <strong><em>Alliance Defending Freedom</strong></em>, \nhanno presentato una denuncia all'Ufficio per i diritti civili \ndel <strong>Dipartimento dell'Istruzione degli Stati Uniti</strong>. La causa, tuttora in corso, \nè incentrata sul fatto che la politica del <strong><em>Connecticut Interscholastic Athletic Conference</strong></em> \n(<strong>CIAC</strong>), ossia l'organo di governo per l'atletica delle scuole secondarie nello \nStato del Connecticut, vada contro il <em>Titolo IX</em>.\n<br><br>"
+        },
+        {
+            "type": "text",
+            "value": "Di fatti, il Connecticut fa parte dei 17 stati che hanno permesso agli atleti transgender \ndelle scuole superiori di competere senza restrizioni nel 2019. Otto stati avevano \nrestrizioni che rendono difficile per gli atleti transgender competere in ambito scolastico, \ncome forzarli di competere nella categoria di genere indicata sul certificato di nascita, \no consentire loro di partecipare solo dopo aver attraversato procedure di riassegnazione \ndel sesso o terapie ormonali, stando a quanto riportato su \n<a class=\"article_content_link_label_inline\" target=\"_blank\" \nhref=\"https://www.transathlete.com\">Transathlete.com</a>, \nsito che traccia le politiche statali negli sport delle scuole superiori in tutto il paese.\n<br><br>"
+        },
+        {
+            "type": "text",
+            "value": "Le tre atlete, <strong>Alanna Smith</strong>, studentessa del secondo anno della Danbury High School, \n<strong>Selina Soule</strong> e <strong>Chelsea Mitchell</strong>, maturande corrispettivamente della Glastonbury High School \ne della Canton High School, hanno dichiarato che permettere a delle velociste con fisionomia \nmaschile di competere alle gare abbia privato loro di titoli in pista e opportunità di \nborse di studio."
+        },
+        {
+            "type": "text",
+            "value": "<em>\"Mentalmente e fisicamente, conosciamo il risultato prima ancora che la gara inizi\". \nQuesta ingiustizia biologica non sparisce a causa di ciò che qualcuno crede \nsull'identità di genere. Tutte le ragazze meritano la possibilità di competere alla pari\".</em>\nQueste sono le parole di Alanna Smith, figlia dell'ex lanciatore della Major League Baseball Lee Smith, \ndurante la conferenza stampa fuori dal Connecticut State Capitol a Hartford il 12 febbraio."
+        },
+        {
+            "type": "image_slide",
+            "value": [
+                "Foto/Sport&Trans/1.png",
+                "Foto/Sport&Trans/2.png",
+                "Foto/Sport&Trans/3.png"
+            ]
+        },
+        {
+            "type": "text",
+            "value": "“È molto frustrante e straziante per noi ragazze. Già all’inizio della gara sapevamo che \nquesti due atleti trans avrebbero vinto. I loro corpi sono diversi. È ingiusto. \nNon è sportivo”, ha dichiarato al <strong>Daily Signal</strong> ("
+        },
+        {
+            "type": "link_inline",
+            "value": "https://www.dailysignal.com/2019/05/06/8th-place-high-school-girls-speak-out-on-getting-beat-by-biological-boys \nInfo articolo"
+        },
+        {
+            "type": "text",
+            "value": "). Lo sfogo di Selina, che si può ascoltare interamente nel video sottostante, \nva ad unirsi ai sempre più attuale dibattito sulla partecipazione dei transgender \nalle gare femminili."
+        },
+        {
+            "type": "video",
+            "value": "https://www.youtube.com/embed/NIlq85dL0C4"
+        },
+        {
+            "type": "text",
+            "value": "Le protagoniste involontarie di questa discordia sono due velociste transgender, \n<strong>Terry Miller</strong> e <strong>Andraya Yearwood</strong>, \nche hanno spesso superato le loro concorrenti cisgender, \nottenendo un totale di 15 vittorie nel campionato statale indoor o outdoor a partire dal 2017. \nCome riportato dalla causa, le tre querelanti hanno gareggiato direttamente contro di loro,\n quasi sempre perdendo contro Miller e di solito anche con Yearwood. \nMitchell, ad esempio, è arrivata terza nel campionato statale 2019 \nnella gara femminile di pista indoor di 55 metri, preceduta da Miller e Yearwood.\n<br><br>\n<em>\"Il nostro sogno non è quello di arrivare al secondo o terzo posto, \nma di vincere lealmente\"</em>, ha detto Mitchell. <em>\"Tutto ciò che chiediamo è \nna giusta possibilità\"</em>.\n<br><br>"
+        },
+        {
+            "type": "text",
+            "value": "Ad ogni modo, la <strong><em>Connecticut Interscholastic Athletic Conference</em></strong> \n(<strong>CIAC</strong>) ha risposto alla querela sostenendo che la sua politica segue \nuna legge statale anti-discriminazione che richiede che tutti gli studenti siano considerati \nin ambito scolastico secondo il genere con cui si identificano.\n<br><br>"
+        },
+        {
+            "type": "text",
+            "value": "La legge del Connecticut è chiara: chi si identifica come studentessa viene \nriconosciuta come tale in ogni ambito scolastico, sport compreso. \nAgire diversamente non solo sarebbe discriminatorio ma pregiudicherebbe loro \nla possibilità di prendere parte ad attività altamente educative sulla base di \nstereotipi di genere che il Titolo IX era nato per prevenire.\n<br><br>"
+        },
+        {
+            "type": "text",
+            "value": "Anche le atlete stesse Yearwood, maturanda alla Cromwell High School, \ne Miller, maturanda alla Bloomfield High School, hanno rilasciato dichiarazioni \nche difendono con veemenza il loro diritto di correre in eventi femminili. \nEntrambe hanno confermato di essere effettivamente nel processo di transizione, \nma hanno rifiutato di fornire ulteriori dettagli.\n<br><br>"
+        },
+        {
+            "type": "text",
+            "value": "Le parole di Miller: \"<em>Ho affrontato la discriminazione in ogni aspetto della mia \nvita e non voglio più rimanere in silenzio. Sono una ragazza e sono una velocista. \nPartecipo alle gare di atletica proprio come le mie coetane per eccellere, \ntrovare comunità e significato nella mia vita. È ingiusto e doloroso che le mie \nvittorie debbano essere attaccate e il mio duro lavoro sminuito\"</em>.\n<br><br>\nPersino Yearwood ha rivelato di essere stata demoralizzata e ferita dai \ntentativi di \"abbattere i miei successi\". \n<br><br>\nLa sua dichiarazione: \"<em>Non smetterò mai di essere me stessa! Non smetterò mai di correre! \nSpero che la prossima generazione di giovani trans non debba combattere le stesse lotte \nche ho affrontato io. Spero che possano essere riconosciuti quando hanno successo e non \ndemonizzati. A nome della futura generazione, corro per voi!\"</em>."
+        },
+        {
+            "type": "image_inline",
+            "value": [
+                "Foto/Sport&Trans/3.png",
+                "Andraya Yearwood sulla sinistra e Terry Miller sulla destra.",
+                "Foto/Sport&Trans/4.png",
+                "Immagine delle due ragazze durante la loro <a class=\"article_content_link_label_inline\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=sHqiG_hrbsc\">intervista</a>"
+            ]
+        },
+        {
+            "type": "text",
+            "value": "L'<strong><em>American Civil Liberties Union</em></strong> ha affermato che rappresenterà \ngli adolescenti transgender e difenderà la politica del Connecticut in tribunale. \nInfine, l'avvocato Chase Strangio, vice direttore di <srong>Trans Justice</strong> con l'ACLU LGBT & HIV \nProject, ha detto che anche le ragazze transgender sono protette dal <em>Titolo IX</em>. \n<br><br>"
+        },
+        {
+            "type": "text",
+            "value": "<em>\"L'idea che la legge protegga solo gli individui con cromosomi XX rispetto agli individui \ncon cromosomi XY non si trova da nessuna parte nella storia legislativa del Titolo IX, \nin qualsiasi regolamento di attuazione o in qualsiasi altro aspetto dell'interpretazione \ndel Titolo IX negli ultimi 50 anni da parte dei tribunali\"</em>, ha detto.\n<br><br>"
+        },
+        {
+            "type": "text",
+            "value": "Al contrario, l'avvocato Christiana Holcomb in supporto della causa ribadisce, \n\"<em>costringere le ragazze ad essere spettatrici nei loro sport è completamente in \ncontrasto con il Titolo IX, una legge federale progettata per creare pari opportunità \nper le donne nell'istruzione e nell'atletica. La politica del Connecticut viola \nquella legge e inverte quasi 50 anni di progressi per le donne\"<em>.\n<br><br>"
+        },
+        {
+            "type": "text",
+            "value": "In realtà, sono diversi i sostenitori delle restrizioni sportive sulle transgender \nche ritengono che queste atlete, essendo biologicamente nate maschi, \nsono naturalmente più forti, più veloci e più robuste di quelle nate femmine. \nDi conseguenza, ritengono tutto ciò una vera e propria ingiustizia che priva \nmoltissime ragazze di vittorie, titoli statali e opportunità atletiche. \n<br><br>"
+        },
+        {
+            "type": "text",
+            "value": "In virtù di ciò, gli avvocati di <em><strong>Alliance Defending Freedom<strong><em> \nchiedono alla corte di impedire alle ragazze transgender di gareggiare mentre la causa \nva avanti, mentre il <strong>Dipartimento di Giustizia</strong> e <strong>l'Ufficio per i \ndiritti civili</strong> del <strong>Dipartimento dell'Istruzione</strong> ritirano il loro sostegno al caso, \nnotificando di non voler diventare una parte nella causa. Ad ogni modo, nessuna data \ndi udienza su questa richiesta è stata fissata prima dell'inizio dei campionati statali \ndi atletica indoor, lasciando ancora incerto il futuro di queste ragazze.\n<br><br>"
+        },
+        {
+            "type": "text",
+            "value": "Nel mondo, invece, lo sport procede in ordine sparso, con il rugby che sta valutando \ndi impedire alle atlete trans di partecipare ai campionati femminili, e il ciclismo \nche ha invece già assegnato il primo titolo iridato della storia all'atleta canadese \n<strong>Rachel McKinnon</strong>. Il <strong>Comitato Olimpico internazionale</strong> \nha invertito la rotta nel 2016 aprendo ai transgender e permettendo loro di gareggiare \nliberamente nelle gare del genere a cui sentono di appartenere, rispettando solo delle \npiù semplici condizioni di controllo dei livelli di testosterone. Il che vuol dire che \nper determinare il genere femminile, non può eccedere per un anno intero i 10 nanogrammi \nper litro, prima dell'evento sportivo al quale ci si iscrive. Nel 2003 si stabilì che per \nessere eleggibili nelle competizioni del genere di arrivo i transgender dovevano essere \nstati sottoposti ad intervento chirurgico e ad almeno due anni di terapia ormonale di \nconversione. Escludendo così tutti coloro che non erano disposti a sottoporsi a trattamenti \ncosì invasivi. \n<br><br>"
+        },
+        {
+            "type": "text",
+            "value": "E tu, cosa ne pensi? Spero che questo articolo possa esserti stato d’aiuto come \nspunto di riflessione da cui partire, in tal caso se ti va puoi farmelo sapere nei commenti."
+        }
+    ],
+    "date": "28/02/21",
+    "type": "Blog",
+    "title": "Sport&Transgender",
+    "preview_image": "Foto/Sport&Trans/sfondo.png",
+    "id": "Sport&Transgender"
+},
+{
+    "content": [
+        {
+            "type": "text",
+            "value": "<strong>Quanto è importante pensare?</strong>"
+        },
+        {
+            "type": "text",
+            "value": "<br>La locuzione latina di Cicerone <strong><em>“Vivere est cogitare”</em></strong>,\ntradotta letteralmente, significa <em>“Vivere è pensare”</em>. Eppure, sebbene la frase sembrerebbe facile da comprendere, sono fortemente convinta che,\nper apprendere a pieno il suo significato intrinseco, tre parole non siano sufficienti."
+        },
+        {
+            "type": "end_preview",
+            "value": "<br>Provate adesso a seguirmi con questo ragionamento: <strong>l’essenza dell’uomo,\nla sua peculiarità rispetto a tutti gli esseri viventi, è proprio la capacità di riflessione,\nl’attitudine a porsi delle questioni e provare a risolverle, il desiderio di migliorare\ne trovare delle idee per farlo.</strong> [...]"
+        },
+        {
+            "type": "text",
+            "value": "<br>Provate adesso a seguirmi con questo ragionamento: <strong>l’essenza dell’uomo,\nla sua peculiarità rispetto a tutti gli esseri viventi, è proprio la capacità di riflessione,\nl’attitudine a porsi delle questioni e provare a risolverle, il desiderio di migliorare\ne trovare delle idee per farlo.</strong>"
+        },
+        {
+            "type": "text",
+            "value": "Gli uomini riflettono sulle proprie azioni, progettano, si chiedono se un qualcosa sia vero,\nsi interrogano sui propri sentimenti, cercano di capire le proprie decisioni e d’interpretare\nle azioni degli altri. Studiano, provano ad apprendere gli errori del passato,\ntentano di migliorarsi. <br>\nGli uomini sono esseri razionali, e in quanto tali sono capaci di pensare. <br><br>\nEducare alla conoscenza del pensiero è un passo fondamentale verso la conoscenza di sé\ne del mondo che ci circonda, ma bisogna essere guidati, incoraggiati, orientati,\nmessi nella condizione di attendere a una condizione di grazia che si attiva con lo studio,\nl’osservazione, l’educazione e il silenzio. <br><br><br>"
+        },
+        {
+            "type": "text",
+            "value": "<br><strong>Cosa significa davvero pensare?</strong>"
+        },
+        {
+            "type": "text",
+            "value": "<br>Pensare significa dare un senso alle cose che si fanno e a quelle che si dicono,\nimparare a fare e a dire cose che hanno un punto di partenza e uno di arrivo. <br>\nIn una società dove la logica ha lasciato il posto a un’estetica di dubbio valore e\ndove tutto o quasi ruota attorno all’intrigante vivacità degli istinti,\nl’uomo ha perso di vista la capacità di dare senso, di sviluppare idee,\ndi fornire interessi, di guardare oltre le apparenze. <br><br>\nChi osserva si rende conto che il pensiero non è più speculativo, non insegna a\ndissodare e a investigare i campi del genere umano, si limita a prendere atto,\na estrapolare le risorse e a gettarle in pasto a un mercato sempre più vorace,\nsempre meno attento a considerare l’uomo nella sua dimensione umana.\nPensare in molti casi crea scompiglio, rompe un equilibrio, riapre un dialogo\nche non si preoccupa della sintesi, ma che in molti casi diventa conflitto,\narroccamento, autodifesa. <br><br>\n<strong>Il pensiero è amato e temuto: amato da chi vuole dare un senso logico alle cose e\ntemuto da chi ne conosce la forza riabilitativa, la capacità investigativa,\nl’energia trainante, la capacità innovativa.</strong> <br>\nIl pensiero è al servizio dell’essere umano, è il motore che dà il via al cammino della storia,\nalla voglia di analisi e di sintesi, è strumento di rinascita e di rilancio. <br>\nImparare a pensare e a far pensare significa attivare un procedimento di ricerca,\naiutare il sistema della conoscenza a sviluppare un ordine più vero, più attuale,\npiù capace di entrare in relazione con il mondo dello spirito e quello della materia,\nsignifica ridare fiato a quella parte di noi stessi che spesso deleghiamo ad altro o ad altri,\nritrovare la bellezza di un percorso, di un’idea, di un sistema, di un progetto che rimette in\ncarica la nostra distrazione. <br><br><br>"
+        },
+        {
+            "type": "text",
+            "value": "<br><strong>Pensare è vivere...</strong>"
+        },
+        {
+            "type": "text",
+            "value": "<br>Imparare a pensare è fondamentale ed è fondamentale che il pensiero di ciascun individuo\npossa incontrare l’attenzione di chi ci sta di fronte, di chi ci osserva, di chi in molti\ncasi diventa arbitro del nostro destino. Spesso il nostro pensiero è stato messo da parte\no cancellato, per dare spazio all’egoismo e all’egocentrismo, per impedirne la visibilità. <br><br>\nÈ contro l’ignoranza e l’arroganza che spesso il pensiero si trova combattere e a lottare,\ncontro quella volontà che vorrebbe imprigionarlo per impedirgli di farsi largo e d’incontrare\nconferme e opportunità. <br>\nÈ dall’ascolto del pensiero dell’altro che si creano le corrispondenze, che la ricerca produce\ni suoi frutti. <br>\nÈ dal riconoscimento che parte un cambiamento destinato a modificare positivamente i ruoli e\nle condizioni della natura umana. <br><br>\nIl pensiero è uno straordinario atto di volontariato e proprio per questo va coltivato,\nprotetto, promosso, accolto e fatto conoscere, in modo tale che non si perda per strada\no che non venga calpestato da chi non lo vuole conoscere. <strong>Pensare è restituire all’anima\nla sua essenza, la sua voglia di essere presente nei processi cognitivi che caratterizzano\nla vita umana.</strong> <br><br><br>"
+        },
+        {
+            "type": "text",
+            "value": "<br><strong>... e vivere è pensare</strong>"
+        },
+        {
+            "type": "text",
+            "value": "<br>Arriviamo al dunque: è nella vita del pensiero che scopriamo la nostra vita,\nè pensando che implementiamo la nostra curiosità, la nostra voglia di misurarci con quel\nmondo che ci ruota attorno e che in molti casi non conosciamo e temiamo come se fosse altro\nda noi. Ed è così che la vita, diviene tale grazie al pensiero e ne rimane condizionata sempre.\n<br><br>"
+        },
+        {
+            "type": "text",
+            "value": "E voi cosa ne <em>pensate</em>? <br>\nSe vi fa piacere lasciatemi un commento, sarò lieta di <em>ascoltare</em> cosa avete da dire."
+        },
+        {
+            "type": "text",
+            "value": "<br>"
+        },
+        {
+            "type": "image_inline",
+            "value": [
+                "./Foto/Vivere est cogitare/1.png",
+                " ",
+                "./Foto/Vivere est cogitare/2.png",
+                " ",
+                "./Foto/Vivere est cogitare/3.png",
+                " "
+            ]
+        }
+    ],
+    "date": "10/12/2020",
+    "type": "Blog",
+    "title": "Vivere est cogitare",
+    "preview_image": "./Foto/Vivere est cogitare/sfondo.png",
+    "id": "Vivere est cogitare"
+},
+{
+    "content": [
+        {
+            "type": "text",
+            "value": "Insieme alle strade, gli acquedotti sono state le grandi opere d'ingegneria\ncon cui i romani hanno stupito il mondo.<br>"
+        },
+        {
+            "type": "end_preview",
+            "value": "La costruzione degli acquedotti fu una delle imprese più grandi e impegnative\ndella civiltà romana, \"la più alta manifestazione della grandezza di Roma\",\ncome scrisse [...]"
+        },
+        {
+            "type": "text",
+            "value": "<br> La costruzione degli acquedotti fu una delle imprese più grandi e impegnative\ndella civiltà romana, \"la più alta manifestazione della grandezza di Roma\",\ncome scrisse nel 97 d.C. Frontino in qualità di \"curatore degli acquedotti\"\n(<em>\"curator aquarum\"</em>), nel suo trattato <em>\"De aquae ductu urbis Romae\"</em>,\novvero \"Gli acquedotti della città di Roma\". <br> <br>\nPer secoli il Tevere, le sorgenti e i pozzi furono in grado di soddisfare il fabbisogno\ndella città finché lo sviluppo urbanistico e la crescita demografica resero necessario\nricorrere ad altre fonti: fu allora che, grazie all'abilità dei suoi costruttori,\nsi realizzarono gli acquedotti. Da quel momento in poi, ovvero dal 312 a.C.,\naffluì a Roma una quantità enorme di acqua potabile, che nessun'altra città del mondo\nantico ebbe mai, e che valse alla città il titolo\ndi <em>\"regina aquarum\"</em>, ossia <strong><em>\"regina delle acque\"</em></strong>. <br>\nGli acquedotti erano le arterie del cuore pulsante dell'antica Roma e significavano vita."
+        },
+        {
+            "type": "text",
+            "value": "<br>Ottimo esempio al giorno d’oggi ne è <strong>Parco degli Acquedotti di Roma</strong>:\nun’area verde urbana compresa all’interno del VII municipio che si estende\nper circa 240 ettari di terreno, situato nella zona dell’Appio Claudio.\nStiamo parlando di un territorio tipico della campagna romana che prende il nome dalla\n<strong>presenza di 7 degli 11 acquedotti costruiti dai romani</strong>\nvisibili ancora oggi parzialmente nella loro integrità. <br>\nUna meravigliosa cornice naturalistica ed archeologica dove anche oggi possiamo\nammirare con i nostri occhi le rovine di quelle che restano fra le opere più belle\nche ci hanno lasciato gli antichi romani, testimonianza unica delle incredibili\ncapacità tecniche ed organizzative del popolo romano. <br><br>"
+        },
+        {
+            "type": "image_slide",
+            "value": [
+                "./Foto/Acquedotti/A1.png",
+                "./Foto/Acquedotti/A2.png",
+                "./Foto/Acquedotti/A3.png",
+                "./Foto/Acquedotti/A4.png",
+                "./Foto/Acquedotti/A5.png",
+                "./Foto/Acquedotti/A6.png",
+                "./Foto/Acquedotti/A7.png",
+                "./Foto/Acquedotti/A8.png",
+                "./Foto/Acquedotti/A9.png",
+                "./Foto/Acquedotti/A10.png"
+            ]
+        },
+        {
+            "type": "text",
+            "value": "<br><br> Per maggiori informazioni, ho realizzato insieme ad una mia collega un video illustrativo,\nricco di dettagli e spiegazioni, che sarà in grado di trasportarvi direttamente\nnell'antica Roma. <br>\nBuona visione. <br>"
+        },
+        {
+            "type": "link_ref",
+            "value": "https://www.youtube.com/watch?v=KlDXETuqZhc\nLink:\nGli acquedotti, arterie del cuore pulsante dell'antica Roma"
+        },
+        {
+            "type": "video",
+            "value": "https://www.youtube.com/embed/KlDXETuqZhc"
+        },
+        {
+            "type": "separator",
+            "value": ""
+        },
+        {
+            "type": "text",
+            "value": "“È questa la terza opera degli antichi che ho innanzi a me e di cui osservo\nla stessa impronta, sempre grandiosa: l'arte architettonica degli antichi è veramente\nuna seconda natura, che opera conforme agli usi e agli scopi civili.\nÈ così che sorge l'anfiteatro, il tempio, <strong>l'acquedotto</strong>.\nE soltanto adesso sento con quanta ragione ho sempre trovato detestabili le costruzioni\nfatte a capriccio […]. Cose tutte nate morte, poiché ciò che veramente non ha in sé\nuna ragione di esistere non ha vita e non può essere grande, né diventare grande.” <br>"
+        },
+        {
+            "type": "link_ref",
+            "value": "https://it.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe\n—\nJohann Wolfgang von Goethe"
+        }
+    ],
+    "date": "14/12/2020",
+    "type": "Gregorio",
+    "title": "Gli acquedotti, arterie del cuore pulsante dell'antica Roma",
+    "preview_image": "./Foto/Acquedotti/A10.png",
+    "id": "Acquedotti"
+},
+{
+    "content": [
+        {
+            "type": "text",
             "value": "Vi siete mai chiesti cosa potrebbero avere in comune due città\ncome Roma e Washington D.C.? <br>\nForse molti di voi non ci hanno nemmeno mai pensato...\nIn tal caso, questo articolo fa al caso vostro:\ninfatti, sebbene queste capitali siano divise da un intero oceano,\nentrambe condividono molto più di quanto pensiate.<br><br>"
         },
         {
@@ -419,76 +690,4 @@ var DocuVale = [
     "title": "Tutte le strade portano a Roma:\nsomiglianze tra Washington D.C. e la città eterna",
     "preview_image": "./Foto/Rome and Wahington D.C/WDC.png",
     "id": "Rome and Washington"
-},
-{
-    "content": [
-        {
-            "type": "text",
-            "value": "<strong>Quanto è importante pensare?</strong>"
-        },
-        {
-            "type": "text",
-            "value": "<br>La locuzione latina di Cicerone <strong><em>“Vivere est cogitare”</em></strong>,\ntradotta letteralmente, significa <em>“Vivere è pensare”</em>. Eppure, sebbene la frase sembrerebbe facile da comprendere, sono fortemente convinta che,\nper apprendere a pieno il suo significato intrinseco, tre parole non siano sufficienti."
-        },
-        {
-            "type": "end_preview",
-            "value": "<br>Provate adesso a seguirmi con questo ragionamento: <strong>l’essenza dell’uomo,\nla sua peculiarità rispetto a tutti gli esseri viventi, è proprio la capacità di riflessione,\nl’attitudine a porsi delle questioni e provare a risolverle, il desiderio di migliorare\ne trovare delle idee per farlo.</strong> [...]"
-        },
-        {
-            "type": "text",
-            "value": "<br>Provate adesso a seguirmi con questo ragionamento: <strong>l’essenza dell’uomo,\nla sua peculiarità rispetto a tutti gli esseri viventi, è proprio la capacità di riflessione,\nl’attitudine a porsi delle questioni e provare a risolverle, il desiderio di migliorare\ne trovare delle idee per farlo.</strong>"
-        },
-        {
-            "type": "text",
-            "value": "Gli uomini riflettono sulle proprie azioni, progettano, si chiedono se un qualcosa sia vero,\nsi interrogano sui propri sentimenti, cercano di capire le proprie decisioni e d’interpretare\nle azioni degli altri. Studiano, provano ad apprendere gli errori del passato,\ntentano di migliorarsi. <br>\nGli uomini sono esseri razionali, e in quanto tali sono capaci di pensare. <br><br>\nEducare alla conoscenza del pensiero è un passo fondamentale verso la conoscenza di sé\ne del mondo che ci circonda, ma bisogna essere guidati, incoraggiati, orientati,\nmessi nella condizione di attendere a una condizione di grazia che si attiva con lo studio,\nl’osservazione, l’educazione e il silenzio. <br><br><br>"
-        },
-        {
-            "type": "text",
-            "value": "<br><strong>Cosa significa davvero pensare?</strong>"
-        },
-        {
-            "type": "text",
-            "value": "<br>Pensare significa dare un senso alle cose che si fanno e a quelle che si dicono,\nimparare a fare e a dire cose che hanno un punto di partenza e uno di arrivo. <br>\nIn una società dove la logica ha lasciato il posto a un’estetica di dubbio valore e\ndove tutto o quasi ruota attorno all’intrigante vivacità degli istinti,\nl’uomo ha perso di vista la capacità di dare senso, di sviluppare idee,\ndi fornire interessi, di guardare oltre le apparenze. <br><br>\nChi osserva si rende conto che il pensiero non è più speculativo, non insegna a\ndissodare e a investigare i campi del genere umano, si limita a prendere atto,\na estrapolare le risorse e a gettarle in pasto a un mercato sempre più vorace,\nsempre meno attento a considerare l’uomo nella sua dimensione umana.\nPensare in molti casi crea scompiglio, rompe un equilibrio, riapre un dialogo\nche non si preoccupa della sintesi, ma che in molti casi diventa conflitto,\narroccamento, autodifesa. <br><br>\n<strong>Il pensiero è amato e temuto: amato da chi vuole dare un senso logico alle cose e\ntemuto da chi ne conosce la forza riabilitativa, la capacità investigativa,\nl’energia trainante, la capacità innovativa.</strong> <br>\nIl pensiero è al servizio dell’essere umano, è il motore che dà il via al cammino della storia,\nalla voglia di analisi e di sintesi, è strumento di rinascita e di rilancio. <br>\nImparare a pensare e a far pensare significa attivare un procedimento di ricerca,\naiutare il sistema della conoscenza a sviluppare un ordine più vero, più attuale,\npiù capace di entrare in relazione con il mondo dello spirito e quello della materia,\nsignifica ridare fiato a quella parte di noi stessi che spesso deleghiamo ad altro o ad altri,\nritrovare la bellezza di un percorso, di un’idea, di un sistema, di un progetto che rimette in\ncarica la nostra distrazione. <br><br><br>"
-        },
-        {
-            "type": "text",
-            "value": "<br><strong>Pensare è vivere...</strong>"
-        },
-        {
-            "type": "text",
-            "value": "<br>Imparare a pensare è fondamentale ed è fondamentale che il pensiero di ciascun individuo\npossa incontrare l’attenzione di chi ci sta di fronte, di chi ci osserva, di chi in molti\ncasi diventa arbitro del nostro destino. Spesso il nostro pensiero è stato messo da parte\no cancellato, per dare spazio all’egoismo e all’egocentrismo, per impedirne la visibilità. <br><br>\nÈ contro l’ignoranza e l’arroganza che spesso il pensiero si trova combattere e a lottare,\ncontro quella volontà che vorrebbe imprigionarlo per impedirgli di farsi largo e d’incontrare\nconferme e opportunità. <br>\nÈ dall’ascolto del pensiero dell’altro che si creano le corrispondenze, che la ricerca produce\ni suoi frutti. <br>\nÈ dal riconoscimento che parte un cambiamento destinato a modificare positivamente i ruoli e\nle condizioni della natura umana. <br><br>\nIl pensiero è uno straordinario atto di volontariato e proprio per questo va coltivato,\nprotetto, promosso, accolto e fatto conoscere, in modo tale che non si perda per strada\no che non venga calpestato da chi non lo vuole conoscere. <strong>Pensare è restituire all’anima\nla sua essenza, la sua voglia di essere presente nei processi cognitivi che caratterizzano\nla vita umana.</strong> <br><br><br>"
-        },
-        {
-            "type": "text",
-            "value": "<br><strong>... e vivere è pensare</strong>"
-        },
-        {
-            "type": "text",
-            "value": "<br>Arriviamo al dunque: è nella vita del pensiero che scopriamo la nostra vita,\nè pensando che implementiamo la nostra curiosità, la nostra voglia di misurarci con quel\nmondo che ci ruota attorno e che in molti casi non conosciamo e temiamo come se fosse altro\nda noi. Ed è così che la vita, diviene tale grazie al pensiero e ne rimane condizionata sempre.\n<br><br>"
-        },
-        {
-            "type": "text",
-            "value": "E voi cosa ne <em>pensate</em>? <br>\nSe vi fa piacere lasciatemi un commento, sarò lieta di <em>ascoltare</em> cosa avete da dire."
-        },
-        {
-            "type": "text",
-            "value": "<br>"
-        },
-        {
-            "type": "image_inline",
-            "value": [
-                "./Foto/Vivere est cogitare/1.png",
-                " ",
-                "./Foto/Vivere est cogitare/2.png",
-                " ",
-                "./Foto/Vivere est cogitare/3.png",
-                " "
-            ]
-        }
-    ],
-    "date": "10/12/2020",
-    "type": "Blog",
-    "title": "Vivere est cogitare",
-    "preview_image": "./Foto/Vivere est cogitare/sfondo.png",
-    "id": "Vivere est cogitare"
 }];

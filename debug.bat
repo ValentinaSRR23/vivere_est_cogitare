@@ -1,0 +1,2 @@
+call python SupportPython/creatore_articoli.py
+pause
