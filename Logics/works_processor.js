@@ -56,8 +56,8 @@ function sortWorks() {
         let d1 = new Date(d1_s[2], d1_s[1], d1_s[0]);
         let d2 = new Date(d2_s[2], d2_s[1], d2_s[0]);
 
-        if (d1 < d2) return -1;
-        if (d1 > d2) return 1;
+        if (d1 > d2) return -1;
+        if (d1 < d2) return 1;
         return 0;
     });
   }
@@ -70,8 +70,8 @@ function sortWorks() {
       let d1 = new Date(d1_s[2], d1_s[1], d1_s[0]);
       let d2 = new Date(d2_s[2], d2_s[1], d2_s[0]);
 
-      if (d1 < d2) return -1;
-      if (d1 > d2) return 1;
+      if (d1 > d2) return -1;
+      if (d1 < d2) return 1;
       return 0;
     });
   }
