@@ -37,7 +37,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Volendo identificare i <strong>caratteri distintivi</strong> dell'analfabeta di ritorno, \nsi potrebbero elencare i seguenti: <br><br>\n- <strong>Incapacità di comprensione adeguata</strong> di testi pensati per una persona \ncomune, come articoli di giornale, regolamenti o bollette; <br><br>\n- <strong>Difficoltà nell'esecuzione di calcoli matematici semplici</strong>, come gli sconti \nin un negozio o la tenuta della contabilità casalinga; <br><br>\n- <strong>Difficoltà nell'utilizzo degli strumenti informatici</strong>;<br>\n- <strong>Conoscenza superficiale degli eventi</strong> storici, politici, scientifici, \nsociali ed economici.<br><br>\n- <strong>Incapacità di distinguere le notizie vere da quelle false</strong> e una mancata \nverifica dell’attendibilità delle notizie false, da cui consegue la totale assenza \ndell’elaborazione di un proprio parere. Ne deriva la \n<strong>diffusione della disinformazione</strong> in molteplici campi e nell'era \ndi Internet e dei social network, dove chiunque può pubblicare informazioni che \npossono raggiungere masse di persone, il problema ha assunto dimensioni importanti. <br>\nNel caso di disinformazione legata a temi medico-sanitari (vaccini, omeopatia o terapie \nalternative in genere) le conseguenze sociali possono essere drammatiche, in quanto le \ninformazioni fuorvianti possono mettere a repentaglio la salute o la vita di molte persone, e\n anche dei loro figli minori.<br>\nLa diffusione di notizie false incoraggia <strong>pregiudizi</strong> verso alcune categorie \ndi persone (per etnia, religione, orientamento sessuale, ecc.) può accrescere la diffusione \ndi atteggiamenti discriminatori e emarginanti nei loro confronti, aggravando gli ostacoli \nalla loro integrazione.\n<br><br><br>"
+            "value": "Volendo identificare i <strong>caratteri distintivi</strong> dell'analfabeta di ritorno, \nsi potrebbero elencare i seguenti: <br><br>\n- <strong>Incapacità di comprensione adeguata</strong> di testi pensati per una persona \ncomune, come articoli di giornale, regolamenti o bollette; <br><br>\n- <strong>Difficoltà nell'esecuzione di calcoli matematici semplici</strong>, come gli sconti \nin un negozio o la tenuta della contabilità casalinga; <br><br>\n- <strong>Difficoltà nell'utilizzo degli strumenti informatici</strong>;<br><br>\n- <strong>Conoscenza superficiale degli eventi</strong> storici, politici, scientifici, \nsociali ed economici.<br><br>\n- <strong>Incapacità di distinguere le notizie vere da quelle false</strong> e una mancata \nverifica dell’attendibilità delle notizie false, da cui consegue la totale assenza \ndell’elaborazione di un proprio parere. Ne deriva la \n<strong>diffusione della disinformazione</strong> in molteplici campi e nell'era \ndi Internet e dei social network, dove chiunque può pubblicare informazioni che \npossono raggiungere masse di persone, il problema ha assunto dimensioni importanti. <br>\nNel caso di disinformazione legata a temi medico-sanitari (vaccini, omeopatia o terapie \nalternative in genere) le conseguenze sociali possono essere drammatiche, in quanto le \ninformazioni fuorvianti possono mettere a repentaglio la salute o la vita di molte persone, e\n anche dei loro figli minori.<br>\nLa diffusione di notizie false incoraggia <strong>pregiudizi</strong> verso alcune categorie \ndi persone (per etnia, religione, orientamento sessuale, ecc.) può accrescere la diffusione \ndi atteggiamenti discriminatori e emarginanti nei loro confronti, aggravando gli ostacoli \nalla loro integrazione.\n<br><br><br>"
         },
         {
             "type": "text",
@@ -45,7 +45,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Da questo fenomeno così diffuso nel nostro Paese deriva dunque un \n<strong>basso livello di istruzione</strong> che colpisce direttamente su 3 livelli: <br>\n- <strong>Livello individuale</strong>: l’analfabeta di ritorno che è contrassegnato da una \nlimitata e superficiale conoscenza dei fenomeni politici, sociali e storici e li generalizza \na causa dell’influenza di episodi strettamente legati alle proprie esperienze personali. \nDa ciò deriva un’esclusione sociale, mancanza di autonomia, precarietà. L’istruzione infatti \nti rende libero e alla pari con gli altri: mentre l’ignoranza è una debolezza, che ti porta \nad essere facilmente condizionabile. <br><br>\n- <strong>Livello sociale</strong>: si può dire in maniera più elaborata che un individuo \naffetto da analfabetismo di ritorno possiede delle difficoltà nel comprendere testi semplici \ne non è capace di sviluppare un proprio pensiero critico. Quest’incapacità ostacola \nl’individuo ad una propria partecipazione attiva nella società, vale a dire da un lato \nl’incapacità di esprimere il proprio diritto alla cittadinanza, e dall’atro la criminalità \n(poiché l’analfabeta di ritorno può diventare preda di associazioni delinquenziali). <br><br>\n- <strong>Livello economico</strong>: infine, l’incapacità di comprendere a fondo nozioni \neconomiche – anche basilari – quindi, i rapporti “costi e benefici” o semplicemente svolgere \ncalcoli leggermente più complessi di quelli elementari, porta inevitabilmente a perdite di \ndenaro, mancati guadagni e scelte economicamente scellerate. E non essere istruiti ti priva \ndell’opportunità di poter competere, di farsi valere o di ambire a posizioni elevate in \nambito lavorativo. \n<br><br><br>"
+            "value": "Da questo fenomeno così diffuso nel nostro Paese deriva dunque un \n<strong>basso livello di istruzione</strong> che colpisce direttamente su 3 livelli: <br><br>\n- <strong>Livello individuale</strong>: l’analfabeta di ritorno che è contrassegnato da una \nlimitata e superficiale conoscenza dei fenomeni politici, sociali e storici e li generalizza \na causa dell’influenza di episodi strettamente legati alle proprie esperienze personali. \nDa ciò deriva un’esclusione sociale, mancanza di autonomia, precarietà. L’istruzione infatti \nti rende libero e alla pari con gli altri: mentre l’ignoranza è una debolezza, che ti porta \nad essere facilmente condizionabile. <br><br>\n- <strong>Livello sociale</strong>: si può dire in maniera più elaborata che un individuo \naffetto da analfabetismo di ritorno possiede delle difficoltà nel comprendere testi semplici \ne non è capace di sviluppare un proprio pensiero critico. Quest’incapacità ostacola \nl’individuo ad una propria partecipazione attiva nella società, vale a dire da un lato \nl’incapacità di esprimere il proprio diritto alla cittadinanza, e dall’atro la criminalità \n(poiché l’analfabeta di ritorno può diventare preda di associazioni delinquenziali). <br><br>\n- <strong>Livello economico</strong>: infine, l’incapacità di comprendere a fondo nozioni \neconomiche – anche basilari – quindi, i rapporti “costi e benefici” o semplicemente svolgere \ncalcoli leggermente più complessi di quelli elementari, porta inevitabilmente a perdite di \ndenaro, mancati guadagni e scelte economicamente scellerate. E non essere istruiti ti priva \ndell’opportunità di poter competere, di farsi valere o di ambire a posizioni elevate in \nambito lavorativo. \n<br><br><br>"
         },
         {
             "type": "text",
@@ -57,7 +57,7 @@ var DocuVale = [
         },
         {
             "type": "separator",
-            "value": "<br>"
+            "value": "<br><br>"
         },
         {
             "type": "quote",
@@ -297,7 +297,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<em>\"Mentalmente e fisicamente, conosciamo il risultato prima ancora che la gara inizi\". \nQuesta ingiustizia biologica non sparisce a causa di ciò che qualcuno crede \nsull'identità di genere. Tutte le ragazze meritano la possibilità di competere alla pari\".</em>\nQueste sono le parole di Alanna Smith, figlia dell'ex lanciatore della Major League Baseball Lee Smith, \ndurante la conferenza stampa fuori dal Connecticut State Capitol a Hartford il 12 febbraio."
+            "value": "<em>\"Mentalmente e fisicamente, conosciamo il risultato prima ancora che la gara inizi\". \nQuesta ingiustizia biologica non sparisce a causa di ciò che qualcuno crede \nsull'identità di genere. Tutte le ragazze meritano la possibilità di competere alla pari\".</em> <br>\nQueste sono le parole di Alanna Smith, figlia dell'ex lanciatore della Major League Baseball Lee Smith, \ndurante la conferenza stampa fuori dal Connecticut State Capitol a Hartford il 12 febbraio."
         },
         {
             "type": "image_slide",
@@ -309,7 +309,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "“È molto frustrante e straziante per noi ragazze. Già all’inizio della gara sapevamo che \nquesti due atleti trans avrebbero vinto. I loro corpi sono diversi. È ingiusto. \nNon è sportivo”, ha dichiarato al <strong>Daily Signal</strong> ("
+            "value": "<em>“È molto frustrante e straziante per noi ragazze. Già all’inizio della gara sapevamo che \nquesti due atleti trans avrebbero vinto. I loro corpi sono diversi. È ingiusto. \nNon è sportivo”</em>, ha dichiarato al <strong>Daily Signal</strong> ("
         },
         {
             "type": "link_inline",
@@ -346,9 +346,9 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "Foto/Sport&Trans/3.png",
-                "Andraya Yearwood sulla sinistra e Terry Miller sulla destra.",
                 "Foto/Sport&Trans/4.png",
+                "Andraya Yearwood sulla sinistra e Terry Miller sulla destra.",
+                "Foto/Sport&Trans/5.png",
                 "Immagine delle due ragazze durante la loro <a class=\"article_content_link_label_inline\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=sHqiG_hrbsc\">intervista</a>"
             ]
         },
@@ -362,7 +362,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Al contrario, l'avvocato Christiana Holcomb in supporto della causa ribadisce, \n\"<em>costringere le ragazze ad essere spettatrici nei loro sport è completamente in \ncontrasto con il Titolo IX, una legge federale progettata per creare pari opportunità \nper le donne nell'istruzione e nell'atletica. La politica del Connecticut viola \nquella legge e inverte quasi 50 anni di progressi per le donne\"<em>.\n<br><br>"
+            "value": "Al contrario, l'avvocato Christiana Holcomb in supporto della causa ribadisce, \n\"<em>costringere le ragazze ad essere spettatrici nei loro sport è completamente in \ncontrasto con il Titolo IX, una legge federale progettata per creare pari opportunità \nper le donne nell'istruzione e nell'atletica. La politica del Connecticut viola \nquella legge e inverte quasi 50 anni di progressi per le donne\"</em>.\n<br><br>"
         },
         {
             "type": "text",
@@ -370,7 +370,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "In virtù di ciò, gli avvocati di <em><strong>Alliance Defending Freedom<strong><em> \nchiedono alla corte di impedire alle ragazze transgender di gareggiare mentre la causa \nva avanti, mentre il <strong>Dipartimento di Giustizia</strong> e <strong>l'Ufficio per i \ndiritti civili</strong> del <strong>Dipartimento dell'Istruzione</strong> ritirano il loro sostegno al caso, \nnotificando di non voler diventare una parte nella causa. Ad ogni modo, nessuna data \ndi udienza su questa richiesta è stata fissata prima dell'inizio dei campionati statali \ndi atletica indoor, lasciando ancora incerto il futuro di queste ragazze.\n<br><br>"
+            "value": "In virtù di ciò, gli avvocati di <em><strong>Alliance Defending Freedom</strong></em> \nchiedono alla corte di impedire alle ragazze transgender di gareggiare mentre la causa \nva avanti, mentre il <strong>Dipartimento di Giustizia</strong> e <strong>l'Ufficio per i \ndiritti civili</strong> del <strong>Dipartimento dell'Istruzione</strong> ritirano il loro sostegno al caso, \nnotificando di non voler diventare una parte nella causa. Ad ogni modo, nessuna data \ndi udienza su questa richiesta è stata fissata prima dell'inizio dei campionati statali \ndi atletica indoor, lasciando ancora incerto il futuro di queste ragazze.\n<br><br>"
         },
         {
             "type": "text",

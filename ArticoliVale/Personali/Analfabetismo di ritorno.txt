@@ -95,7 +95,7 @@ si potrebbero elencare i seguenti: <br><br>
 comune, come articoli di giornale, regolamenti o bollette; <br><br>
 - <strong>Difficoltà nell'esecuzione di calcoli matematici semplici</strong>, come gli sconti 
 in un negozio o la tenuta della contabilità casalinga; <br><br>
-- <strong>Difficoltà nell'utilizzo degli strumenti informatici</strong>;<br>
+- <strong>Difficoltà nell'utilizzo degli strumenti informatici</strong>;<br><br>
 - <strong>Conoscenza superficiale degli eventi</strong> storici, politici, scientifici, 
 sociali ed economici.<br><br>
 - <strong>Incapacità di distinguere le notizie vere da quelle false</strong> e una mancata 
@@ -137,7 +137,7 @@ un annullamento della propria personalità, in quanto comunque noi siamo ciò ch
 
 Text:
 Da questo fenomeno così diffuso nel nostro Paese deriva dunque un 
-<strong>basso livello di istruzione</strong> che colpisce direttamente su 3 livelli: <br>
+<strong>basso livello di istruzione</strong> che colpisce direttamente su 3 livelli: <br><br>
 - <strong>Livello individuale</strong>: l’analfabeta di ritorno che è contrassegnato da una 
 limitata e superficiale conoscenza dei fenomeni politici, sociali e storici e li generalizza 
 a causa dell’influenza di episodi strettamente legati alle proprie esperienze personali. 
@@ -184,7 +184,7 @@ al linguista italiano Tullio De Mauro.
 <br><br>
 
 Separator:
-<br>
+<br><br>
 
 Quote:
 Gli analfabeti del futuro non saranno quelli che non sanno leggere o scrivere, ma 

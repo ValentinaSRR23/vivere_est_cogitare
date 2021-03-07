@@ -80,7 +80,7 @@ borse di studio.
 Text:
 <em>"Mentalmente e fisicamente, conosciamo il risultato prima ancora che la gara inizi". 
 Questa ingiustizia biologica non sparisce a causa di ciò che qualcuno crede 
-sull'identità di genere. Tutte le ragazze meritano la possibilità di competere alla pari".</em>
+sull'identità di genere. Tutte le ragazze meritano la possibilità di competere alla pari".</em> <br>
 Queste sono le parole di Alanna Smith, figlia dell'ex lanciatore della Major League Baseball Lee Smith, 
 durante la conferenza stampa fuori dal Connecticut State Capitol a Hartford il 12 febbraio.
 
@@ -90,9 +90,9 @@ Foto/Sport&Trans/2.png
 Foto/Sport&Trans/3.png
 
 Text:
-“È molto frustrante e straziante per noi ragazze. Già all’inizio della gara sapevamo che 
+<em>“È molto frustrante e straziante per noi ragazze. Già all’inizio della gara sapevamo che 
 questi due atleti trans avrebbero vinto. I loro corpi sono diversi. È ingiusto. 
-Non è sportivo”, ha dichiarato al <strong>Daily Signal</strong> ( 
+Non è sportivo”</em>, ha dichiarato al <strong>Daily Signal</strong> ( 
 
 LinkInline:
 https://www.dailysignal.com/2019/05/06/8th-place-high-school-girls-speak-out-on-getting-beat-by-biological-boys 
@@ -166,9 +166,9 @@ che ho affrontato io. Spero che possano essere riconosciuti quando hanno success
 demonizzati. A nome della futura generazione, corro per voi!"</em>.
 
 ImageInline:
-Foto/Sport&Trans/3.png
-Andraya Yearwood sulla sinistra e Terry Miller sulla destra.
 Foto/Sport&Trans/4.png
+Andraya Yearwood sulla sinistra e Terry Miller sulla destra.
+Foto/Sport&Trans/5.png
 Immagine delle due ragazze durante la loro <a class="article_content_link_label_inline" target="_blank" href="https://www.youtube.com/watch?v=sHqiG_hrbsc">intervista</a>
 
 Text:
@@ -192,7 +192,7 @@ Al contrario, l'avvocato Christiana Holcomb in supporto della causa ribadisce,
 "<em>costringere le ragazze ad essere spettatrici nei loro sport è completamente in 
 contrasto con il Titolo IX, una legge federale progettata per creare pari opportunità 
 per le donne nell'istruzione e nell'atletica. La politica del Connecticut viola 
-quella legge e inverte quasi 50 anni di progressi per le donne"<em>.
+quella legge e inverte quasi 50 anni di progressi per le donne"</em>.
 
 <br><br>
 
@@ -206,7 +206,7 @@ moltissime ragazze di vittorie, titoli statali e opportunità atletiche.
 <br><br>
 
 Text:
-In virtù di ciò, gli avvocati di <em><strong>Alliance Defending Freedom<strong><em> 
+In virtù di ciò, gli avvocati di <em><strong>Alliance Defending Freedom</strong></em> 
 chiedono alla corte di impedire alle ragazze transgender di gareggiare mentre la causa 
 va avanti, mentre il <strong>Dipartimento di Giustizia</strong> e <strong>l'Ufficio per i 
 diritti civili</strong> del <strong>Dipartimento dell'Istruzione</strong> ritirano il loro sostegno al caso, 
