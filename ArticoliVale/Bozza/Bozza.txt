@@ -22,6 +22,9 @@ EndPreview:
 ... [...]
 
 
+Text:
+
+
 LinkInline:
 ...
 link articolo
@@ -51,6 +54,8 @@ htp//
 Link:
 ...
 
+Video:
+htp//
 
 Separator:
 
