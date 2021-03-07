@@ -634,3 +634,15 @@ background: rgba(0,0,0,0.5);
   margin-bottom: -1.5em;
   opacity: 0.4;
 }
+.quote_quotebars{
+  font-size: 3em;
+}
+.article_quote{
+  font-size: 1.4em;
+  font-style: italic;
+}
+.quote_wrap{
+  border-radius: 2em;
+  padding: 0 0.5em;
+  background: radial-gradient(#2d6d7b54, transparent);
+}

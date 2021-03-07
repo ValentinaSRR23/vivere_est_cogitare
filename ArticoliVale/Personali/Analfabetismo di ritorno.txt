@@ -35,6 +35,7 @@ di comunicare con il prossimo e con il mondo circostante.
 
 <br><br>
 
+
 Text:
 Un adulto che è funzionalmente analfabeta non sarà in grado di eseguire adeguatamente 
 i compiti necessari nella vita quotidiana, come compilare una domanda di lavoro, capire 
@@ -187,10 +188,10 @@ al linguista italiano Tullio De Mauro.
 Separator:
 <br>
 
-Text:
-<em>“Gli analfabeti del futuro non saranno quelli che non sanno leggere o scrivere, ma 
-quelli che non sanno imparare, disimparare, e imparare di nuovo.”</em> <br>
-- <a class="article_content_link_label_inline" target="_blank" href="https://it.wikipedia.org/wiki/Alvin_Toffler">ALVIN TOFFLER</a>
+Quote:
+Gli analfabeti del futuro non saranno quelli che non sanno leggere o scrivere, ma 
+quelli che non sanno imparare, disimparare, e imparare di nuovo.
+<br> - <a class="article_content_link_label_inline" target="_blank" href="https://it.wikipedia.org/wiki/Alvin_Toffler">ALVIN TOFFLER</a>
 
 <br><br>
 

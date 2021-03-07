@@ -64,8 +64,8 @@ var DocuVale = [
             "value": "<br>"
         },
         {
-            "type": "text",
-            "value": "<em>“Gli analfabeti del futuro non saranno quelli che non sanno leggere o scrivere, ma \nquelli che non sanno imparare, disimparare, e imparare di nuovo.”</em> <br>\n- <a class=\"article_content_link_label_inline\" target=\"_blank\" href=\"https://it.wikipedia.org/wiki/Alvin_Toffler\">ALVIN TOFFLER</a>\n<br><br>"
+            "type": "quote",
+            "value": "Gli analfabeti del futuro non saranno quelli che non sanno leggere o scrivere, ma \nquelli che non sanno imparare, disimparare, e imparare di nuovo.\n<br> - <a class=\"article_content_link_label_inline\" target=\"_blank\" href=\"https://it.wikipedia.org/wiki/Alvin_Toffler\">ALVIN TOFFLER</a>\n<br><br>"
         }
     ],
     "date": "2/02/21",

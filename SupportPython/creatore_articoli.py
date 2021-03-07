@@ -96,6 +96,11 @@ def processElement(element, fname):
             isContent = True
             data = ""
             setting = "text"
+        elif(row == "Quote:"):
+            result = aggregate(result,setting, data, isContent)
+            isContent = True
+            data = ""
+            setting = "quote"
         elif(row == "Separator:"):
             result = aggregate(result,setting, data, isContent)
             isContent = True

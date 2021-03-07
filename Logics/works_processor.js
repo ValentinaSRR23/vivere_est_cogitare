@@ -95,6 +95,9 @@ function processContent(content) {
     if(type == "text"){
       result = "<div class=\"article_text\">" + val + "</div>";
     }
+    if(type == "quote"){
+      result = "<div class=\"quote_wrap\"><div class=\"quote_quotebars\">“</div><div class=\"article_quote\">" + val + "</div></div>";
+    }
     if(type == "video"){
       result = "<iframe class=\"video_iframe\" src=\""+val+"\"></iframe>";
     }
