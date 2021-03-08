@@ -5,7 +5,7 @@ Category:
 Blog
 
 Title:
-Sport&Transgender
+Sport & Transgender
 
 MainImage:
 Foto/Sport&Trans/sfondo.png
@@ -77,10 +77,11 @@ e della Canton High School, hanno dichiarato che permettere a delle velociste co
 maschile di competere alle gare abbia privato loro di titoli in pista e opportunità di 
 borse di studio. 
 
+<br>
 Text:
 <em>"Mentalmente e fisicamente, conosciamo il risultato prima ancora che la gara inizi". 
 Questa ingiustizia biologica non sparisce a causa di ciò che qualcuno crede 
-sull'identità di genere. Tutte le ragazze meritano la possibilità di competere alla pari".</em> <br>
+sull'identità di genere. Tutte le ragazze meritano la possibilità di competere alla pari".</em> 
 Queste sono le parole di Alanna Smith, figlia dell'ex lanciatore della Major League Baseball Lee Smith, 
 durante la conferenza stampa fuori dal Connecticut State Capitol a Hartford il 12 febbraio.
 

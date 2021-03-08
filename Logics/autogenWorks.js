@@ -293,11 +293,11 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Le tre atlete, <strong>Alanna Smith</strong>, studentessa del secondo anno della Danbury High School, \n<strong>Selina Soule</strong> e <strong>Chelsea Mitchell</strong>, maturande corrispettivamente della Glastonbury High School \ne della Canton High School, hanno dichiarato che permettere a delle velociste con fisionomia \nmaschile di competere alle gare abbia privato loro di titoli in pista e opportunità di \nborse di studio."
+            "value": "Le tre atlete, <strong>Alanna Smith</strong>, studentessa del secondo anno della Danbury High School, \n<strong>Selina Soule</strong> e <strong>Chelsea Mitchell</strong>, maturande corrispettivamente della Glastonbury High School \ne della Canton High School, hanno dichiarato che permettere a delle velociste con fisionomia \nmaschile di competere alle gare abbia privato loro di titoli in pista e opportunità di \nborse di studio. \n<br>"
         },
         {
             "type": "text",
-            "value": "<em>\"Mentalmente e fisicamente, conosciamo il risultato prima ancora che la gara inizi\". \nQuesta ingiustizia biologica non sparisce a causa di ciò che qualcuno crede \nsull'identità di genere. Tutte le ragazze meritano la possibilità di competere alla pari\".</em> <br>\nQueste sono le parole di Alanna Smith, figlia dell'ex lanciatore della Major League Baseball Lee Smith, \ndurante la conferenza stampa fuori dal Connecticut State Capitol a Hartford il 12 febbraio."
+            "value": "<em>\"Mentalmente e fisicamente, conosciamo il risultato prima ancora che la gara inizi\". \nQuesta ingiustizia biologica non sparisce a causa di ciò che qualcuno crede \nsull'identità di genere. Tutte le ragazze meritano la possibilità di competere alla pari\".</em> \nQueste sono le parole di Alanna Smith, figlia dell'ex lanciatore della Major League Baseball Lee Smith, \ndurante la conferenza stampa fuori dal Connecticut State Capitol a Hartford il 12 febbraio."
         },
         {
             "type": "image_slide",
@@ -383,7 +383,7 @@ var DocuVale = [
     ],
     "date": "28/02/2021",
     "type": "Blog",
-    "title": "Sport&Transgender",
+    "title": "Sport & Transgender",
     "preview_image": "Foto/Sport&Trans/sfondo.png",
     "id": "Sport&Transgender"
 },
