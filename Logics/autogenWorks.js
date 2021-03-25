@@ -101,7 +101,7 @@ var DocuVale = [
         },
         {
             "type": "image_text_on_rigth",
-            "value": "./Foto/Interpretariato/5.png\nIn contesti dove non è necessario o non è possibile applicare la tecnica della simultanea, l'interprete opta per una mediazione in <strong>consecutiva</strong> sul palco accanto all’oratore, ascoltando un certo numero di frasi e dando poi la sua interpretazione nella lingua straniera di destinazione. Questo metodo di interpretazione funziona bene nelle riunioni in cui il tempo non è necessariamente essenziale. Tuttavia, specialmente quando l’oratore si dilunga su ciò che dice, la consecutiva richiede maggiore capacità da parte dell’interprete nel mantenere alta l’attenzione del pubblico, utilizzando tecniche di persuasione attraverso la tonalità di voce, ritmo e intensità (pur rimanendo fedele al discorso originale). <br>\n(In foto l'incontro tra Barack Obama e Mahmoud Abbas alla Casa Bianca, maggio 2009, avviene con l'ausilio di un interprete che prende appunti interpretando poi in modalità consecutiva.)\n<br><br>"
+            "value": "./Foto/Interpretariato/5.png\nIn contesti dove non è necessario o non è possibile applicare la tecnica della simultanea, l'interprete opta per una mediazione in <strong>consecutiva</strong> sul palco accanto all’oratore, ascoltando un certo numero di frasi e dando poi la sua interpretazione nella lingua straniera di destinazione. Questo metodo di interpretazione funziona bene nelle riunioni in cui il tempo non è necessariamente essenziale. Tuttavia, specialmente quando l’oratore si dilunga su ciò che dice, la consecutiva richiede maggiore capacità da parte dell’interprete nel mantenere alta l’attenzione del pubblico, utilizzando tecniche di persuasione attraverso la tonalità di voce, ritmo e intensità (pur rimanendo fedele al discorso originale). <br>\n(In foto l'incontro tra Barack Obama e Mahmoud Abbas alla Casa Bianca, maggio 2009, avviene con l'ausilio di un interprete che prende appunti interpretando poi in modalità consecutiva.)\n<br><br><br>"
         },
         {
             "type": "text",
@@ -109,7 +109,11 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Un'altra forma di interpretazione consecutiva è utilizzata nel settore della comunità. Un <strong>“interprete di comunità”<strong>, appunto, è responsabile dell'assistenza all'interno di una varietà di settori tra cui la sanità, la giustizia, il diritto, l'istruzione e i servizi umani, per citarne alcuni. Le modalità di interpretariato possono essere sul posto, al telefono o tramite collegamento in videoconferenza, specialmente in questo periodo in cui si è impossibilitati a riunirsi sul posto, sebbene ciò privi l’interprete di uno degli aspetti gratificanti del mestiere, ossia il contatto umano e le piacevoli relazioni che si instaurano durante una collaborazione.\n<br><br>\nDurante il seminario la Dottoressa Cammarano ha avuto modo di presentare quelli che ritiene siano i tre strumenti principali di un interprete durante una consecutiva: <strong>la presa d’appunti, la memoria e la cultura generale.<strong>\n<br><br>"
+            "value": "Un'altra forma di interpretazione consecutiva è utilizzata nel settore della comunità. Un <strong>“interprete di comunità”</strong>, appunto, è responsabile dell'assistenza all'interno di una varietà di settori tra cui la sanità, la giustizia, il diritto, l'istruzione e i servizi umani, per citarne alcuni. Le modalità di interpretariato possono essere sul posto, al telefono o tramite collegamento in videoconferenza, specialmente in questo periodo in cui si è impossibilitati a riunirsi sul posto, sebbene ciò privi l’interprete di uno degli aspetti gratificanti del mestiere, ossia il contatto umano e le piacevoli relazioni che si instaurano durante una collaborazione."
+        },
+        {
+            "type": "separator",
+            "value": "Durante il seminario la Dottoressa Cammarano ha avuto modo di presentare quelli che ritiene siano i tre strumenti principali di un interprete durante una consecutiva: <strong>la presa d’appunti, la memoria e la cultura generale.<strong>\n<br><br>"
         },
         {
             "type": "image_text_on_rigth",
@@ -121,7 +125,11 @@ var DocuVale = [
         },
         {
             "type": "image_text_on_rigth",
-            "value": "./Foto/Interpretariato/8.png\nQuesta tecnica facilita fortemente il lavoro dell’interprete, che si ritrova ad usufruire convenzionalmente di frecce, nel momento in cui un dato viene riportato più volte, risparmiando quindi spazio e tempo.\n<br><br>\nOgnuno sviluppa la presa di appunti in modo personale; spetta al singolo professionista decidere come impostare la pagina su cui prende appunti e quali simboli adottare, in base a quale simbolo risulta più evocativo, quale formato di carta preferisce, dove decide di posizionare i connettori logici (che sono fondamentali per ricostruire il discorso e i suoi passaggi logici) e così via.\n<br><br>\nTuttavia, chiunque abbia frequentato un corso di interpretazione consecutiva ha ricevuto delle linee guida imprescindibili, a partire dalle quali si può impostare il proprio “alfabeto” di simboli. La prima regola d’oro è quella di scrivere soggetto – verbo – complementi (in simboli, abbreviazioni o parole) in diagonale, da sinistra verso destra (vedi dimostrazione grafica qui accanto). In secondo luogo, per indicare che una frase è terminata, si tira una riga orizzontale per chiudere il periodo. <br>"
+            "value": "./Foto/Interpretariato/8.png\nQuesta tecnica facilita fortemente il lavoro dell’interprete, che si ritrova ad usufruire convenzionalmente di frecce, nel momento in cui un dato viene riportato più volte, risparmiando quindi spazio e tempo.\n<br><br>"
+        },
+        {
+            "type": "text",
+            "value": "Ognuno sviluppa la presa di appunti in modo personale; spetta al singolo professionista decidere come impostare la pagina su cui prende appunti e quali simboli adottare, in base a quale simbolo risulta più evocativo, quale formato di carta preferisce, dove decide di posizionare i connettori logici (che sono fondamentali per ricostruire il discorso e i suoi passaggi logici) e così via.\n<br><br>\nTuttavia, chiunque abbia frequentato un corso di interpretazione consecutiva ha ricevuto delle linee guida imprescindibili, a partire dalle quali si può impostare il proprio “alfabeto” di simboli. La prima regola d’oro è quella di scrivere soggetto – verbo – complementi (in simboli, abbreviazioni o parole) in diagonale, da sinistra verso destra (vedi dimostrazione grafica qui accanto). In secondo luogo, per indicare che una frase è terminata, si tira una riga orizzontale per chiudere il periodo. <br>"
         },
         {
             "type": "image_text_on_rigth",
