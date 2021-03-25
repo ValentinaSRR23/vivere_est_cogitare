@@ -17,9 +17,8 @@ Recentemente mi è stata offerta l’opportunità di seguire un seminario online
 Text:
 Recentemente mi è stata offerta l’opportunità di seguire un seminario online con la <strong>Dottoressa Bruna Cammarano</strong>, interprete professionista che negli anni ha tradotto moltissimi incontri e conferenze stampe internazionali, lavorando con figure rilevanti come <strong>Bush, Obama, Trump, Elisabetta d'Inghilterra</strong> ecc...
 
-ImageInline:
+SlideShow:
 ./Foto/Interpretariato/1.png
-
 ./Foto/Interpretariato/2.png
 
 
@@ -32,7 +31,7 @@ Oggi, il mestiere di interprete viene spesso confuso con quello del traduttore. 
 
 <br><br>
 
-Fra le tecniche che attualmente sono le più richieste rientra la <strong>simultanea</strong>, nota anche come <strong>interpretariato di conferenza<strong>.  Questa tecnica comporta processi di ascolto, comprensione, interpretazione e resa istantanea delle dichiarazioni dell'oratore in un'altra lingua. Si tratta del tipo di interpretazione più frequentemente impiegato poiché i suoi vantaggi in termini di risparmio di tempo sono indiscutibili. La simultanea viene generalmente utilizzata (ma non esclusivamente) nelle conferenze nazionali e internazionali, situazioni in cui è presente un pubblico piuttosto vasto. 
+Fra le tecniche che attualmente sono le più richieste rientra la <strong>simultanea</strong>, nota anche come <strong>interpretariato di conferenza</strong>.  Questa tecnica comporta processi di ascolto, comprensione, interpretazione e resa istantanea delle dichiarazioni dell'oratore in un'altra lingua. Si tratta del tipo di interpretazione più frequentemente impiegato poiché i suoi vantaggi in termini di risparmio di tempo sono indiscutibili. La simultanea viene generalmente utilizzata (ma non esclusivamente) nelle conferenze nazionali e internazionali, situazioni in cui è presente un pubblico piuttosto vasto. 
 <br><br>
 
 ImageTextOnRight:
@@ -43,21 +42,19 @@ Gli interpreti siedono in una cabina di fronte a un microfono e ricevono il mess
 
 ImageTextOnRight:
 ./Foto/Interpretariato/4.png
-Una variante della simultanea è lo chuchotage (dal francese “chuchoter”, cioè “sussurrare”). Si tratta di un tipo di interpretazione che prevede la traduzione del discorso originale ad una bassa tonalità di voce, direttamente all'orecchio di un gruppo ridotto di ascoltatori. Questa tecnica viene utilizzata spesso durante eventi pubblici, eventi privati, conferenze o dibatti, o ad ogni modo ambienti che prevedano tutti una buona acustica e un clima di tranquillità generale, risorsa necessaria per l‘interprete che viene sottoposto ad un livello di concentrazione piuttosto elevato.
+Una variante della simultanea è lo <strong>chuchotage</strong> (dal francese “chuchoter”, cioè “sussurrare”). Si tratta di un tipo di interpretazione che prevede la traduzione del discorso originale ad una bassa tonalità di voce, direttamente all'orecchio di un gruppo ridotto di ascoltatori. Questa tecnica viene utilizzata spesso durante eventi pubblici, eventi privati, conferenze o dibatti, o ad ogni modo ambienti che prevedano tutti una buona acustica e un clima di tranquillità generale, risorsa necessaria per l‘interprete che viene sottoposto ad un livello di concentrazione piuttosto elevato.
 
 <br><br>
-
 
 ImageTextOnRight:
 ./Foto/Interpretariato/5.png
-In contesti dove non è necessario o non è possibile applicare la tecnica della simultanea, l'interprete opta per una mediazione in <strong>consecutiva<strong> sul palco accanto all’oratore, ascoltando un certo numero di frasi e dando poi la sua interpretazione nella lingua straniera di destinazione. Questo metodo di interpretazione funziona bene nelle riunioni in cui il tempo non è necessariamente essenziale. Tuttavia, specialmente quando l’oratore si dilunga su ciò che dice, la consecutiva richiede maggiore capacità da parte dell’interprete nel mantenere alta l’attenzione del pubblico, utilizzando tecniche di persuasione attraverso la tonalità di voce, ritmo e intensità (pur rimanendo fedele al discorso originale). <br>
+In contesti dove non è necessario o non è possibile applicare la tecnica della simultanea, l'interprete opta per una mediazione in <strong>consecutiva</strong> sul palco accanto all’oratore, ascoltando un certo numero di frasi e dando poi la sua interpretazione nella lingua straniera di destinazione. Questo metodo di interpretazione funziona bene nelle riunioni in cui il tempo non è necessariamente essenziale. Tuttavia, specialmente quando l’oratore si dilunga su ciò che dice, la consecutiva richiede maggiore capacità da parte dell’interprete nel mantenere alta l’attenzione del pubblico, utilizzando tecniche di persuasione attraverso la tonalità di voce, ritmo e intensità (pur rimanendo fedele al discorso originale). <br>
 (In foto l'incontro tra Barack Obama e Mahmoud Abbas alla Casa Bianca, maggio 2009, avviene con l'ausilio di un interprete che prende appunti interpretando poi in modalità consecutiva.)
 
 
- 
 <br><br>
-
-Simile alla consecutiva esiste poi <strong>l’interpretariato di trattativa<strong>, vale a dire una modalità di interpretazione che si utilizza durante un incontro d'affari fra due o piccoli gruppi di persone, il cui scopo è quello di far visitare direttamente le aziende locali e di conoscere le controparti interessate, al fine di favorire il business tra i diversi paesi. Parliamo, ad esempio, di un colloquio istituzionale, riunioni o pranzi di lavoro, durante i quali l'interprete veicola informazioni di natura settoriale tramite scambi conversazionali brevi e senza presa d'appunti per agevolare una corretta negoziazione contrattuale.
+Text:
+Simile alla consecutiva esiste poi <strong>l’interpretariato di trattativa</strong>, vale a dire una modalità di interpretazione che si utilizza durante un incontro d'affari fra due o piccoli gruppi di persone, il cui scopo è quello di far visitare direttamente le aziende locali e di conoscere le controparti interessate, al fine di favorire il business tra i diversi paesi. Parliamo, ad esempio, di un colloquio istituzionale, riunioni o pranzi di lavoro, durante i quali l'interprete veicola informazioni di natura settoriale tramite scambi conversazionali brevi e senza presa d'appunti per agevolare una corretta negoziazione contrattuale.
 
 <br><br>
 
