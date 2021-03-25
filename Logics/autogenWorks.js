@@ -74,7 +74,7 @@ var DocuVale = [
     "content": [
         {
             "type": "end_preview",
-            "value": "Recentemente mi è stata offerta l’opportunità di seguire un seminario online con la <strong>Dottoressa Bruna Cammarano</strong>, interprete professionista che negli anni ha tradotto moltissimi incontri e conferenze stampe internazionali, lavorando con figure rilevanti come <strong>Bush, Obama, Trump, Elisabetta d'Inghilterra</strong> ecc... [...]"
+            "value": "Recentemente mi è stata offerta l’opportunità di seguire un seminario online con la <strong>Dottoressa Bruna Cammarano</strong>, interprete professionista che negli anni ha tradotto moltissimi incontri e conferenze stampe internazionali, lavorando con figure rilevanti come <em>Bush, Obama, Trump, Elisabetta d'Inghilterra</em> ecc... Il seminario che prevedeva la partecipazione di 5 incontri complessivi, è stato in grado di fornire una panoramica sul lavoro dell’interprete e del traduttore, andando poi ad affrontare nel particolare quelle che sono le tecniche a cui è solito ricorrere l’interprete. [...]"
         },
         {
             "type": "text",
