@@ -87,13 +87,12 @@ SlideShow:
 ./Foto/Interpretariato/7.png
 ./Foto/Interpretariato/8.png
 
-<br><br>
-
 Text:
+<br>
 Tuttavia, chiunque abbia frequentato un corso di interpretazione consecutiva ha ricevuto delle linee guida imprescindibili, a partire dalle quali si può impostare il proprio “alfabeto” di simboli. 
 La prima regola d’oro è quella di scrivere soggetto – verbo – complementi (in simboli, abbreviazioni o parole) in diagonale, da sinistra verso destra (vedi dimostrazione grafica qui accanto). In secondo luogo, per indicare che una frase è terminata, si tira una riga orizzontale per chiudere il periodo. <br>
 
-TextOnRight:
+ImageTextOnRight:
 ./Foto/Interpretariato/9.png
 Ad esempio, adottando questo (“) simbolo per il concetto di “parlare”: <br>
 In posizione di verbo, sta a significare l’azione del parlare. <br>

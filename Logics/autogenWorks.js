@@ -134,13 +134,16 @@ var DocuVale = [
             "value": [
                 "./Foto/Interpretariato/6.png",
                 "./Foto/Interpretariato/7.png",
-                "./Foto/Interpretariato/8.png",
-                "<br><br>"
+                "./Foto/Interpretariato/8.png"
             ]
         },
         {
             "type": "text",
-            "value": "Tuttavia, chiunque abbia frequentato un corso di interpretazione consecutiva ha ricevuto delle linee guida imprescindibili, a partire dalle quali si può impostare il proprio “alfabeto” di simboli. \nLa prima regola d’oro è quella di scrivere soggetto – verbo – complementi (in simboli, abbreviazioni o parole) in diagonale, da sinistra verso destra (vedi dimostrazione grafica qui accanto). In secondo luogo, per indicare che una frase è terminata, si tira una riga orizzontale per chiudere il periodo. <br>\nTextOnRight:\n./Foto/Interpretariato/9.png\nAd esempio, adottando questo (“) simbolo per il concetto di “parlare”: <br>\nIn posizione di verbo, sta a significare l’azione del parlare. <br>\nIn prima posizione vuol dire che il soggetto è un parlante/oratore (a seconda del registro che si adotta); <br>\nIn terza posizione magari si trasforma in avverbio, vale a dire il modo in cui si svolge un’azione."
+            "value": "<br>\nTuttavia, chiunque abbia frequentato un corso di interpretazione consecutiva ha ricevuto delle linee guida imprescindibili, a partire dalle quali si può impostare il proprio “alfabeto” di simboli. \nLa prima regola d’oro è quella di scrivere soggetto – verbo – complementi (in simboli, abbreviazioni o parole) in diagonale, da sinistra verso destra (vedi dimostrazione grafica qui accanto). In secondo luogo, per indicare che una frase è terminata, si tira una riga orizzontale per chiudere il periodo. <br>"
+        },
+        {
+            "type": "image_text_on_rigth",
+            "value": "./Foto/Interpretariato/9.png\nAd esempio, adottando questo (“) simbolo per il concetto di “parlare”: <br>\nIn posizione di verbo, sta a significare l’azione del parlare. <br>\nIn prima posizione vuol dire che il soggetto è un parlante/oratore (a seconda del registro che si adotta); <br>\nIn terza posizione magari si trasforma in avverbio, vale a dire il modo in cui si svolge un’azione."
         },
         {
             "type": "separator",
