@@ -20,7 +20,8 @@ Recentemente mi è stata offerta l’opportunità di seguire un seminario online
 SlideShow:
 ./Foto/Interpretariato/1.png
 ./Foto/Interpretariato/2.png
-
+./Foto/Interpretariato/10.png
+./Foto/Interpretariato/11.png
 
 Text:
 Il seminario che prevedeva la partecipazione di 5 incontri complessivi, è stato in grado di fornire una panoramica sul lavoro dell’interprete e del traduttore, andando poi ad affrontare nel particolare quelle che sono le tecniche a cui è solito ricorrere l’interprete. Per questo motivo oggi condividerò con voi la mia breve esperienza, riportando la relazione che ho elaborato al termine di questo percorso. Spero che le mie parole siano in grado di farvi da ponte con una realtà, spesso sottovalutata, che ricopre al meglio il mio ambito di studio.
@@ -32,24 +33,25 @@ Oggi, il mestiere di interprete viene spesso confuso con quello del traduttore. 
 
 <br><br>
 
-ImageTextOnRight:
-./Foto/Interpretariato/3.png
+Text:
 Fra le tecniche che attualmente sono le più richieste rientra la <strong>simultanea</strong>, nota anche come <strong>interpretariato di conferenza</strong>.  Questa tecnica comporta processi di ascolto, comprensione, interpretazione e resa istantanea delle dichiarazioni dell'oratore in un'altra lingua. Si tratta del tipo di interpretazione più frequentemente impiegato poiché i suoi vantaggi in termini di risparmio di tempo sono indiscutibili. La simultanea viene generalmente utilizzata (ma non esclusivamente) nelle conferenze nazionali e internazionali, situazioni in cui è presente un pubblico piuttosto vasto. <br>
 Gli interpreti siedono in una cabina di fronte a un microfono e ricevono il messaggio dell'oratore attraverso delle cuffie. I partecipanti possono sentire l'interprete tradurre nella loro lingua attraverso l'uso di ricevitori portatili sintonizzati su specifici "canali" linguistici. Tuttavia, l'interpretazione simultanea richiede squadre di due o più interpreti per lingua che lavorano a turno, dandosi il cambio a intervalli prestabiliti, per garantire che la fatica e lo stress derivanti da un intenso livello di concentrazione non influiscano sulle questioni di qualità e precisione.
 
 <br><br>
 
-ImageTextOnRight:
-./Foto/Interpretariato/4.png
+Text:
 Una variante della simultanea è lo <strong>chuchotage</strong> (dal francese “chuchoter”, cioè “sussurrare”). Si tratta di un tipo di interpretazione che prevede la traduzione del discorso originale ad una bassa tonalità di voce, direttamente all'orecchio di un gruppo ridotto di ascoltatori. Questa tecnica viene utilizzata spesso durante eventi pubblici, eventi privati, conferenze o dibatti, o ad ogni modo ambienti che prevedano tutti una buona acustica e un clima di tranquillità generale, risorsa necessaria per l‘interprete che viene sottoposto ad un livello di concentrazione piuttosto elevato.
 
 <br><br>
 
-ImageTextOnRight:
-./Foto/Interpretariato/5.png
+Text:
 In contesti dove non è necessario o non è possibile applicare la tecnica della simultanea, l'interprete opta per una mediazione in <strong>consecutiva</strong> sul palco accanto all’oratore, ascoltando un certo numero di frasi e dando poi la sua interpretazione nella lingua straniera di destinazione. Questo metodo di interpretazione funziona bene nelle riunioni in cui il tempo non è necessariamente essenziale. Tuttavia, specialmente quando l’oratore si dilunga su ciò che dice, la consecutiva richiede maggiore capacità da parte dell’interprete nel mantenere alta l’attenzione del pubblico, utilizzando tecniche di persuasione attraverso la tonalità di voce, ritmo e intensità (pur rimanendo fedele al discorso originale). <br>
 (In foto l'incontro tra Barack Obama e Mahmoud Abbas alla Casa Bianca, maggio 2009, avviene con l'ausilio di un interprete che prende appunti interpretando poi in modalità consecutiva.)
 
+SlideShow:
+./Foto/Interpretariato/3.png
+./Foto/Interpretariato/4.png
+./Foto/Interpretariato/5.png
 
 Text:
 <br>
@@ -87,18 +89,25 @@ SlideShow:
 
 <br><br>
 
-ImageTextOnRight:
-./Foto/Interpretariato/9.pngTuttavia, chiunque abbia frequentato un corso di interpretazione consecutiva ha ricevuto delle linee guida imprescindibili, a partire dalle quali si può impostare il proprio “alfabeto” di simboli. 
+Text:
+Tuttavia, chiunque abbia frequentato un corso di interpretazione consecutiva ha ricevuto delle linee guida imprescindibili, a partire dalle quali si può impostare il proprio “alfabeto” di simboli. 
 La prima regola d’oro è quella di scrivere soggetto – verbo – complementi (in simboli, abbreviazioni o parole) in diagonale, da sinistra verso destra (vedi dimostrazione grafica qui accanto). In secondo luogo, per indicare che una frase è terminata, si tira una riga orizzontale per chiudere il periodo. <br>
+
+TextOnRight:
+./Foto/Interpretariato/9.png
 Ad esempio, adottando questo (“) simbolo per il concetto di “parlare”: <br>
 In posizione di verbo, sta a significare l’azione del parlare. <br>
 In prima posizione vuol dire che il soggetto è un parlante/oratore (a seconda del registro che si adotta); <br>
 In terza posizione magari si trasforma in avverbio, vale a dire il modo in cui si svolge un’azione.
 
 Separator:
+
+
 Text: 
 <br>
 In realtà, ciò che concerne il primo punto è strettamente legato al secondo, in quanto la presa d’appunti è il miglior alleato di ciò che si trova alla base del lavoro di interprete: la capacità mnemonica. Di fatto, la memoria, che si sviluppa nel tempo tramite la lettura e lo studio costante, è l’essenza del quadro, mentre gli appunti sono il mezzo che permette di non affaticarla. In effetti, se si pensa che lingua parlata richiede meno tempo rispetto la scritta, è davvero improbabile che un interprete riesca a prendere esattamente tutto ciò che viene detto dall’oratore. Questo è il motivo per cui quest’abilità gioca un ruolo incomparabile. Tuttavia, la memoria può essere in alcuni casi fallace.
+
+<br><br>
 
 La Dottoressa Cammarano ha riportato diversi avvenimenti che le sono capitati al riguardo: quando ci si accorge di aver saltato una frase o di non riuscire a dare un senso al simbolo utilizzato, consiglia di andare avanti, innanzitutto, per non mostrarsi insicuri e in secondo luogo per dare il tempo necessario alla memoria di ricostruire un’immagine del dato mancante tramite magari anche le informazione successive; non viene ritenuto affatto poco professionale ammettere di aver omesso una parte del discorso se si riesce a integrarla successivamente, e questa è sicuramente una strategia che viene apprezzata dal cliente o dal pubblico.  <br>
 Talvolta, invece, può capitare che non si capisca una parola pronunciata dall’oratore, in quel caso con gentilezza si può chiedere di farsela ripetere, solitamente quando l’oratore smette di parlare così da non ostacolare il filo logico del discorso. 
