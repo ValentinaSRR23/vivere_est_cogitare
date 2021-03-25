@@ -113,7 +113,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Durante il seminario la Dottoressa Cammarano ha avuto modo di presentare quelli che ritiene siano i tre strumenti principali di un interprete durante una consecutiva: <strong>la presa d’appunti, la memoria e la cultura generale.<strong>\n<br><br>"
+            "value": "Durante il seminario la Dottoressa Cammarano ha avuto modo di presentare quelli che ritiene siano i tre strumenti principali di un interprete durante una consecutiva: <strong>la presa d’appunti, la memoria e la cultura generale.</strong>\n<br><br>"
         },
         {
             "type": "image_text_on_rigth",
