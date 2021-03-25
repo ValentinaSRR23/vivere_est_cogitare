@@ -18,9 +18,9 @@ Text:
 Recentemente mi è stata offerta l’opportunità di seguire un seminario online con la <strong>Dottoressa Bruna Cammarano</strong>, interprete professionista che negli anni ha tradotto moltissimi incontri e conferenze stampe internazionali, lavorando con figure rilevanti come <strong>Bush, Obama, Trump, Elisabetta d'Inghilterra</strong> ecc...
 
 ImageInline:
-1.png
+./Foto/Interpretariato/1.png
 
-2.png
+./Foto/Interpretariato/2.png
 
 
 Text:
@@ -32,24 +32,24 @@ Oggi, il mestiere di interprete viene spesso confuso con quello del traduttore. 
 
 <br><br>
 
-Fra le tecniche che attualmente sono le più richieste rientra la <strong>simultanea<strong>, nota anche come <strong>interpretariato di conferenza<strong>.  Questa tecnica comporta processi di ascolto, comprensione, interpretazione e resa istantanea delle dichiarazioni dell'oratore in un'altra lingua. Si tratta del tipo di interpretazione più frequentemente impiegato poiché i suoi vantaggi in termini di risparmio di tempo sono indiscutibili. La simultanea viene generalmente utilizzata (ma non esclusivamente) nelle conferenze nazionali e internazionali, situazioni in cui è presente un pubblico piuttosto vasto. 
-<br>
+Fra le tecniche che attualmente sono le più richieste rientra la <strong>simultanea</strong>, nota anche come <strong>interpretariato di conferenza<strong>.  Questa tecnica comporta processi di ascolto, comprensione, interpretazione e resa istantanea delle dichiarazioni dell'oratore in un'altra lingua. Si tratta del tipo di interpretazione più frequentemente impiegato poiché i suoi vantaggi in termini di risparmio di tempo sono indiscutibili. La simultanea viene generalmente utilizzata (ma non esclusivamente) nelle conferenze nazionali e internazionali, situazioni in cui è presente un pubblico piuttosto vasto. 
+<br><br>
 
 ImageTextOnRight:
-3.png
+./Foto/Interpretariato/3.png
 Gli interpreti siedono in una cabina di fronte a un microfono e ricevono il messaggio dell'oratore attraverso delle cuffie. I partecipanti possono sentire l'interprete tradurre nella loro lingua attraverso l'uso di ricevitori portatili sintonizzati su specifici "canali" linguistici. Tuttavia, l'interpretazione simultanea richiede squadre di due o più interpreti per lingua che lavorano a turno, dandosi il cambio a intervalli prestabiliti, per garantire che la fatica e lo stress derivanti da un intenso livello di concentrazione non influiscano sulle questioni di qualità e precisione.
 
 <br><br>
 
 ImageTextOnRight:
-4.png
+./Foto/Interpretariato/4.png
 Una variante della simultanea è lo chuchotage (dal francese “chuchoter”, cioè “sussurrare”). Si tratta di un tipo di interpretazione che prevede la traduzione del discorso originale ad una bassa tonalità di voce, direttamente all'orecchio di un gruppo ridotto di ascoltatori. Questa tecnica viene utilizzata spesso durante eventi pubblici, eventi privati, conferenze o dibatti, o ad ogni modo ambienti che prevedano tutti una buona acustica e un clima di tranquillità generale, risorsa necessaria per l‘interprete che viene sottoposto ad un livello di concentrazione piuttosto elevato.
 
 <br><br>
 
 
 ImageTextOnRight:
-5.png
+./Foto/Interpretariato/5.png
 In contesti dove non è necessario o non è possibile applicare la tecnica della simultanea, l'interprete opta per una mediazione in <strong>consecutiva<strong> sul palco accanto all’oratore, ascoltando un certo numero di frasi e dando poi la sua interpretazione nella lingua straniera di destinazione. Questo metodo di interpretazione funziona bene nelle riunioni in cui il tempo non è necessariamente essenziale. Tuttavia, specialmente quando l’oratore si dilunga su ciò che dice, la consecutiva richiede maggiore capacità da parte dell’interprete nel mantenere alta l’attenzione del pubblico, utilizzando tecniche di persuasione attraverso la tonalità di voce, ritmo e intensità (pur rimanendo fedele al discorso originale). <br>
 (In foto l'incontro tra Barack Obama e Mahmoud Abbas alla Casa Bianca, maggio 2009, avviene con l'ausilio di un interprete che prende appunti interpretando poi in modalità consecutiva.)
 
@@ -72,21 +72,21 @@ Durante il seminario la Dottoressa Cammarano ha avuto modo di presentare quelli 
 
 
 ImageTextOnRight:
-6.png
+./Foto/Interpretariato/6.png
 Per quanto riguarda il primo punto, è indispensabile la presenza di un blocco, preferibilmente a spirale alta, e di più penne per ogni eventualità. In questo caso, può costituire un elemento di agevolazione ricorrere alla tecnica della diagonalizzazione durante la presa d’appunti, vale a dire abbandonare la scrittura lineare abituale con tanto di punteggiatura e inserire le informazioni del discorso procedendo in maniera diagonale sul foglio, dividendo i periodi con una linea orizzontale. 
 
 <br><br>
 
 
 ImageTextOnRight:
-7.png
+./Foto/Interpretariato/7.png
 Molto spesso, o quasi sempre, vengono utilizzati dei simboli personali che alludono a parole o concetti in modo tale da riuscire a captare le diverse informazioni; solitamente, nomi, acronimi, date o cifre vengono sempre segnate. 
 
 <br><br>
 
 
 ImageTextOnRight:
-8.png
+./Foto/Interpretariato/8.png
 Questa tecnica facilita fortemente il lavoro dell’interprete, che si ritrova ad usufruire convenzionalmente di frecce, nel momento in cui un dato viene riportato più volte, risparmiando quindi spazio e tempo.
 
 <br><br>
@@ -99,7 +99,7 @@ Tuttavia, chiunque abbia frequentato un corso di interpretazione consecutiva ha 
 
 
 ImageTextOnRight:
-9.png
+./Foto/Interpretariato/9.png
 Ad esempio, adottando questo (“) simbolo per il concetto di “parlare”: <br>
 In posizione di verbo, sta a significare l’azione del parlare. <br>
 In prima posizione vuol dire che il soggetto è un parlante/oratore (a seconda del registro che si adotta); <br>
@@ -143,21 +143,3 @@ In conclusione, vorrei utilizzare queste ultime righe per ringraziare la Dottore
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-ImageInline:
-./Foto/Vivere est cogitare/1.png
- 
-./Foto/Vivere est cogitare/2.png
- 
-./Foto/Vivere est cogitare/3.png
- 
