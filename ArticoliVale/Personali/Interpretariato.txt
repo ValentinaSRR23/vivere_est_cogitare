@@ -82,24 +82,13 @@ Molto spesso, o quasi sempre, vengono utilizzati dei simboli personali che allud
 Questa tecnica facilita fortemente il lavoro dell’interprete, che si ritrova ad usufruire convenzionalmente di frecce, nel momento in cui un dato viene riportato più volte, risparmiando quindi spazio e tempo.
 
 <br>
-Ognuno sviluppa la presa di appunti in modo personale; spetta al singolo professionista decidere come impostare la pagina su cui prende appunti e quali simboli adottare, in base a quale simbolo risulta più evocativo, quale formato di carta preferisce, dove decide di posizionare i connettori logici (che sono fondamentali per ricostruire il discorso e i suoi passaggi logici) e così via.
+Ognuno sviluppa la presa di appunti in modo personale; spetta al singolo professionista decidere come impostare la pagina su cui prende appunti e quali simboli adottare, in base a quale simbolo risulta più evocativo, quale formato di carta preferisce, dove decide di posizionare i connettori logici (che sono fondamentali per ricostruire il discorso e i suoi passaggi logici) e così via.<br>
+Tuttavia, chiunque abbia frequentato un corso di interpretazione consecutiva ha ricevuto delle linee guida imprescindibili, a partire dalle quali si può impostare il proprio “alfabeto” di simboli. 
 
 SlideShow:
 ./Foto/Interpretariato/6.png
 ./Foto/Interpretariato/7.png
 ./Foto/Interpretariato/8.png
-
-Text:
-<br>
-Tuttavia, chiunque abbia frequentato un corso di interpretazione consecutiva ha ricevuto delle linee guida imprescindibili, a partire dalle quali si può impostare il proprio “alfabeto” di simboli. 
-La prima regola d’oro è quella di scrivere soggetto – verbo – complementi (in simboli, abbreviazioni o parole) in diagonale, da sinistra verso destra (vedi dimostrazione grafica qui accanto). In secondo luogo, per indicare che una frase è terminata, si tira una riga orizzontale per chiudere il periodo. <br>
-
-ImageTextOnRight:
-./Foto/Interpretariato/9.png
-Ad esempio, adottando questo (“) simbolo per il concetto di “parlare”: <br>
-In posizione di verbo, sta a significare l’azione del parlare. <br>
-In prima posizione vuol dire che il soggetto è un parlante/oratore (a seconda del registro che si adotta); <br>
-In terza posizione magari si trasforma in avverbio, vale a dire il modo in cui si svolge un’azione.
 
 Text: 
 <br>
