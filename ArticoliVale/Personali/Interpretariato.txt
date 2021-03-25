@@ -85,9 +85,11 @@ Questa tecnica facilita fortemente il lavoro dell’interprete, che si ritrova a
 Ognuno sviluppa la presa di appunti in modo personale; spetta al singolo professionista decidere come impostare la pagina su cui prende appunti e quali simboli adottare, in base a quale simbolo risulta più evocativo, quale formato di carta preferisce, dove decide di posizionare i connettori logici (che sono fondamentali per ricostruire il discorso e i suoi passaggi logici) e così via.<br>
 Tuttavia, chiunque abbia frequentato un corso di interpretazione consecutiva ha ricevuto delle linee guida imprescindibili, a partire dalle quali si può impostare il proprio “alfabeto” di simboli. 
 
-SlideShow:
+ImageInline:
 ./Foto/Interpretariato/6.png
+
 ./Foto/Interpretariato/7.png
+
 ./Foto/Interpretariato/8.png
 
 
