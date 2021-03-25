@@ -113,19 +113,15 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Durante il seminario la Dottoressa Cammarano ha avuto modo di presentare quelli che ritiene siano i tre strumenti principali di un interprete durante una consecutiva: <strong>la presa d’appunti, la memoria e la cultura generale.</strong>\n<br><br>"
+            "value": "Durante il seminario la Dottoressa Cammarano ha avuto modo di presentare quelli che ritiene siano i tre strumenti principali di un interprete durante una consecutiva: <strong>la presa d’appunti, la memoria e la cultura generale.</strong>\n<br><br>\nPer quanto riguarda il primo punto, è indispensabile la presenza di un blocco, preferibilmente a spirale alta, e di più penne per ogni eventualità. In questo caso, può costituire un elemento di agevolazione ricorrere alla tecnica della diagonalizzazione durante la presa d’appunti, vale a dire abbandonare la scrittura lineare abituale con tanto di punteggiatura e inserire le informazioni del discorso procedendo in maniera diagonale sul foglio, dividendo i periodi con una linea orizzontale. \n<br>\nMolto spesso, o quasi sempre, vengono utilizzati dei simboli personali che alludono a parole o concetti in modo tale da riuscire a captare le diverse informazioni; solitamente, nomi, acronimi, date o cifre vengono sempre segnate. \n<br>\nQuesta tecnica facilita fortemente il lavoro dell’interprete, che si ritrova ad usufruire convenzionalmente di frecce, nel momento in cui un dato viene riportato più volte, risparmiando quindi spazio e tempo."
         },
         {
-            "type": "image_text_on_rigth",
-            "value": "./Foto/Interpretariato/6.png\nPer quanto riguarda il primo punto, è indispensabile la presenza di un blocco, preferibilmente a spirale alta, e di più penne per ogni eventualità. In questo caso, può costituire un elemento di agevolazione ricorrere alla tecnica della diagonalizzazione durante la presa d’appunti, vale a dire abbandonare la scrittura lineare abituale con tanto di punteggiatura e inserire le informazioni del discorso procedendo in maniera diagonale sul foglio, dividendo i periodi con una linea orizzontale."
-        },
-        {
-            "type": "image_text_on_rigth",
-            "value": "./Foto/Interpretariato/7.png\nMolto spesso, o quasi sempre, vengono utilizzati dei simboli personali che alludono a parole o concetti in modo tale da riuscire a captare le diverse informazioni; solitamente, nomi, acronimi, date o cifre vengono sempre segnate."
-        },
-        {
-            "type": "image_text_on_rigth",
-            "value": "./Foto/Interpretariato/8.png\nQuesta tecnica facilita fortemente il lavoro dell’interprete, che si ritrova ad usufruire convenzionalmente di frecce, nel momento in cui un dato viene riportato più volte, risparmiando quindi spazio e tempo."
+            "type": "image_slide",
+            "value": [
+                "./Foto/Interpretariato/6.png",
+                "./Foto/Interpretariato/7.png",
+                "./Foto/Interpretariato/8.png"
+            ]
         },
         {
             "type": "text",
