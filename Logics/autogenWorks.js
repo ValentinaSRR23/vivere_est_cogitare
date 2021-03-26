@@ -107,7 +107,7 @@ var DocuVale = [
         },
         {
             "type": "image_text_on_rigth",
-            "value": "./Foto/Interpretariato/12.png\nSimile alla consecutiva esiste poi <strong>l’interpretariato di trattativa</strong>, vale a dire una modalità di interpretazione che si utilizza durante un incontro d'affari fra due o piccoli gruppi di persone, il cui scopo è quello di far visitare direttamente le aziende locali e di conoscere le controparti interessate, al fine di favorire il business tra i diversi paesi. Parliamo, ad esempio, di un colloquio istituzionale, riunioni o pranzi di lavoro, durante i quali l'interprete veicola informazioni di natura settoriale tramite scambi conversazionali brevi e senza presa d'appunti per agevolare una corretta negoziazione contrattuale."
+            "value": "./Foto/Interpretariato/12.png\nSimile alla consecutiva esiste poi l’<strong>interpretariato di trattativa</strong>, vale a dire una modalità di interpretazione che si utilizza durante un incontro d'affari fra due o piccoli gruppi di persone, il cui scopo è quello di far visitare direttamente le aziende locali e di conoscere le controparti interessate, al fine di favorire il business tra i diversi paesi. Parliamo, ad esempio, di un colloquio istituzionale, riunioni o pranzi di lavoro, durante i quali l'interprete veicola informazioni di natura settoriale tramite scambi conversazionali brevi e senza presa d'appunti per agevolare una corretta negoziazione contrattuale."
         },
         {
             "type": "image_text_on_rigth",
