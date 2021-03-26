@@ -51,14 +51,14 @@ ImageTextOnRight:
 In contesti dove non è necessario o non è possibile applicare la tecnica della simultanea, l'interprete opta per una mediazione in <strong>consecutiva</strong> sul palco accanto all’oratore, ascoltando un certo numero di frasi e dando poi la sua interpretazione nella lingua straniera di destinazione. Questo metodo di interpretazione funziona bene nelle riunioni in cui il tempo non è necessariamente essenziale. Tuttavia, specialmente quando l’oratore si dilunga su ciò che dice, la consecutiva richiede maggiore capacità da parte dell’interprete nel mantenere alta l’attenzione del pubblico, utilizzando tecniche di persuasione attraverso la tonalità di voce, ritmo e intensità (pur rimanendo fedele al discorso originale). <br>
 (In foto l'incontro tra Barack Obama e Mahmoud Abbas alla Casa Bianca, maggio 2009, avviene con l'ausilio di un interprete che prende appunti interpretando poi in modalità consecutiva.)
 
-
-Text:
-<br>
+ImageTextOnRight:
+.Foto/Interpretariato/12.png
 Simile alla consecutiva esiste poi <strong>l’interpretariato di trattativa</strong>, vale a dire una modalità di interpretazione che si utilizza durante un incontro d'affari fra due o piccoli gruppi di persone, il cui scopo è quello di far visitare direttamente le aziende locali e di conoscere le controparti interessate, al fine di favorire il business tra i diversi paesi. Parliamo, ad esempio, di un colloquio istituzionale, riunioni o pranzi di lavoro, durante i quali l'interprete veicola informazioni di natura settoriale tramite scambi conversazionali brevi e senza presa d'appunti per agevolare una corretta negoziazione contrattuale.
 
 <br><br>
 
-Text:
+ImageTextOnRight:
+.Foto/Interpretariato/13.png
 Un'altra forma di interpretazione consecutiva è utilizzata nel settore della comunità. Un <strong>“interprete di comunità”</strong>, appunto, è responsabile dell'assistenza all'interno di una varietà di settori tra cui la sanità, la giustizia, il diritto, l'istruzione e i servizi umani, per citarne alcuni. Le modalità di interpretariato possono essere sul posto, al telefono o tramite collegamento in videoconferenza, specialmente in questo periodo in cui si è impossibilitati a riunirsi sul posto, sebbene ciò privi l’interprete di uno degli aspetti gratificanti del mestiere, ossia il contatto umano e le piacevoli relazioni che si instaurano durante una collaborazione.
 
 <br>
