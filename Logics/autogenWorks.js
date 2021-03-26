@@ -159,7 +159,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<br>\nE voi che ne pensate di questo lavoro? <br>\nEravate a conoscenza dei segreti di un interprete? <br>\nVi ha affascinato addentrarvi questo mondo?\n<br><br>\nIn caso abbiate dubbi o curiosità fatemelo sapere lasciando un commento, sarò lieta di rispondervi e fornirvi ulteriori informazioni :)"
+            "value": "<br>\nE voi che ne pensate di questo lavoro? <br>\nEravate a conoscenza dei segreti di un interprete? <br>\nVi ha affascinato addentrarvi questo mondo?\n<br><br>\nIn caso abbiate dubbi o curiosità fatemelo sapere lasciando un commento. Sarò lieta di rispondervi e fornirvi ulteriori informazioni :)"
         }
     ],
     "date": "05/03/2021",
