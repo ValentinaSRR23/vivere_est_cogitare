@@ -367,7 +367,7 @@ var DocuVale = [
         },
         {
             "type": "end_preview",
-            "value": "Fra i numerosi atti emanati dal neo Presidente degli Stati Uniti d’America Joe Biden, \nvari riguardano il sostegno della comunità LGBT. In particolare, oggi mi piacerebbe \naffrontare una questione che ha a che vedere con l’ordine esecutivo che stabilisce che \nun caso giudiziario sui <strong>diritti dei transgender</strong> [...]"
+            "value": "Fra i numerosi atti emanati dal neo Presidente degli Stati Uniti d’America Joe Biden, \nvari riguardano il sostegno della comunità LGBT. In particolare, oggi mi piacerebbe \naffrontare una questione che ha a che vedere con l’ordine esecutivo che stabilisce che \nun caso giudiziario sui diritti dei transgender [...]"
         },
         {
             "type": "text",

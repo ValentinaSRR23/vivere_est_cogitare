@@ -352,7 +352,7 @@ border.style.marginBottom="-2em";
   info_1.appendChild(getNodeAndSetClick("div", "Maggiori informazioni su di me", "home_page_info_link", "setNavigation('info')"));
 
   info_2.appendChild(getNode("div",'Spazio per voi', "home_page_info_title"));
-  info_2.appendChild(getNode("div", "Dubbi, cursiosità o suggerimenti sono ben accetti. <br>Chiunque voglia condividere la sua opinione può cliccare sul link qui sotto:", "home_page_info_text"));
+  info_2.appendChild(getNode("div", "Dubbi, curiosità o suggerimenti sono ben accetti. <br>Chiunque voglia condividere la sua opinione può cliccare sul link qui sotto:", "home_page_info_text"));
   info_2.appendChild(getNodeAndSetClick("div", "Lascia un commento", "home_page_info_link", "setNavigation('comments')"));
 
 
