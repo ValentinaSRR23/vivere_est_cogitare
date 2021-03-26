@@ -62,27 +62,21 @@ Separator:
 Text:
 Durante il seminario la Dottoressa Cammarano ha avuto modo di presentare quelli che ritiene siano i tre strumenti principali di un interprete durante una consecutiva: <strong>la presa d’appunti, la memoria e la cultura generale.</strong>
 
-<br><br>
-
 ImageTextOnRight:
 ./Foto/Interpretariato/6.png
-Per quanto riguarda il primo punto, è indispensabile la presenza di un blocco, preferibilmente a spirale alta, e di più penne per ogni eventualità. In questo caso, può costituire un elemento di agevolazione ricorrere alla tecnica della <strong>diagonalizzazione</strong> durante la presa d’appunti, vale a dire abbandonare la scrittura lineare abituale con tanto di punteggiatura e inserire le informazioni del discorso procedendo in maniera diagonale sul foglio, dividendo i periodi con una linea orizzontale. <br> 
-
-<br><br>
+Per quanto riguarda il primo punto, è indispensabile la presenza di un blocco, preferibilmente a spirale alta, e di più penne per ogni eventualità. In questo caso, può costituire un elemento di agevolazione ricorrere alla tecnica della <strong>diagonalizzazione</strong> durante la presa d’appunti, vale a dire abbandonare la scrittura lineare abituale con tanto di punteggiatura e inserire le informazioni del discorso procedendo in maniera diagonale sul foglio, dividendo i periodi con una linea orizzontale.
 
 ImageTextOnRight:
 ./Foto/Interpretariato/8.png
-Molto spesso, o quasi sempre, vengono utilizzati dei simboli personali che alludono a parole o concetti in modo tale da riuscire a captare le diverse informazioni; solitamente, nomi, acronimi, date o cifre vengono sempre segnate. <br>
+Molto spesso, o quasi sempre, vengono utilizzati dei simboli personali che alludono a parole o concetti in modo tale da riuscire a captare le diverse informazioni; solitamente, nomi, acronimi, date o cifre vengono sempre segnate. <br><br>
 Questa tecnica facilita fortemente il lavoro dell’interprete, che si ritrova ad usufruire convenzionalmente di frecce, nel momento in cui un dato viene riportato più volte, risparmiando quindi spazio e tempo.
-
-<br>
 
 ImageTextOnRight:
 ./Foto/Interpretariato/7.png
-Ognuno sviluppa la presa di appunti in modo personale; spetta al singolo professionista decidere come impostare la pagina su cui prende appunti e quali simboli adottare, in base a quale simbolo risulta più evocativo, quale formato di carta preferisce, dove decide di posizionare i connettori logici (che sono fondamentali per ricostruire il discorso e i suoi passaggi logici) e così via.<br>
-Tuttavia, chiunque abbia frequentato un corso di interpretazione consecutiva ha ricevuto delle linee guida imprescindibili, a partire dalle quali si può impostare il proprio “alfabeto” di simboli. 
+Ognuno sviluppa la presa di appunti in modo personale; spetta al singolo professionista decidere come impostare la pagina su cui prende appunti e quali simboli adottare, in base a quale simbolo risulta più evocativo, quale formato di carta preferisce, dove decide di posizionare i connettori logici (che sono fondamentali per ricostruire il discorso e i suoi passaggi logici) e così via. Tuttavia, chiunque abbia frequentato un corso di interpretazione consecutiva ha ricevuto delle linee guida imprescindibili, a partire dalle quali si può impostare il proprio “alfabeto” di simboli. 
 
 Text:
+<br><br>
 In realtà, ciò che concerne il primo punto è strettamente legato al secondo, in quanto la presa d’appunti è il miglior alleato di ciò che si trova alla base del lavoro di interprete: la capacità mnemonica. Di fatto, la memoria, che si sviluppa nel tempo tramite la lettura e lo studio costante, è l’essenza del quadro, mentre gli appunti sono il mezzo che permette di non affaticarla. In effetti, se si pensa che lingua parlata richiede meno tempo rispetto la scritta, è davvero improbabile che un interprete riesca a prendere esattamente tutto ciò che viene detto dall’oratore. Questo è il motivo per cui quest’abilità gioca un ruolo incomparabile. Però, è bene ricordare che la memoria in alcuni casi può essere fallace.
 
 <br><br>
