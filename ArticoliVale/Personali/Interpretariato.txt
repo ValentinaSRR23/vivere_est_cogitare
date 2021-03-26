@@ -55,11 +55,8 @@ ImageTextOnRight:
 ./Foto/Interpretariato/13.png
 Un'altra forma di interpretazione consecutiva è utilizzata nel settore della comunità. Un <strong>“interprete di comunità”</strong>, appunto, è responsabile dell'assistenza all'interno di una varietà di settori tra cui la sanità, la giustizia, il diritto, l'istruzione e i servizi umani, per citarne alcuni. Le modalità di interpretariato possono essere sul posto, al telefono o tramite collegamento in videoconferenza, specialmente in questo periodo in cui si è impossibilitati a riunirsi sul posto, sebbene ciò privi l’interprete di uno degli aspetti gratificanti del mestiere, ossia il contatto umano e le piacevoli relazioni che si instaurano durante una collaborazione.
 
-<br>
-Separator:
-<br>
-
 Text:
+<br><br>
 Durante il seminario la Dottoressa Cammarano ha avuto modo di presentare quelli che ritiene siano i tre strumenti principali di un interprete durante una consecutiva: <strong>la presa d’appunti, la memoria e la cultura generale.</strong>
 
 ImageTextOnRight:

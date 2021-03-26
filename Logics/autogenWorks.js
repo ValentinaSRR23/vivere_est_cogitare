@@ -111,15 +111,11 @@ var DocuVale = [
         },
         {
             "type": "image_text_on_rigth",
-            "value": "./Foto/Interpretariato/13.png\nUn'altra forma di interpretazione consecutiva è utilizzata nel settore della comunità. Un <strong>“interprete di comunità”</strong>, appunto, è responsabile dell'assistenza all'interno di una varietà di settori tra cui la sanità, la giustizia, il diritto, l'istruzione e i servizi umani, per citarne alcuni. Le modalità di interpretariato possono essere sul posto, al telefono o tramite collegamento in videoconferenza, specialmente in questo periodo in cui si è impossibilitati a riunirsi sul posto, sebbene ciò privi l’interprete di uno degli aspetti gratificanti del mestiere, ossia il contatto umano e le piacevoli relazioni che si instaurano durante una collaborazione.\n<br>"
-        },
-        {
-            "type": "separator",
-            "value": "<br>"
+            "value": "./Foto/Interpretariato/13.png\nUn'altra forma di interpretazione consecutiva è utilizzata nel settore della comunità. Un <strong>“interprete di comunità”</strong>, appunto, è responsabile dell'assistenza all'interno di una varietà di settori tra cui la sanità, la giustizia, il diritto, l'istruzione e i servizi umani, per citarne alcuni. Le modalità di interpretariato possono essere sul posto, al telefono o tramite collegamento in videoconferenza, specialmente in questo periodo in cui si è impossibilitati a riunirsi sul posto, sebbene ciò privi l’interprete di uno degli aspetti gratificanti del mestiere, ossia il contatto umano e le piacevoli relazioni che si instaurano durante una collaborazione."
         },
         {
             "type": "text",
-            "value": "Durante il seminario la Dottoressa Cammarano ha avuto modo di presentare quelli che ritiene siano i tre strumenti principali di un interprete durante una consecutiva: <strong>la presa d’appunti, la memoria e la cultura generale.</strong>"
+            "value": "<br><br>\nDurante il seminario la Dottoressa Cammarano ha avuto modo di presentare quelli che ritiene siano i tre strumenti principali di un interprete durante una consecutiva: <strong>la presa d’appunti, la memoria e la cultura generale.</strong>"
         },
         {
             "type": "image_text_on_rigth",
