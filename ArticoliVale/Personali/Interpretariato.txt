@@ -47,7 +47,7 @@ Una variante della simultanea è lo <strong>chuchotage</strong> (dal francese �
 <br><br>
 
 ImageTextOnRight:
-./Foto/Interpretariato/4.png
+./Foto/Interpretariato/5.png
 In contesti dove non è necessario o non è possibile applicare la tecnica della simultanea, l'interprete opta per una mediazione in <strong>consecutiva</strong> sul palco accanto all’oratore, ascoltando un certo numero di frasi e dando poi la sua interpretazione nella lingua straniera di destinazione. Questo metodo di interpretazione funziona bene nelle riunioni in cui il tempo non è necessariamente essenziale. Tuttavia, specialmente quando l’oratore si dilunga su ciò che dice, la consecutiva richiede maggiore capacità da parte dell’interprete nel mantenere alta l’attenzione del pubblico, utilizzando tecniche di persuasione attraverso la tonalità di voce, ritmo e intensità (pur rimanendo fedele al discorso originale). <br>
 (In foto l'incontro tra Barack Obama e Mahmoud Abbas alla Casa Bianca, maggio 2009, avviene con l'ausilio di un interprete che prende appunti interpretando poi in modalità consecutiva.)
 
@@ -70,20 +70,25 @@ Durante il seminario la Dottoressa Cammarano ha avuto modo di presentare quelli 
 
 <br><br>
 
-Per quanto riguarda il primo punto, è indispensabile la presenza di un blocco, preferibilmente a spirale alta, e di più penne per ogni eventualità. In questo caso, può costituire un elemento di agevolazione ricorrere alla tecnica della <strong>diagonalizzazione</strong> durante la presa d’appunti, vale a dire abbandonare la scrittura lineare abituale con tanto di punteggiatura e inserire le informazioni del discorso procedendo in maniera diagonale sul foglio, dividendo i periodi con una linea orizzontale. 
-
-<br>
-
-Molto spesso, o quasi sempre, vengono utilizzati dei simboli personali che alludono a parole o concetti in modo tale da riuscire a captare le diverse informazioni; solitamente, nomi, acronimi, date o cifre vengono sempre segnate. 
+ImageTextOnRight:
+.Foto/Interpretariato/6.png
+Per quanto riguarda il primo punto, è indispensabile la presenza di un blocco, preferibilmente a spirale alta, e di più penne per ogni eventualità. In questo caso, può costituire un elemento di agevolazione ricorrere alla tecnica della <strong>diagonalizzazione</strong> durante la presa d’appunti, vale a dire abbandonare la scrittura lineare abituale con tanto di punteggiatura e inserire le informazioni del discorso procedendo in maniera diagonale sul foglio, dividendo i periodi con una linea orizzontale. <br> 
 
 <br><br>
 
+ImageTextOnRight:
+.Foto/Interpretariato/8.png
+Molto spesso, o quasi sempre, vengono utilizzati dei simboli personali che alludono a parole o concetti in modo tale da riuscire a captare le diverse informazioni; solitamente, nomi, acronimi, date o cifre vengono sempre segnate. <br>
 Questa tecnica facilita fortemente il lavoro dell’interprete, che si ritrova ad usufruire convenzionalmente di frecce, nel momento in cui un dato viene riportato più volte, risparmiando quindi spazio e tempo.
 
 <br>
+
+ImageTextOnRight:
+.Foto/Interpretariato/7.png
 Ognuno sviluppa la presa di appunti in modo personale; spetta al singolo professionista decidere come impostare la pagina su cui prende appunti e quali simboli adottare, in base a quale simbolo risulta più evocativo, quale formato di carta preferisce, dove decide di posizionare i connettori logici (che sono fondamentali per ricostruire il discorso e i suoi passaggi logici) e così via.<br>
 Tuttavia, chiunque abbia frequentato un corso di interpretazione consecutiva ha ricevuto delle linee guida imprescindibili, a partire dalle quali si può impostare il proprio “alfabeto” di simboli. 
-<br>
+
+Text:
 In realtà, ciò che concerne il primo punto è strettamente legato al secondo, in quanto la presa d’appunti è il miglior alleato di ciò che si trova alla base del lavoro di interprete: la capacità mnemonica. Di fatto, la memoria, che si sviluppa nel tempo tramite la lettura e lo studio costante, è l’essenza del quadro, mentre gli appunti sono il mezzo che permette di non affaticarla. In effetti, se si pensa che lingua parlata richiede meno tempo rispetto la scritta, è davvero improbabile che un interprete riesca a prendere esattamente tutto ciò che viene detto dall’oratore. Questo è il motivo per cui quest’abilità gioca un ruolo incomparabile. Però, è bene ricordare che la memoria in alcuni casi può essere fallace.
 
 <br><br>
@@ -114,6 +119,7 @@ Ultime accortezze sempre pertinenti all’ambito deontologico, concernono il <st
 
 Separator:
 
+Text:
 Quello di interprete è un lavoro che richiede impegno e serietà ed è per questo che ancora oggi continua ad affascinare molte persone e adescarne altrettante che decidono di farne la propria carriera. Tutto ciò avviene nonostante il continuo progresso tecnologico che da diversi anni a questa parte ha compiuto dei veri e propri passi da gigante, divenendo spesso il terrore di queste figure che temono di vedere gli sforzi di una vita rimpiazzati improvvisamente da una macchina. Tuttavia, è rilevante evidenziare che, sebbene le traduzioni automatiche di un testo impegnativo avente una logica strutturata siano diventate piuttosto efficienti, la lingua, che è in continuo cambiamento, non ha criteri esplicitamente delineati e preimpostati, in quanto rimane in qualche modo fluida. Si potrebbe dire, perciò, che la lingua ha un tocco personale e che indubbiamente racchiuda una miriade di sfaccettature e sfumature emotive, come ad esempio l’uso di giochi di parole per denotare un tipo di umorismo o addirittura l’assenza di parole come forma di imbarazzo o incomprensione, sostenute da tante percezioni culturali e sociali. Per i meccanismi di automazione, questi sono tutti elementi ancora impossibili da rendere con precisione. Quindi, se da un lato è impossibile negare che la tecnologia abbia fatto molta strada in poco tempo, d’altra parte è evidente che ha ancora molta altra strada da fare. 
 
 <br><br>
