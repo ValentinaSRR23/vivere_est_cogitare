@@ -123,15 +123,15 @@ var DocuVale = [
         },
         {
             "type": "image_text_on_rigth",
-            "value": ".Foto/Interpretariato/6.png\nPer quanto riguarda il primo punto, è indispensabile la presenza di un blocco, preferibilmente a spirale alta, e di più penne per ogni eventualità. In questo caso, può costituire un elemento di agevolazione ricorrere alla tecnica della <strong>diagonalizzazione</strong> durante la presa d’appunti, vale a dire abbandonare la scrittura lineare abituale con tanto di punteggiatura e inserire le informazioni del discorso procedendo in maniera diagonale sul foglio, dividendo i periodi con una linea orizzontale. <br> \n<br><br>"
+            "value": "./Foto/Interpretariato/6.png\nPer quanto riguarda il primo punto, è indispensabile la presenza di un blocco, preferibilmente a spirale alta, e di più penne per ogni eventualità. In questo caso, può costituire un elemento di agevolazione ricorrere alla tecnica della <strong>diagonalizzazione</strong> durante la presa d’appunti, vale a dire abbandonare la scrittura lineare abituale con tanto di punteggiatura e inserire le informazioni del discorso procedendo in maniera diagonale sul foglio, dividendo i periodi con una linea orizzontale. <br> \n<br><br>"
         },
         {
             "type": "image_text_on_rigth",
-            "value": ".Foto/Interpretariato/8.png\nMolto spesso, o quasi sempre, vengono utilizzati dei simboli personali che alludono a parole o concetti in modo tale da riuscire a captare le diverse informazioni; solitamente, nomi, acronimi, date o cifre vengono sempre segnate. <br>\nQuesta tecnica facilita fortemente il lavoro dell’interprete, che si ritrova ad usufruire convenzionalmente di frecce, nel momento in cui un dato viene riportato più volte, risparmiando quindi spazio e tempo.\n<br>"
+            "value": "./Foto/Interpretariato/8.png\nMolto spesso, o quasi sempre, vengono utilizzati dei simboli personali che alludono a parole o concetti in modo tale da riuscire a captare le diverse informazioni; solitamente, nomi, acronimi, date o cifre vengono sempre segnate. <br>\nQuesta tecnica facilita fortemente il lavoro dell’interprete, che si ritrova ad usufruire convenzionalmente di frecce, nel momento in cui un dato viene riportato più volte, risparmiando quindi spazio e tempo.\n<br>"
         },
         {
             "type": "image_text_on_rigth",
-            "value": ".Foto/Interpretariato/7.png\nOgnuno sviluppa la presa di appunti in modo personale; spetta al singolo professionista decidere come impostare la pagina su cui prende appunti e quali simboli adottare, in base a quale simbolo risulta più evocativo, quale formato di carta preferisce, dove decide di posizionare i connettori logici (che sono fondamentali per ricostruire il discorso e i suoi passaggi logici) e così via.<br>\nTuttavia, chiunque abbia frequentato un corso di interpretazione consecutiva ha ricevuto delle linee guida imprescindibili, a partire dalle quali si può impostare il proprio “alfabeto” di simboli."
+            "value": "./Foto/Interpretariato/7.png\nOgnuno sviluppa la presa di appunti in modo personale; spetta al singolo professionista decidere come impostare la pagina su cui prende appunti e quali simboli adottare, in base a quale simbolo risulta più evocativo, quale formato di carta preferisce, dove decide di posizionare i connettori logici (che sono fondamentali per ricostruire il discorso e i suoi passaggi logici) e così via.<br>\nTuttavia, chiunque abbia frequentato un corso di interpretazione consecutiva ha ricevuto delle linee guida imprescindibili, a partire dalle quali si può impostare il proprio “alfabeto” di simboli."
         },
         {
             "type": "text",
