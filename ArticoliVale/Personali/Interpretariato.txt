@@ -117,7 +117,7 @@ Separator:
 
 Text:
 <br>
-E voi conoscevate le diverse sfumature di questo lavoro? <br>
+E voi che ne pensate di questo lavoro? <br>
 Eravate a conoscenza dei segreti di un interprete? <br>
 Vi ha affascinato addentrarvi questo mondo?
 
