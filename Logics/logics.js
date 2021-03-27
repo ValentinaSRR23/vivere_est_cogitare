@@ -372,7 +372,7 @@ function findOutMore() {
   if(ValeProgetti.Blogs.length == 0){
     setNavigation("empty_page");
   }else{
-    setNavigation("article_" + ValeProgetti.Blogs[0]["id"]);
+    setNavigation("article_" + ValeProgetti.Blogs[ValeProgetti.Blogs.length-1]["id"]);
   }
 }
 
