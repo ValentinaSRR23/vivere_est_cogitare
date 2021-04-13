@@ -135,19 +135,11 @@ var DocuVale = [
         },
         {
             "type": "video",
-            "value": "https://www.youtube.com/watch?v=dVGS5WcRE5I"
-        },
-        {
-            "type": "separator",
-            "value": ""
+            "value": "https://www.youtube.com/watch?v=dVGS5WcRE5I\n<br><br>"
         },
         {
             "type": "text",
-            "value": "In aggiunta a tutto ciò, un buon interprete dovrebbe seguire delle <strong>linee guida generali</strong>, fra cui mantenere sempre la giusta fedeltà di ciò che si traduce, anche se ciò comporta l’utilizzo di turpiloquio. L’unica eccezione in cui è permesso edulcorare il messaggio dell’oratore è quando si è sicuri che l’esclamazione volgare sia stata fatta involontariamente. Tuttavia, se ci si accorge che il discorso dell’oratore contiene un numero esagerato di parole scurrili, la Dottoressa Cammarano consiglia di sostituire il vocabolo con un “bip” sonoro, in modo tale da rendere l’effetto di ciò che si dice, rimanendo coerenti con il messaggio originale dell’oratore. \n<br><br>\nAltre avvertenze inerenti alla resa del testo riguardano la forma impersonale o le congiunzioni – come “allora”, “quindi”, “dunque” – ad inizio del discorso, il cui uso diventa tassativo solo se vengono utilizzate in primis dall’oratore, in caso contrario si parla sempre in prima persona e si inizia a tradurre direttamente con la prima parola pronunciata dall’oratore.\n<br><br>\nUltime accortezze sempre pertinenti all’ambito deontologico, concernono il <strong>ruolo di invisibilità</strong> proprio di questo mestiere e il rapporto di fiducia che si instaura con i clienti; pertanto, il codice di abbigliamento deve essere sempre appropriato all’evento a cui si partecipa ma non deve mai essere appariscente al punto tale da rubare la scena all’oratore, che di solito fa parte del mondo dei vip; è importante tenere sempre a mente che l’interprete non è mai il protagonista del palco e che di sua natura deve rimanere “nell’ombra” del suo cliente. Altro punto chiave attinente a questo concetto è l’idea che l’interprete debba mantenere riservate le informazioni di cui viene a conoscenza riguardanti la vita dei suoi clienti. Dunque, così come lo psicologo è sempre vincolato al segreto professionale, in un certo senso anche <strong>l’interprete non deve mai rivelare notizie, fatti o informazioni apprese</strong>, talvolta involontariamente, <strong>durante l’esercizio della sua professione</strong>. Questo perché il cliente deve potersi fidare del proprio interprete, e il rispetto si guadagna proprio con la riservatezza, l’umiltà e l’onestà per l’incarico accettato. Si tratta infatti di un equilibrio che ripaga sempre."
-        },
-        {
-            "type": "separator",
-            "value": ""
+            "value": "In aggiunta a tutto ciò, un buon interprete dovrebbe seguire delle <strong>linee guida generali</strong>, fra cui mantenere sempre la giusta fedeltà di ciò che si traduce, anche se ciò comporta l’utilizzo di turpiloquio. L’unica eccezione in cui è permesso edulcorare il messaggio dell’oratore è quando si è sicuri che l’esclamazione volgare sia stata fatta involontariamente. Tuttavia, se ci si accorge che il discorso dell’oratore contiene un numero esagerato di parole scurrili, la Dottoressa Cammarano consiglia di sostituire il vocabolo con un “bip” sonoro, in modo tale da rendere l’effetto di ciò che si dice, rimanendo coerenti con il messaggio originale dell’oratore. \n<br><br>\nAltre avvertenze inerenti alla resa del testo riguardano la forma impersonale o le congiunzioni – come “allora”, “quindi”, “dunque” – ad inizio del discorso, il cui uso diventa tassativo solo se vengono utilizzate in primis dall’oratore, in caso contrario si parla sempre in prima persona e si inizia a tradurre direttamente con la prima parola pronunciata dall’oratore.\n<br><br>\nUltime accortezze sempre pertinenti all’ambito deontologico, concernono il <strong>ruolo di invisibilità</strong> proprio di questo mestiere e il rapporto di fiducia che si instaura con i clienti; pertanto, il codice di abbigliamento deve essere sempre appropriato all’evento a cui si partecipa ma non deve mai essere appariscente al punto tale da rubare la scena all’oratore, che di solito fa parte del mondo dei vip; è importante tenere sempre a mente che l’interprete non è mai il protagonista del palco e che di sua natura deve rimanere “nell’ombra” del suo cliente. Altro punto chiave attinente a questo concetto è l’idea che l’interprete debba mantenere riservate le informazioni di cui viene a conoscenza riguardanti la vita dei suoi clienti. Dunque, così come lo psicologo è sempre vincolato al segreto professionale, in un certo senso anche <strong>l’interprete non deve mai rivelare notizie, fatti o informazioni apprese</strong>, talvolta involontariamente, <strong>durante l’esercizio della sua professione</strong>. Questo perché il cliente deve potersi fidare del proprio interprete, e il rispetto si guadagna proprio con la riservatezza, l’umiltà e l’onestà per l’incarico accettato. Si tratta infatti di un equilibrio che ripaga sempre.\n<br><br>"
         },
         {
             "type": "text",
@@ -159,7 +151,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<br>\nE voi che ne pensate di questo lavoro? <br>\nEravate a conoscenza dei segreti di un interprete? <br>\nVi ha affascinato addentrarvi questo mondo?\n<br><br>\nIn caso abbiate dubbi o curiosità fatemelo sapere lasciando un commento. Sarò lieta di rispondervi e fornirvi ulteriori informazioni :)"
+            "value": "<br>\nE voi che ne pensate di questo lavoro? <br>\nEravate a conoscenza dei segreti di un interprete? <br>\nVi ha affascinato addentrarvi in questo mondo?\n<br><br>\nIn caso abbiate dubbi o curiosità fatemelo sapere lasciando un commento. Sarò lieta di rispondervi e fornirvi ulteriori informazioni :)"
         }
     ],
     "date": "05/03/2021",
