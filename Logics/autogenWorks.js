@@ -560,11 +560,14 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<strong>Dov'è vietato il burqa in Europa?</strong>"
+            "value": "<strong>Dov'è vietato il burqa in Europa?</strong>\n>br><br>\nLa dissimulazione del volto in pubblico è ora illegale in Svizzera, ma in Europa sono molteplici i paesi in cui leggi simili sono già in vigore.\nNella mappa a sinistra si può vedere a colpo d’occhio dove sono presenti leggi in materia. Iniziamo dicendo che nel 2017 la Corte di giustizia dell’Unione europea ha approvato il divieto di indumenti islamici nelle aziende, a condizione che le norme interne escludano qualsiasi simbolo religioso, filosofico o politico e non solo quelle di una particolare confessione."
         },
         {
-            "type": "image_text_on_rigth",
-            "value": "Foto/Velo/4.png\nLa dissimulazione del volto in pubblico è ora illegale in Svizzera, ma in Europa sono molteplici i paesi in cui leggi simili sono già in vigore.\nNella mappa a sinistra si può vedere a colpo d’occhio dove sono presenti leggi in materia. Iniziamo dicendo che nel 2017 la Corte di giustizia dell’Unione europea ha approvato il divieto di indumenti islamici nelle aziende, a condizione che le norme interne escludano qualsiasi simbolo religioso, filosofico o politico e non solo quelle di una particolare confessione."
+            "type": "image_inline",
+            "value": [
+                "Foto/Velo/4.png",
+                "Zone europee in cui è vietato il burqa"
+            ]
         },
         {
             "type": "text",
@@ -572,7 +575,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<strong>Le norme in vigore in Austria e in Italia</strong> <br><br>\nL’<strong>Austria</strong> è stato uno degli ultimi Paesi europei ad approvare il divieto totale di portare il burqa in tutti i luoghi pubblici. La multa è stata fissata in 150 dollari e la polizia, dal primo ottobre 2017, è autorizzata ad usare anche la forza. <br>\nE in <strong>Italia</strong>? Dal 1975 esiste una legge in Italia che vieta di indossare un viso e una testa completamente coperti negli spazi pubblici con veli o caschi da motociclista. Esistono norme che vietano espressamente il velo integrale sono a livello regionale: in Lombardia e in Veneto."
+            "value": "<strong>Le norme in vigore in Austria e in Italia</strong> <br><br>\nL’<strong>Austria</strong> è stato uno degli ultimi Paesi europei ad approvare il divieto totale di portare il burqa in tutti i luoghi pubblici. La multa è stata fissata in 150 dollari e la polizia, dal primo ottobre 2017, è autorizzata ad usare anche la forza. <br>\nE in <strong>Italia</strong>? Dal 1975 esiste una legge in Italia che vieta di indossare un viso e una testa completamente coperti negli spazi pubblici con veli o caschi da motociclista. Esistono norme che vietano espressamente il velo integrale a livello regionale: in Lombardia e in Veneto."
         },
         {
             "type": "separator",

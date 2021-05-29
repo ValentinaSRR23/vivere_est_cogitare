@@ -1,5 +1,5 @@
 
-var Pages = ["Home", "Info", "Indice Articoli", "Indice Progetti SSML Gregorio VII", "Comunità"];
+var Pages = ["Home", "Info", "Articoli Personali", "Progetti SSML Gregorio VII", "Astrambiente", "Unitalia",  "Comunità"];
 
 var version = "Versione 0.1";
 
@@ -427,7 +427,7 @@ function showInfoPage(){
   wrap.appendChild(getNode("br",null,null));
 
   wrap.appendChild(getNode("div",
-  'Come probabilmente avrete notato ispezionando il “Menu”, ho inserito la categoria “Indice Progetti SSML GREGORIO VII” dedicata agli articoli che saranno oggetto di valutazione per il corso universitario che sto seguendo di “Italian Art and Creative Culture”. Mi farebbe piacere se qualche volta deste un’occhiata anche lì, dove periodicamente vi aggiornerò con delle curiosità particolari.'
+  'Come probabilmente avrete notato ispezionando il “Menu”, ho inserito la categoria “Progetti SSML Gregorio VII” dedicata agli articoli che saranno oggetto di valutazione per il corso universitario che sto seguendo di “Italian Art and Creative Culture”. Mi farebbe piacere se qualche volta deste un’occhiata anche lì, dove periodicamente vi aggiornerò con delle curiosità particolari.'
     , "home_page_text"));
 
   wrap.appendChild(getNode("br",null,null));
@@ -456,7 +456,7 @@ function showUnknownPage() {
 function showBlogIndexPage(){
 
   let base = getCleanNavigationPanel();
-  let toolbar = getPageHeader("Indice Articoli");
+  let toolbar = getPageHeader("Articoli Personali");
   base.appendChild(toolbar);
 
   if(ValeProgetti.Blogs.length == 1){
@@ -474,7 +474,7 @@ function showBlogIndexPage(){
 function showGregorioIndexPage(){
 
   let base = getCleanNavigationPanel();
-  let toolbar = getPageHeaderWithPic("Indice Progetti SSML Gregorio VII", "./Foto/Indice progetti Gregorio VII/Logo.png");
+  let toolbar = getPageHeaderWithPic("Progetti SSML Gregorio VII", "./Foto/Indice progetti Gregorio VII/Logo.png");
   base.appendChild(toolbar);
 
   if(ValeProgetti.Gregorios.length == 1){
@@ -733,6 +733,14 @@ function toggleMenu() {
         },
         {
             "label": Pages[4],
+            "onclick": "setNavigation('home')"
+        },
+        {
+            "label": Pages[5],
+            "onclick": "setNavigation('home')"
+        },
+        {
+            "label": Pages[6],
             "onclick": "setNavigation('comments_list')"
         }
       ];
