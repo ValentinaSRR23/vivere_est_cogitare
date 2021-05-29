@@ -534,8 +534,8 @@ var DocuVale = [
             "value": "La Svizzera ha approvato il referendum definito ‘<strong>anti-burqa</strong>’: i risultati definitivi mostrano che il testo di modifica costituzionale promosso dalla destra conservatrice e combattuto dal governo ha ottenuto il 51,2% di voti a favore da parte degli elettori svizzeri e l’adesione di 20 dei 26 cantoni, come riferisce l’agenzia di stampa <strong>Keystone-Ats</strong>. Il raggiungimento della maggioranza dei Cantoni era necessaria visto che il quesito tocca la Costituzione federale. [...]"
         },
         {
-            "type": "image_text_on_rigth",
-            "value": "Foto/Velo/1.png\nLa Svizzera ha approvato il referendum definito ‘<strong>anti-burqa</strong>’: i risultati definitivi mostrano che il testo di modifica costituzionale promosso dalla destra conservatrice e combattuto dal governo ha ottenuto il 51,2% di voti a favore da parte degli elettori svizzeri e l’adesione di 20 dei 26 cantoni, come riferisce l’agenzia di stampa <strong>Keystone-Ats</strong>. Il raggiungimento della maggioranza dei Cantoni era necessaria visto che il quesito tocca la Costituzione federale."
+            "type": "text",
+            "value": "La Svizzera ha approvato il referendum definito ‘<strong>anti-burqa</strong>’: i risultati definitivi mostrano che il testo di modifica costituzionale promosso dalla destra conservatrice e combattuto dal governo ha ottenuto il 51,2% di voti a favore da parte degli elettori svizzeri e l’adesione di 20 dei 26 cantoni, come riferisce l’agenzia di stampa <strong>Keystone-Ats</strong>. Il raggiungimento della maggioranza dei Cantoni era necessaria visto che il quesito tocca la Costituzione federale. \nImageInLine:\nFoto/Velo/1.png\nPanoramica della votazione in Svizzera"
         },
         {
             "type": "text",
