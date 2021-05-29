@@ -60,22 +60,15 @@ async function boot() {
 
   await visitorsGetAll();
 
-  sendVisitorIfNewVisit();
-}
-
-function sendVisitorIfNewVisit() {
-  if(localStorage.getItem("did_visit") == null){
-    localStorage.setItem("did_visit", "true");
-    let amount = JSON.parse(localStorage.getItem("visitors"));
-    amount = amount + 1;
-    patchVisitors(amount);
-  }
+  patchVisitors();
 }
 
 
-function patchVisitors(amount) {
-  localStorage.setItem("visitors", JSON.stringify(amount));
-  visitorsSendToDB();
+async function patchVisitors() {
+  let users = await visitorsAmountGet();
+  let visitors = users[0].visitors;
+  localStorage.setItem("visitors", JSON.stringify(visitors));
+  visitorsSendToDB(visitors+1);
 }
 
 function handleResize() {

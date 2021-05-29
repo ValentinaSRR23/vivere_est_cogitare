@@ -24,6 +24,7 @@ async function login(email, password){
   console.log("Trying anon login");
   try{
     await client.auth.loginWithCredential(new stitch.UserPasswordCredential(email.toLowerCase(), password));
+    LOGGED_IN = true;
     console.info("Success.");
   }
   catch(e){
@@ -34,11 +35,12 @@ async function login(email, password){
 async function visitorsAmountGet() {
   try{
     let res = await db.collection(COLLECTION).find({user_id: client.auth.user.id},{_id:0}).asArray();
-    localStorage.setItem("visitors", JSON.stringify(initAsVariableIfAbsent(res[0]["visitors"], 0)));
+    return res;
     console.log("Done");
   }
   catch(e){
     console.error("db.visitorsAmountGet", e);
+    return -1;
   }
 }
 
@@ -93,11 +95,11 @@ async function commentGetAll(){
   await commentsGet();
 }
 
-async function visitorsSendToDB(){
+async function visitorsSendToDB(amount){
   if(!LOGGED_IN){
     await login(USER_NAME, USER_PASSWORD);
   }
-  await visitorsAmountSet(JSON.parse(localStorage.getItem("visitors")));
+  await visitorsAmountSet(amount);
 }
 
 

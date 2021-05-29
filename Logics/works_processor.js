@@ -189,8 +189,6 @@ function buildContainedImage(val){
   ratio = 40/(spl.length/2);
   style = "height:"+ratio.toString()+"em;";
 
-  console.log(val)
-
   for(let i = 0; i < spl.length; i += 2){
     let label_class = "image_inline_label";
     if(spl[i+1].length > max_label_size){
