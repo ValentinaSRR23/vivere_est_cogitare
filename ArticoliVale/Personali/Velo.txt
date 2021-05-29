@@ -11,7 +11,7 @@ MainImage:
 Foto/Velo/1.png
 
 EndPreview:
-La Svizzera ha approvato il referendum definito ‘<strong>anti-burqa</strong>’: i risultati definitivi mostrano che il testo di modifica costituzionale promosso dalla destra conservatrice e combattuto dal governo ha ottenuto il 51,2% di voti a favore da parte degli elettori svizzeri e l’adesione di 20 dei 26 cantoni, come riferisce l’agenzia di stampa <strong>Keystone-Ats</strong>. Il raggiungimento della maggioranza dei Cantoni era necessaria visto che il quesito tocca la Costituzione federale [...]
+La Svizzera ha approvato il referendum definito ‘<strong>anti-burqa</strong>’: i risultati definitivi mostrano che il testo di modifica costituzionale promosso dalla destra conservatrice e combattuto dal governo ha ottenuto il 51,2% di voti a favore da parte degli elettori svizzeri e l’adesione di 20 dei 26 cantoni, come riferisce l’agenzia di stampa <strong>Keystone-Ats</strong>. Il raggiungimento della maggioranza dei Cantoni era necessaria visto che il quesito tocca la Costituzione federale. [...]
 
 Text:
 La Svizzera ha approvato il referendum definito ‘<strong>anti-burqa</strong>’: i risultati definitivi mostrano che il testo di modifica costituzionale promosso dalla destra conservatrice e combattuto dal governo ha ottenuto il 51,2% di voti a favore da parte degli elettori svizzeri e l’adesione di 20 dei 26 cantoni, come riferisce l’agenzia di stampa <strong>Keystone-Ats</strong>. Il raggiungimento della maggioranza dei Cantoni era necessaria visto che il quesito tocca la Costituzione federale. 
@@ -36,14 +36,14 @@ Il risultato del voto rende di portata nazionale una legge di cui, nel 2013, si 
 La campagna per il Sì ha richiamato esplicitamente slogan come ‘Stop all’islam radicale’ e ‘Stop all’estremismo’. Al contrario, gli oppositori hanno chiesto di dire No alla legge anti-burqa, ritenuta "inutile e islamofoba”. 
 
 ImageInline:
-Foto/Velo/3.png
+Foto/Velo/2.png
 Slogan in tedesco
-Foto/Velo/4.png
+Foto/Velo/3.png
 Slogan in francese
 
 Text:
 E si riapre l’annoso dibattito, che supera i confini destra/sinistra: il velo è una schiavitù per le donne, o il legittimo diritto di una minoranza religiosa a vestirsi come vuole? <br><br>
-I verdi sono indignati: “È un attacco frontale ai diritti fondamentali e alla protezione delle minoranze. Aiuteremo le donne colpite dal divieto a ricorrere alla <strong>CEDU</strong>, la <strong><em>Corte europea per i diritti dell’Uomo”</em></strong>. <br><br>
+I verdi sono indignati: “È un attacco frontale ai diritti fondamentali e alla protezione delle minoranze. Aiuteremo le donne colpite dal divieto a ricorrere alla <strong>CEDU</strong>, la <strong><em>Corte europea per i diritti dell’Uomo</em></strong>". <br><br>
 Il socialista Roger Nordmann invece minimizza: “Non succederà nulla. I cantoni non creeranno certo brigate anti-burqa, nessuna sarà multata. Nel voto si sono sommati vari sì: quello xenofobo dell’Udc, quello laico contro i simboli religiosi negli spazi pubblici, e quello femminista. Ma la discriminazione arretra, rispetto al 57% che dodici anni fa disse no ai minareti”. <br><br>
 Le femministe sono divise: “Smettiamola di dire alle donne come si devono vestire”, commenta la socialista Tamara Funiciello. 
 
@@ -64,7 +64,7 @@ Text:
 <strong>Dov'è vietat il burqa in Europa?"</strong>
 
 ImageTextOnRight:
-Foto/Velo/5.png
+Foto/Velo/4.png
 La dissimulazione del volto in pubblico è ora illegale in Svizzera, ma in Europa sono molteplici i paesi in cui leggi simili sono già in vigore.
 Nella mappa a sinistra si può vedere a colpo d’occhio dove sono presenti leggi in materia. Iniziamo dicendo che nel 2017 la Corte di giustizia dell’Unione europea ha approvato il divieto di indumenti islamici nelle aziende, a condizione che le norme interne escludano qualsiasi simbolo religioso, filosofico o politico e non solo quelle di una particolare confessione.
 
