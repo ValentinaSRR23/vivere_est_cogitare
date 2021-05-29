@@ -17,8 +17,7 @@ ImageTextOnRight:
 Foto/Velo/1.png
 La Svizzera ha approvato il referendum definito ‘<strong>anti-burqa</strong>’: i risultati definitivi mostrano che il testo di modifica costituzionale promosso dalla destra conservatrice e combattuto dal governo ha ottenuto il 51,2% di voti a favore da parte degli elettori svizzeri e l’adesione di 20 dei 26 cantoni, come riferisce l’agenzia di stampa <strong>Keystone-Ats</strong>. Il raggiungimento della maggioranza dei Cantoni era necessaria visto che il quesito tocca la Costituzione federale. 
 
-<br><br>
-
+Text:
 Dunque, la nuova legge vieta la copertura del viso sia con il niqab che con il burqa, ma anche con passamontagna e bandane usate in occasione di manifestazioni nei luoghi pubblici, ovvero all’aria aperta e anche nei negozi. Lo scopo della legge approvata attraverso il referendum era quello di promuovere “l’uguaglianza, la libertà” ma anche e soprattutto la sicurezza: i suoi sostenitori, infatti, ritengono che questa legge impedirà alle donne di essere costrette a nascondere i loro volti e, inoltre, vieterà di nasconderlo per scopi criminali o terroristici. Il voto ha seguito anni di dibattito in Svizzera sul tema. Il quesito chiedeva: “<strong>Sei favorevole al divieto delle coperture totali del viso?</strong>”. Non si faceva alcun riferimento esplicito al burqa o al niqab [velo integrale che lascia scoperti solo gli occhi, n.d.r.], anche se gran parte del dibattito si è concentrato proprio su questo aspetto.
 
 <br><br>
