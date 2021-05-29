@@ -355,6 +355,60 @@ var DocuVale = [
     "content": [
         {
             "type": "end_preview",
+            "value": "Ristrutturato dopo quattro anni di lavori, il <a class=\"article_content_link_label_inline\" target=\"_blank\" href=\"https://www.parigi.it/it/museo_carnavalet.php\">Musée Carnavalet</a> di Parigi, dedicato alla storia della Ville Lumière, è in procinto di riaprire non appena il limbo pandemico lo consentirà. L’iniziativa del museo prevederebbe che alcuni percorsi guidati, principalmente quelli destinati a utenti con disabilità, vedranno l’uso dei numeri arabi in luogo di quelli romani. Tale decisione, che per altro fa seguito a una iniziativa simile dell’ancor più noto <strong>Louvre</strong>, è stata giustificata dalla curatrice Noémie Giard con il desiderio di “<strong>essere più vicini ai visitatori</strong>”, poiché “i numeri romani non possono diventare un ostacolo alla comprensione”. [...]"
+        },
+        {
+            "type": "text",
+            "value": "Alcuni direttori di musei insorgono: “Studiate il latino”"
+        },
+        {
+            "type": "link_inline",
+            "value": "...\nlink articolo"
+        },
+        {
+            "type": "image_inline",
+            "value": [
+                ".png",
+                "..."
+            ]
+        },
+        {
+            "type": "image_text_on_rigth",
+            "value": ".png\n..."
+        },
+        {
+            "type": "image_slide",
+            "value": [
+                ".png",
+                ".png",
+                ".png",
+                ".png",
+                ".png"
+            ]
+        },
+        {
+            "type": "link_ref",
+            "value": "htp//\nLink:\n..."
+        },
+        {
+            "type": "video",
+            "value": "htp//"
+        },
+        {
+            "type": "separator",
+            "value": ""
+        }
+    ],
+    "date": "20/03/2021",
+    "type": "Blog",
+    "title": "Introduzione dei numeri arabi nei musei: innovazione o regressione?",
+    "preview_image": "Foto/numeri/1.png",
+    "id": "Numeri"
+},
+{
+    "content": [
+        {
+            "type": "end_preview",
             "value": "Fra i numerosi atti emanati dal neo Presidente degli Stati Uniti d’America \n<strong>Joe Biden</strong>, vari riguardano il sostegno della comunità LGBT.In particolare, \noggi mi piacerebbe affrontare una questione che ha a che vedere con l’ordine esecutivo che stabilisce che un caso giudiziario sui <strong>diritti dei transgender</strong> si applica al <em>Titolo IX</em>, la legge federale che vieta la discriminazione basata \nsul sesso in qualsiasi scuola o altro programma educativo che riceve denaro federale. \nCon questa mossa, ritenuta da alcuni azzardata e tempestiva, Biden chiede a tutte le agenzie \nfederali il rispetto della sentenza con cui la Corte suprema ha esteso la definizione di \n“discriminazione sessuale” a qualsiasi comportamento discriminatorio basato \nsull’orientamento sessuale o sull’identità di genere  [...]"
         },
         {
@@ -480,8 +534,8 @@ var DocuVale = [
             "value": "La Svizzera ha approvato il referendum definito ‘<strong>anti-burqa</strong>’: i risultati definitivi mostrano che il testo di modifica costituzionale promosso dalla destra conservatrice e combattuto dal governo ha ottenuto il 51,2% di voti a favore da parte degli elettori svizzeri e l’adesione di 20 dei 26 cantoni, come riferisce l’agenzia di stampa <strong>Keystone-Ats</strong>. Il raggiungimento della maggioranza dei Cantoni era necessaria visto che il quesito tocca la Costituzione federale. [...]"
         },
         {
-            "type": "text",
-            "value": "La Svizzera ha approvato il referendum definito ‘<strong>anti-burqa</strong>’: i risultati definitivi mostrano che il testo di modifica costituzionale promosso dalla destra conservatrice e combattuto dal governo ha ottenuto il 51,2% di voti a favore da parte degli elettori svizzeri e l’adesione di 20 dei 26 cantoni, come riferisce l’agenzia di stampa <strong>Keystone-Ats</strong>. Il raggiungimento della maggioranza dei Cantoni era necessaria visto che il quesito tocca la Costituzione federale. \n<br><br>\nDunque, la nuova legge vieta la copertura del viso sia con il niqab che con il burqa, ma anche con passamontagna e bandane usate in occasione di manifestazioni nei luoghi pubblici, ovvero all’aria aperta e anche nei negozi. Lo scopo della legge approvata attraverso il referendum era quello di promuovere “l’uguaglianza, la libertà” ma anche e soprattutto la sicurezza: i suoi sostenitori, infatti, ritengono che questa legge impedirà alle donne di essere costrette a nascondere i loro volti e, inoltre, vieterà di nasconderlo per scopi criminali o terroristici. Il voto ha seguito anni di dibattito in Svizzera sul tema. Il quesito chiedeva: “<strong>Sei favorevole al divieto delle coperture totali del viso?</strong>”. Non si faceva alcun riferimento esplicito al burqa o al niqab [velo integrale che lascia scoperti solo gli occhi, n.d.r.], anche se gran parte del dibattito si è concentrato proprio su questo aspetto.\n<br><br>\nA dire il vero, sebbene questa decisione sia scaturita da piccolo comune del Canton Soletta, noto come Comitato di Egerkingen, cui manifesto iniziale scandiva le parole \"Il velo integrale è strettamente legato all'ideologia islamista radicale e contrario al nostro modello di vita\", per evitare che la votazione popolare si trasformasse in un attacco al mondo islamico come avvenne nel 2009 con la <a class=\"article_content_link_label_inline\" target=\"_blank\" href=\"https://www.repubblica.it/2009/11/sezioni/esteri/svizzera-referendum/svizzera-referendum/svizzera-referendum.html\">proibizione della costruzione di minareti</a>, l'iniziativa è stata denominata \"contro la dissimulazione del volto\". Di modo che riguarderà, pure, i teppisti e i manifestanti di piazza violenti che si nascondono dietro sciarpe o passamontagna, per non farsi individuare dalle telecamere della polizia. Tutto questo, non va dimenticato, mentre le forze dell'ordine in epoca di pandemia multano chi si rifiuta di indossare la mascherina.\n<br><br>\nIl risultato del voto rende di portata nazionale una legge di cui, nel 2013, si era fatto precursore il Canton Ticino. Seguito, successivamente, dal Canton San Gallo. In Ticino, nel 2017, si era tratto un bilancio delle multe erogate a donne con burqa e niqab, scoprendo che in 4 anni erano state appena 6. \"Ciò dimostra - spiega a Repubblica Pascal Sciarini, docente di Scienze Politiche all'Università di Ginevra - che in realtà non esiste un grosso problema con questi simboli islamici, piuttosto c'è il timore dell'islamizzazione della società svizzera\". Sciarini ci tiene ad aggiungere un elemento che ritiene fondamentale, per quello che è stato l'esito del voto. \"L'elemento è il seguente: nei Cantoni tradizionalmente progressisti, come quelli francofoni, l'iniziativa è passata anche perché, molto verosimilmente, diverse donne di sinistra hanno votato a favore, ritenendo burqa e niqab simboli di oppressione\".\n<br><br>\n\"Portare burqa e niqab - aveva dichiarato non a caso, durante un dibattito televisivo Marlyse Dormond, storica esponente socialista di Losanna - è come indossare una prigione ambulante\". Resta da capire se, alla vigilia dell'8 marzo, la sia pure temporanea conversione a destra di molte donne di sinistra, non si traduca in un regalo avvelenato. Da rilevare, infine, a risultato acquisito la presa di posizione preoccupata del Consiglio centrale islamico della Svizzera per il quale, ora, \"l'islamofobia è ancorata nella Costituzione\". \n<br><br>\nLa campagna per il Sì ha richiamato esplicitamente slogan come ‘Stop all’islam radicale’ e ‘Stop all’estremismo’. Al contrario, gli oppositori hanno chiesto di dire No alla legge anti-burqa, ritenuta \"inutile e islamofoba”."
+            "type": "image_text_on_rigth",
+            "value": "Foto/Velo/1.png\nLa Svizzera ha approvato il referendum definito ‘<strong>anti-burqa</strong>’: i risultati definitivi mostrano che il testo di modifica costituzionale promosso dalla destra conservatrice e combattuto dal governo ha ottenuto il 51,2% di voti a favore da parte degli elettori svizzeri e l’adesione di 20 dei 26 cantoni, come riferisce l’agenzia di stampa <strong>Keystone-Ats</strong>. Il raggiungimento della maggioranza dei Cantoni era necessaria visto che il quesito tocca la Costituzione federale. \n<br><br>\nDunque, la nuova legge vieta la copertura del viso sia con il niqab che con il burqa, ma anche con passamontagna e bandane usate in occasione di manifestazioni nei luoghi pubblici, ovvero all’aria aperta e anche nei negozi. Lo scopo della legge approvata attraverso il referendum era quello di promuovere “l’uguaglianza, la libertà” ma anche e soprattutto la sicurezza: i suoi sostenitori, infatti, ritengono che questa legge impedirà alle donne di essere costrette a nascondere i loro volti e, inoltre, vieterà di nasconderlo per scopi criminali o terroristici. Il voto ha seguito anni di dibattito in Svizzera sul tema. Il quesito chiedeva: “<strong>Sei favorevole al divieto delle coperture totali del viso?</strong>”. Non si faceva alcun riferimento esplicito al burqa o al niqab [velo integrale che lascia scoperti solo gli occhi, n.d.r.], anche se gran parte del dibattito si è concentrato proprio su questo aspetto.\n<br><br>\nA dire il vero, sebbene questa decisione sia scaturita da piccolo comune del Canton Soletta, noto come Comitato di Egerkingen, cui manifesto iniziale scandiva le parole \"Il velo integrale è strettamente legato all'ideologia islamista radicale e contrario al nostro modello di vita\", per evitare che la votazione popolare si trasformasse in un attacco al mondo islamico come avvenne nel 2009 con la <a class=\"article_content_link_label_inline\" target=\"_blank\" href=\"https://www.repubblica.it/2009/11/sezioni/esteri/svizzera-referendum/svizzera-referendum/svizzera-referendum.html\">proibizione della costruzione di minareti</a>, l'iniziativa è stata denominata \"contro la dissimulazione del volto\". Di modo che riguarderà, pure, i teppisti e i manifestanti di piazza violenti che si nascondono dietro sciarpe o passamontagna, per non farsi individuare dalle telecamere della polizia. Tutto questo, non va dimenticato, mentre le forze dell'ordine in epoca di pandemia multano chi si rifiuta di indossare la mascherina.\n<br><br>\nIl risultato del voto rende di portata nazionale una legge di cui, nel 2013, si era fatto precursore il Canton Ticino. Seguito, successivamente, dal Canton San Gallo. In Ticino, nel 2017, si era tratto un bilancio delle multe erogate a donne con burqa e niqab, scoprendo che in 4 anni erano state appena 6. \"Ciò dimostra - spiega a Repubblica Pascal Sciarini, docente di Scienze Politiche all'Università di Ginevra - che in realtà non esiste un grosso problema con questi simboli islamici, piuttosto c'è il timore dell'islamizzazione della società svizzera\". Sciarini ci tiene ad aggiungere un elemento che ritiene fondamentale, per quello che è stato l'esito del voto. \"L'elemento è il seguente: nei Cantoni tradizionalmente progressisti, come quelli francofoni, l'iniziativa è passata anche perché, molto verosimilmente, diverse donne di sinistra hanno votato a favore, ritenendo burqa e niqab simboli di oppressione\".\n<br><br>\n\"Portare burqa e niqab - aveva dichiarato non a caso, durante un dibattito televisivo Marlyse Dormond, storica esponente socialista di Losanna - è come indossare una prigione ambulante\". Resta da capire se, alla vigilia dell'8 marzo, la sia pure temporanea conversione a destra di molte donne di sinistra, non si traduca in un regalo avvelenato. Da rilevare, infine, a risultato acquisito la presa di posizione preoccupata del Consiglio centrale islamico della Svizzera per il quale, ora, \"l'islamofobia è ancorata nella Costituzione\". \n<br><br>\nLa campagna per il Sì ha richiamato esplicitamente slogan come ‘Stop all’islam radicale’ e ‘Stop all’estremismo’. Al contrario, gli oppositori hanno chiesto di dire No alla legge anti-burqa, ritenuta \"inutile e islamofoba”."
         },
         {
             "type": "image_inline",
@@ -516,7 +570,7 @@ var DocuVale = [
     "date": "15/03/2021",
     "type": "Blog",
     "title": "Velo si o velo no?",
-    "preview_image": "Foto/Velo/1.png",
+    "preview_image": "Foto/Velo/Sfondo.png",
     "id": "Velo"
 },
 {
