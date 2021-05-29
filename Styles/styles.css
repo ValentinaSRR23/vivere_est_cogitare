@@ -115,7 +115,7 @@ body{
 }
 .page_wrap{
   background: #faf0db;
-  padding: 0 15vw;
+  padding: 0 10vw;
 }
 .home_page_button{
   border: 1px solid rgba(0,0,0,0.2);
@@ -132,6 +132,15 @@ body{
   user-select: none;
   box-shadow: #00000029 0.2em 0.2em 0.2em;
 }
+
+.image_contained{
+    margin: 3em 1em;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 2em;
+   max-height: 40vh;
+}
+
 .home_page_button_small_screen{
   border: 1px solid rgba(0,0,0,0.2);
   padding: 0.8em;
@@ -620,12 +629,13 @@ background: rgba(0,0,0,0.5);
 }
 .onright_inline_img{
   display: inline-block;
+  max-width: 50vw;
 }
 .onright_inline_txt{
-  width: 40%;
   display: inline-block;
   font-size: 1.2em;
   margin: 1em;
+  font-size: min(2vw,1em);
 }
 .page_date_label_separator{
   font-size: 1.3em;

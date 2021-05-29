@@ -121,6 +121,11 @@ def processElement(element, fname):
             isContent = True
             data = ""
             setting = "image_inline"
+        elif(row == "ImageContained:"):
+            result = aggregate(result,setting, data, isContent)
+            isContent = True
+            data = ""
+            setting = "image_contained"
         elif(row == "ImageTextOnRight:"):
             result = aggregate(result,setting, data, isContent)
             isContent = True

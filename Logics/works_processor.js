@@ -104,6 +104,9 @@ function processContent(content) {
     if(type == "image_inline"){
       result = buildImageSet(val);
     }
+    if(type == "image_contained"){
+      result = buildContainedImage(val);
+    }
     if(type == "link_inline"){
       let html_and_i = htmlInjectLink(html, val, content, i);
       html = html_and_i[0];
@@ -134,6 +137,7 @@ function processContent(content) {
 function buildImageOnRight(val) {
 
   let spl = val.split("\n");
+
   let text_full = "";
   for(let i = 1; i < spl.length;i++){
     text_full += spl[i];
@@ -142,7 +146,7 @@ function buildImageOnRight(val) {
   let img = "<img src=\""+spl[0]+"\" class=\"onright_inline_img\">";
   let txt = "<div class=\"onright_inline_txt\">"+text_full+"</div>";
 
-  return "<div class=\"inline_img_and_text_wrap\">"+ img + txt +"</div>";
+  return "<table class=\"inline_img_and_text_wrap\"><tr><td>"+ img + "</td><td>" + txt +"</tr></tr></table>";
 }
 
 function htmlInjectLink(html, val, content, external_index) {
@@ -172,6 +176,32 @@ function htmlInjectLink(html, val, content, external_index) {
   return [html,external_index];
 }
 
+function buildContainedImage(val){
+
+  let spl = val.split("\n");
+
+  let ratio;
+  let style = "";
+  let res = "";
+  let adjust = "";
+  let max_label_size = 50;
+
+  ratio = 40/(spl.length/2);
+  style = "height:"+ratio.toString()+"em;";
+
+  console.log(val)
+
+  for(let i = 0; i < spl.length; i += 2){
+    let label_class = "image_inline_label";
+    if(spl[i+1].length > max_label_size){
+      label_class = "image_inline_label_long";
+    }
+    res += "<div class=\"image_contained_wrap\"><img style=\""+style+";\" class=\"image_contained\" src=\""+spl[i]+"\"><div class=\""+label_class+"\">"+spl[i+1]+"</div></div>";
+  }
+
+  return res;
+}
+
 function buildImageSet(val) {
 
   let ratio;
@@ -181,7 +211,7 @@ function buildImageSet(val) {
 
   let max_label_size = 50;
 
-  if(val.length <= 4){
+ if(val.length <= 4){
     ratio = 40/(val.length/2);
     style = "height:"+ratio.toString()+"em;";
 
