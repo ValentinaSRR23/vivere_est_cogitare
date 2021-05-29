@@ -36,6 +36,7 @@ Se mai doveste trovarvi invece nella situazione di dover richiamare l’attenzio
 ImageInline:
 Foto/Giappone/1.png 
 
+
 Text:
 <strong>2.	Non parlate al telefono in treno.</strong> 
 <br><br>
@@ -43,6 +44,7 @@ Telefonare in treno o anche semplicemente tenere la suoneria del cellulare attiv
 
 ImageInline:
 Foto/Giappone/2.png
+
 
 Text:
 <strong>3.	Non si fuma per strada. </strong> <br><br>
@@ -64,15 +66,15 @@ Inoltre, è bene tenere a mente il fatto che non solo in casa ma anche in alcuni
 ImageInline:
 Foto/Giappone/7.png
 
+
 Text:
 <strong>5.	Rispettate le file.</strong> <br><br>
 In quanto persone estremamente rispettose, i giapponesi pongono una particolare attenzione nel fare la fila. Sia che si tratti di aspettare il treno sia che si tratti di aspettare il semaforo verde per attraversare, li vedrai mantenere ordinatamente la propria posizione senza cercare di “rubare” la postazione privilegiata di chi è arrivato prima di loro. <br><br>
 Noi, diciamocelo, non siamo un popolo abituato alle file e ci piace aspettare l’autobus ammassandoci l’uno all’altro senza un ordine preciso. Da noi vale la legge della giungla, la legge del più forte: la persona più veloce entra per prima e si accaparra il posto migliore.<br><br>
 Ecco, se mai dovesse capitarvi di prendere un autobus in Giappone, <strong>ricordatevi di aspettare in modo ordinato</strong> e di non scavalcare le persone dinanzi nel tentativo di trovare posto a sedere. Si tratta di buona e sana educazione.
 
-ImageInline:
+SlideShow:
 Foto/Giappone/8.png
-
 Foto/Giappone/9.png
 
 
@@ -84,6 +86,7 @@ Un tempo i tatuaggi erano il segno contraddistinitivo di chi apparteneva ad ambi
 
 ImageInline:
 Foto/Giappone/10.png
+
 
 Text:
 Con ciò si conclude oggi il nostro viaggio! <br>

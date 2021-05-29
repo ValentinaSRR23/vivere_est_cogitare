@@ -192,7 +192,7 @@ var DocuVale = [
             "value": "<strong>5.\tRispettate le file.</strong> <br><br>\nIn quanto persone estremamente rispettose, i giapponesi pongono una particolare attenzione nel fare la fila. Sia che si tratti di aspettare il treno sia che si tratti di aspettare il semaforo verde per attraversare, li vedrai mantenere ordinatamente la propria posizione senza cercare di “rubare” la postazione privilegiata di chi è arrivato prima di loro. <br><br>\nNoi, diciamocelo, non siamo un popolo abituato alle file e ci piace aspettare l’autobus ammassandoci l’uno all’altro senza un ordine preciso. Da noi vale la legge della giungla, la legge del più forte: la persona più veloce entra per prima e si accaparra il posto migliore.<br><br>\nEcco, se mai dovesse capitarvi di prendere un autobus in Giappone, <strong>ricordatevi di aspettare in modo ordinato</strong> e di non scavalcare le persone dinanzi nel tentativo di trovare posto a sedere. Si tratta di buona e sana educazione."
         },
         {
-            "type": "image_inline",
+            "type": "image_slide",
             "value": [
                 "Foto/Giappone/8.png",
                 "Foto/Giappone/9.png"
