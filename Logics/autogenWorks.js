@@ -135,7 +135,7 @@ var DocuVale = [
         },
         {
             "type": "video",
-            "value": "https://www.youtube.com/watch?v=dVGS5WcRE5I\n<br><br>"
+            "value": "https://www.youtube.com/embed/dVGS5WcRE5I\n<br><br>"
         },
         {
             "type": "text",
