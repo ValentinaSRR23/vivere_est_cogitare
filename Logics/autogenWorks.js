@@ -563,8 +563,11 @@ var DocuVale = [
             "value": "<strong>Dov'è vietato il burqa in Europa?</strong>\n>br><br>\nLa dissimulazione del volto in pubblico è ora illegale in Svizzera, ma in Europa sono molteplici i paesi in cui leggi simili sono già in vigore.\nNella mappa a sinistra si può vedere a colpo d’occhio dove sono presenti leggi in materia. Iniziamo dicendo che nel 2017 la Corte di giustizia dell’Unione europea ha approvato il divieto di indumenti islamici nelle aziende, a condizione che le norme interne escludano qualsiasi simbolo religioso, filosofico o politico e non solo quelle di una particolare confessione."
         },
         {
-            "type": "image_contained",
-            "value": "Foto/Velo/4.png\nZone europee in cui è vietato il burqa"
+            "type": "image_inline",
+            "value": [
+                "Foto/Velo/4.png",
+                "Zone europee in cui è vietato il burqa"
+            ]
         },
         {
             "type": "text",
