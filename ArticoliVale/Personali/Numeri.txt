@@ -5,10 +5,10 @@ Category:
 Blog
 
 Title:
-Introduzione dei numeri arabi nei musei: innovazione o regressione?
+Dai numeri romani ai numeri arabi nei musei: innovazione o regressione?
 
 MainImage:
-Foto/numeri/1.png
+Foto/Numeri/1.png
 
 EndPreview:
 Ristrutturato dopo quattro anni di lavori, il <strong>Musée Carnavalet</strong> di Parigi, dedicato alla storia della Ville Lumière, è in procinto di riaprire non appena il limbo pandemico lo consentirà. L’iniziativa del museo prevederebbe che alcuni percorsi guidati, principalmente quelli destinati a utenti con disabilità, vedranno l’uso dei numeri arabi in luogo di quelli romani. Tale decisione, che per altro fa seguito a una iniziativa simile dell’ancor più noto <strong>Louvre</strong>, è stata giustificata dalla curatrice Noémie Giard con il desiderio di “<strong>essere più vicini ai visitatori</strong>”, poiché “i numeri romani non possono diventare un ostacolo alla comprensione”. [...]

@@ -384,8 +384,8 @@ var DocuVale = [
     ],
     "date": "20/03/2021",
     "type": "Blog",
-    "title": "Introduzione dei numeri arabi nei musei: innovazione o regressione?",
-    "preview_image": "Foto/numeri/1.png",
+    "title": "Dai numeri romani ai numeri arabi nei musei: innovazione o regressione?",
+    "preview_image": "Foto/Numeri/1.png",
     "id": "Numeri"
 },
 {
