@@ -560,7 +560,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "<strong>Dov'è vietat il burqa in Europa?\"</strong>"
+            "value": "<strong>Dov'è vietato il burqa in Europa?</strong>"
         },
         {
             "type": "image_text_on_rigth",
