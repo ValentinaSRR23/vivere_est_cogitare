@@ -35,7 +35,7 @@ Se mai doveste trovarvi invece nella situazione di dover richiamare l’attenzio
 
 ImageInline:
 Foto/Giappone/1.png 
-
+Vale ti prego, sottotitolami, ho bisogno di un sottotitolo!
 
 Text:
 <strong>2.	Non parlate al telefono in treno.</strong> 
@@ -44,7 +44,7 @@ Telefonare in treno o anche semplicemente tenere la suoneria del cellulare attiv
 
 ImageInline:
 Foto/Giappone/2.png
-
+Vale ti prego, sottotitolami, ho bisogno di un sottotitolo!
 
 Text:
 <strong>3.	Non si fuma per strada. </strong> <br><br>
@@ -65,7 +65,7 @@ Inoltre, è bene tenere a mente il fatto che non solo in casa ma anche in alcuni
 
 ImageInline:
 Foto/Giappone/7.png
-
+Vale ti prego, sottotitolami, ho bisogno di un sottotitolo!
 
 Text:
 <strong>5.	Rispettate le file.</strong> <br><br>
@@ -86,7 +86,7 @@ Un tempo i tatuaggi erano il segno contraddistinitivo di chi apparteneva ad ambi
 
 ImageInline:
 Foto/Giappone/10.png
-
+Vale ti prego, sottotitolami, ho bisogno di un sottotitolo!
 
 Text:
 Con ciò si conclude oggi il nostro viaggio! <br>

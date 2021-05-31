@@ -226,10 +226,13 @@ function buildImageSet(val) {
     style = "width:"+ratio.toString()+"em;";
     for(let i = 0; i < val.length; i += 2){
       let label_class = "image_inline_label";
+	  
+	  try{
+		  
       if(val[i+1].length > max_label_size){
         label_class = "image_inline_label_long";
       }
-
+	  }catch(e){}
       res += "<div class=\"image_inline_wrap\"><img style=\""+style+";\" class=\"image_inline_pic\" src=\""+val[i]+"\"><div class=\""+label_class+"\">"+val[i+1]+"</div></div>";
     }
   }

@@ -84,75 +84,7 @@ var DocuVale = [
             "type": "image_inline",
             "value": [
                 "Foto/Giappone/1.png ",
-                "<br><br><br>",
-                "<strong>2.\tNon parlate al telefono in treno.</strong> ",
-                "<br><br>",
-                "Telefonare in treno o anche semplicemente tenere la suoneria del cellulare attiva è considerato un gesto altamente irrispettoso e maleducato. Se potete, <strong>limitatevi all’uso dei messaggi e se dovesse arrivare improvvisamente una telefonata ignoratela e richiamate la persona in questione solo una volta scesi dal treno</strong>. Se dovesse trattarsi di una chiamata urgente o importante, prima di rispondere scusatevi con chi vi sta intorno (e qui torna utile la nostra parolina magica “sumimasen”), copritevi la bocca con la mano e rispondete tenendo il tono della voce il più basso possibile. Una volta terminata la chiamata è bene scusarsi un’altra volta con i passeggeri più vicini a noi, magari accompagnando le scuse con un lieve inchino della testa."
-            ]
-        },
-        {
-            "type": "image_inline",
-            "value": [
-                "Foto/Giappone/2.png",
-                "<br><br><br>",
-                "<strong>3.\tNon si fuma per strada. </strong> <br><br>",
-                "E di fronte ad una tale affermazione una persona potrebbe giustamente chiedersi “e dove fumo allora? In ascensore?”. No, ovviamente non si può fumare neanche in ascensore. Ma perché impedire ad una persona di fumare in uno spazio aperto come la strada o un parco?   <br><br>            ",
-                "I giapponesi sono persone estremamente scrupolose e prudenti, non solo nei propri confronti ma anche nei confronti del prossimo. Il mozzicone acceso della sigaretta potrebbe involontariamente colpire un altro passante o, peggio, entrare negli occhi di un bambino poco attento. Per non parlare del fatto che gettare nuvole di fumo addosso a chi non lo gradisce è a dir poco irrispettoso. <strong>Per evitare quindi di recare un qualsiasi danno o disturbo a terze persone, si evita di fumare in posti aperti e frequentati</strong>. E come fanno i fumatori? Esistono alcune zone specifiche, sia all’aperto che al chiuso adibite proprio per questo scopo, in cui gli amanti del tabacco possono godersi quei 5 minuti di sigaretta in totale relax."
-            ]
-        },
-        {
-            "type": "image_inline",
-            "value": [
-                "<br><br><br>",
-                "<strong>4.\tNon si entra con le scarpe in casa. </strong> <br><br>",
-                "In Giappone è ritenuto poco igienico entrare in casa con le stesse scarpe con cui si è andati in giro. Pertanto ogni casa giapponese è dotata di una sorta di ingresso provvisto di scarpiera, chiamato genkan (la pronuncia corretta è ghencan), in cui è possibile levarsi comodamente le scarpe e porle al loro posto. <br><br>",
-                "Quindi ricordatevi di non entrare assolutamente con le scarpe in casa, soprattutto in quella di altri. Se siete persone a cui non piace camminare scalzi non preoccupatevi perché, prima di accogliervi all’interno della loro abitazione, <strong>i padroni di casa vi faranno trovare all’ingresso delle comode pantofole da indossare.</strong>",
-                "Inoltre, è bene tenere a mente il fatto che non solo in casa ma anche in alcuni ristoranti ed alberghi tradizionali è previsto l’ingresso senza scarpe. Quindi, se mai doveste venire invitati da qualcuno a mangiare in un ristorante del genere, ricordatevi di controllare lo stato dei vostri calzini. In questo modo potrete evitare brutte figure ed imbarazzi!",
-                "<br><br><br>",
-                "<strong>5.\tRispettate le file.</strong> <br><br>",
-                "In quanto persone estremamente rispettose, i giapponesi pongono una particolare attenzione nel fare la fila. Sia che si tratti di aspettare il treno sia che si tratti di aspettare il semaforo verde per attraversare, li vedrai mantenere ordinatamente la propria posizione senza cercare di “rubare” la postazione privilegiata di chi è arrivato prima di loro. <br><br>",
-                "Noi, diciamocelo, non siamo un popolo abituato alle file e ci piace aspettare l’autobus ammassandoci l’uno all’altro senza un ordine preciso. Da noi vale la legge della giungla, la legge del più forte: la persona più veloce entra per prima e si accaparra il posto migliore.<br><br>",
-                "Ecco, se mai dovesse capitarvi di prendere un autobus in Giappone, <strong>ricordatevi di aspettare in modo ordinato</strong> e di non scavalcare le persone dinanzi nel tentativo di trovare posto a sedere. Si tratta di buona e sana educazione.",
-                "<br><br><br>",
-                "<strong>6.\tLe terme giapponesi non ammettono chi ha tatuaggi. </strong> <br><br>",
-                "Avete un tatuaggio? Se è piccolo tranquilli, potete sempre coprirlo con un cerotto o una benda adesiva; se è troppo grande per essere nascosto, temo dovrete rinunciare alla fantastica esperienza di immergervi nelle famose terme giapponesi (onsen). <br><br>",
-                "Nell’immaginario giapponese <strong>i tatuaggi sono infatti legati al mondo della criminalità</strong>, in particolare alla <strong>Yakuza</strong>, la temuta mafia giapponese. <br><br>",
-                "Un tempo i tatuaggi erano il segno contraddistinitivo di chi apparteneva ad ambienti poco raccomandabili e per questo motivo, ancora oggi,  la maggior parte dei giapponesi è restia all’idea di apportare una modifica del genere al proprio corpo. Con l’aumento del flusso di stranieri, negli ultimi anni, si è iniziato a percepire il tatuaggio come un qualcosa di puramente estetico e hanno fatto la loro comparsa (seppur ancora in numero limitato) particolari terme per stranieri in cui è consentito l’ingresso anche agli amanti dei tatuaggi.",
-                "<br><br><br>",
-                "Con ciò si conclude oggi il nostro viaggio! <br>",
-                "Spero di aver suscitato la vostra curiosità ed interesse nei confronti di questo affascinante mondo. <br>",
-                "Non vedo l’ora di poter intraprendere con voi una nuova avventura, a presto! O come direbbe un giapponese “mata ne!”."
-            ]
-        },
-        {
-            "type": "separator",
-            "value": ""
-        },
-        {
-            "type": "text",
-            "value": "Fammi sapere se conosci altre particolarità di questa cultura esotica nei commenti, o semplicemente se hai voglia di lasciare un parere puoi farlo direttamente qui sotto."
-        }
-    ],
-    "date": "05/05/2021",
-    "type": "Blog",
-    "title": "Viaggiando verso il Giappone: cultura e usanze",
-    "preview_image": "Foto/Giappone/Sfondo.png",
-    "id": "Bozza"
-},
-{
-    "content": [
-        {
-            "type": "end_preview",
-            "value": "In questo periodo forse parlare di viaggi in posti lontani ed esotici sembra fuori luogo. Un sogno quasi irrealizzabile che inizia e muore con un “chissà forse un giorno…”. \nMa non buttiamoci giù! Abbiamo un’arma a nostra disposizione! Un’arma che ci permette di varcare in ogni momento i confini del nostro amatissimo Paese e di immergerci nel fascino di quelle terre, totalmente differenti dalla nostra, di cui finora abbiamo sentito pronunciare soltanto il nome.\nQuale arma mi chiedete? Ma il “sapere” ovviamente!\nOggi vorrei quindi viaggiare con voi nel Paese del sol levante, il lontano Giappone, e parlarvi di alcuni aspetti curiosi che, in previsione di un viaggio futuro, è bene conoscere. [...]"
-        },
-        {
-            "type": "text",
-            "value": "In questo periodo forse parlare di viaggi in posti lontani ed esotici sembra fuori luogo. Un sogno quasi irrealizzabile che inizia e muore con un “chissà forse un giorno…”. <br>\nMa non buttiamoci giù! Abbiamo un’arma a nostra disposizione! Un’arma che ci permette di varcare in ogni momento i confini del nostro amatissimo Paese e di immergerci nel fascino di quelle terre, totalmente differenti dalla nostra, di cui finora abbiamo sentito pronunciare soltanto il nome. <br>\nQuale arma mi chiedete? Ma il “sapere” ovviamente!<br><br>\nOggi vorrei quindi viaggiare con voi nel Paese del sol levante, il lontano Giappone, e parlarvi di alcuni aspetti curiosi che, in previsione di un viaggio futuro, è bene conoscere.<br><br><br>\n<strong>1.\tEvitate il contatto fisico.</strong>\n<br><br>\nIn Italia pacche sulla spalla, baci e abbracci sono all’ordine del giorno in quanto segno di amichevolezza e buona educazione. Quanti di noi hanno fatto l’esperienza di “deludere” un amico o un familiare salutandolo semplicemente con un “ciao” e ricevendo in risposta la famosa frase “Che fai? Non mi saluti bene?”.<br><br>\nIn Giappone scordatevi di tutto ciò. <strong>Il contatto fisico è considerato un tabù</strong>, soprattutto in pubblico, da evitare assolutamente! Non vedrete mai, ad esempio, giovani coppiette scambiarsi gesti teneri ai lati della strada. Non vedrete mai persone che, incontrandosi dopo tempo immemore, si abbracciano calorosamente. E sicuramente non vedrete mai due sconosciuti che nel presentarsi si stringono la mano e si scambiano il tipico “bacetto” sulla guancia.<br><br>\nI giapponesi fanno quindi molta attenzione a mantenere, ovviamente se possibile, una certa distanza fisica. Distanza che permette di non invadere lo spazio vitale e privato altrui e che è considerata forte indice di rispetto e di educazione. <br><br>\nSe doveste mai venire introdotti ad un nipponico, dimenticate momentaneamente dell’uso delle mani, sorridete gentilmente e chinate la testa (<strong>il famoso inchino giapponese</strong>) in segno di saluto. <br><br>\nSe mai doveste trovarvi invece nella situazione di dover richiamare l’attenzione di qualcuno non, e ripeto enfatizzando il <strong>NON, dategli il nessun colpetto sulla spalla</strong>. Per quanto innocuo, è un gesto che potrebbe infastidire o spaventare la persona in questione. A questo punto vi chiederete, in modo più che lecito, “e come faccio a chiamarlo?”. Bene, ricordatevi di questa parola, “sumimasen”. Parolina magica che corrisponde al nostro “Mi scusi” e che può essere usata sia per richiamare l’attenzione sia per scusarsi."
-        },
-        {
-            "type": "image_inline",
-            "value": [
-                "Foto/Giappone/1.png "
+                "Vale ti prego, sottotitolami, ho bisogno di un sottotitolo!"
             ]
         },
         {
@@ -162,7 +94,8 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "Foto/Giappone/2.png"
+                "Foto/Giappone/2.png",
+                "Vale ti prego, sottotitolami, ho bisogno di un sottotitolo!"
             ]
         },
         {
@@ -184,7 +117,8 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "Foto/Giappone/7.png"
+                "Foto/Giappone/7.png",
+                "Vale ti prego, sottotitolami, ho bisogno di un sottotitolo!"
             ]
         },
         {
@@ -205,7 +139,8 @@ var DocuVale = [
         {
             "type": "image_inline",
             "value": [
-                "Foto/Giappone/10.png"
+                "Foto/Giappone/10.png",
+                "Vale ti prego, sottotitolami, ho bisogno di un sottotitolo!"
             ]
         },
         {
