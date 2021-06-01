@@ -37,7 +37,9 @@ ImageContained:
 Foto/Giappone/1.png 
 Insegna utile che ricorda agli stranieri come ci si saluta correttamente in giappone
 
+
 Text:
+<br><br><br>
 <strong>2.	Non parlate al telefono in treno.</strong> 
 <br><br>
 Telefonare in treno o anche semplicemente tenere la suoneria del cellulare attiva è considerato un gesto altamente irrispettoso e maleducato. Se potete, <strong>limitatevi all’uso dei messaggi e se dovesse arrivare improvvisamente una telefonata ignoratela e richiamate la persona in questione solo una volta scesi dal treno</strong>. Se dovesse trattarsi di una chiamata urgente o importante, prima di rispondere scusatevi con chi vi sta intorno (e qui torna utile la nostra parolina magica “sumimasen”), copritevi la bocca con la mano e rispondete tenendo il tono della voce il più basso possibile. Una volta terminata la chiamata è bene scusarsi un’altra volta con i passeggeri più vicini a noi, magari accompagnando le scuse con un lieve inchino della testa.
