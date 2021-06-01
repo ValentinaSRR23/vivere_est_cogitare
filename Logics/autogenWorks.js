@@ -78,13 +78,13 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "In questo periodo forse parlare di viaggi in posti lontani ed esotici sembra fuori luogo. Un sogno quasi irrealizzabile che inizia e muore con un “chissà forse un giorno…”. <br>\nMa non buttiamoci giù! Abbiamo un’arma a nostra disposizione! Un’arma che ci permette di varcare in ogni momento i confini del nostro amatissimo Paese e di immergerci nel fascino di quelle terre, totalmente differenti dalla nostra, di cui finora abbiamo sentito pronunciare soltanto il nome. <br>\nQuale arma mi chiedete? Ma il “sapere” ovviamente!<br><br>\nOggi vorrei quindi viaggiare con voi nel Paese del sol levante, il lontano Giappone, e parlarvi di alcuni aspetti curiosi che, in previsione di un viaggio futuro, è bene conoscere.<br><br><br>\n<strong>1.\tEvitate il contatto fisico.</strong>\n<br><br>\nIn Italia pacche sulla spalla, baci e abbracci sono all’ordine del giorno in quanto segno di amichevolezza e buona educazione. Quanti di noi hanno fatto l’esperienza di “deludere” un amico o un familiare salutandolo semplicemente con un “ciao” e ricevendo in risposta la famosa frase “Che fai? Non mi saluti bene?”.<br><br>\nIn Giappone scordatevi di tutto ciò. <strong>Il contatto fisico è considerato un tabù</strong>, soprattutto in pubblico, da evitare assolutamente! Non vedrete mai, ad esempio, giovani coppiette scambiarsi gesti teneri ai lati della strada. Non vedrete mai persone che, incontrandosi dopo tempo immemore, si abbracciano calorosamente. E sicuramente non vedrete mai due sconosciuti che nel presentarsi si stringono la mano e si scambiano il tipico “bacetto” sulla guancia.<br><br>\nI giapponesi fanno quindi molta attenzione a mantenere, ovviamente se possibile, una certa distanza fisica. Distanza che permette di non invadere lo spazio vitale e privato altrui e che è considerata forte indice di rispetto e di educazione. <br><br>\nSe doveste mai venire introdotti ad un nipponico, dimenticate momentaneamente dell’uso delle mani, sorridete gentilmente e chinate la testa (<strong>il famoso inchino giapponese</strong>) in segno di saluto. <br><br>\nSe mai doveste trovarvi invece nella situazione di dover richiamare l’attenzione di qualcuno non, e ripeto enfatizzando il <strong>NON, dategli il nessun colpetto sulla spalla</strong>. Per quanto innocuo, è un gesto che potrebbe infastidire o spaventare la persona in questione. A questo punto vi chiederete, in modo più che lecito, “e come faccio a chiamarlo?”. Bene, ricordatevi di questa parola, “sumimasen”. Parolina magica che corrisponde al nostro “Mi scusi” e che può essere usata sia per richiamare l’attenzione sia per scusarsi."
+            "value": "In questo periodo forse parlare di viaggi in posti lontani ed esotici sembra fuori luogo. Un sogno quasi irrealizzabile che inizia e muore con un “chissà forse un giorno…”. <br>\nMa non buttiamoci giù! Abbiamo un’arma a nostra disposizione! Un’arma che ci permette di varcare in ogni momento i confini del nostro amatissimo Paese e di immergerci nel fascino di quelle terre, totalmente differenti dalla nostra, di cui finora abbiamo sentito pronunciare soltanto il nome. <br>\nQuale arma mi chiedete? Ma il “sapere” ovviamente!<br><br>\nOggi vorrei quindi viaggiare con voi nel Paese del sol levante, il lontano Giappone, e parlarvi di alcuni aspetti curiosi che, in previsione di un viaggio futuro, è bene conoscere.<br><br><br>\n<strong>1.\tEvitate il contatto fisico.</strong>\n<br><br>\nIn Italia pacche sulla spalla, baci e abbracci sono all’ordine del giorno in quanto segno di amichevolezza e buona educazione. Quanti di noi hanno fatto l’esperienza di “deludere” un amico o un familiare salutandolo semplicemente con un “ciao” e ricevendo in risposta la famosa frase “Che fai? Non mi saluti bene?”.<br><br>\nIn Giappone scordatevi di tutto ciò. <strong>Il contatto fisico è considerato un tabù</strong>, soprattutto in pubblico, da evitare assolutamente! Non vedrete mai, ad esempio, giovani coppiette scambiarsi gesti teneri ai lati della strada. Non vedrete mai persone che, incontrandosi dopo tempo immemore, si abbracciano calorosamente. E sicuramente non vedrete mai due sconosciuti che nel presentarsi si stringono la mano e si scambiano il tipico “bacetto” sulla guancia.<br><br>\nI giapponesi fanno quindi molta attenzione a mantenere, ovviamente se possibile, una certa distanza fisica. Distanza che permette di non invadere lo spazio vitale e privato altrui e che è considerata forte indice di rispetto e di educazione. <br><br>\nSe doveste mai venire introdotti ad un nipponico, dimenticate momentaneamente dell’uso delle mani, sorridete gentilmente e chinate la testa (<strong>il famoso inchino giapponese</strong>) in segno di saluto. <br><br>\nSe mai doveste trovarvi invece nella situazione di dover richiamare l’attenzione di qualcuno non, e ripeto enfatizzando il <strong>NON, dategli il nessun colpetto sulla spalla</strong>. Per quanto innocuo, è un gesto che potrebbe infastidire o spaventare la persona in questione. A questo punto vi chiederete, in modo più che lecito, “e come faccio a chiamarlo?”. Bene, ricordatevi di questa parola, “<strong>sumimasen</strong>”. Parolina magica che corrisponde al nostro “<strong>mi scusi</strong>” e che può essere usata sia per richiamare l’attenzione sia per scusarsi."
         },
         {
             "type": "image_inline",
             "value": [
                 "Foto/Giappone/1.png ",
-                "Vale ti prego, sottotitolami, ho bisogno di un sottotitolo!"
+                "Insegna utile che ricorda agli stranieri come ci si saluta correttamente in giappone"
             ]
         },
         {
@@ -92,10 +92,10 @@ var DocuVale = [
             "value": "<strong>2.\tNon parlate al telefono in treno.</strong> \n<br><br>\nTelefonare in treno o anche semplicemente tenere la suoneria del cellulare attiva è considerato un gesto altamente irrispettoso e maleducato. Se potete, <strong>limitatevi all’uso dei messaggi e se dovesse arrivare improvvisamente una telefonata ignoratela e richiamate la persona in questione solo una volta scesi dal treno</strong>. Se dovesse trattarsi di una chiamata urgente o importante, prima di rispondere scusatevi con chi vi sta intorno (e qui torna utile la nostra parolina magica “sumimasen”), copritevi la bocca con la mano e rispondete tenendo il tono della voce il più basso possibile. Una volta terminata la chiamata è bene scusarsi un’altra volta con i passeggeri più vicini a noi, magari accompagnando le scuse con un lieve inchino della testa."
         },
         {
-            "type": "image_inline",
+            "type": "image_slide",
             "value": [
                 "Foto/Giappone/2.png",
-                "Vale ti prego, sottotitolami, ho bisogno di un sottotitolo!"
+                "Foto/Giappone/11.png "
             ]
         },
         {
@@ -105,9 +105,9 @@ var DocuVale = [
         {
             "type": "image_slide",
             "value": [
-                "Foto/Giappone/3.png",
                 "Foto/Giappone/4.png",
-                "Foto/Giappone/5.png"
+                "Foto/Giappone/5.png",
+                "Foto/Giappone/6.png"
             ]
         },
         {
@@ -118,7 +118,7 @@ var DocuVale = [
             "type": "image_inline",
             "value": [
                 "Foto/Giappone/7.png",
-                "Vale ti prego, sottotitolami, ho bisogno di un sottotitolo!"
+                "Tipico ingresso delle case giapponesi (genkan)"
             ]
         },
         {
@@ -140,20 +140,12 @@ var DocuVale = [
             "type": "image_inline",
             "value": [
                 "Foto/Giappone/10.png",
-                "Vale ti prego, sottotitolami, ho bisogno di un sottotitolo!"
+                "Tipica insegna all’ingresso delle terme (onsen)"
             ]
         },
         {
             "type": "text",
             "value": "Con ciò si conclude oggi il nostro viaggio! <br>\nSpero di aver suscitato la vostra curiosità ed interesse nei confronti di questo affascinante mondo. <br>\nNon vedo l’ora di poter intraprendere con voi una nuova avventura, a presto! O come direbbe un giapponese “mata ne!”."
-        },
-        {
-            "type": "separator",
-            "value": ""
-        },
-        {
-            "type": "text",
-            "value": "Fammi sapere se conosci altre particolarità di questa cultura esotica nei commenti, o semplicemente se hai voglia di lasciare un parere puoi farlo direttamente qui sotto."
         }
     ],
     "date": "05/05/2021",
