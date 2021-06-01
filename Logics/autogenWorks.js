@@ -139,7 +139,7 @@ var DocuVale = [
         },
         {
             "type": "text",
-            "value": "Con ciò si conclude oggi il nostro viaggio! <br>\nSpero di aver suscitato la vostra curiosità ed interesse nei confronti di questo affascinante mondo. <br>\nNon vedo l’ora di poter intraprendere con voi una nuova avventura, a presto! O come direbbe un giapponese “mata ne!”."
+            "value": "<br><br><br>\nCon ciò si conclude oggi il nostro viaggio! <br>\nSpero di aver suscitato la vostra curiosità ed interesse nei confronti di questo affascinante mondo. <br>\nNon vedo l’ora di poter intraprendere con voi una nuova avventura, a presto! O come direbbe un giapponese “mata ne!”."
         }
     ],
     "date": "05/05/2021",
