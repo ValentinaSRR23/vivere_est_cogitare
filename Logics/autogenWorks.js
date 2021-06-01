@@ -134,11 +134,8 @@ var DocuVale = [
             "value": "<strong>6.\tLe terme giapponesi non ammettono chi ha tatuaggi. </strong> <br><br>\nAvete un tatuaggio? Se è piccolo tranquilli, potete sempre coprirlo con un cerotto o una benda adesiva; se è troppo grande per essere nascosto, temo dovrete rinunciare alla fantastica esperienza di immergervi nelle famose terme giapponesi (onsen). <br><br>\nNell’immaginario giapponese <strong>i tatuaggi sono infatti legati al mondo della criminalità</strong>, in particolare alla <strong>Yakuza</strong>, la temuta mafia giapponese. <br><br>\nUn tempo i tatuaggi erano il segno contraddistinitivo di chi apparteneva ad ambienti poco raccomandabili e per questo motivo, ancora oggi,  la maggior parte dei giapponesi è restia all’idea di apportare una modifica del genere al proprio corpo. Con l’aumento del flusso di stranieri, negli ultimi anni, si è iniziato a percepire il tatuaggio come un qualcosa di puramente estetico e hanno fatto la loro comparsa (seppur ancora in numero limitato) particolari terme per stranieri in cui è consentito l’ingresso anche agli amanti dei tatuaggi."
         },
         {
-            "type": "image_inline",
-            "value": [
-                "Foto/Giappone/10.png",
-                "Tipica insegna all’ingresso delle terme (onsen)"
-            ]
+            "type": "image_contained",
+            "value": "Foto/Giappone/10.png\nTipica insegna all’ingresso delle terme (onsen)"
         },
         {
             "type": "text",
