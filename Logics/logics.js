@@ -615,7 +615,12 @@ async function postComment() {
     return;
   }
 
-  let comments = JSON.parse(localStorage.getItem("comments"));
+  let e = localStorage.getItem("comments");
+  if(isNullOrUndefined(e)){
+	  e = "[]";
+  }
+  
+  let comments = JSON.parse(e);
   comments.push({"sign": sign, "text": text});
   localStorage.setItem("comments", JSON.stringify(comments));
 
