@@ -190,10 +190,8 @@ function buildContainedImage(val){
   style = "height:"+ratio.toString()+"em;";
 
   for(let i = 0; i < spl.length; i += 2){
-    let label_class = "image_inline_label";
-    if(spl[i+1].length > max_label_size){
-      label_class = "image_inline_label_long";
-    }
+    let label_class = "image_inline_label_contained";
+	
     res += "<div class=\"image_contained_wrap\"><img style=\""+style+";\" class=\"image_contained\" src=\""+spl[i]+"\"><div class=\""+label_class+"\">"+spl[i+1]+"</div></div>";
   }
 
