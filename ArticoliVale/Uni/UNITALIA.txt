@@ -9,7 +9,7 @@ Title:
 UNITALIA
 
 MainImage:
-Foto/Unitalia/1.png
+Foto/Unitalia/Sfondo.png
 
 EndPreview:
 Con l’arrivo di giugno, anche quest’anno accademico sta giungendo al termine, così come il mio percorso universitario triennale alla SSML GREGORIO VII. Sono diversi i dubbi sul futuro che mi turbano, in particolar modo ce n’è uno che continua a ronzare nella mia testa: proseguire gli studi o immergermi nel mondo del lavoro? <br><br>

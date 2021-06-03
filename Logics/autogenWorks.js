@@ -792,6 +792,39 @@ var DocuVale = [
 {
     "content": [
         {
+            "type": "end_preview",
+            "value": "ASTRAmbiente è una associazione scientifica, senza fini di lucro, la cui attività ha per obiettivo la tutela delle risorse ambientali.<br>\nL’Associazione è innanzitutto <strong>“scientifica”</strong> ed intende affermare e sottolineare il principio e la necessità di operare in materia ambientale con azioni basate su solide conoscenze scientifiche. L’associazione promueve la diffusione della <strong>cultura ambientale e territoriale</strong>, correlando  gli aspetti fisico-chimici dei problemi con quelli biologici, economici, normativi, umanistici e sociali [...]"
+        },
+        {
+            "type": "text",
+            "value": "ASTRAmbiente è una associazione scientifica, senza fini di lucro, la cui attività ha per obiettivo la tutela delle risorse ambientali.<br>\nL’Associazione è innanzitutto <strong>“scientifica”</strong> ed intende affermare e sottolineare il principio e la necessità di operare in materia ambientale con azioni basate su solide conoscenze scientifiche. L’associazione promueve la diffusione della <strong>cultura ambientale e territoriale</strong>, correlando  gli aspetti fisico-chimici dei problemi con quelli biologici, economici, normativi, umanistici e sociali. I soci fondatori ben rappresetano gli ideali dell’associazione, essendo presenti tra di essi biologi, ingegneri, giuristi ed economisti.\n<br><br>\nASTRAmbiente cerca di valorizzare e promuore ogni aspetto della tutela ambientale  organizzando corsi di formazione culturale e stipulando convenzioni per studi o ricerche.<br> <a class=\"article_content_link_label_inline\" target=\"_blank\" href=\"https://bisirri.wordpress.com/astrambiente/ \nhttps://astrambientecentroitalia.wordpress.c\">Per saperne di più!</a>"
+        },
+        {
+            "type": "image_slide",
+            "value": [
+                "Foto/Astrambiente/4.png",
+                "Foto/Astrambiente/6.png",
+                "Foto/Astrambiente/7.png"
+            ]
+        },
+        {
+            "type": "separator",
+            "value": ""
+        },
+        {
+            "type": "text",
+            "value": "Sede nazionale: Via Pasquale Stanislao Mancini, 2- 00196 Roma <br>\nTel: 06.6390300<br>\nEmail: bisirri52@gmail.com<br><br>\nSede operativa: Via Pasquale Stanislao Mancini,2 – 00196 Roma <br>\nLa sede operativa si trova presso l’Istituto Universitario SSML GREGORIO VII (Scuola Superiore per Mediatore Linguistici) di Roma. L’Associazione ASTRAmbiente collabora attivamente con la SSML Gregorio VII che prepara i futuri Mediatori Linguistici, Interpreti e Traduttori, Manager per le imprese, per le istituzioni e le organizzazioni internazionali.<br><br><br>\nASTRAmbiente è aperta a nuove adesioni ed ha bisogno del supporto intellettuale e materiale di Enti ed organizzazioni o di chiunque fosse interessato ad intervenire con intensità ed incisività per preservare l’ambiente.<br>\nFai parte anche tu di ASTRAmbiente e difendi il tuo Ambiente.<br><br><br>\nPer ora è tutto, a presto!"
+        }
+    ],
+    "date": "01/06/2021",
+    "type": "Gregorio",
+    "title": "ASTRAMBIENTE",
+    "preview_image": "Foto/Astrambiente/2.png",
+    "id": "ASTRAmbiente"
+},
+{
+    "content": [
+        {
             "type": "text",
             "value": "Vi siete mai chiesti cosa potrebbero avere in comune due città\ncome Roma e Washington D.C.? <br>\nForse molti di voi non ci hanno nemmeno mai pensato...\nIn tal caso, questo articolo fa al caso vostro:\ninfatti, sebbene queste capitali siano divise da un intero oceano,\nentrambe condividono molto più di quanto pensiate.<br><br>"
         },
@@ -975,6 +1008,6 @@ var DocuVale = [
     "date": "31/05/2021",
     "type": "Gregorio",
     "title": "UNITALIA",
-    "preview_image": "Foto/Unitalia/1.png",
+    "preview_image": "Foto/Unitalia/Sfondo.png",
     "id": "UNITALIA"
 }];
