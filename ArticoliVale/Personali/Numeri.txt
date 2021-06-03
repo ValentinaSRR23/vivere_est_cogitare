@@ -60,11 +60,11 @@ Anche Il Foglio non è da meno. Titolo: <em>"Abbasso i numeri romani"</em>. <str
 
 Non manca, ovviamente, chi <strong>in questa appassionante guerra dei numeri</strong> vede il nemico di sempre, ovvero il temibile politically correct. Il <em>j’accuse</em> viene da Luciano Canfora, interpellato sempre dal Corriere. Secondo il noto classicista, la "stupidità" di questa scelta del museo francese è parte "Di una piaga più generale, quella del ‘politicamente corretto’". 
 
-Separator:
-A seguire, un video riassuntivo ironico e pungente di cui vi consiglio la visione.
+A seguire, un video riassuntivo ironico e pungente di cui vi consiglio la visione:
 
-Video:
-https://www.youtube.com/embed/NZrcttuBxQg&t
+LinkInline:
+https://www.youtube.com/watch?v=NZrcttuBxQg
+Clicca qui. 
 
 Separator:
 
