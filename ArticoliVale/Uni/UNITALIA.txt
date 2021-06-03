@@ -57,7 +57,7 @@ Che dire, alla fine noi giovani non siamo poi così abbandonati a noi stessi. In
 
 Separator:
 
-Text:
+Quote:
 Il sasso. <br>
 La persona distratta vi è inciampata. <br>
 Quella violenta, l’ha usato come arma. <br>

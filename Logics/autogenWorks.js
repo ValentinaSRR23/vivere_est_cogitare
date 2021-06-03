@@ -775,8 +775,8 @@ var DocuVale = [
             "value": ""
         },
         {
-            "type": "text",
-            "value": "“È questa la terza opera degli antichi che ho innanzi a me e di cui osservo\nla stessa impronta, sempre grandiosa: l'arte architettonica degli antichi è veramente\nuna seconda natura, che opera conforme agli usi e agli scopi civili.\nÈ così che sorge l'anfiteatro, il tempio, <strong>l'acquedotto</strong>.\nE soltanto adesso sento con quanta ragione ho sempre trovato detestabili le costruzioni\nfatte a capriccio […]. Cose tutte nate morte, poiché ciò che veramente non ha in sé\nuna ragione di esistere non ha vita e non può essere grande, né diventare grande.” <br>"
+            "type": "quote",
+            "value": "È questa la terza opera degli antichi che ho innanzi a me e di cui osservo\nla stessa impronta, sempre grandiosa: l'arte architettonica degli antichi è veramente\nuna seconda natura, che opera conforme agli usi e agli scopi civili.\nÈ così che sorge l'anfiteatro, il tempio, <strong>l'acquedotto</strong>.\nE soltanto adesso sento con quanta ragione ho sempre trovato detestabili le costruzioni\nfatte a capriccio […]. Cose tutte nate morte, poiché ciò che veramente non ha in sé\nuna ragione di esistere non ha vita e non può essere grande, né diventare grande. <br>"
         },
         {
             "type": "link_ref",
@@ -1009,7 +1009,7 @@ var DocuVale = [
             "value": ""
         },
         {
-            "type": "text",
+            "type": "quote",
             "value": "Il sasso. <br>\nLa persona distratta vi è inciampata. <br>\nQuella violenta, l’ha usato come arma. <br>\nL’imprenditore l’ha usato per costruire.<br>\nIl contadino stanco invece come sedia.<br>\nPer i bambini è un giocattolo.<br>\nDavide uccise Golia<br>\ne Michelangelo ne fece la più bella scultura.<br>\nIn ogni caso, la differenza non l’ha fatta il sasso, ma l’uomo.<br>\nNon esiste sasso nel tuo cammino<br>\nche tu non possa sfruttare per la tua propria crescita.<br>\n- Anonimo"
         }
     ],
