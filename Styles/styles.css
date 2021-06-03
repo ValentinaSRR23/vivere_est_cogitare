@@ -669,3 +669,15 @@ background: rgba(0,0,0,0.5);
   padding: 0 0.5em;
   background: radial-gradient(#2d6d7b54, transparent);
 }
+
+.flex-hardwrap{
+	display: flex;
+	align-items: center;
+	margin-top: 2em;
+}
+
+.inline_info_text{
+	font-size: 1.6em;
+	width: 10em;
+	color: #2d6d7b;
+}

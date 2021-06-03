@@ -369,6 +369,14 @@ function findOutMore() {
   }
 }
 
+function downloadPDF(){
+	window.location.href = "./curriculum.pdf";
+}
+
+function visitLinkedin(){
+	window.location.href = "https://www.linkedin.com/in/valentina-serrao-970607213/";
+}
+
 function showEmptyPage() {
   let base = getCleanNavigationPanel();
   let toolbar = getPageHeaderInfo("Pagina in arrivo");
@@ -413,6 +421,29 @@ function showInfoPage(){
   wrap.appendChild(getNode("br",null,null));
   wrap.appendChild(getNode("br",null,null));
   wrap.appendChild(getNode("br",null,null));
+
+  let flex1 = getNode("div", null, "flex-hardwrap");
+  let flex2 = getNode("div", null, "flex-hardwrap");
+
+  let label1 = getNode("div", "Il mio curriculum", "inline_info_text");
+  let label2 = getNode("div", "Il mio profilo Linkedin", "inline_info_text");
+
+  let button1 = getNode("div", "scarica".toUpperCase(), "home_page_button");
+  button1.setAttribute("onclick","downloadPDF()");
+  button1.style.marginTop = "0";
+
+  let button2 = getNode("div", "visita".toUpperCase(), "home_page_button");
+  button2.setAttribute("onclick","visitLinkedin()");
+  button2.style.marginTop = "0";
+
+  flex1.appendChild(label1);
+  flex1.appendChild(button1);
+  
+  flex2.appendChild(label2);
+  flex2.appendChild(button2);
+
+  wrap.appendChild(flex1);
+  wrap.appendChild(flex2);
 
   wrap.appendChild(getNode("div",null,"article_separator"));
 
@@ -735,14 +766,6 @@ function toggleMenu() {
         {
             "label": Pages[3],
             "onclick": "setNavigation('index_gregorio')"
-        },
-        {
-            "label": Pages[4],
-            "onclick": "setNavigation('home')"
-        },
-        {
-            "label": Pages[5],
-            "onclick": "setNavigation('home')"
         },
         {
             "label": Pages[6],
