@@ -449,7 +449,7 @@ var DocuVale = [
         },
         {
             "type": "video",
-            "value": "https://youtube/embed/NZrcttuBxQg"
+            "value": "https://www.youtube.com/embed/NZrcttuBxQg&t"
         },
         {
             "type": "separator",
