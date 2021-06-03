@@ -449,7 +449,7 @@ var DocuVale = [
         },
         {
             "type": "video",
-            "value": "https://youtu.be/embed/NZrcttuBxQg"
+            "value": "https://youtube/embed/NZrcttuBxQg"
         },
         {
             "type": "separator",
@@ -463,7 +463,7 @@ var DocuVale = [
     "date": "20/03/2021",
     "type": "Blog",
     "title": "Dai numeri romani ai numeri arabi nei musei: innovazione o regressione?",
-    "preview_image": "Foto/Numeri/1.png",
+    "preview_image": "Foto/Numeri/3.png",
     "id": "Numeri"
 },
 {
