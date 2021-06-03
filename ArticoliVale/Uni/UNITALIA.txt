@@ -55,7 +55,9 @@ Per maggiori informazioni cliccate <a class="article_content_link_label_inline" 
 
 Che dire, alla fine noi giovani non siamo poi così abbandonati a noi stessi. In realtà basta dare un’occhiata su internet per scoprire che non siamo affatto soli, al contrario… la nostra forza è la più richiesta, abbiamo una mente fresca e flessibile, adatta ad ogni tipo di novità e sfide. Basta solo documentarsi, volerlo veramente e crederci fino in fondo! Il potere di rendere la nostra vita un capolavoro sta nelle nostre mani!
 
-<br><br><br>
+Separator:
+
+Text:
 Il sasso. <br>
 La persona distratta vi è inciampata. <br>
 Quella violenta, l’ha usato come arma. <br>
