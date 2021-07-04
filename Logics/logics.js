@@ -1,5 +1,5 @@
 
-var Pages = ["Home", "Info", "Articoli Personali", "Progetti SSML Gregorio VII", "Astrambiente", "Unitalia",  "Comunità"];
+var Pages = ["Home", "Info", "Articoli Personali", "Progetti SSML Gregorio VII", "Astrambiente", "Unitalia", "Tesi Laurea", "Comunità"];
 
 var version = "Versione 0.1";
 
@@ -394,6 +394,74 @@ function showEmptyPage() {
   base.appendChild(pageCloser());
 }
 
+function getVideoNode(url){
+	
+	let wrap = document.createElement("div");
+	wrap.style.textAlign = "center";
+	
+	let video = document.createElement("video");
+	video.style.width = "max(300px, 50vw)";
+    video.style.margin = "2em";
+	
+	video.setAttribute("controls", "");
+	
+	
+	
+	let source = document.createElement("source");
+	source.src = url; 
+	source.type = "video/mp4";
+	
+	video.appendChild(source);
+	wrap.appendChild(video);
+	
+	return wrap;
+}
+
+
+function showLaureaPage(){
+
+  let base = getCleanNavigationPanel();
+  let toolbar = getPageHeaderInfo("Tesi Laurea");
+  base.appendChild(toolbar);
+  
+  let wrap = getNode("div", null, "page_wrap");
+
+  wrap.appendChild(getNode("div",'Violazione dei diritti umani e<br />lavoro minorile: piccoli schiavi invisibili', "home_page_title"));
+
+
+  wrap.appendChild(getNode("div",'I bambini sono creature pure, fragili e innocenti e per questo vanno amati e protetti incondizionatamente. Il mondo visto dai loro occhi è grande, estraneo e sconosciuto, eppure, trovano la forza di affrontarlo, curiosi e desiderosi di imparare. Purtroppo, però, alcuni sono meno fortunati di altri e devono fare i conti con la triste realtà in cui sono nati.<br /><br />Ancora piccolissimi, si ritrovano a fronteggiare le prime di una lunga serie di difficoltà, mettendosi sulle spalle un carico insostenibile. Questo concetto purtroppo si trova alla base del fenomeno aberrante che da secoli perpetra nell’ombra, usurpando l’infanzia di moltissimi bambini: il lavoro minorile<br /><br />Questa condizione preoccupante simboleggia un’evidente situazione di disuguaglianza e discriminazione. Pertanto, non c’è alcun dubbio che si tratti di una terribile piaga che deve essere necessariamente arginata. I diritti di cui vengono privati questi bambini sfruttati sono gli stessi diritti di cui godiamo, a volte inconsciamente, nelle aree più fortunate del pianeta. Pertanto, il mio elaborato ha lo scopo di analizzare il tema, sensibilizzare e spingere all’azione il lettore al fine di attuare un cambiamento vero e decisivo.', "home_page_text"));
+
+  wrap.appendChild(getNode("br",null,null));
+
+  wrap.appendChild(getNode("div",'Di seguito i due video realizzati in lingua italiana e inglese e la versione in muto che presenterò il giorno della discussione della tesi.', "home_page_text"));
+
+  wrap.appendChild(getNode("div",'<div class="article_separator"></div>', ""));
+
+  wrap.appendChild(getNode("div",'Video in italiano', "home_page_text"));
+  wrap.appendChild(getVideoNode("./Video/tesi_ita.mp4"));
+  wrap.appendChild(getNode("br",null,null));
+
+  wrap.appendChild(getNode("div",'<div class="article_separator"></div>', ""));
+
+  wrap.appendChild(getNode("div",'Video in inglese', "home_page_text"));
+  wrap.appendChild(getVideoNode("./Video/tesi_eng.mp4"));
+  wrap.appendChild(getNode("br",null,null));
+  
+  wrap.appendChild(getNode("div",'<div class="article_separator"></div>', ""));
+  
+  wrap.appendChild(getNode("div",'Video muto', "home_page_text"));
+  wrap.appendChild(getVideoNode("./Video/tesi_mute.mp4"));
+  wrap.appendChild(getNode("br",null,null));
+
+  wrap.appendChild(getNode("br",null,null));
+  wrap.appendChild(getNode("div",'Grazie per la vostra attenzione!', "home_page_text"));
+
+
+  base.appendChild(wrap);
+
+  base.appendChild(pageCloser());
+}
+
 function showInfoPage(){
 
   let base = getCleanNavigationPanel();
@@ -767,8 +835,12 @@ function toggleMenu() {
             "label": Pages[3],
             "onclick": "setNavigation('index_gregorio')"
         },
-        {
+		        {
             "label": Pages[6],
+            "onclick": "setNavigation('laurea')"
+        },
+        {
+            "label": Pages[7],
             "onclick": "setNavigation('comments_list')"
         }
       ];
@@ -860,6 +932,11 @@ function pageNavigate() {
       found = true;
       showCommentsListPage();
     }
+	if(page_no_args == "laurea"){
+      found = true;
+      showLaureaPage();
+    }
+
     if (page_no_args.substr(0,"article".length) == "article") {
       found = true;
       showArticlePage(page_no_args);
