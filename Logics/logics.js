@@ -369,6 +369,10 @@ function findOutMore() {
   }
 }
 
+function downloadLaurea(){
+	window.location.href = "./tesi.pdf";
+}
+
 function downloadPDF(){
 	window.location.href = "./curriculum.pdf";
 }
@@ -432,6 +436,24 @@ function showLaureaPage(){
   wrap.appendChild(getNode("div",'I bambini sono creature pure, fragili e innocenti e per questo vanno amati e protetti incondizionatamente. Il mondo visto dai loro occhi è grande, estraneo e sconosciuto, eppure, trovano la forza di affrontarlo, curiosi e desiderosi di imparare. Purtroppo, però, alcuni sono meno fortunati di altri e devono fare i conti con la triste realtà in cui sono nati.<br /><br />Ancora piccolissimi, si ritrovano a fronteggiare le prime di una lunga serie di difficoltà, mettendosi sulle spalle un carico insostenibile. Questo concetto purtroppo si trova alla base del fenomeno aberrante che da secoli perpetra nell’ombra, usurpando l’infanzia di moltissimi bambini: il lavoro minorile<br /><br />Questa condizione preoccupante simboleggia un’evidente situazione di disuguaglianza e discriminazione. Pertanto, non c’è alcun dubbio che si tratti di una terribile piaga che deve essere necessariamente arginata. I diritti di cui vengono privati questi bambini sfruttati sono gli stessi diritti di cui godiamo, a volte inconsciamente, nelle aree più fortunate del pianeta. Pertanto, il mio elaborato ha lo scopo di analizzare il tema, sensibilizzare e spingere all’azione il lettore al fine di attuare un cambiamento vero e decisivo.', "home_page_text"));
 
   wrap.appendChild(getNode("br",null,null));
+
+  let flex1 = getNode("div", null, "flex-hardwrap");
+  let flex2 = getNode("div", null, "flex-hardwrap");
+
+  let label1 = getNode("div", "La mia tesi di laurea", "inline_info_text");
+
+  let button1 = getNode("div", "scarica".toUpperCase(), "home_page_button");
+  button1.setAttribute("onclick","downloadLaurea()");
+  button1.style.marginTop = "0";
+
+  flex1.appendChild(label1);
+  flex1.appendChild(button1);
+  
+  wrap.appendChild(flex1);
+
+  wrap.appendChild(getNode("br",null,null));
+  wrap.appendChild(getNode("br",null,null));
+
 
   wrap.appendChild(getNode("div",'Di seguito i due video realizzati in lingua italiana e inglese e la versione in muto che presenterò il giorno della discussione della tesi.', "home_page_text"));
 
